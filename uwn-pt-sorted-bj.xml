@@ -1,0 +1,6037 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rows>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2991122</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>artístico</PT-Word-Cand>
+    <EN-Gloss>relating to or characteristic of art or artists; "his artistic background"</EN-Gloss>
+    <EN-Words>artistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>creativo, artístico, artística, artificioso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2991287</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>estético</PT-Word-Cand>
+    <EN-Gloss>relating to or dealing with the subject of aesthetics; "aesthetic values"</EN-Gloss>
+    <EN-Words>aesthetic, esthetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>estético, estética</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a299144</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>like the cackles or squawks a hen makes especially after laying an egg</EN-Gloss>
+    <EN-Words>cackly, squawky</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2991463</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to an office; "official privileges"</EN-Gloss>
+    <EN-Words>official</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2991586</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to teleology</EN-Gloss>
+    <EN-Words>teleological</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2991690</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a sentence; "the sentential subject"</EN-Gloss>
+    <EN-Words>sentential</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>oracional</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2991819</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to constituents within a sentence; "intrasentential co-occurrence"</EN-Gloss>
+    <EN-Words>intrasentential</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2991962</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to relations between sentences</EN-Gloss>
+    <EN-Words>cross-sentential</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2992070</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to scope; "scopal dependency"</EN-Gloss>
+    <EN-Words>scopal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2992241</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or resembling an ape; "simian features"</EN-Gloss>
+    <EN-Words>simian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>símico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2992363</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or resembling a buffalo</EN-Gloss>
+    <EN-Words>bubaline</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2992453</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to an embolism or embolus</EN-Gloss>
+    <EN-Words>embolic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2992601</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or resembling a falcon</EN-Gloss>
+    <EN-Words>falconine</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2992691</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or being a feria</EN-Gloss>
+    <EN-Words>ferial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ferial</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2992796</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the fauces</EN-Gloss>
+    <EN-Words>faucal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2992914</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>futuro</PT-Word-Cand>
+    <EN-Gloss>a verb tense or other formation referring to events or states that have not yet happened; "future auxiliary"</EN-Gloss>
+    <EN-Words>future</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2993094</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to futurism; "futurist art"</EN-Gloss>
+    <EN-Words>futurist, futuristic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>futurista</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a299313</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>like the sounds of frogs and crows; "a guttural voice"; "acres of guttural frogs"</EN-Gloss>
+    <EN-Words>croaky, guttural</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ronco</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2993258</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or resembling a gallinacean</EN-Gloss>
+    <EN-Words>gallinaceous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a29933</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ávido, avaro, ganancioso</PT-Word-Cand>
+    <EN-Gloss>immoderately desirous of acquiring e.g. wealth; "they are avaricious and will do anything for money"; "casting covetous eyes on his
+    neighbor's fields"; "a grasping old miser"; "grasping commercialism"; "greedy for money and power"; "grew richer and greedier"; "prehensile
+    employers stingy with raises for their employees"</EN-Gloss>
+    <EN-Words>avaricious, covetous, grabby, grasping, greedy, prehensile</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>avaro, avaricioso, avariciosa, avarienta, codicioso, avariento, mezquina, ávida, goloso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2993362</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or determined by geodesy</EN-Gloss>
+    <EN-Words>geodesic, geodesical, geodetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>geodésico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2993591</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to heraldry</EN-Gloss>
+    <EN-Words>heraldic, heraldist</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>heráldico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2993702</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>humanitário</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of humanitarianism; "humanitarian aid"</EN-Gloss>
+    <EN-Words>humanitarian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>humanitario</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2993853</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>characteristic of the phenomenon of words of different origins that are pronounced the same way; "'horse' and 'hoarse' are homophonous
+    words"</EN-Gloss>
+    <EN-Words>homophonous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>homófono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2994089</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a hyperbola; "hyperbolic functions"</EN-Gloss>
+    <EN-Words>hyperbolic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>hiperbólico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2994217</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or living near lakes</EN-Gloss>
+    <EN-Words>lacustrine</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>lacustre</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2994312</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in accord with liturgy</EN-Gloss>
+    <EN-Words>liturgical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>litúrgico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2994448</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to locomotion</EN-Gloss>
+    <EN-Words>locomotive, locomotor</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>locomotor</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2994617</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or using logarithms; "logarithmic function"</EN-Gloss>
+    <EN-Words>logarithmic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>logarítmico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2994754</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or generated by a Markov process</EN-Gloss>
+    <EN-Words>Markovian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>markoviana, markoviano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a299476</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>áspero</PT-Word-Cand>
+    <EN-Gloss>unpleasantly harsh or grating in sound; "a gravelly voice"</EN-Gloss>
+    <EN-Words>grating, gravelly, rasping, raspy, rough, scratchy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>raspado</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2994872</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of marble</EN-Gloss>
+    <EN-Words>marmoreal, marmorean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2995039</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>margoso</PT-Word-Cand>
+    <EN-Gloss>of or relating to or resembling or abounding in marl</EN-Gloss>
+    <EN-Words>marly</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2995161</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or pertaining to a meson; "the radii of the mesic orbits"- Lawrence Wilets</EN-Gloss>
+    <EN-Words>mesic, mesonic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2995373</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the marsupials; "marsupial animals"</EN-Gloss>
+    <EN-Words>marsupial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2995482</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>mercantil</PT-Word-Cand>
+    <EN-Gloss>of or relating to the economic system of mercantilism; "mercantile theories"; "mercantile system"</EN-Gloss>
+    <EN-Words>mercantile</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mercantil</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2995636</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>métrico</PT-Word-Cand>
+    <EN-Gloss>based on the meter as a standard of measurement; "the metric system"; "metrical equivalents"</EN-Gloss>
+    <EN-Words>metric, metrical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>métrico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2995864</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>not based on the meter as a standard of measurement</EN-Gloss>
+    <EN-Words>non-metric</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2995972</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or having the nature of myth; "a novel of almost mythic consequence"</EN-Gloss>
+    <EN-Words>mythic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2996123</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>consisting of or resembling mother-of-pearl</EN-Gloss>
+    <EN-Words>nacreous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2996239</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>normativo</PT-Word-Cand>
+    <EN-Gloss>relating to or dealing with norms; "normative discipline"; "normative samples"</EN-Gloss>
+    <EN-Words>normative</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>normativo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2996373</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to northern Africa</EN-Gloss>
+    <EN-Words>North African</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2996466</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ordinal</PT-Word-Cand>
+    <EN-Gloss>of or relating to a taxonomic order; "family and ordinal names of animals and plants"</EN-Gloss>
+    <EN-Words>ordinal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ordinal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2996605</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or lying near the palate; "palatal index"; "the palatine tonsils"</EN-Gloss>
+    <EN-Words>palatal, palatine</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2996801</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or denoting the Paleozoic era</EN-Gloss>
+    <EN-Words>Paleozoic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a299690</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>rouco, rouquenho, rouca</PT-Word-Cand>
+    <EN-Gloss>deep and harsh sounding as if from shouting or illness or emotion; "gruff voices"; "the dog's gruff barking"; "hoarse cries"; "makes
+    all the instruments sound powerful but husky"- Virgil Thomson</EN-Gloss>
+    <EN-Words>gruff, hoarse, husky</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ronco, ronco, ronca</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2996904</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>parabólico</PT-Word-Cand>
+    <EN-Gloss>resembling or expressed by parables</EN-Gloss>
+    <EN-Words>parabolic, parabolical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>parabólica, parabólico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2997099</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the throat; "pharyngeal fricatives"</EN-Gloss>
+    <EN-Words>pharyngeal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>faringal, faringeo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2997227</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the diaphragm; "phrenic nerve"</EN-Gloss>
+    <EN-Words>phrenic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2997329</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization
+    and voicing</EN-Gloss>
+    <EN-Words>prosodic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>prosódico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2997529</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to appetite; "appetitive needs"</EN-Gloss>
+    <EN-Words>appetitive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2997632</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>tending to repel or dissuade; "aversive conditioning"</EN-Gloss>
+    <EN-Words>aversive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2997740</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or having the character of a promise; "promissory note"</EN-Gloss>
+    <EN-Words>promissory</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>promisorio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2997900</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>occurring every fourth day (especially the fever and weakness of malaria); "quartan malaria"</EN-Gloss>
+    <EN-Words>quartan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2998046</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>trimestral</PT-Word-Cand>
+    <EN-Gloss>of or relating to or consisting of a quarter; "quarterly report"</EN-Gloss>
+    <EN-Words>quarterly</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cuatrimestral, trimestral</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2998184</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or made of quartz</EN-Gloss>
+    <EN-Words>quartzose</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2998269</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>representing the perfect example of a class or quality</EN-Gloss>
+    <EN-Words>quintessential</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>quintaesencial</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2998438</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or produced by roentgenography</EN-Gloss>
+    <EN-Words>roentgenographic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2998561</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>rotativo</PT-Word-Cand>
+    <EN-Gloss>relating to or characterized by rotation; "rotary dial"</EN-Gloss>
+    <EN-Words>rotary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>rotatorio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2998669</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or caused by putrefaction; "the septic action occurs at the bottom of the septic tank"</EN-Gloss>
+    <EN-Words>septic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>séptico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2998844</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or marking the 50th anniversary</EN-Gloss>
+    <EN-Words>semicentenary, semicentennial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2998988</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>centenário</PT-Word-Cand>
+    <EN-Gloss>of or relating to or completing a period of 100 years; "centennial celebration"</EN-Gloss>
+    <EN-Words>centenary, centennial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2999190</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>bicentenário</PT-Word-Cand>
+    <EN-Gloss>of or relating to or completing a period of 200 years; "bicentennial celebration"</EN-Gloss>
+    <EN-Words>bicentenary, bicentennial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2999398</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or completing a period of 300 years</EN-Gloss>
+    <EN-Words>tricentenary, tricentennial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2999616</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or pertaining to sophists</EN-Gloss>
+    <EN-Words>sophistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2999718</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>nazista</PT-Word-Cand>
+    <EN-Gloss>relating to a form of socialism; "the national socialist party came to power in Germany in 1933"</EN-Gloss>
+    <EN-Words>Nazi, national socialist</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>nazi</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a2999904</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or consistent with or typical of the ideology and practice of Nazism or the Nazis; "the total Nazi crime"; "the Nazi
+    interpretation of history"</EN-Gloss>
+    <EN-Words>Nazi</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a300007</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>like the discordant ringing of nonmusical metallic objects striking together; "cowboys with jangling spurs"</EN-Gloss>
+    <EN-Words>jangling, jangly</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3000110</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to capitalism or capitalists; "a capitalist nation"; "capitalistic methods and incentives"</EN-Gloss>
+    <EN-Words>capitalist, capitalistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3000341</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or caused by infection</EN-Gloss>
+    <EN-Words>zymotic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3000447</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or causing fermentation</EN-Gloss>
+    <EN-Words>zymolytic, zymotic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3000608</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to osmosis; "osmotic pressure"</EN-Gloss>
+    <EN-Words>osmotic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>osmótico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3000725</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>evolutivo</PT-Word-Cand>
+    <EN-Gloss>of or relating to or produced by evolution; "evolutionary biology"</EN-Gloss>
+    <EN-Words>evolutionary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>evolucionaria, evolucionario, evolucionista, evolutiva, evolutivo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3000868</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to an oracle; "able by oracular means to expose a witch"</EN-Gloss>
+    <EN-Words>oracular</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3001012</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>peritoneal</PT-Word-Cand>
+    <EN-Gloss>of or relating to or affecting the peritoneum; "peritoneal cancer"</EN-Gloss>
+    <EN-Words>peritoneal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3001153</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of Epicurus or epicureanism; "Epicurean philosophy"</EN-Gloss>
+    <EN-Words>Epicurean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3001278</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>written entirely in one's own hand; "holographic document"</EN-Gloss>
+    <EN-Words>holographic, holographical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>autógrafo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3001428</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to holography or holograms</EN-Gloss>
+    <EN-Words>holographic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3001527</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>canônico</PT-Word-Cand>
+    <EN-Gloss>of or relating to or required by canon law</EN-Gloss>
+    <EN-Words>canonic, canonical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>canónica, canónico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3001653</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>canônico</PT-Word-Cand>
+    <EN-Gloss>appearing in a biblical canon; "a canonical book of the Christian New Testament"</EN-Gloss>
+    <EN-Words>canonic, canonical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>canónico, canónica</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3001853</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>pertaining to or characteristic of a body of rules and principles accepted as axiomatic; e.g. "canonist communism"</EN-Gloss>
+    <EN-Words>canonist</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a300196</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>making or causing a harsh and irritating sound; "the jarring noise of the iron gate scraping on the sidewalk"</EN-Gloss>
+    <EN-Words>jarring</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3002040</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sinfônico</PT-Word-Cand>
+    <EN-Gloss>relating to or characteristic or suggestive of a symphony; "symphonic choir"</EN-Gloss>
+    <EN-Words>symphonic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sinfónico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3002190</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>contextual</PT-Word-Cand>
+    <EN-Gloss>relating to or determined by or in context; "contextual information"</EN-Gloss>
+    <EN-Words>contextual</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>contextual</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3002351</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>nutricional, nutritiva, nutritivo</PT-Word-Cand>
+    <EN-Gloss>of or relating to or providing nutrition; "nutritional information"</EN-Gloss>
+    <EN-Words>nutritional, nutritionary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>nutricional, alimenticio, nutritivo, nutritiva</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3002617</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a paramagnet</EN-Gloss>
+    <EN-Words>paramagnetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3002724</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characterized by motion</EN-Gloss>
+    <EN-Words>motional</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3002841</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to hydrometry</EN-Gloss>
+    <EN-Words>gravimetric, hydrometric</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3003031</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to thermal hydrometry</EN-Gloss>
+    <EN-Words>thermogravimetric, thermohydrometric</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3003223</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or demonstrating ferromagnetism</EN-Gloss>
+    <EN-Words>ferromagnetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ferromagnética, ferromagnético</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3003344</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of England or its culture or people; "English history"; "the English landed aristocracy"; "English
+    literature"</EN-Gloss>
+    <EN-Words>English</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a300359</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>estridente</PT-Word-Cand>
+    <EN-Gloss>unpleasantly loud and harsh</EN-Gloss>
+    <EN-Words>raucous, strident</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>estridente</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3003616</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the English language</EN-Gloss>
+    <EN-Words>English</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3003744</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>irlandês</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Ireland or its people</EN-Gloss>
+    <EN-Words>Irish</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>irlandés, irlandesa</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3003928</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>afegão</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Afghanistan or its people</EN-Gloss>
+    <EN-Words>Afghan, Afghani, Afghanistani</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>afgano, afgana</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3004196</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Central America or its people or languages</EN-Gloss>
+    <EN-Words>Central American</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3004358</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or conforming to idiom; "idiomatic English"</EN-Gloss>
+    <EN-Words>idiomatic, idiomatical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>idiomática, idiomático</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3004561</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>dialectal</PT-Word-Cand>
+    <EN-Gloss>belonging to or characteristic of a dialect; "dialectal variation"</EN-Gloss>
+    <EN-Words>dialectal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>dialectal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a300469</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>resembling a sound of violent tearing as of something ripped apart or lightning splitting a tree; "the tree split with a great ripping
+    sound"; "heard a rending roar as the crowd surged forward"</EN-Gloss>
+    <EN-Words>rending, ripping, splitting</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3004701</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>involving percussion or featuring percussive instruments; "percussive music"</EN-Gloss>
+    <EN-Words>percussive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3004852</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>made of or covered with wax; "waxen candles"; "careful, the floor is waxy"</EN-Gloss>
+    <EN-Words>waxen, waxy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cerosa, ceroso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3005039</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>enzimático</PT-Word-Cand>
+    <EN-Gloss>of or relating to or produced by an enzyme</EN-Gloss>
+    <EN-Words>enzymatic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>enzimática, enzimático</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3005155</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>not relating to or produced by enzymes; "nonenzymatic systems"</EN-Gloss>
+    <EN-Words>nonenzymatic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3005276</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>treated with iodine; "iodized salt"</EN-Gloss>
+    <EN-Words>iodinated, iodised, iodized</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>yodado</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3005423</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to the technical aspects of drama</EN-Gloss>
+    <EN-Words>dramaturgic, dramaturgical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3005593</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or having the characteristics of an autodidact</EN-Gloss>
+    <EN-Words>autodidactic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3005728</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>aneuplóide</PT-Word-Cand>
+    <EN-Gloss>having a chromosome number that is not an exact multiple of the haploid number</EN-Gloss>
+    <EN-Words>aneuploid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3005862</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or affected by an aneurysm</EN-Gloss>
+    <EN-Words>aneurismal, aneurismatic, aneurysmal, aneurysmatic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3006126</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>aluvial</PT-Word-Cand>
+    <EN-Gloss>of or relating to alluvium</EN-Gloss>
+    <EN-Words>alluvial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aluvial, de aluvión</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3006225</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or involving or preoccupied with doctrine; "quibbling over doctrinal minutiae"</EN-Gloss>
+    <EN-Words>doctrinal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>doctrinal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3006389</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>dogmático</PT-Word-Cand>
+    <EN-Gloss>relating to or involving dogma; "dogmatic writings"</EN-Gloss>
+    <EN-Words>dogmatic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>dogmático</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3006513</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or characteristic of providence; "assumption that nature operates only according to a providential plan"-
+    M.R.Cohen</EN-Gloss>
+    <EN-Words>providential</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>providencial</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3006699</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>filantrópico</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characterized by philanthropy; "a philanthropic society"</EN-Gloss>
+    <EN-Words>philanthropic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>filantrópico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3006854</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to philately or of interest to philatelists</EN-Gloss>
+    <EN-Words>philatelic, philatelical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3007038</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to airmail stamps</EN-Gloss>
+    <EN-Words>aerophilatelic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3007149</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or having pleochroism</EN-Gloss>
+    <EN-Words>pleochroic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3007245</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or near the sternum</EN-Gloss>
+    <EN-Words>sternal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3007354</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>congestivo</PT-Word-Cand>
+    <EN-Gloss>relating to or affected by an abnormal collection of blood or other fluid; "congestive heart disease"</EN-Gloss>
+    <EN-Words>congestive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a300738</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>harmonioso, eufónico</PT-Word-Cand>
+    <EN-Gloss>having a pleasant sound; "a euphonious trill of silver laughter"</EN-Gloss>
+    <EN-Words>euphonious, euphonous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>eufónico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3007530</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>hemolítico</PT-Word-Cand>
+    <EN-Gloss>relating to or involving or causing hemolysis; "hemolytic anemia"</EN-Gloss>
+    <EN-Words>haemolytic, hemolytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3007718</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the sarcolemma</EN-Gloss>
+    <EN-Words>sarcolemmal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3007826</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to sarcosomes</EN-Gloss>
+    <EN-Words>sarcosomal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3007929</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>tending to cause sneezing</EN-Gloss>
+    <EN-Words>sternutatory</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3008013</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the sympathetic nervous system; "sympathetic neurons"; "sympathetic stimulation"</EN-Gloss>
+    <EN-Words>sympathetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3008207</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>urinário</PT-Word-Cand>
+    <EN-Gloss>of or relating to the function or production or secretion of urine</EN-Gloss>
+    <EN-Words>urinary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>urinario</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3008345</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the urinary system of the body</EN-Gloss>
+    <EN-Words>urinary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3008447</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or resembling atheroma; "atheromatous degeneration of the arteries"</EN-Gloss>
+    <EN-Words>atheromatic, atheromatous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3008659</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>basofílico</PT-Word-Cand>
+    <EN-Gloss>staining readily with basic dyes</EN-Gloss>
+    <EN-Words>basophilic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3008785</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the intima</EN-Gloss>
+    <EN-Words>intimal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3008885</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>celíaco</PT-Word-Cand>
+    <EN-Gloss>of or in or belonging to the cavity of the abdomen</EN-Gloss>
+    <EN-Words>celiac, coeliac</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009016</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>celíaco</PT-Word-Cand>
+    <EN-Gloss>belonging to or prescribed for celiac disease; "a celiac diet"</EN-Gloss>
+    <EN-Words>celiac</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009131</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or resembling or being emphysema</EN-Gloss>
+    <EN-Words>emphysematous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009253</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to granulocytes</EN-Gloss>
+    <EN-Words>granulocytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009360</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>atrófico</PT-Word-Cand>
+    <EN-Gloss>relating to or characterized by atrophy; "atrophic arthritis"</EN-Gloss>
+    <EN-Words>atrophic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a300943</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>suggestive of gold; "a golden voice"</EN-Gloss>
+    <EN-Words>golden</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009476</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>mesentérico</PT-Word-Cand>
+    <EN-Gloss>of or relating to or located in a mesentery</EN-Gloss>
+    <EN-Words>mesenteric</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mesentérico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009594</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>glomerular</PT-Word-Cand>
+    <EN-Gloss>of or relating to glomeruli</EN-Gloss>
+    <EN-Words>glomerular</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009696</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>involving or resulting from calcification</EN-Gloss>
+    <EN-Words>calcific</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009792</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>involving or resulting from calcification of fibrous tissue</EN-Gloss>
+    <EN-Words>fibrocalcific</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3009911</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or exhibiting pyknosis</EN-Gloss>
+    <EN-Words>pycnotic, pyknotic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3010071</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>eosinofílico</PT-Word-Cand>
+    <EN-Gloss>of or relating to eosinophil</EN-Gloss>
+    <EN-Words>eosinophilic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3010176</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or resembling papilla</EN-Gloss>
+    <EN-Words>papillary, papillose</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>papilar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a301032</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>resembling or reminiscent of silver; "a soft silvern voice"; "singing in her silvery tones"</EN-Gloss>
+    <EN-Words>silvern, silvery</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>nítida, plateada</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3010337</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>resembling or covered with papillae</EN-Gloss>
+    <EN-Words>papillate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3010428</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>vesicular</PT-Word-Cand>
+    <EN-Gloss>of or relating to or involving vesicles; "normal vesicular breathing"</EN-Gloss>
+    <EN-Words>vesicular</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3010553</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>vestibular</PT-Word-Cand>
+    <EN-Gloss>relating to the sense of equilibrium</EN-Gloss>
+    <EN-Words>vestibular</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>vestibular</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3010664</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>vertebral</PT-Word-Cand>
+    <EN-Gloss>of or relating to or constituting vertebrae</EN-Gloss>
+    <EN-Words>vertebral</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>vertebral, vertebrado</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3010781</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the neocortex of the cerebrum</EN-Gloss>
+    <EN-Words>neocortical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3010904</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the olfactory cortex of the cerebrum</EN-Gloss>
+    <EN-Words>paleocortical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3011036</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or forming a limbus</EN-Gloss>
+    <EN-Words>limbic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>límbico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3011126</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the style of a musical fugue</EN-Gloss>
+    <EN-Words>fugal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3011248</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the parasympathetic nervous system</EN-Gloss>
+    <EN-Words>parasympathetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>parasimpático</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3011380</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having an effect similar to that resulting from stimulation of the parasympathetic nervous system; "parasympathomimetic drugs slow the
+    heart rate"</EN-Gloss>
+    <EN-Words>parasympathomimetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3011592</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the hypophysis</EN-Gloss>
+    <EN-Words>hypophyseal, hypophysial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3011750</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or caused by hyperemia</EN-Gloss>
+    <EN-Words>hyperemic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3011858</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to neuropsychiatry</EN-Gloss>
+    <EN-Words>neuropsychiatric</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a301187</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>calculável</PT-Word-Cand>
+    <EN-Gloss>capable of being calculated or estimated; "a calculable risk"; "calculable odds"</EN-Gloss>
+    <EN-Words>calculable</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>calculable</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3011972</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to psychopharmacology</EN-Gloss>
+    <EN-Words>psychopharmacological</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>psicofarmacológico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3012094</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to saliva; "salivary gland"</EN-Gloss>
+    <EN-Words>salivary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>salival</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3012209</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or being an integer that cannot be factored into other integers; "prime number"</EN-Gloss>
+    <EN-Words>prime</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3012377</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>equal to zero when raised to a certain power</EN-Gloss>
+    <EN-Words>nilpotent</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>nilpotente</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3012477</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or pertaining to large bone marrow cells</EN-Gloss>
+    <EN-Words>megakaryocytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3012599</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to megaloblasts</EN-Gloss>
+    <EN-Words>megaloblastic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3012707</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the spinal cord</EN-Gloss>
+    <EN-Words>myelic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3012793</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the substance that forms a sheath around the axon of some nerve fibers</EN-Gloss>
+    <EN-Words>myelinic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3012954</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to bone marrow</EN-Gloss>
+    <EN-Words>myeloid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3013037</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the spinal cord</EN-Gloss>
+    <EN-Words>myeloid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3013124</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the myocardium</EN-Gloss>
+    <EN-Words>myocardial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3013231</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>resembling muscle</EN-Gloss>
+    <EN-Words>myoid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3013300</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or caused by myotonia</EN-Gloss>
+    <EN-Words>myotonic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3013412</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or celebrating a triumph; "a triumphal procession"; "a triumphal arch"</EN-Gloss>
+    <EN-Words>triumphal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3013550</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>darwiniano, darwinista</PT-Word-Cand>
+    <EN-Gloss>of or relating to Charles Darwin's theory of organic evolution; "Darwinian theories"</EN-Gloss>
+    <EN-Words>Darwinian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>darwinista, darwiniana, darwiniano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3013726</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Darwin's theories as modified by modern genetic findings; "Neo-Darwinian theories"</EN-Gloss>
+    <EN-Words>neo-Darwinian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3013904</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Lamarckism; "Lamarckian theories"</EN-Gloss>
+    <EN-Words>Lamarckian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3014030</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a modern version of Lamarckism; "Neo-Lamarckian theories"</EN-Gloss>
+    <EN-Words>neo-Lamarckian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3014166</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or typical of a larva; "the larval eye"</EN-Gloss>
+    <EN-Words>larval</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>larval</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3014288</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>pertaining to a process or series of actions for achieving a result; "operational difficulties"; "they assumed their operational
+    positions"</EN-Gloss>
+    <EN-Words>operational</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a301432</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>computável</PT-Word-Cand>
+    <EN-Gloss>may be computed or estimated; "a calculable risk"; "computable odds"; "estimable assets"</EN-Gloss>
+    <EN-Words>computable, estimable</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>calculable</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3014485</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or involving or caused by or being microbes; "microbial warfare"</EN-Gloss>
+    <EN-Words>microbial, microbic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>microbiano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3014655</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>coclear</PT-Word-Cand>
+    <EN-Gloss>of or relating to the cochlea of the ear; "cochlear implant"</EN-Gloss>
+    <EN-Words>cochlear</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>coclear</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3014770</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>lombar</PT-Word-Cand>
+    <EN-Gloss>of or relating to or near the part of the back between the ribs and the hipbones; "lumbar vertebrae"</EN-Gloss>
+    <EN-Words>lumbar</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>lumbar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3014941</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>lombo-sacral</PT-Word-Cand>
+    <EN-Gloss>of or relating to or near the small of the back and the back part of the pelvis between the hips</EN-Gloss>
+    <EN-Words>lumbosacral</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3015113</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having or resembling a lash or whip (as does a flagellum)</EN-Gloss>
+    <EN-Words>flagellate, flagellated, lash-like, whiplike</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3015336</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having two flagella; "a biflagellate zoospore"</EN-Gloss>
+    <EN-Words>biflagellate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3015441</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>cerâmico</PT-Word-Cand>
+    <EN-Gloss>of or relating to or made from a ceramic; "a ceramic dish"</EN-Gloss>
+    <EN-Words>ceramic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cerámico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3015589</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>épico</PT-Word-Cand>
+    <EN-Gloss>constituting or having to do with or suggestive of a literary epic; "epic tradition"</EN-Gloss>
+    <EN-Words>epic, epical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>épico, epica</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3015805</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or characteristic of the classical Greek civilization</EN-Gloss>
+    <EN-Words>Hellenic, Hellenistic, Hellenistical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>helenistico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a301589</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>that can be counted; "countable sins"; "numerable assets"</EN-Gloss>
+    <EN-Words>countable, denumerable, enumerable, numerable</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>numerable, enumerable, contable</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3016027</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to all the Greeks; "the Olympic Games were a Panhellenic celebration"</EN-Gloss>
+    <EN-Words>Pan-Hellenic, Panhellenic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3016202</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>grego</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Greece or the Greeks or the Greek language; "Greek mythology"; "a Grecian robe"</EN-Gloss>
+    <EN-Words>Grecian, Greek, Hellenic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>griego, griega, heleno, helénico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3016519</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sírio</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Syria or its people or culture; "the Syrian government"</EN-Gloss>
+    <EN-Words>Syrian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sirio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3016684</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of the Bronze Age culture of Crete; "the Minoan palace at Knossos"</EN-Gloss>
+    <EN-Words>Minoan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3016857</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of ancient Mycenae or its inhabitants; "Mycenaean bronzes"</EN-Gloss>
+    <EN-Words>Mycenaean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>micénico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3017025</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>egeu</PT-Word-Cand>
+    <EN-Gloss>of or relating to or bordering the Aegean Sea; "Aegean islands"</EN-Gloss>
+    <EN-Words>Aegean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3017159</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of the prehistoric Aegean civilization</EN-Gloss>
+    <EN-Words>Aegean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3017286</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Attica or its inhabitants or to the dialect spoken in Athens in classical times; "Attic Greek"</EN-Gloss>
+    <EN-Words>Attic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3017468</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to ancient Boeotia or its people or to the dialect spoken there in classical times; "Boeotian dialects"</EN-Gloss>
+    <EN-Words>Boeotian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3017659</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a gateway on the west of ancient Athens</EN-Gloss>
+    <EN-Words>Dipylon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a301777</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>not capable of being computed or enumerated</EN-Gloss>
+    <EN-Words>incalculable</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>incalculable</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3017788</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the ancient Greek city of Argos or its people</EN-Gloss>
+    <EN-Words>Argive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3017922</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having the function of carrying out plans or orders etc.; "the executive branch"</EN-Gloss>
+    <EN-Words>executive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3018112</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>topográfico</PT-Word-Cand>
+    <EN-Gloss>concerned with topography; "a topographical engineer"; "a topographical survey"; "topographic maps"</EN-Gloss>
+    <EN-Words>topographic, topographical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>topográfico, topográfica</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3018375</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>endotelial</PT-Word-Cand>
+    <EN-Gloss>of or relating to or located in the endothelium</EN-Gloss>
+    <EN-Words>endothelial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>endotelial</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3018498</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>taxonômico</PT-Word-Cand>
+    <EN-Gloss>of or relating to taxonomy; "taxonomic relations"; "a taxonomic designation"</EN-Gloss>
+    <EN-Words>systematic, taxonomic, taxonomical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>taxonómico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3018802</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>classificatório</PT-Word-Cand>
+    <EN-Gloss>relating to or involving classification:"classificatory criteria"</EN-Gloss>
+    <EN-Words>classificatory</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>clasificatorio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3018964</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or belonging to the subclass Eutheria; "eutherian mammals"</EN-Gloss>
+    <EN-Words>eutherian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3019114</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to proteolysis</EN-Gloss>
+    <EN-Words>proteolytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3019219</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to microsomes</EN-Gloss>
+    <EN-Words>microsomal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3019322</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Mithraism or its god</EN-Gloss>
+    <EN-Words>mithraic, mithraistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3019483</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or undergoing mitosis</EN-Gloss>
+    <EN-Words>mitotic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mitótico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a301951</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>inumerável, incontável, inúmero, infinito, sem número</PT-Word-Cand>
+    <EN-Gloss>too numerous to be counted; "incalculable riches"; "countless hours"; "an infinite number of reasons"; "innumerable difficulties"; "the
+    multitudinous seas"; "myriad stars"; "untold thousands"</EN-Gloss>
+    <EN-Words>countless, infinite, innumerable, innumerous, multitudinous, myriad, numberless, uncounted, unnumberable, unnumbered,
+    unnumerable</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>innumerable, incontable, infinito, multitudinario, innumerables, una gran cantidad, cuantioso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3019576</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or located in or near the mitral valve; "mitral insufficiency"</EN-Gloss>
+    <EN-Words>mitral</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mitral</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3019709</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or resembling the miter worn by some clerics</EN-Gloss>
+    <EN-Words>mitral</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3019836</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>folicular</PT-Word-Cand>
+    <EN-Gloss>of or relating to or constituting a follicle</EN-Gloss>
+    <EN-Words>follicular</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>folicular</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3019955</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or dealing with philology</EN-Gloss>
+    <EN-Words>philological</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>filológico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3020075</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or pertaining to or resembling a dystopia</EN-Gloss>
+    <EN-Words>dystopian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3020193</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>utópico</PT-Word-Cand>
+    <EN-Gloss>of or pertaining to or resembling a utopia; "a Utopian novel"</EN-Gloss>
+    <EN-Words>Utopian, utopian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>utópico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3020354</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>pertaining to Stoicism or its followers</EN-Gloss>
+    <EN-Words>Stoic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3020463</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the writings of the early church fathers</EN-Gloss>
+    <EN-Words>patristic, patristical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3020663</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>made of or resembling sapphire</EN-Gloss>
+    <EN-Words>sapphirine</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3020750</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>obtaining food osmotically from dissolved organic material</EN-Gloss>
+    <EN-Words>saprophytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>saprofítico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3020884</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>living in or being an environment rich in organic matter but lacking oxygen</EN-Gloss>
+    <EN-Words>saprobic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3021051</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of living being in an oxygenated environment lacking organic matter</EN-Gloss>
+    <EN-Words>katharobic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3021194</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>cubista</PT-Word-Cand>
+    <EN-Gloss>relating to or characteristic of cubism; "cubist art"</EN-Gloss>
+    <EN-Words>cubist, cubistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cubista</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3021347</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>covered with densely matted filaments</EN-Gloss>
+    <EN-Words>tomentose</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3021459</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the hyoid bone</EN-Gloss>
+    <EN-Words>hyoid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3021543</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>geográfico</PT-Word-Cand>
+    <EN-Gloss>of or relating to the science of geography</EN-Gloss>
+    <EN-Words>geographic, geographical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>geográfica, geográfico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3021693</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having shoulders or shoulders as specified; usually used as a combining form; "stoop-shouldered"; "broad-shouldered"</EN-Gloss>
+    <EN-Words>shouldered</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3021866</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or resembling a shrub</EN-Gloss>
+    <EN-Words>fruticose, fruticulose, shrubby</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3022003</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>etmológico</PT-Word-Cand>
+    <EN-Gloss>based on or belonging to etymology; "I merely drew an etymological distinction"</EN-Gloss>
+    <EN-Words>etymological</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>etimológica, etimológico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3022177</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>britânico</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Great Britain or its people or culture; "his wife is British"</EN-Gloss>
+    <EN-Words>British</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>británico, británica</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3022349</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to epiphytes</EN-Gloss>
+    <EN-Words>epiphytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3022469</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to lithophytes</EN-Gloss>
+    <EN-Words>lithophytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3022593</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>orçamentário, orçamental</PT-Word-Cand>
+    <EN-Gloss>of or relating to a budget; "budgetary considerations"</EN-Gloss>
+    <EN-Words>budgetary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>presupuestaria, presupuestario</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3022739</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characterized by propaganda</EN-Gloss>
+    <EN-Words>propagandist, propagandistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3022917</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to isolationism</EN-Gloss>
+    <EN-Words>isolationist, isolationistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aislacionista</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3023077</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>related to or characteristic of fungi of the class Ascomycetes</EN-Gloss>
+    <EN-Words>ascomycetous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3023216</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>skilled at or adapted for the piano; "pianistic abilities"</EN-Gloss>
+    <EN-Words>pianistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3023348</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the piano</EN-Gloss>
+    <EN-Words>pianistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3023449</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>parisiense</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Paris or its inhabitants; "Parisian restaurants can be expensive"</EN-Gloss>
+    <EN-Words>Parisian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>parisiense, parisino</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3023644</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or employing dialectic; "the dialectical method"</EN-Gloss>
+    <EN-Words>dialectic, dialectical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>dialéctico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3023852</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>turco, turca</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Turkey or its people or language; "Turkish towels"</EN-Gloss>
+    <EN-Words>Turkish</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>turco, turca</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3023995</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or coming from Europe and Africa</EN-Gloss>
+    <EN-Words>Eurafrican</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3024132</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to, or coming from, Europe and Asia; "His mother was Eurasian, and his father Chinese"; "the Eurasian landmass is the largest
+    in the world"</EN-Gloss>
+    <EN-Words>Eurasian, Eurasiatic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a302436</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>inestimável</PT-Word-Cand>
+    <EN-Gloss>beyond calculation or measure; "of incalculable value"; "an incomputable amount"; "jewels of inestimable value"; "immeasurable
+    wealth"</EN-Gloss>
+    <EN-Words>immeasurable, incomputable, inestimable</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>inestimable, inmensurable</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3024420</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>marroquino</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Morocco or its people; "Moroccan mosques cannot be entered by infidels"</EN-Gloss>
+    <EN-Words>Maroc, Moroccan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>marroquí, marroquín</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3024647</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>escocês</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Scotland or its people or culture or its English dialect or Gaelic language; "Scots Gaelic";
+    "the Scots community in New York"; "`Scottish' tends to be the more formal term as in `The Scottish Symphony' or `Scottish authors' or `Scottish
+    mountains'"; "`Scotch' is in disfavor with Scottish people and is used primarily outside Scotland except in such frozen phrases as `Scotch broth'
+    or `Scotch whiskey' or `Scotch plaid'"</EN-Gloss>
+    <EN-Words>Scotch, Scots, Scottish</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>escocés</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3025252</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>córsico</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Corsica or its people</EN-Gloss>
+    <EN-Words>Corsican</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3025403</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Sardinia or its people or its language</EN-Gloss>
+    <EN-Words>Sardinian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sardo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3025590</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>alpino</PT-Word-Cand>
+    <EN-Gloss>relating to the Alps and their inhabitants; "Alpine countries, Switzerland, Italy, France, and Germany"</EN-Gloss>
+    <EN-Words>Alpine</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>alpino, alpina</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3025746</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>alpino, alpestre</PT-Word-Cand>
+    <EN-Gloss>relating to or characteristic of alps; "alpine sports"</EN-Gloss>
+    <EN-Words>alpine</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>alpino</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3025853</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>andino</PT-Word-Cand>
+    <EN-Gloss>relating to the Andes and their inhabitants</EN-Gloss>
+    <EN-Words>Andean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>andino, andina</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3025967</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to myrmecophytes</EN-Gloss>
+    <EN-Words>myrmecophytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3026095</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or resembling a tuber; "a tuberous root"</EN-Gloss>
+    <EN-Words>tuberous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3026244</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>partly tuberous</EN-Gloss>
+    <EN-Words>semi-tuberous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3026319</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>resembling or having the qualities of soap; "a soapy consistency"</EN-Gloss>
+    <EN-Words>saponaceous, soapy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>enjabonada, enjabonado, jabonoso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3026504</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>bearing or consisting of or resembling umbels</EN-Gloss>
+    <EN-Words>umbellar, umbellate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a302658</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>incapable of being definitely ascertained</EN-Gloss>
+    <EN-Words>indeterminable</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>indeterminable</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3026652</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or near the nares</EN-Gloss>
+    <EN-Words>narial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3026758</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>cartesiano</PT-Word-Cand>
+    <EN-Gloss>of or relating to Rene Descartes or his works; "Cartesian linguistics"</EN-Gloss>
+    <EN-Words>Cartesian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cartesiano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3026902</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>mexicano</PT-Word-Cand>
+    <EN-Gloss>of or relating to Mexico or its inhabitants; "Mexican food is hot"</EN-Gloss>
+    <EN-Words>Mexican</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mexicano, mejikano, mejicano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3027040</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a style of architecture in England in the 15th century; "half-timbered Tudor houses"; "Tudor furniture"</EN-Gloss>
+    <EN-Words>Tudor</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3027213</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to George Bernard Shaw or his works</EN-Gloss>
+    <EN-Words>Shavian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3027335</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to William Shakespeare or his works; "Shakespearean plays"</EN-Gloss>
+    <EN-Words>Shakespearean, Shakespearian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3027538</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to B. F. Skinner or his behaviorist psychology</EN-Gloss>
+    <EN-Words>Skinnerian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a302761</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>pacato</PT-Word-Cand>
+    <EN-Gloss>(of weather) free from storm or wind; "calm seas"</EN-Gloss>
+    <EN-Words>calm</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3027692</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or resembling Falstaff</EN-Gloss>
+    <EN-Words>Falstaffian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3027793</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Queen Victoria of Great Britain or to the age in which she ruled; "Victorian morals"</EN-Gloss>
+    <EN-Words>Victorian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3028005</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Karl Gauss or his mathematical theories of magnetics or electricity or astronomy or probability; "Gaussian
+    distribution"</EN-Gloss>
+    <EN-Words>Gaussian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3028216</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Aeschylus</EN-Gloss>
+    <EN-Words>Aeschylean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3028338</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Alexander the Great or his empire</EN-Gloss>
+    <EN-Words>Alexandrian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3028465</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Aristotle or his philosophy; "Aristotelean logic"</EN-Gloss>
+    <EN-Words>Aristotelean, Aristotelian, Aristotelic, peripatetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aristotélico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3028778</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of W. H. Auden</EN-Gloss>
+    <EN-Words>Audenesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3028863</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Honore de Balzac or his writings</EN-Gloss>
+    <EN-Words>Balzacian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3028987</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Ludwig van Beethoven or his music</EN-Gloss>
+    <EN-Words>Beethovenian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3029133</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Prince Otto von Bismarck or his accomplishments</EN-Gloss>
+    <EN-Words>Bismarckian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3029274</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the style of Humphrey Bogart</EN-Gloss>
+    <EN-Words>Bogartian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3029400</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Julius Caesar</EN-Gloss>
+    <EN-Words>Caesarean, Caesarian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a302951</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>quieto, silenciosa</PT-Word-Cand>
+    <EN-Gloss>(of a body of water) free from disturbance by heavy waves; "a ribbon of sand between the angry sea and the placid bay"; "the quiet
+    waters of a lagoon"; "a lake of tranquil blue water reflecting a tranquil blue sky"; "a smooth channel crossing"; "scarcely a ripple on the still
+    water"; "unruffled water"</EN-Gloss>
+    <EN-Words>placid, quiet, smooth, still, tranquil, unruffled</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>plácido</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3029573</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to abdominal delivery</EN-Gloss>
+    <EN-Words>caesarean, caesarian, cesarean, cesarian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3029801</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Samuel Taylor Coleridge or his writings</EN-Gloss>
+    <EN-Words>Coleridgean, Coleridgian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3029984</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Christopher Columbus</EN-Gloss>
+    <EN-Words>Columbian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3030096</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or originating in the Americas before the arrival of Columbus</EN-Gloss>
+    <EN-Words>pre-Columbian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>precolombino</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3030235</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Oliver Cromwell</EN-Gloss>
+    <EN-Words>Cromwellian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3030364</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Dante Alighieri or his writings</EN-Gloss>
+    <EN-Words>Dantean, Dantesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3030515</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Demosthenes or his oratory</EN-Gloss>
+    <EN-Words>Demosthenic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3030635</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to John Dewey or his philosophy</EN-Gloss>
+    <EN-Words>Deweyan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3030753</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of John Donne</EN-Gloss>
+    <EN-Words>Donnean, Donnian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3030919</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the style of Feodor Dostoevski</EN-Gloss>
+    <EN-Words>Dostoevskian, Dostoyevskian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3031102</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Draco or his harsh code of laws; "Draconian measures"</EN-Gloss>
+    <EN-Words>Draconian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>draconiano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3031247</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Albert Einstein or his theories; "the Einsteinian universe"</EN-Gloss>
+    <EN-Words>Einsteinian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3031400</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Elizabeth I of England or to the age in which she ruled as queen; "Elizabethan music"</EN-Gloss>
+    <EN-Words>Elizabethan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>isabelina, isabelino</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3031615</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Erasmus</EN-Gloss>
+    <EN-Words>Erasmian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3031733</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Sigmund Freud or his psychoanalytic ideas; "Freudian theories"</EN-Gloss>
+    <EN-Words>Freudian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3031886</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Robert Frost</EN-Gloss>
+    <EN-Words>Frostian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3032009</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Mahatma Gandhi or his teachings</EN-Gloss>
+    <EN-Words>Gandhian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3032131</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Paul Gauguin</EN-Gloss>
+    <EN-Words>Gauguinesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3032219</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Goethe</EN-Gloss>
+    <EN-Words>Goethean, Goethian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3032383</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of George Frederick Handel</EN-Gloss>
+    <EN-Words>Handelian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3032518</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Hegel or his dialectic philosophy</EN-Gloss>
+    <EN-Words>Hegelian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>hegeliano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3032642</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Ernest Hemingway</EN-Gloss>
+    <EN-Words>Hemingwayesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3032736</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or suggestive of Adolf Hitler or his Nazi regime in Germany</EN-Gloss>
+    <EN-Words>Hitlerian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3032887</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the Hittite people or their language or culture</EN-Gloss>
+    <EN-Words>Hittite</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3033024</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Victor Hugo</EN-Gloss>
+    <EN-Words>Hugoesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3033108</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Thomas Huxley</EN-Gloss>
+    <EN-Words>Huxleian, Huxleyan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3033259</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of the playwright Henrik Ibsen</EN-Gloss>
+    <EN-Words>Ibsenian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3033397</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Marcel Proust</EN-Gloss>
+    <EN-Words>Proustian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3033522</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the astronomer Ptolemy</EN-Gloss>
+    <EN-Words>Ptolemaic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>tolemaico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3033636</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Socrates or to his method of teaching; "Socratic teaching"</EN-Gloss>
+    <EN-Words>Socratic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>socrático</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3033785</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Carl Jung or his psychological theories</EN-Gloss>
+    <EN-Words>Jungian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3033914</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Immanuel Kant or his philosophy</EN-Gloss>
+    <EN-Words>Kantian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3034035</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to John Maynard Keynes or to his economic theories</EN-Gloss>
+    <EN-Words>Keynesian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3034192</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Rudyard Kipling</EN-Gloss>
+    <EN-Words>Kiplingesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3034283</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Gottfried Wilhelm Leibniz or to his mathematics or philosophy</EN-Gloss>
+    <EN-Words>Leibnitzian, Leibnizian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3034487</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Leonardo da Vinci</EN-Gloss>
+    <EN-Words>Leonardesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3034580</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Abraham Lincoln</EN-Gloss>
+    <EN-Words>Lincolnesque, Lincolnian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3034741</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>luterano</PT-Word-Cand>
+    <EN-Gloss>of or pertaining to Martin Luther or his teachings; "the Lutheran doctrine of justification by faith alone"</EN-Gloss>
+    <EN-Words>Lutheran</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>luterano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a303480</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>not changeable; "a period of settled weather"</EN-Gloss>
+    <EN-Words>settled</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3034903</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or venerating the Virgin Mary</EN-Gloss>
+    <EN-Words>Marian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3035021</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Michelangelo</EN-Gloss>
+    <EN-Words>Michelangelesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3035113</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the Arabian prophet Muhammad or to the religion he founded</EN-Gloss>
+    <EN-Words>Mohammedan, Muhammadan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mahometano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3035313</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Moses or the laws and writings attributed to him; "Mosaic Law"</EN-Gloss>
+    <EN-Words>Mosaic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3035446</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a commercial treaty where two nations agree to accord each other the same favorable terms that would be offered in
+    treaties with any other nation</EN-Gloss>
+    <EN-Words>most-favored-nation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3035675</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of Wolfgang Amadeus Mozart</EN-Gloss>
+    <EN-Words>Mozartean, Mozartian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a303579</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>without or almost without wind; "he prefers windless days for playing golf"</EN-Gloss>
+    <EN-Words>windless</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sin viento</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3035876</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or like Napoleon Bonaparte; "Napoleonic Wars"</EN-Gloss>
+    <EN-Words>Napoleonic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>napoleónico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3036014</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or inspired by Sir Isaac Newton or his science; "Newtonian physics"</EN-Gloss>
+    <EN-Words>Newtonian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>newtoniano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3036191</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Louis Pasteur or his experiments</EN-Gloss>
+    <EN-Words>Pasteurian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3036316</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Ivan Pavlov or his experiments; "Pavlovian conditioning"</EN-Gloss>
+    <EN-Words>Pavlovian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3036464</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or like or in the manner of Jean Piaget</EN-Gloss>
+    <EN-Words>Piagetian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3036595</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>being or relating to or bearing the name of an eponym</EN-Gloss>
+    <EN-Words>eponymic, eponymous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>epónimo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3036805</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>pitagórico</PT-Word-Cand>
+    <EN-Gloss>of or relating to Pythagoras or his geometry; "Pythagorean philosophy"; "Pythagorean theorem"</EN-Gloss>
+    <EN-Words>Pythagorean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>pitagórico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3036974</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Richard Wagner or his music</EN-Gloss>
+    <EN-Words>Wagnerian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>wagneriana, wagneriano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3037093</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the state of Washington</EN-Gloss>
+    <EN-Words>Washingtonian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3037236</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the capital of the United States; "Washingtonian museums"</EN-Gloss>
+    <EN-Words>Washingtonian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a303727</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>tempestuoso</PT-Word-Cand>
+    <EN-Gloss>(especially of weather) affected or characterized by storms or commotion; "a stormy day"; "wide and stormy seas"</EN-Gloss>
+    <EN-Words>stormy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>tormentosa, tormentoso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3037407</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the people who run the federal government; "Washingtonian politics as usual"</EN-Gloss>
+    <EN-Words>Washingtonian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3037579</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or in the manner of George Washington</EN-Gloss>
+    <EN-Words>Washingtonian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3037712</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Rembrandt</EN-Gloss>
+    <EN-Words>Rembrandtesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3037799</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Riemann's non-Euclidean geometry</EN-Gloss>
+    <EN-Words>Riemannian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3037924</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or like or in the manner of Franklin Roosevelt</EN-Gloss>
+    <EN-Words>Rooseveltian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3038065</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or like or in the manner of the Roman Seneca</EN-Gloss>
+    <EN-Words>Senecan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3038199</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or like or in the manner of Stravinsky</EN-Gloss>
+    <EN-Words>Stravinskian, Stravinskyan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3038401</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or like or in the manner of Henry David Thoreau</EN-Gloss>
+    <EN-Words>Thoreauvian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3038536</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Voltaire</EN-Gloss>
+    <EN-Words>Voltarean, Voltarian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3038683</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of William Wordsworth</EN-Gloss>
+    <EN-Words>Wordsworthian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3038796</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Ludwig Wittgenstein</EN-Gloss>
+    <EN-Words>Wittgensteinian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3038894</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of William Butler Yeats</EN-Gloss>
+    <EN-Words>Yeatsian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3039004</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in the manner of Emile Zola</EN-Gloss>
+    <EN-Words>Zolaesque</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3039087</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>judaico, hebraicas, hebraica</PT-Word-Cand>
+    <EN-Gloss>of or relating to the language of the Hebrews; "Hebrew vowels"</EN-Gloss>
+    <EN-Words>Hebraic, Hebraical, Hebrew</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3039314</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>judeu, judaico, hebreu</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of the Hebrews; "the old Hebrew prophets"</EN-Gloss>
+    <EN-Words>Hebraic, Hebraical, Hebrew</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3039556</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>dying after bearing fruit only once</EN-Gloss>
+    <EN-Words>monocarpic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3039648</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or connected with or occurring at the time of childbirth or shortly following, or to the woman who has just given
+    birth</EN-Gloss>
+    <EN-Words>puerperal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>puerperal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3039907</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>acético</PT-Word-Cand>
+    <EN-Gloss>relating to or containing acetic acid</EN-Gloss>
+    <EN-Words>acetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>acético, acetico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3039997</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or exhibiting actinism</EN-Gloss>
+    <EN-Words>actinic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3040103</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or like an alderman</EN-Gloss>
+    <EN-Words>aldermanic, aldermanly</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3040264</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or symptomatic of alexia</EN-Gloss>
+    <EN-Words>alexic, word-blind</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3040408</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or symptomatic of dyslexia</EN-Gloss>
+    <EN-Words>dyslexic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3040525</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>monocromático</PT-Word-Cand>
+    <EN-Gloss>of or relating to monochromatism</EN-Gloss>
+    <EN-Words>monochromatic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3040635</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the people or culture of Moravia</EN-Gloss>
+    <EN-Words>Moravian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>moravio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3040740</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to dichromatism</EN-Gloss>
+    <EN-Words>dichromatic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3040846</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of ambassadors</EN-Gloss>
+    <EN-Words>ambassadorial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3040974</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>pertaining to or resembling amoebae; "amoebic dysentery"</EN-Gloss>
+    <EN-Words>ameban, amebic, amebous, amoeban, amoebic, amoebous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3041331</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>anémico, anêmico</PT-Word-Cand>
+    <EN-Gloss>relating to anemia or suffering from anemia</EN-Gloss>
+    <EN-Words>anaemic, anemic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>anémico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a304144</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>tempestuoso, furioso, feroz, raivoso</PT-Word-Cand>
+    <EN-Gloss>(of the elements) as if showing violent anger; "angry clouds on the horizon"; "furious winds"; "the raging sea"</EN-Gloss>
+    <EN-Words>angry, furious, raging, tempestuous, wild</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>furioso, furibundo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3041491</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>anestésico</PT-Word-Cand>
+    <EN-Gloss>relating to or producing insensibility</EN-Gloss>
+    <EN-Words>anaesthetic, anesthetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>anestésico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3041636</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ablativo</PT-Word-Cand>
+    <EN-Gloss>relating to the ablative case</EN-Gloss>
+    <EN-Words>ablative</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3041739</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>specifically indicating a form of prosecution in which one is publicly accused of and tried for a crime and in which the judge is not
+    also the prosecutor</EN-Gloss>
+    <EN-Words>accusatorial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3042005</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>especially indicating a form of prosecution in which proceedings are secret and the accused is questioned by a prosecutor who acts also
+    as the judge</EN-Gloss>
+    <EN-Words>inquisitorial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3042249</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the countries or cultures or people of West Africa</EN-Gloss>
+    <EN-Words>West African</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3042394</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>belonging or relating to white people of South Africa whose ancestors were Dutch or to their language; "an Afrikaans couple";
+    "Afrikaner support"</EN-Gloss>
+    <EN-Words>Afrikaans, Afrikaner</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3042661</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>containing no liquid or actuated without the use of liquid; "aneroid barometer"</EN-Gloss>
+    <EN-Words>aneroid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aneroide</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3042812</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>angolano, angolense</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Angola or its people; "the Angolan Civil War"</EN-Gloss>
+    <EN-Words>Angolan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>angoleño, angoleña</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3042986</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Anguilla or its people; "Anguillan sea food specialties"</EN-Gloss>
+    <EN-Words>Anguillan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3043173</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to events before a marriage; "prenuptial agreement"</EN-Gloss>
+    <EN-Words>antenuptial, premarital, prenuptial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>prematrimonial, premarital</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3043371</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to events after a marriage</EN-Gloss>
+    <EN-Words>postnuptial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3043482</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or characterized by anti-Semitism; hating Jews</EN-Gloss>
+    <EN-Words>anti-semitic, antisemitic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3043667</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Antigua or its people; "Antiguan islands"</EN-Gloss>
+    <EN-Words>Antiguan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>antiguano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3043838</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to antiques or antiquities</EN-Gloss>
+    <EN-Words>antiquarian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>anticuario</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3043937</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to persons who study or deal in antiques or antiquities</EN-Gloss>
+    <EN-Words>antiquarian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>anticuario</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3044083</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or taking account of appeals (usually legal appeals); "appellate court"</EN-Gloss>
+    <EN-Words>appellant, appellate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3044331</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>anedótico</PT-Word-Cand>
+    <EN-Gloss>having the character of an anecdote; "anecdotal evidence"</EN-Gloss>
+    <EN-Words>anecdotal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>anecdótica, anecdótico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3044462</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>árabe</PT-Word-Cand>
+    <EN-Gloss>of or relating to Arabian horses</EN-Gloss>
+    <EN-Words>Arabian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>árabe</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a304455</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ondeante</PT-Word-Cand>
+    <EN-Gloss>characterized by great swelling waves or surges; "billowy storm clouds"; "the restless billowing sea"; "surging waves"</EN-Gloss>
+    <EN-Words>billowing, billowy, surging</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ondeante</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3044566</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>árabe</PT-Word-Cand>
+    <EN-Gloss>relating to or associated with Arabia or its people; "Arabian Nights"; "Arabian Sea"</EN-Gloss>
+    <EN-Words>Arabian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>árabe</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3044740</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>árabe, arábico</PT-Word-Cand>
+    <EN-Gloss>relating to or characteristic of Arabs; "Arabic languages"</EN-Gloss>
+    <EN-Words>Arabic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>árabe, arábico, arábigo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3044869</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>aritmético</PT-Word-Cand>
+    <EN-Gloss>relating to or involving arithmetic; "arithmetical computations"</EN-Gloss>
+    <EN-Words>arithmetic, arithmetical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aritmético, aritmética</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3045059</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to heraldry or heraldic arms; "armorial bearing"</EN-Gloss>
+    <EN-Words>armorial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>heráldico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3045196</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or belonging to an aspect (as an aspect of the verb); "the aspectual system of Greek"</EN-Gloss>
+    <EN-Words>aspectual</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aspectual</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3045377</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in a state of asphyxia</EN-Gloss>
+    <EN-Words>asphyxiated</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3045457</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a method of teaching language that focuses on listening and speaking</EN-Gloss>
+    <EN-Words>audio-lingual</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3045585</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or characteristic of the times of the Roman Emperor Augustus; "the Augustan Age"</EN-Gloss>
+    <EN-Words>Augustan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3045750</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>australiano</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Australia or its inhabitants or its languages; "Australian deserts"; "Australian
+    aborigines"</EN-Gloss>
+    <EN-Words>Australian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>australiano, australiana</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3045992</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of the Bahama Islands or their inhabitants; "Bahamian population"</EN-Gloss>
+    <EN-Words>Bahamian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bahameño</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3046184</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Bahrain or its people or language; "Bahraini beaches"</EN-Gloss>
+    <EN-Words>Bahraini</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bahreiní</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3046349</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Bangladesh or its people or language; "Bangladeshi dialects"</EN-Gloss>
+    <EN-Words>Bangladeshi, East Pakistani</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bengalí, bangladesí</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3046559</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or designating languages that possess characteristics of Bantu; "Bantoid languages"</EN-Gloss>
+    <EN-Words>Bantoid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a304670</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>blowing in violent and abrupt bursts; "blustering (or blusterous) winds of Patagonia"; "a cold blustery day"; "a gusty storm with
+    strong sudden rushes of wind"</EN-Gloss>
+    <EN-Words>blustering, blusterous, blustery</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3046708</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the African people who speak one of the Bantoid languages or to their culture; "the Bantu population of Sierra
+    Leone"</EN-Gloss>
+    <EN-Words>Bantu</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3046931</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to people who speak Bantu; "the Bantu-speaking people of Africa"</EN-Gloss>
+    <EN-Words>Bantu-speaking</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3047071</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to baptism; "baptismal font"</EN-Gloss>
+    <EN-Words>baptismal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bautismal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3047188</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Barbados or its inhabitants; "a Barbadian vacation"</EN-Gloss>
+    <EN-Words>Barbadian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>barbadense</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3047388</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>being a bard or relating to a bard's poetry; "bardic poetry"</EN-Gloss>
+    <EN-Words>bardic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3047501</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the Benedictines</EN-Gloss>
+    <EN-Words>Benedictine</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3047611</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Saint Benedict or his works</EN-Gloss>
+    <EN-Words>Benedictine</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3047714</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Bengal or its people; "Bengali hills"</EN-Gloss>
+    <EN-Words>Bengali</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3047898</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Benin or its people; "Benin bronzes"</EN-Gloss>
+    <EN-Words>Beninese</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>beninés</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3048046</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Bermuda or its inhabitants; "Bermudan beaches"</EN-Gloss>
+    <EN-Words>Bermudan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3048204</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or pertaining to or characteristic of Bhutan or its people or culture or language; "Bhutanese Buddhists"</EN-Gloss>
+    <EN-Words>Bhutanese</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>butanés</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3048385</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>bilabial</PT-Word-Cand>
+    <EN-Gloss>of or relating to or being a speech sound that is articulated using both lips; "bilabial fricatives"</EN-Gloss>
+    <EN-Words>bilabial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bilabial</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3048558</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or consisting of two terms; "binomial expression"</EN-Gloss>
+    <EN-Words>binomial</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>binómico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3048680</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>biográfico</PT-Word-Cand>
+    <EN-Gloss>of or relating to or being biography; "biographical data"</EN-Gloss>
+    <EN-Words>biographic, biographical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>biográfica, biográfico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3048845</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>resembling or containing bitumen; "bituminous coal"</EN-Gloss>
+    <EN-Words>bituminous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bituminoso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3048971</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>like bitumen</EN-Gloss>
+    <EN-Words>bitumenoid, bituminoid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3049071</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having a valence of two or having two valences</EN-Gloss>
+    <EN-Words>bivalent, divalent</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3049220</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having two variables; "bivariate binomial distribution"</EN-Gloss>
+    <EN-Words>bivariate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3049350</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>resembling a bladder</EN-Gloss>
+    <EN-Words>bladderlike, bladdery</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3049475</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>bearing or characterized by a blade or sword; often used in combination; "he fought on, broken-bladed but unbowed"</EN-Gloss>
+    <EN-Words>bladed</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a304949</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>violently agitated and turbulent; "boisterous winds and waves"; "the fierce thunders roar me their music"- Ezra Pound; "rough weather";
+    "rough seas"</EN-Gloss>
+    <EN-Words>boisterous, fierce, rough</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3049642</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having a blade or blades; often used in combination; "a single-bladed leaf"; "narrow-bladed grass"</EN-Gloss>
+    <EN-Words>bladed</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3049812</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to blastemata</EN-Gloss>
+    <EN-Words>blastemal, blastematic, blastemic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3050012</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a segmentation cavity</EN-Gloss>
+    <EN-Words>blastocoelic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3050164</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a blastoderm</EN-Gloss>
+    <EN-Words>blastodermatic, blastodermic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3050324</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a blastomere</EN-Gloss>
+    <EN-Words>blastomeric</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3050430</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of blastomycosis</EN-Gloss>
+    <EN-Words>blastomycotic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3050560</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a blastopore</EN-Gloss>
+    <EN-Words>blastoporal, blastoporic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3050716</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a blastula</EN-Gloss>
+    <EN-Words>blastospheric, blastular</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a30508</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>possessivo</PT-Word-Cand>
+    <EN-Gloss>desirous of owning; "small children are so possessive they will not let others play with their toys"</EN-Gloss>
+    <EN-Words>possessive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>posesivo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3050870</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or derived from or containing boron; "boric acid"</EN-Gloss>
+    <EN-Words>boracic, boric</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3051035</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Brunei or its people; "Bruneian oil production"</EN-Gloss>
+    <EN-Words>Bruneian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bruneano, de Brunéi</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3051194</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or evidencing buboes; "bubonic plague"</EN-Gloss>
+    <EN-Words>bubonic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bubónico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3051307</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>búlgaro, búlgara</PT-Word-Cand>
+    <EN-Gloss>of or relating to or characteristic of Bulgaria or its people; "the Bulgarian capital is Sofia"</EN-Gloss>
+    <EN-Words>Bulgarian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>búlgaro</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3051512</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>characterized by bungalows; "the bungaloid suburbs"</EN-Gloss>
+    <EN-Words>bungaloid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3051619</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>burocrático</PT-Word-Cand>
+    <EN-Gloss>of or relating to or resembling a bureaucrat or bureaucracy; "his bureaucratic behavior annoyed his colleagues"; "a bureaucratic
+    nightmare"</EN-Gloss>
+    <EN-Words>bureaucratic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>burocrática, burocrático</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3051889</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>involving or resembling burglary; "burglarious tools"</EN-Gloss>
+    <EN-Words>burglarious</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3052018</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Myanmar or its people; "the Burmese capital"; "Burmese tonal languages"</EN-Gloss>
+    <EN-Words>Burmese</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>birmano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3052218</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Burundi or its people; "the Burundi capital"</EN-Gloss>
+    <EN-Words>Burundi, Burundian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>burundés</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a305225</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>abounding in or exposed to the wind or breezes; "blowy weather"; "a windy bluff"</EN-Gloss>
+    <EN-Words>blowy, breezy, windy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3052403</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of California or its inhabitants; "Californian beaches"</EN-Gloss>
+    <EN-Words>Californian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>californiano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3052588</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Cameroon or its people; "the Cameroonian capital"</EN-Gloss>
+    <EN-Words>Cameroonian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>camerunés</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3052770</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>characteristic of cannibals or exhibiting cannibalism; "cannibalistic behavior"</EN-Gloss>
+    <EN-Words>cannibalistic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>antropófago, caníbal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3052963</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a canton</EN-Gloss>
+    <EN-Words>cantonal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cantonal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3053044</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the Carboniferous geologic era; "carboniferous rock system"</EN-Gloss>
+    <EN-Words>carboniferous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>carbonífero</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3053199</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the Carmelite friars; "Carmelite monasteries"</EN-Gloss>
+    <EN-Words>Carmelite</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3053336</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>carpal</PT-Word-Cand>
+    <EN-Gloss>of or relating to the wrist; "Carpal tunnel syndrome"</EN-Gloss>
+    <EN-Words>carpal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3053460</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the use of ethical principles to resolve moral problems</EN-Gloss>
+    <EN-Words>casuistic, casuistical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>casuístico, casuista</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3053657</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or practicing casuistry; "overly subtle casuistic reasoning"</EN-Gloss>
+    <EN-Words>casuistic, casuistical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>casuístico, casuista</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3053859</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>catalão</PT-Word-Cand>
+    <EN-Gloss>relating to or characteristic of the Catalan language; "Catalan poetry"</EN-Gloss>
+    <EN-Words>Catalan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>catalana, catalán</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3054020</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>catalão</PT-Word-Cand>
+    <EN-Gloss>relating to or denoting or characteristic of Catalonia or its inhabitants; "Catalan independence movement"</EN-Gloss>
+    <EN-Words>Catalan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>catalana, catalán</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3054216</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or having characteristics of or affected with catalepsy; "cataleptic persons"; "cataleptic state"</EN-Gloss>
+    <EN-Words>cataleptic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cataléptico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3054409</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or causing or involving catalysis; "catalytic reactions"</EN-Gloss>
+    <EN-Words>catalytic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>catalítico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3054551</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>characterized by catatonia especially either rigidity or extreme laxness of limbs</EN-Gloss>
+    <EN-Words>catatonic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>catatónico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a305464</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>encaracolado</PT-Word-Cand>
+    <EN-Gloss>rough with small waves; "choppy seas"</EN-Gloss>
+    <EN-Words>choppy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>picada, picado</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3054743</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of the Republic of Chad or its people or language; "the Chadian desert"; "Chad soldiers"; "Chadian
+    folktales"</EN-Gloss>
+    <EN-Words>Chadian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>chadiano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3054978</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or related to citric acid</EN-Gloss>
+    <EN-Words>citric</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cítrico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3055059</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or producing fruit of the plants of the genus Citrus; "the citrus production of Florida"</EN-Gloss>
+    <EN-Words>citrous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3055237</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to plants of the genus Citrus; "a citrous disease"</EN-Gloss>
+    <EN-Words>citrous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3055374</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>climático</PT-Word-Cand>
+    <EN-Gloss>of or relating to a climate; "climatic changes"</EN-Gloss>
+    <EN-Words>climatic, climatical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>climático</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3055543</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or resembling a cockney; "Cockney street urchins"</EN-Gloss>
+    <EN-Words>Cockney</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3055658</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>characteristic of Cockneys or their dialect; "cockney vowels"</EN-Gloss>
+    <EN-Words>cockney</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>londinense de la clase popular</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3055809</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>comemorativo</PT-Word-Cand>
+    <EN-Gloss>intended as a commemoration; "a commemorative plaque"</EN-Gloss>
+    <EN-Words>commemorating, commemorative</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>conmemorativo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a305590</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>unpleasantly stormy; "there's dirty weather in the offing"</EN-Gloss>
+    <EN-Words>dirty</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3056010</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or pertaining to concession</EN-Gloss>
+    <EN-Words>concessive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3056115</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of the Congo region or its people; "Congolese rulers"; "the Congolese republic"</EN-Gloss>
+    <EN-Words>Congolese</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>congoleño</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3056304</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having to do with a consul or his office or duties</EN-Gloss>
+    <EN-Words>consular</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>consular</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3056463</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the Copts or their church or language or art; "the distinctive Coptic art of 6th-century Christian Egypt"</EN-Gloss>
+    <EN-Words>Coptic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3056693</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Costa Rica or its people; "the Costa Rican rain forest"; "our Costa Rican neighbors"</EN-Gloss>
+    <EN-Words>Costa Rican</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>tico, costarriqueño, costarricense</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3056871</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of fabric that does not wrinkle easily</EN-Gloss>
+    <EN-Words>crease-resistant, creaseproof, wrinkle-resistant, wrinkleproof</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a305700</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>blowing in puffs or short intermittent blasts; "puffy off-shore winds"; "gusty winds "</EN-Gloss>
+    <EN-Words>gusty, puffy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3057075</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a creed</EN-Gloss>
+    <EN-Words>credal, creedal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3057253</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of native-born persons of French descent in Louisiana; "Creole cooking"</EN-Gloss>
+    <EN-Words>Creole</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3057413</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a language that arises from contact between two other languages and has features of both; "Creole
+    grammars"</EN-Gloss>
+    <EN-Words>Creole</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3057591</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or denoting the third period of the Mesozoic era</EN-Gloss>
+    <EN-Words>Cretaceous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cretáceo, cretácico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3057732</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>abounding in chalk</EN-Gloss>
+    <EN-Words>cretaceous</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cretácico, cretáceo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3057807</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>cibernético</PT-Word-Cand>
+    <EN-Gloss>of or relating the principles of cybernetics; "cybernetic research"</EN-Gloss>
+    <EN-Words>cybernetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cibernético</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3057949</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of a violent tropical storm; "cyclonic destruction"</EN-Gloss>
+    <EN-Words>cyclonal, cyclonic, cyclonical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ciclónico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3058223</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of the atmosphere around a low pressure center; "cyclonic cloud pattern"</EN-Gloss>
+    <EN-Words>cyclonal, cyclonic, cyclonical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ciclónico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3058501</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or resembling the Cyclops; "Cyclopean eye"</EN-Gloss>
+    <EN-Words>cyclopean</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ciclópico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3058635</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or exhibiting cyclothymia</EN-Gloss>
+    <EN-Words>cyclothymic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3058754</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Cyprus or its people or culture; "Cypriot expatriates"; "Cypriote monasteries"</EN-Gloss>
+    <EN-Words>Cyprian, Cypriot, Cypriote</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>chipriota</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a305882</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>characterized by brief periods of violent wind or rain; "a grey squally morning"</EN-Gloss>
+    <EN-Words>squally</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3059033</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>cirílico</PT-Word-Cand>
+    <EN-Gloss>relating to or written in the alphabet used for writing Slavic languages; "Cyrillic writing"</EN-Gloss>
+    <EN-Words>Cyrillic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3059198</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relating to or consisting of dacite; "dacitic magma is highly viscous"</EN-Gloss>
+    <EN-Words>dacitic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3059340</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or consisting of dactyls; "dactylic meter"</EN-Gloss>
+    <EN-Words>dactylic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>dactílico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3059477</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>resembling a daisy</EN-Gloss>
+    <EN-Words>daisylike</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3059551</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Dalmatia or its inhabitants</EN-Gloss>
+    <EN-Words>Dalmatian</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3059688</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to or characteristic of Damascus or its people; "damascene city gates"</EN-Gloss>
+    <EN-Words>damascene</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3059847</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to the reduction of a fever</EN-Gloss>
+    <EN-Words>defervescent</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3059966</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to a department; "departmental policy"</EN-Gloss>
+    <EN-Words>departmental</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>departamental</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3060114</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>between or among departments; "interdepartmental competition"</EN-Gloss>
+    <EN-Words>interdepartmental</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3060257</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>within a department; "intradepartmental memos"</EN-Gloss>
+    <EN-Words>intradepartmental</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a306034</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ensurdecedor</PT-Word-Cand>
+    <EN-Gloss>accompanied with thunder</EN-Gloss>
+    <EN-Words>thundery</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3060385</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>digestivo</PT-Word-Cand>
+    <EN-Gloss>relating to or having the power to cause or promote digestion; "digestive juices"; "a digestive enzyme"; "digestive ferment"</EN-Gloss>
+    <EN-Words>digestive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>digestivo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3060601</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>of or relating to Delphi or to the oracles of Apollo at Delphi; "Delphic oracle"</EN-Gloss>
+    <EN-Words>Delphian, Delphic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3060782</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>demagógico</PT-Word-Cand>
+    <EN-Gloss>characteristic of or resembling a demagogue; "demagogic speeches"</EN-Gloss>
+    <EN-Words>demagogic, demagogical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>demagógico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3060971</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>diabético</PT-Word-Cand>
+    <EN-Gloss>of or relating to or causing diabetes</EN-Gloss>
+    <EN-Words>diabetic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>diabético, diabética</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3061081</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>disciplinar</PT-Word-Cand>
+    <EN-Gloss>relating to a specific field of academic study; "economics in its modern disciplinary sense"</EN-Gloss>
+    <EN-Words>disciplinary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3061250</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>drawing from or characterized by participation of two or more fields of study; "interdisciplinary studies"; "an interdisciplinary
+    conference"</EN-Gloss>
+    <EN-Words>interdisciplinary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>interdisciplinario</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a306131</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>impregnated with camphor; "camphorated oil"</EN-Gloss>
+    <EN-Words>camphorated</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>a3061455</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>disciplinar</PT-Word-Cand>
+    <EN-Gloss>relating to discipline in behavior; "disciplinary problems in the classroom"</EN-Gloss>
+    <EN-Words>disciplinary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>disciplinaria, disciplinario</SPA-Words-Sug>
+    <Comments />
+  </row>
+</rows>
