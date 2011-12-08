@@ -1,0 +1,6067 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rows>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13807178</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a perfective tense used to describe action that will be completed in the future; "`I will have finished' is an example of the future
+    perfect"</EN-Gloss>
+    <EN-Words>future perfect tense, future perfect</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Futuro perfecto, antefuturo, futuro perfecto</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13807403</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a progressive tense used to express action that will be on-going in the future; "`I will be running' is an example of the future
+    progressive"</EN-Gloss>
+    <EN-Words>future progressive tense, future progressive</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1380754</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>bacterium causing pneumonia in mice and humans</EN-Gloss>
+    <EN-Words>Diplococcus pneumoniae, pneumococcus</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>neumococo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13807636</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a relation between meanings</EN-Gloss>
+    <EN-Words>semantic relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>relación semántica</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n138078</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a light glancing touch; "there was a brief kiss of their hands in passing"</EN-Gloss>
+    <EN-Words>kiss</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13807853</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the semantic relation of being subordinate or belonging to a lower rank or class</EN-Gloss>
+    <EN-Words>hyponymy, subordination</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13808004</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the semantic relation of being superordinate or belonging to a higher rank or class</EN-Gloss>
+    <EN-Words>hypernymy, superordination</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13808161</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sinonímia</PT-Word-Cand>
+    <EN-Gloss>the semantic relation that holds between two words that can (in a given context) express the same meaning</EN-Gloss>
+    <EN-Words>synonymity, synonymousness, synonymy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sinonimia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13808405</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the semantic relation that holds between two words that can (in a given context) express opposite meanings</EN-Gloss>
+    <EN-Words>antonymy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13808566</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the semantic relation that holds between a whole and its parts</EN-Gloss>
+    <EN-Words>holonymy, whole to part relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13808708</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the semantic relation that holds between a part and the whole</EN-Gloss>
+    <EN-Words>meronymy, part to whole relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>meronimia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13808868</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the semantic relation of being a manner of does something</EN-Gloss>
+    <EN-Words>troponymy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13808981</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>homonímia</PT-Word-Cand>
+    <EN-Gloss>the relation between two words that are spelled the same way but differ in meaning or the relation between two words that are
+    pronounced the same way but differ in meaning</EN-Gloss>
+    <EN-Words>homonymy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>homonimia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1380902</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a genus of bacteria</EN-Gloss>
+    <EN-Words>genus Streptococcus</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13809207</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>componente, parte, porção</PT-Word-Cand>
+    <EN-Gloss>something determined in relation to something that includes it; "he wanted to feel a part of something bigger than himself"; "I read a
+    portion of the manuscript"; "the smaller component is hard to reach"; "the animal constituent of plankton"</EN-Gloss>
+    <EN-Words>component part, component, constituent, part, portion</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>parte</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13809769</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the most important or necessary part of something; "the basis of this drink is orange juice"</EN-Gloss>
+    <EN-Words>base, basis</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13810141</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>realçe</PT-Word-Cand>
+    <EN-Gloss>the most interesting or memorable part; "the highlight of the tour was our visit to the Vatican"</EN-Gloss>
+    <EN-Words>high spot, highlight</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1381044</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>spherical Gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis</EN-Gloss>
+    <EN-Words>strep, streptococci, streptococcus</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>streptococcus, estreptococo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13811184</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sobra</PT-Word-Cand>
+    <EN-Gloss>a small part or portion that remains after the main part no longer exists</EN-Gloss>
+    <EN-Words>leftover, remnant</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>remanente</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13811340</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a part of a part</EN-Gloss>
+    <EN-Words>subpart</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13811740</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>afinidade</PT-Word-Cand>
+    <EN-Gloss>a relationship of mutual understanding or trust and agreement between people</EN-Gloss>
+    <EN-Words>rapport, resonance</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13811900</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>simpatia, afinidade</PT-Word-Cand>
+    <EN-Gloss>a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in
+    close sympathy"</EN-Gloss>
+    <EN-Words>sympathy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>simpatía, simpatia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13812173</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>entendimentomútuo</PT-Word-Cand>
+    <EN-Gloss>sympathy of each person for the other</EN-Gloss>
+    <EN-Words>mutual affection, mutual understanding</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13812296</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts; "in
+    anatomical structure prehistoric man shows close affinity with modern humans"</EN-Gloss>
+    <EN-Words>affinity, phylogenetic relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1381285</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a species of bacteria</EN-Gloss>
+    <EN-Words>Streptococcus anhemolyticus</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13813042</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the kinship relation between an individual and the individual's progenitors</EN-Gloss>
+    <EN-Words>descent, filiation, line of descent, lineage</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>progenie</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13813283</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(anthropology) kinship by marriage or adoption; not a blood relationship</EN-Gloss>
+    <EN-Words>affinity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>afinidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13813483</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a family relationship by virtue of remarriage</EN-Gloss>
+    <EN-Words>steprelationship</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13813591</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Consangüinidade, Consanguinidade, consanguinidade, consangüinidade</PT-Word-Cand>
+    <EN-Gloss>(anthropology) related by blood</EN-Gloss>
+    <EN-Words>blood kinship, cognation, consanguinity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>consanguinidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13813898</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>paternidade</PT-Word-Cand>
+    <EN-Gloss>the kinship relation between an offspring and the father</EN-Gloss>
+    <EN-Words>fatherhood, paternity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>paternidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1381399</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>higher bacteria; slender spiral rodlike forms</EN-Gloss>
+    <EN-Words>Spirochaetales, order Spirochaetales</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13814041</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>maternidade</PT-Word-Cand>
+    <EN-Gloss>the kinship relation between an offspring and the mother</EN-Gloss>
+    <EN-Words>maternity, motherhood</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>maternidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13814184</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the kinship relation between a female offspring and the siblings</EN-Gloss>
+    <EN-Words>sisterhood, sistership</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13814336</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the kinship relation between a male offspring and the siblings</EN-Gloss>
+    <EN-Words>brotherhood</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13814456</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>line of descent traced through both the maternal and paternal sides of the family</EN-Gloss>
+    <EN-Words>bilateral descent</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13814601</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>line of descent traced through one side of the family</EN-Gloss>
+    <EN-Words>unilateral descent</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13814755</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>line of descent traced through the maternal side of the family</EN-Gloss>
+    <EN-Words>cognation, enation, matrilineage</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13814898</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>line of descent traced through the paternal side of the family</EN-Gloss>
+    <EN-Words>agnation, patrilineage</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13815030</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relationship between wife and husband</EN-Gloss>
+    <EN-Words>marital bed, marital relationship</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13815449</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree; "an inordinate
+    proportion of the book is given over to quotations"; "a dry martini has a large proportion of gin"</EN-Gloss>
+    <EN-Words>proportion, ratio</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13815742</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>proporção</PT-Word-Cand>
+    <EN-Gloss>the quotient obtained when the magnitude of a part is divided by the magnitude of the whole</EN-Gloss>
+    <EN-Words>proportion</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>proporción</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1381604</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>large coarsely spiral bacteria; free-living in fresh or salt water or commensal in bodies of oysters</EN-Gloss>
+    <EN-Words>Spirochaetaceae, family Spirochaetaceae</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13816071</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the number of cases of a disease ending in death divided by the number of cases of the disease; usually expressed as a percentage or as
+    the number of deaths per 1000 cases</EN-Gloss>
+    <EN-Words>case-fatality proportion</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13816313</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the number of cases of a disease divided by the number of infections with the agent that causes the disease</EN-Gloss>
+    <EN-Words>case-to-infection proportion, case-to-infection ratio</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13816521</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the proportion of a substance that is contained in a mixture or alloy etc.</EN-Gloss>
+    <EN-Words>content</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13816649</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a quantity or amount or measure considered as a proportion of another quantity or amount or measure; "the literacy rate"; "the
+    retention rate"; "the dropout rate"</EN-Gloss>
+    <EN-Words>rate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13816862</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Escala</PT-Word-Cand>
+    <EN-Gloss>the ratio between the size of something and a representation of it; "the scale of the map"; "the scale of the model"</EN-Gloss>
+    <EN-Words>scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13817066</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short +
+    long)</EN-Gloss>
+    <EN-Words>golden mean, golden section</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13817279</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation of corresponding in degree or size or amount</EN-Gloss>
+    <EN-Words>commensurateness, correspondence, proportionateness</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13817526</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Percentagem, porcento, por cento, percentagem, percento, porcentagem</PT-Word-Cand>
+    <EN-Gloss>a proportion in relation to a whole (which is usually the amount per hundred)</EN-Gloss>
+    <EN-Words>pct, per centum, percent, percentage</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>porcentaje, porciento, porcentaje, por ciento</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13817761</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the percentage of workers who do not report to work</EN-Gloss>
+    <EN-Words>absentee rate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13817872</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(baseball) a measure of a batter's performance; the number of base hits divided by the number of official times at bat; "Ted Williams
+    once had a batting average above .400"</EN-Gloss>
+    <EN-Words>batting average, hitting average</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>porcentaje de bateo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13818143</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(an extension of the baseball term) the proportion of times some effort succeeds; "the salesman's batting average was 7 out of
+    12"</EN-Gloss>
+    <EN-Words>batting average</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1381829</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the type genus of the family Spirochaetaceae; a bacterium that is flexible, undulating, and chiefly aquatic</EN-Gloss>
+    <EN-Words>Spirochaeta, genus Spirochaeta</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13818354</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(baseball) a measure of a fielder's performance; the number of assists and putouts divided by the number of chances</EN-Gloss>
+    <EN-Words>fielding average</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13818551</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the percentage of all rental units (as in hotels) are occupied or rented at a given time</EN-Gloss>
+    <EN-Words>occupancy rate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13818736</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>occupancy rate for hospitals</EN-Gloss>
+    <EN-Words>hospital occupancy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13818829</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>occupancy rate for hotels</EN-Gloss>
+    <EN-Words>hotel occupancy</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13818916</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time</EN-Gloss>
+    <EN-Words>vacancy rate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>tasa de desocupación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13819074</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the percentage of the work force that is unemployed at any given date</EN-Gloss>
+    <EN-Words>unemployment rate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13820000</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a
+    percentage or in parts per million</EN-Gloss>
+    <EN-Words>abundance</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13820239</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present</EN-Gloss>
+    <EN-Words>abundance</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1382033</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Spirochaetes, espiroqueta</PT-Word-Cand>
+    <EN-Gloss>parasitic or free-living bacteria; many pathogenic to humans and other animals</EN-Gloss>
+    <EN-Words>spirochaete, spirochete</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>espiroqueta, Leptospiraceae</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13820432</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>albedo, albedo</PT-Word-Cand>
+    <EN-Gloss>the ratio of reflected to incident light</EN-Gloss>
+    <EN-Words>albedo, reflective power</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>albedo, albedo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13820544</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Proporção de tela</PT-Word-Cand>
+    <EN-Gloss>the ratio of the width to the height of a tv picture</EN-Gloss>
+    <EN-Words>aspect ratio</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Relacion de aspecto, relación de aspecto, cociente de aspecto</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13820655</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(sports) the ratio of successful performances to opportunities</EN-Gloss>
+    <EN-Words>average</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13820826</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>ratio (in percent) of the maximum breadth to the maximum length of a skull</EN-Gloss>
+    <EN-Words>breadth index, cephalic index, cranial index</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Indice cefalico, índice cefálico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13821118</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a numerical expression representing the efficiency of a given system, material, or procedure</EN-Gloss>
+    <EN-Words>figure of merit</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13821272</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio (in percent) of the maximum width to the maximum height of the face</EN-Gloss>
+    <EN-Words>facial index</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13821570</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>frequência, freqüência</PT-Word-Cand>
+    <EN-Gloss>the ratio of the number of observations in a statistical category to the total number of observations</EN-Gloss>
+    <EN-Words>frequency, relative frequency</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Frecuencia estadística, Frecuencia estadistica, Frecuencia, frequencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13821766</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>HEMATÓCRITO, Hematocrito, hematócrito</PT-Word-Cand>
+    <EN-Gloss>the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit</EN-Gloss>
+    <EN-Words>haematocrit, hematocrit, packed cell volume</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>hematocrito, hematocrito</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13821977</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>quociente de inteligência, quociente de inteligência, Q.I., QI</PT-Word-Cand>
+    <EN-Gloss>a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological
+    age (multiplied by 100)</EN-Gloss>
+    <EN-Words>I.Q., IQ, intelligence quotient</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>coeficiente intelectual, Coeficiente Intelectual, Coeficiente intelectual, cociente de inteligencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13822249</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the average IQ of the adults in a given population</EN-Gloss>
+    <EN-Words>adult intelligence</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13822364</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the minimal IQ required for someone to function normally and independently in the world (without some form of institutional
+    assistance)</EN-Gloss>
+    <EN-Words>borderline intelligence</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13822569</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(aeronautics) the ratio of an external load to the weight of the aircraft (measured in g)</EN-Gloss>
+    <EN-Words>load factor</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1382273</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>small spirochetes some parasitic or pathogenic</EN-Gloss>
+    <EN-Words>Treponemataceae, family Treponemataceae</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13822735</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the annual claims paid by an insurance company to the premiums received</EN-Gloss>
+    <EN-Words>loss ratio</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13822876</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Número de Mach, Número de mach</PT-Word-Cand>
+    <EN-Gloss>the ratio of the speed of a moving body to the speed of sound</EN-Gloss>
+    <EN-Words>Mach number</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Numero Mach, número Mach</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13822995</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the size of an image to the size of the object</EN-Gloss>
+    <EN-Words>magnification</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13823150</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the force exerted by a machine to the force applied to it</EN-Gloss>
+    <EN-Words>mechanical advantage</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Ventaja mecanica, ventaja mecánica</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13823287</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the number of miles traveled to the number of gallons of gasoline burned</EN-Gloss>
+    <EN-Words>fuel consumption rate, gas mileage, gasoline mileage, mileage</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13823483</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio by which one better's wager is greater than that of another; "he offered odds of two to one"</EN-Gloss>
+    <EN-Words>betting odds, odds</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13823651</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ordem de magnitude, magnitude, ordem de grandeza</PT-Word-Cand>
+    <EN-Gloss>a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as
+    large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10</EN-Gloss>
+    <EN-Words>magnitude, order of magnitude</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13823968</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the output power of a transducer divided by the input power</EN-Gloss>
+    <EN-Words>output-to-input ratio</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13824114</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>prevalência</PT-Word-Cand>
+    <EN-Gloss>(epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in
+    the population</EN-Gloss>
+    <EN-Words>prevalence</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>prevalencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13824340</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Índice Preço/Lucro, Índice preço/lucro</PT-Word-Cand>
+    <EN-Gloss>(stock market) the price of a stock divided by its earnings</EN-Gloss>
+    <EN-Words>P/E ratio, price-to-earnings ratio</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>PER</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13824500</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(economics) the ratio of the quantity and quality of units produced to the labor per unit of time</EN-Gloss>
+    <EN-Words>productivity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13824675</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Proporcionalidade, proporcionalidade</PT-Word-Cand>
+    <EN-Gloss>a ratio of two quantities that is constant</EN-Gloss>
+    <EN-Words>proportionality</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>proporcionalidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13824815</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>quociente</PT-Word-Cand>
+    <EN-Gloss>the ratio of two quantities to be divided</EN-Gloss>
+    <EN-Words>quotient</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cociente</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1382482</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>type genus of Treponemataceae: anaerobic spirochetes with an undulating rigid body; parasitic in warm-blooded animals</EN-Gloss>
+    <EN-Words>genus Treponema</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13824929</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Índice refrativo</PT-Word-Cand>
+    <EN-Gloss>the ratio of the velocity of light in a vacuum to that in a medium</EN-Gloss>
+    <EN-Words>index of refraction, refractive index</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Indice de refraccion, índice de refracción, indice de refracción</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13825080</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>umidade relativa, umidade relativa</PT-Word-Cand>
+    <EN-Gloss>the ratio of the amount of water in the air at a give temperature to the maximum amount it could hold at that temperature; expressed as
+    a percentage</EN-Gloss>
+    <EN-Words>relative humidity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Humedad relativa, humedad relativa</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13825292</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of
+    time</EN-Gloss>
+    <EN-Words>respiratory quotient</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13825490</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use</EN-Gloss>
+    <EN-Words>factor of safety, safety factor</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>coeficiente de seguridad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13825664</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>relação sinal-ruído</PT-Word-Cand>
+    <EN-Gloss>the ratio of signal intensity to noise intensity</EN-Gloss>
+    <EN-Words>S/N, signal-to-noise ratio, signal-to-noise, signal/noise ratio, signal/noise</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Relación señal-ruido, Relacion señal ruido, Relacion señal-ruido, Relacion señal/ruido, Relacion senal ruido, Relacion
+    senal/ruido, relación señal/ruido</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13825840</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>estequiometria</PT-Word-Cand>
+    <EN-Gloss>(chemistry) the relation between the quantities of substances that take part in a reaction or form a compound (typically a ratio of
+    whole integers)</EN-Gloss>
+    <EN-Words>stoichiometry</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Estequiometría, Estequiometria, estequiometría, estequiometría</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13826084</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the inductance of a circuit in henries to its resistance in ohms</EN-Gloss>
+    <EN-Words>time constant</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13826221</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>turnover, rotatividade</PT-Word-Cand>
+    <EN-Gloss>the ratio of the number of workers that had to be replaced in a given time period to the average number of workers</EN-Gloss>
+    <EN-Words>employee turnover, turnover rate, turnover</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>movimiento de mercancías</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13826426</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the gross weight of an airplane to some factor determining its lift</EN-Gloss>
+    <EN-Words>loading</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13826614</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the weight of an airplane to its engine power</EN-Gloss>
+    <EN-Words>power loading</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13826732</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the ratio of the weight of an airplane to its wingspan</EN-Gloss>
+    <EN-Words>span loading</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13826845</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>carga alar</PT-Word-Cand>
+    <EN-Gloss>the ratio of the weight of an airplane to its wing area</EN-Gloss>
+    <EN-Words>wing loading</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>carga alar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13826959</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Incidência, incidência, incidência</PT-Word-Cand>
+    <EN-Gloss>the relative frequency of occurrence of something</EN-Gloss>
+    <EN-Words>incidence, relative incidence</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>incidencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1382699</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>spirochete that causes disease in humans (e.g. syphilis and yaws)</EN-Gloss>
+    <EN-Words>treponema</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13827103</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relative incidence of a particular disease</EN-Gloss>
+    <EN-Words>morbidity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13827205</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a relation of constraint of one entity (thing or person or group) by another; "measures for the control of disease"; "they instituted
+    controls over drinking on campus"</EN-Gloss>
+    <EN-Words>control</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13827943</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction in which something (such as a building) faces</EN-Gloss>
+    <EN-Words>frontage</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13828075</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Orientação, orientação</PT-Word-Cand>
+    <EN-Gloss>position or alignment relative to points of the compass or other specific directions</EN-Gloss>
+    <EN-Words>orientation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Orientación, Orientacion, orientación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13828343</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)</EN-Gloss>
+    <EN-Words>attitude</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1382839</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>small flexible parasitic spirochetes having three to five wavy spirals</EN-Gloss>
+    <EN-Words>genus Borrelia</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13828520</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>attitude of an aircraft in flight when allowed to take its own orientation</EN-Gloss>
+    <EN-Words>trim</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13828681</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Horizontal</PT-Word-Cand>
+    <EN-Gloss>something that is oriented horizontally</EN-Gloss>
+    <EN-Words>horizontal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>horizontal, horizontal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13828795</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>something that is oriented vertically</EN-Gloss>
+    <EN-Words>vertical</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>perpendicular</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13828905</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>oposição</PT-Word-Cand>
+    <EN-Gloss>a direction opposite to another</EN-Gloss>
+    <EN-Words>opposition</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13829047</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation of opposition between things at right angles</EN-Gloss>
+    <EN-Words>orthogonal opposition, orthogonality, perpendicularity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13829243</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation of opposition along a diameter</EN-Gloss>
+    <EN-Words>antipodal opposition, antipodal, diametrical opposition</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13829408</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation of opposition between crystals or molecules that are reflections of one another</EN-Gloss>
+    <EN-Words>enantiomorphism, mirror-image relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13829586</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction from which the wind is coming</EN-Gloss>
+    <EN-Words>windward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>barlovento</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13829720</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the side toward the wind</EN-Gloss>
+    <EN-Words>to windward, weather side, weatherboard, windward side</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13829848</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction in which the wind is blowing</EN-Gloss>
+    <EN-Words>leeward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sotavento</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13829980</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the side sheltered from the wind</EN-Gloss>
+    <EN-Words>leeward side, to leeward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13830084</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction toward the sea</EN-Gloss>
+    <EN-Words>seaward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13830166</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>one of the four major division of the compass; "the wind is coming from that quarter"</EN-Gloss>
+    <EN-Words>quarter</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1383027</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>cause of e.g. European and African relapsing fever</EN-Gloss>
+    <EN-Words>borrelia</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13831176</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>norte, Norte</PT-Word-Cand>
+    <EN-Gloss>the cardinal compass point that is at 0 or 360 degrees</EN-Gloss>
+    <EN-Words>N, due north, north, northward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>norte</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13831310</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point east (clockwise) of due north</EN-Gloss>
+    <EN-Words>NbE, north by east</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1383151</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Borrelia burgdorferi</PT-Word-Cand>
+    <EN-Gloss>cause of Lyme disease; transmitted primarily by ticks of genus Ixodes</EN-Gloss>
+    <EN-Words>Borrelia burgdorferi, Lime disease spirochete</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Borrelia burgdorferi</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13831572</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is midway between north and northeast</EN-Gloss>
+    <EN-Words>NNE, nor'-nor'-east, north northeast</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13831717</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point north of northeast</EN-Gloss>
+    <EN-Words>NEbN, northeast by north</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13831843</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>nordeste</PT-Word-Cand>
+    <EN-Gloss>the compass point midway between north and east; at 45 degrees</EN-Gloss>
+    <EN-Words>NE, nor'-east, northeast, northeastward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>noreste, nordeste</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13831994</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point east of northeast</EN-Gloss>
+    <EN-Words>NEbE, northeast by east</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13832118</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point midway between northeast and east</EN-Gloss>
+    <EN-Words>ENE, east northeast</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13832236</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point north of due east</EN-Gloss>
+    <EN-Words>EbN, east by north</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13832480</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point south of due east</EN-Gloss>
+    <EN-Words>EbS, east by south</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13832599</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point midway between east and southeast</EN-Gloss>
+    <EN-Words>ESE, east southeast</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13832717</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point east of southeast</EN-Gloss>
+    <EN-Words>SEbE, southeast by east</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13832841</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sudeste</PT-Word-Cand>
+    <EN-Gloss>the compass point midway between south and east; at 135 degrees</EN-Gloss>
+    <EN-Words>SE, sou'-east, southeast, southeastward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sureste</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13832993</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point south of southeast</EN-Gloss>
+    <EN-Words>SEbS, southeast by south</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13833119</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point midway between south and southeast</EN-Gloss>
+    <EN-Words>SSE, sou'-sou'-east, south southeast</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sur-suroeste</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13833256</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point east of due south</EN-Gloss>
+    <EN-Words>SbE, south by east</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1383332</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>very slender aerobic spirochetes; free-living or parasitic in mammals</EN-Gloss>
+    <EN-Words>genus Leptospira</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13833375</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sul, Sul</PT-Word-Cand>
+    <EN-Gloss>the cardinal compass point that is at 180 degrees</EN-Gloss>
+    <EN-Words>S, due south, south, southward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Sur, sud, sur</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13833504</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point west of due south</EN-Gloss>
+    <EN-Words>SbW, south by west</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13833623</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point midway between south and southwest</EN-Gloss>
+    <EN-Words>SSW, sou'-sou'-west, south southwest</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13833760</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point south of southwest</EN-Gloss>
+    <EN-Words>SWbS, southwest by south</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13833886</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sudoeste</PT-Word-Cand>
+    <EN-Gloss>the compass point midway between south and west; at 225 degrees</EN-Gloss>
+    <EN-Words>SW, sou'-west, southwest, southwestward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>suroeste</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13834038</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point west of southwest</EN-Gloss>
+    <EN-Words>SWbW, southwest by west</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13834162</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point midway between west and southwest</EN-Gloss>
+    <EN-Words>WSW, west southwest</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13834280</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point south of due west</EN-Gloss>
+    <EN-Words>WbS, west by south</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13834399</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>oeste</PT-Word-Cand>
+    <EN-Gloss>the cardinal compass point that is a 270 degrees</EN-Gloss>
+    <EN-Words>W, due west, west, westward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>oeste</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13834524</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point north of due west</EN-Gloss>
+    <EN-Words>WbN, west by north</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13834643</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point midway between west and northwest</EN-Gloss>
+    <EN-Words>WNW, west northwest</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13834761</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point west of northwest</EN-Gloss>
+    <EN-Words>NWbW, northwest by west</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13834885</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>noroeste</PT-Word-Cand>
+    <EN-Gloss>the compass point midway between north and west; at 315 degrees</EN-Gloss>
+    <EN-Words>NW, nor'-west, northwest, northwestward</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>noroeste</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1383502</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>important pathogens causing Weil's disease or canicola fever</EN-Gloss>
+    <EN-Words>leptospira</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13835037</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point north of northwest</EN-Gloss>
+    <EN-Words>NWbN, northwest by north</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13835163</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is midway between north and northwest</EN-Gloss>
+    <EN-Words>NNW, nor'-nor'-west, north northwest</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13835308</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the compass point that is one point west of due north</EN-Gloss>
+    <EN-Words>NbW, north by west</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13835427</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction corresponding to the northward cardinal compass point</EN-Gloss>
+    <EN-Words>north</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13835546</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction corresponding to the northeastward compass point</EN-Gloss>
+    <EN-Words>northeast</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13835664</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction corresponding to the eastward cardinal compass point</EN-Gloss>
+    <EN-Words>east</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13835781</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction corresponding to the southeastward compass point</EN-Gloss>
+    <EN-Words>southeast</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13835899</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction corresponding to the southward cardinal compass point</EN-Gloss>
+    <EN-Words>south</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13836018</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction corresponding to the southwestward compass point</EN-Gloss>
+    <EN-Words>southwest</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13836136</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction corresponding to the westward cardinal compass point</EN-Gloss>
+    <EN-Words>west</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13836253</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the direction corresponding to the northwestward compass point</EN-Gloss>
+    <EN-Words>northwest</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1383638</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Plancton, plâncton, plâncton</PT-Word-Cand>
+    <EN-Gloss>the aggregate of small plant and animal organisms that float or drift in great numbers in fresh or salt water</EN-Gloss>
+    <EN-Words>plankton</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>plancton, plancton</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13836715</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>angular distance below the horizon (especially of a celestial object)</EN-Gloss>
+    <EN-Words>depression</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13837200</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>intense competition in which competitors cut retail prices to gain business</EN-Gloss>
+    <EN-Words>price competition, price war</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Guerra de precios</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13837351</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>relation of a client to a patron</EN-Gloss>
+    <EN-Words>clientage</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13837439</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation that exists when one person requests and is granted professional help from a qualified source</EN-Gloss>
+    <EN-Words>professional relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13837667</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the professional relation between a health care professional and a patient</EN-Gloss>
+    <EN-Words>medical relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13837840</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of a physician to act in the best interests of the patient</EN-Gloss>
+    <EN-Words>doctor-patient relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13838025</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of a nurse to act in the best interests of the patient</EN-Gloss>
+    <EN-Words>nurse-patient relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13838205</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a professional relation that is regulated by law (as between a lawyer and a client)</EN-Gloss>
+    <EN-Words>legal relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13838386</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the legal relation that exists when one person justifiably places reliance on another whose aid or protection is sought in some
+    matter</EN-Gloss>
+    <EN-Words>fiduciary relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13838766</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of a bank to act in the best interests of the depositors</EN-Gloss>
+    <EN-Words>bank-depositor relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13838930</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of a confidential adviser to act in the best interest of the advisee</EN-Gloss>
+    <EN-Words>confidential adviser-advisee relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1383896</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>fitoplâncton, fitoplâncton</PT-Word-Cand>
+    <EN-Gloss>photosynthetic or plant constituent of plankton; mainly unicellular algae</EN-Gloss>
+    <EN-Words>phytoplankton</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>fitoplancton, fitoplancton</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13839120</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of a conservator to act in the best interests of the ward</EN-Gloss>
+    <EN-Words>conservator-ward relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13839287</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of corporate directors to act in the best interests of stockholders</EN-Gloss>
+    <EN-Words>director-stockholder relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13839468</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of an executor (or administrator) of an estate to act in the best interests of the heir</EN-Gloss>
+    <EN-Words>executor-heir relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13839662</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of a lawyer to act in the best interests of the client</EN-Gloss>
+    <EN-Words>attorney-client relation, lawyer-client relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13839888</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of partners to act in one another's best interests</EN-Gloss>
+    <EN-Words>partner relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13840039</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of receiver or trustee in bankruptcy to act in the best interests of the creditor</EN-Gloss>
+    <EN-Words>receiver-creditor relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13840231</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the responsibility of a trustee to act in the best interests of the beneficiary</EN-Gloss>
+    <EN-Words>trustee-beneficiary relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13840404</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a professional relation between instructors and those they instruct</EN-Gloss>
+    <EN-Words>academic relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13840553</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the academic relation between teachers and their students</EN-Gloss>
+    <EN-Words>teacher-student relation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1384084</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>unicellular algae</EN-Gloss>
+    <EN-Words>planktonic algae</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13840958</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>química, alquimia</PT-Word-Cand>
+    <EN-Gloss>the way two individuals relate to each other; "their chemistry was wrong from the beginning -- they hated each other"; "a mysterious
+    alchemy brought them together"</EN-Gloss>
+    <EN-Words>alchemy, chemistry, interpersonal chemistry</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>alquimia, química</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13841467</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the interrelation of reciprocity whereby one thing supplements or depends on the other; "the complementarity of the sexes"</EN-Gloss>
+    <EN-Words>complementarity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>complementariedad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1384164</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>zooplâncton</PT-Word-Cand>
+    <EN-Gloss>animal constituent of plankton; mainly small crustaceans and fish larvae</EN-Gloss>
+    <EN-Words>zooplankton</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>zooplancton, zooplancton</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13841651</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>correlação</PT-Word-Cand>
+    <EN-Gloss>a reciprocal relation between two or more things</EN-Gloss>
+    <EN-Words>correlation, correlativity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>correlación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13841863</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>interdependência, Interdependência</PT-Word-Cand>
+    <EN-Gloss>a reciprocal relation between interdependent entities (objects or individuals or groups)</EN-Gloss>
+    <EN-Words>interdependence, interdependency, mutuality</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>interdependencia, interdependencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13842241</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>comensalismo, comensalismo</PT-Word-Cand>
+    <EN-Gloss>the relation between two different kinds of organisms when one receives benefits from the other without damaging it</EN-Gloss>
+    <EN-Words>commensalism</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Comensalismo, comensalismo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13842415</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually
+    not fatal damage)</EN-Gloss>
+    <EN-Words>parasitism</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>parasitismo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13842622</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>simbiose, mutualismo</PT-Word-Cand>
+    <EN-Gloss>the relation between two different species of organisms that are interdependent; each gains benefits from the other</EN-Gloss>
+    <EN-Words>mutualism, symbiosis</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mutualismo, simbiosis</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13842841</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a symbiotic relation in which one organism protects the other in return for some kind of food product</EN-Gloss>
+    <EN-Words>trophobiosis</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13843001</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(mathematics) one of a pair of numbers whose sum is zero; the additive inverse of -5 is +5</EN-Gloss>
+    <EN-Words>additive inverse</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>opuesto</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1384313</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>nécton</PT-Word-Cand>
+    <EN-Gloss>the aggregate of actively swimming animals in a body of water ranging from microscopic organisms to whales</EN-Gloss>
+    <EN-Words>nekton</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>necton</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13843173</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>inverso multiplicativo</PT-Word-Cand>
+    <EN-Gloss>(mathematics) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2; the multiplicative inverse of 7 is
+    1/7</EN-Gloss>
+    <EN-Words>multiplicative inverse, reciprocal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>inverso multiplicativo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13843401</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>interdependência</PT-Word-Cand>
+    <EN-Gloss>a reciprocality of sentiments; "the mutuality of their affection was obvious"</EN-Gloss>
+    <EN-Words>mutuality, mutualness</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mutualidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13843601</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>something (a term or expression or concept) that has a reciprocal relation to something else; "risk is the reciprocal of
+    safety"</EN-Gloss>
+    <EN-Words>reciprocal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13843786</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having in common; "the sharing of electrons creates molecules"</EN-Gloss>
+    <EN-Words>sharing</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13843920</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>using or enjoying something jointly with others</EN-Gloss>
+    <EN-Words>sharing</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13844057</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>tempo partilhado</PT-Word-Cand>
+    <EN-Gloss>(computer science) the use of a central computer by many users simultaneously</EN-Gloss>
+    <EN-Words>time sharing</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n138441</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the act of contacting something with your hand; "peonies can be blighted by the laying on of a finger"</EN-Gloss>
+    <EN-Words>laying on</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13844212</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>interrelação, interrelacionamento</PT-Word-Cand>
+    <EN-Gloss>mutual or reciprocal relation or relatedness; "interrelationships of animal structure and function"</EN-Gloss>
+    <EN-Words>interrelatedness, interrelation, interrelationship</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>interrelación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13844518</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the interrelation of conscious and unconscious processes and emotions that determine personality and motivation</EN-Gloss>
+    <EN-Words>psychodynamics</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1384491</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>micróbio</PT-Word-Cand>
+    <EN-Gloss>a minute life form (especially a disease-causing bacterium); the term is not in technical use</EN-Gloss>
+    <EN-Words>bug, germ, microbe</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>microbio, microorganismo, germen</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13844923</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>anything that precedes something similar in time; "phrenology was an antecedent of modern neuroscience"</EN-Gloss>
+    <EN-Words>antecedent, forerunner</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13845114</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>cronologia</PT-Word-Cand>
+    <EN-Gloss>an arrangement of events in time</EN-Gloss>
+    <EN-Words>chronology</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13845239</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sincronismo, Sincronicidade, sincronização, sincronia</PT-Word-Cand>
+    <EN-Gloss>the relation that exists when things occur at the same time; "the drug produces an increased synchrony of the brain waves"</EN-Gloss>
+    <EN-Words>synchroneity, synchronicity, synchronisation, synchronism, synchronization, synchronizing, synchrony</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sincronización, sincronismo, Sincronicidad, sincronicidad, sincronía</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13845838</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>assincronia, assincronismo</PT-Word-Cand>
+    <EN-Gloss>the relation that exists when things occur at unrelated times; "the stimulus produced a desynchronizing of the brain waves"</EN-Gloss>
+    <EN-Words>asynchronism, asynchrony, desynchronisation, desynchronization, desynchronizing</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>asincronía, desincronización</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13846356</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the first of two or the first mentioned of two; "Tom and Dick were both heroes but only the former is remembered today"</EN-Gloss>
+    <EN-Words>former</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13846546</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>following the first in an ordering or series; "he came in a close second"</EN-Gloss>
+    <EN-Words>second</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13846708</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the second of two or the second mentioned of two; "Tom and Dick were both heroes but only the latter is remembered today"</EN-Gloss>
+    <EN-Words>latter</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13846900</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>following the second position in an ordering or series; "a distant third"; "he answered the first question willingly, the second
+    reluctantly, and the third with resentment"</EN-Gloss>
+    <EN-Words>third</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13847124</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>quinto</PT-Word-Cand>
+    <EN-Gloss>following the third position; number four in a countable series</EN-Gloss>
+    <EN-Words>fourth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13847240</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position five in a countable series of things; "he was fifth out of several hundred runners"</EN-Gloss>
+    <EN-Words>fifth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13847402</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position six in a countable series of things</EN-Gloss>
+    <EN-Words>sixth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13847498</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position seven in a countable series of things</EN-Gloss>
+    <EN-Words>seventh</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13847616</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position eight in a countable series of things</EN-Gloss>
+    <EN-Words>eighth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13847715</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position nine in a countable series of things; "going into the ninth they were a run ahead"</EN-Gloss>
+    <EN-Words>ninth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13847858</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position ten in a countable series of things</EN-Gloss>
+    <EN-Words>tenth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13847954</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>undécimo, décimo-primeiro</PT-Word-Cand>
+    <EN-Gloss>position 11 in a countable series of things</EN-Gloss>
+    <EN-Words>eleventh</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>onceavo, onceno, undécima</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848052</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>duodécimo</PT-Word-Cand>
+    <EN-Gloss>position 12 in a countable series of things</EN-Gloss>
+    <EN-Words>twelfth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848149</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 13 in a countable series of things</EN-Gloss>
+    <EN-Words>thirteenth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848249</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 14 in a countable series of things</EN-Gloss>
+    <EN-Words>fourteenth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848349</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>décimo quinto</PT-Word-Cand>
+    <EN-Gloss>position 15 in a countable series of things</EN-Gloss>
+    <EN-Words>fifteenth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>quinceavo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848466</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 16 in a countable series of things</EN-Gloss>
+    <EN-Words>sixteenth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848565</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 17 in a countable series of things</EN-Gloss>
+    <EN-Words>seventeenth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848684</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>décimo oitavo</PT-Word-Cand>
+    <EN-Gloss>position 18 in a countable series of things</EN-Gloss>
+    <EN-Words>eighteenth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848784</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 19 in a countable series of things</EN-Gloss>
+    <EN-Words>nineteenth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848884</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 20 in a countable series of things</EN-Gloss>
+    <EN-Words>twentieth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>veintavo, veinteavo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13848983</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 30 in a countable series of things</EN-Gloss>
+    <EN-Words>thirtieth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849082</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 40 in a countable series of things</EN-Gloss>
+    <EN-Words>fortieth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849180</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 50 in a countable series of things</EN-Gloss>
+    <EN-Words>fiftieth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849296</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 60 in a countable series of things</EN-Gloss>
+    <EN-Words>sixtieth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849394</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 70 in a countable series of things</EN-Gloss>
+    <EN-Words>seventieth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849512</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>octagésimo</PT-Word-Cand>
+    <EN-Gloss>position 80 in a countable series of things</EN-Gloss>
+    <EN-Words>eightieth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849611</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 90 in a countable series of things</EN-Gloss>
+    <EN-Words>ninetieth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849710</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 100 in a countable series of things</EN-Gloss>
+    <EN-Words>hundredth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849810</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>milésimo</PT-Word-Cand>
+    <EN-Gloss>position 1,000 in a countable series of things</EN-Gloss>
+    <EN-Words>thousandth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13849913</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 1,000,000 in a countable series of things</EN-Gloss>
+    <EN-Words>millionth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>millonésimo, milesima, millonésima, milésimo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13850019</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>position 1,000,000,000 in a countable series of things</EN-Gloss>
+    <EN-Words>billionth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13850148</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the last or lowest in an ordering or series; "he was the last to leave"; "he finished an inglorious last"</EN-Gloss>
+    <EN-Words>last</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1385017</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>any of various parasites that live in the internal organs of animals (especially intestinal worms)</EN-Gloss>
+    <EN-Words>endoparasite, endozoan, entoparasite, entozoan, entozoon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13850304</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an ordered reference standard; "judging on a scale of 1 to 10"</EN-Gloss>
+    <EN-Words>graduated table, ordered series, scale of measurement, scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13850674</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an international scale of wind force from 0 (calm air) to 12 (hurricane)</EN-Gloss>
+    <EN-Words>Beaufort scale, wind scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13851067</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a numerical scale used to compare variables with one another or with some reference number</EN-Gloss>
+    <EN-Words>index</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13851245</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>escala logarítmica</PT-Word-Cand>
+    <EN-Gloss>scale on which actual distances from the origin are proportional to the logarithms of the corresponding scale numbers</EN-Gloss>
+    <EN-Words>logarithmic scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13851426</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a scale formerly used to describe the magnitude of an earthquake; an earthquake detected only by seismographs is a I and an earthquake
+    that destroys all buildings is a XII</EN-Gloss>
+    <EN-Words>Mercalli scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13851677</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a scale of hardness of solids; talc is 0 and diamond is 10; ordering is determined by which substance can scratch another
+    substance</EN-Gloss>
+    <EN-Words>Mohs scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13851865</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Escala de richter, escala de Richter, escala Richter</PT-Word-Cand>
+    <EN-Gloss>a logarithmic scale of 1 to 10 formerly used to express the magnitude of an earthquake on the basis of the size of seismograph
+    oscillations</EN-Gloss>
+    <EN-Words>Richter scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Escala sismologica de Richter, escala sismológica de Richter, escala Richter</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13852083</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Escala de magnitude de momento</PT-Word-Cand>
+    <EN-Gloss>a logarithmic scale of 1 to 10 (a successor to the Richter scale) that enables seismologists to compare the energy released by
+    different earthquakes on the basis of the area of the geological fault that ruptured in the quake</EN-Gloss>
+    <EN-Words>moment magnitude scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Escala sismológica de magnitud de momento, Escala sismologica de magnitud de momento</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13852395</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a system of measuring temperature</EN-Gloss>
+    <EN-Words>temperature scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13852600</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a temperature scale that defines the freezing point of water as 0 degrees and the boiling point of water as 100 degrees</EN-Gloss>
+    <EN-Words>Celsius scale, centigrade scale, international scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13852820</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a temperature scale that defines the freezing point of water as 32 degrees and the boiling point of water a 212 degrees</EN-Gloss>
+    <EN-Words>Fahrenheit scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13853002</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a temperature scale that defines absolute zero as 0 degrees; water freezes at 273.16 degrees and boils at 373.16 degrees</EN-Gloss>
+    <EN-Words>Kelvin scale, absolute scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13853198</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Rankine</PT-Word-Cand>
+    <EN-Gloss>a scale of absolute temperature in Fahrenheit degrees; the freezing point of water is 491.69 degrees and the boiling point of water is
+    671.69 degrees</EN-Gloss>
+    <EN-Words>Rankine scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Rankine</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1385330</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>any external parasitic organism (as fleas)</EN-Gloss>
+    <EN-Words>ectoparasite, ectozoan, ectozoon, epizoan, epizoon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ectoparásito</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13853407</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Réaumur</PT-Word-Cand>
+    <EN-Gloss>a temperature scale on which water freezes at 0 degrees and boils at 80 degrees</EN-Gloss>
+    <EN-Words>Reaumur scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Grado Réaumur, Grado Reaumur</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13853546</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a schedule of wages paid for different jobs</EN-Gloss>
+    <EN-Words>wage scale, wage schedule</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13853680</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a wage scale that fluctuates in response to the cost-of-living index</EN-Gloss>
+    <EN-Words>sliding scale</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13853947</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the kind of mental comparison that is expressed in similes or metaphors or allegories</EN-Gloss>
+    <EN-Words>imaginative comparison</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13854101</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared</EN-Gloss>
+    <EN-Words>gauge, standard of measurement</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13854318</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>linha de base</PT-Word-Cand>
+    <EN-Gloss>an imaginary line or standard by which things are measured or compared; "the established a baseline for the budget"</EN-Gloss>
+    <EN-Words>baseline</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13854488</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>padrão, norma, padrões, normas, norma social</PT-Word-Cand>
+    <EN-Gloss>a standard or model or pattern regarded as typical; "the current middle-class norm of two children per family"</EN-Gloss>
+    <EN-Words>norm</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>norma</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13855100</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>antípoda</PT-Word-Cand>
+    <EN-Gloss>direct opposite; "quiet: an antipode to focused busyness"</EN-Gloss>
+    <EN-Words>antipode</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>antípoda, antípodas</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13855230</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Antitese, antítese</PT-Word-Cand>
+    <EN-Gloss>exact opposite; "his theory is the antithesis of mine"</EN-Gloss>
+    <EN-Words>antithesis</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Antitesis, antítesis</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13855377</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the
+    plot); "this form of conflict is essential to Mann's writing"</EN-Gloss>
+    <EN-Words>conflict</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13855627</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>contraposição, contraste</PT-Word-Cand>
+    <EN-Gloss>the opposition or dissimilarity of things that are compared; "in contrast to", "by contrast"</EN-Gloss>
+    <EN-Words>contrast, direct contrast</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>contraste, antitesis</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13855828</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a different aspect of something (especially the opposite aspect); "the flip side of your positive qualities sometimes get out of
+    control"; "on the flip side of partnerships he talked about their competition"</EN-Gloss>
+    <EN-Words>flip side</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13856110</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a relation between two opposite attributes or tendencies; "he viewed it as a balanced polarity between good and evil"</EN-Gloss>
+    <EN-Words>mutual opposition, polarity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13856320</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an opposition that is capable of being graded</EN-Gloss>
+    <EN-Words>gradable opposition</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13856449</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an opposition that can be graded between two extremes or poles</EN-Gloss>
+    <EN-Words>polar opposition</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13856574</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>having an indicated pole (as the distinction between positive and negative electric charges); "he got the polarity of the battery
+    reversed"; "charges of opposite sign"</EN-Gloss>
+    <EN-Words>polarity, sign</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>polaridad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13856857</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the character of the positive electric pole</EN-Gloss>
+    <EN-Words>positiveness, positivity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13857008</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the character of the negative electric pole</EN-Gloss>
+    <EN-Words>negativeness, negativity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13857159</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an opposition that has no intermediate grade; either one or the other</EN-Gloss>
+    <EN-Words>ungradable opposition</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13857314</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a relation between two opposite states or principles that together exhaust the possibilities</EN-Gloss>
+    <EN-Words>complementarity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13857486</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation that exists when opposites cannot coexist</EN-Gloss>
+    <EN-Words>contradictoriness</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1385749</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a host that is used by a parasite in the course of its life cycle</EN-Gloss>
+    <EN-Words>intermediate host</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13857676</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>contradição</PT-Word-Cand>
+    <EN-Gloss>opposition between two conflicting forces or ideas</EN-Gloss>
+    <EN-Words>contradiction</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13857804</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a contradiction of ideas that serves as the determining factor in their interaction; "this situation created the inner dialectic of
+    American history"</EN-Gloss>
+    <EN-Words>dialectic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13858045</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>incompatibilidade</PT-Word-Cand>
+    <EN-Gloss>the relation between propositions that cannot both be true at the same time</EN-Gloss>
+    <EN-Words>incompatibility, inconsistency, mutual exclusiveness, repugnance</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13858270</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>exact opposition; "public opinion to the contrary he is not guilty"</EN-Gloss>
+    <EN-Words>contrary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13858392</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the relation between contraries</EN-Gloss>
+    <EN-Words>contrariety</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>contradicción</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13858481</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>some third thing similar to two opposites but distinct from both</EN-Gloss>
+    <EN-Words>tertium quid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13858604</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a relation of direct opposition; "we thought Sue was older than Bill but just the reverse was true"</EN-Gloss>
+    <EN-Words>contrary, opposite, reverse</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1385878</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the host in which the sexual reproduction of a parasite takes place</EN-Gloss>
+    <EN-Words>definitive host</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13859043</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a relational difference between states; especially between states before and after some event; "he attributed the change to their
+    marriage"</EN-Gloss>
+    <EN-Words>change</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13859307</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>diferença</PT-Word-Cand>
+    <EN-Gloss>a significant change; "the difference in her is amazing"; "his support made a real difference"</EN-Gloss>
+    <EN-Words>difference</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>diferencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13859512</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>gradiente</PT-Word-Cand>
+    <EN-Gloss>a graded change in the magnitude of some physical quantity or dimension</EN-Gloss>
+    <EN-Words>gradient</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>gradiente</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13859692</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a gradient in concentration of a solute as a function of distance through a solution; "the movement of a solute down its concentration
+    gradient is called diffusion"</EN-Gloss>
+    <EN-Words>concentration gradient</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n138599</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an enthusiastic kiss</EN-Gloss>
+    <EN-Words>smack, smooch</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13859925</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a gradient in the gravitational forces acting on different parts of a nonspherical object; "the gravity gradient of the moon causes the
+    ocean tides on Earth"</EN-Gloss>
+    <EN-Words>gravity gradient</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1386007</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Agente infeccioso, microrganismos patogénicos, patógeno</PT-Word-Cand>
+    <EN-Gloss>any disease-producing agent (especially a virus or bacterium or other microorganism)</EN-Gloss>
+    <EN-Words>pathogen</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Agente biológico patógeno, Agente biologico patogeno, patógeno</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13860145</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Gradiente de temperatura</PT-Word-Cand>
+    <EN-Gloss>change in temperature as a function of distance (especially altitude)</EN-Gloss>
+    <EN-Words>temperature gradient</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Gradiente termico, gradiente térmico, gradiente de temperatura</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13860281</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>implicação</PT-Word-Cand>
+    <EN-Gloss>a logical relation between propositions p and q of the form `if p then q'; if p is true then q cannot be false</EN-Gloss>
+    <EN-Words>conditional relation, implication, logical implication</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Implicacion, implicación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13860548</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>antagonismo</PT-Word-Cand>
+    <EN-Gloss>the relation between opposing principles or forces or factors; "the inherent antagonism of capitalism and socialism"</EN-Gloss>
+    <EN-Words>antagonism</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13861449</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a plane in which all points can be described in Cartesian coordinates</EN-Gloss>
+    <EN-Words>Cartesian plane</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>plano cartesiano</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13861580</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the plane of a facet of an object (as of a cube)</EN-Gloss>
+    <EN-Words>facet plane</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13861686</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the median plane of the body (or some part of the body)</EN-Gloss>
+    <EN-Words>midline, midplane</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13861806</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>plano orbital</PT-Word-Cand>
+    <EN-Gloss>(astronomy) the plane on which a body is orbiting</EN-Gloss>
+    <EN-Words>orbital plane</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>plano orbital</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1386182</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>either of two different animal or plant species living in close association but not interdependent</EN-Gloss>
+    <EN-Words>commensal</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>comensal</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13861934</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the plane that is in the foreground of a drawing or painting; coextensive with but different from the objective surface of the
+    work</EN-Gloss>
+    <EN-Words>picture plane</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13862144</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the plane that contains all the lines tangent to a specific point on a surface</EN-Gloss>
+    <EN-Words>tangent plane</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13862407</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>any of the various shape that leaves of plants can assume</EN-Gloss>
+    <EN-Words>leaf form, leaf shape</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13862552</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>equilátero</PT-Word-Cand>
+    <EN-Gloss>a figure whose sides are all equal</EN-Gloss>
+    <EN-Words>equilateral</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13862644</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a shape that spreads outward; "the skirt had a wide flare"</EN-Gloss>
+    <EN-Words>flair, flare</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13863020</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>lápis</PT-Word-Cand>
+    <EN-Gloss>a figure formed by a set of straight lines or light rays meeting at a point</EN-Gloss>
+    <EN-Words>pencil</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13863473</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a three-dimensional shape</EN-Gloss>
+    <EN-Words>solid figure, three-dimensional figure</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1386354</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Mirmecofilia</PT-Word-Cand>
+    <EN-Gloss>an organism such as an insect that habitually shares the nest of a species of ant</EN-Gloss>
+    <EN-Words>myrmecophile</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13864035</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>anything with a round shape resembling a teardrop</EN-Gloss>
+    <EN-Words>bulb</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13864423</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a slight convexity (as of the surface of a road)</EN-Gloss>
+    <EN-Words>camber</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>combadura</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13864542</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>entasis</PT-Word-Cand>
+    <EN-Gloss>a slight convexity in the shaft of a column; compensates for the illusion of concavity that viewers experience when the sides are
+    perfectly straight</EN-Gloss>
+    <EN-Words>entasis</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1386494</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>in most modern classifications, replacement for the Protista; includes: Protozoa; Euglenophyta; Chlorophyta; Cryptophyta;
+    Heterokontophyta; Rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and
+    animals</EN-Gloss>
+    <EN-Words>Protoctista, kingdom Protoctista</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13865786</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a rounded spherical form</EN-Gloss>
+    <EN-Words>conglobation, conglomeration</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13865904</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and
+    valentines; "he drew a heart and called it a valentine"</EN-Gloss>
+    <EN-Words>heart</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13866144</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>polígono, Polígonos, polígono</PT-Word-Cand>
+    <EN-Gloss>a closed plane figure bounded by straight sides</EN-Gloss>
+    <EN-Words>polygon, polygonal shape</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Polígonos, Poligono, polígono, polígono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13866515</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an equiangular polygon</EN-Gloss>
+    <EN-Words>isogon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>isógona</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13866626</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a polygon such that no side extended cuts any other side or vertex; it can be cut by a straight line in at most two points</EN-Gloss>
+    <EN-Words>convex polygon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13866827</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a polygon such that there is a straight line that cuts it in four or more points</EN-Gloss>
+    <EN-Words>concave polygon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13867005</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a polygon with one or more reentrant angles</EN-Gloss>
+    <EN-Words>reentering polygon, reentrant polygon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13867133</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>polígono regular</PT-Word-Cand>
+    <EN-Gloss>a polygon with all sides and all angles equal</EN-Gloss>
+    <EN-Words>regular polygon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Poligono regular, polígono regular, polígono regular</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13868248</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a curve (such as a circle) having no endpoints</EN-Gloss>
+    <EN-Words>closed curve</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13868371</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a closed curve that does not intersect itself</EN-Gloss>
+    <EN-Words>Jordan curve, simple closed curve</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13868515</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a double curve resembling the letter S</EN-Gloss>
+    <EN-Words>S-shape</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13868607</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>catenária</PT-Word-Cand>
+    <EN-Gloss>the curve theoretically assumed by a perfectly flexible and inextensible cord of uniform density and cross section hanging freely from
+    two fixed points</EN-Gloss>
+    <EN-Words>catenary</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>catenaria, catenaria</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13868813</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the double curve of the upper lip when considered to resemble Cupid's bow</EN-Gloss>
+    <EN-Words>Cupid's bow</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13868944</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an undulating curve</EN-Gloss>
+    <EN-Words>undulation, wave</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13869045</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the exterior curve of an arch</EN-Gloss>
+    <EN-Words>extrados</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>extradós, trasdós</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13869129</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>something in a thin curved form (like the neck of a goose)</EN-Gloss>
+    <EN-Words>gooseneck</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cuello de cisne</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13869243</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the interior curve of an arch</EN-Gloss>
+    <EN-Words>intrados</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13869327</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>arco</PT-Word-Cand>
+    <EN-Gloss>a circular segment of a curve; "a bend in the road"; "a crook in the path"</EN-Gloss>
+    <EN-Words>bend, crook, turn, twist</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13869547</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>gancho</PT-Word-Cand>
+    <EN-Gloss>a sharp curve or crook; a shape resembling a hook</EN-Gloss>
+    <EN-Words>crotchet, hook</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13869676</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(biology) any hook-shaped process or part</EN-Gloss>
+    <EN-Words>uncus</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>circunvolución uncinada, uncus</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13869788</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a curve that is tangent to each of a family of curves</EN-Gloss>
+    <EN-Words>envelope</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13869896</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a bend or curve (especially in a coastline)</EN-Gloss>
+    <EN-Words>bight</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13870414</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>geodésica, geodésica, geodésico</PT-Word-Cand>
+    <EN-Gloss>(mathematics) the shortest line between two points on a mathematically defined surface (as a straight line on a plane or an arc of a
+    great circle on a sphere)</EN-Gloss>
+    <EN-Words>geodesic line, geodesic</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Geodesica, geodésica, geodésico</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13870680</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>perpendicular, Perpendicularidade</PT-Word-Cand>
+    <EN-Gloss>a straight line at right angles to another line</EN-Gloss>
+    <EN-Words>perpendicular</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>perpendicularidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13870935</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>assíntota, Assimptota, assímptota</PT-Word-Cand>
+    <EN-Gloss>a straight line that is the limiting value of a curve; can be considered as tangent at infinity; "the asymptote of the
+    curve"</EN-Gloss>
+    <EN-Words>asymptote</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>asíntota, Asintota, asíntota</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13871134</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point</EN-Gloss>
+    <EN-Words>tangent</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>tangente, tema tangencial</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13871338</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>secante</PT-Word-Cand>
+    <EN-Gloss>a straight line that intersects a curve at two or more points</EN-Gloss>
+    <EN-Words>secant</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13871452</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>perímetro, perímetro, limite</PT-Word-Cand>
+    <EN-Gloss>a line enclosing a plane areas</EN-Gloss>
+    <EN-Words>perimeter</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Perimetro, perímetro, perímetro</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13871538</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>raio</PT-Word-Cand>
+    <EN-Gloss>a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)</EN-Gloss>
+    <EN-Words>radius</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>radio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13871717</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>diâmetro, Diamêtro, diâmetro</PT-Word-Cand>
+    <EN-Gloss>a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its
+    surface)</EN-Gloss>
+    <EN-Words>diameter</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Diametro, diámetro, diámetro</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13871967</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>linha central, bissetriz</PT-Word-Cand>
+    <EN-Gloss>a line that bisects a plane figure</EN-Gloss>
+    <EN-Words>center line, centerline</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>línea central</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13872072</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a concave shape whose distinguishing characteristic is that the concavity faces downward</EN-Gloss>
+    <EN-Words>dome</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1387208</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Protista, Protistas</PT-Word-Cand>
+    <EN-Gloss>eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic
+    algae</EN-Gloss>
+    <EN-Words>Protista, division Protista</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Protista, protista</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13872211</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a concavity in a surface (especially an anatomical depression)</EN-Gloss>
+    <EN-Words>fossa, pit</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13872421</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>nicho</PT-Word-Cand>
+    <EN-Gloss>a small concavity</EN-Gloss>
+    <EN-Words>corner, niche, recess, recession</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13872592</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>cone</PT-Word-Cand>
+    <EN-Gloss>a shape whose base is a circle and whose sides taper up to a point</EN-Gloss>
+    <EN-Words>cone shape, cone, conoid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13872822</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a conical shape with a wider and a narrower opening at the two ends</EN-Gloss>
+    <EN-Words>funnel shape, funnel</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>embudo, tapujo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n138734</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a loud kiss</EN-Gloss>
+    <EN-Words>smacker</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13873502</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>círculo</PT-Word-Cand>
+    <EN-Gloss>ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed
+    point; "he calculated the circumference of the circle"</EN-Gloss>
+    <EN-Words>circle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13873849</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a small circle</EN-Gloss>
+    <EN-Words>circlet</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13873917</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>something approximating the shape of a circle; "the chairs were arranged in a circle"</EN-Gloss>
+    <EN-Words>circle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13874073</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a circle dividing a sphere or other surface into two usually equal and symmetrical parts</EN-Gloss>
+    <EN-Words>equator</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ecuador</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13874251</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>semicírculo, Semi-círculo, semicírculo</PT-Word-Cand>
+    <EN-Gloss>a plane figure with the shape of half a circle</EN-Gloss>
+    <EN-Words>hemicycle, semicircle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Semicirculo, semicírculo, semicírculo, hemiciclo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13874384</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>arco, arco</PT-Word-Cand>
+    <EN-Gloss>a continuous portion of a circle</EN-Gloss>
+    <EN-Words>arc</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Arco, arco</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1387451</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>protista</PT-Word-Cand>
+    <EN-Gloss>free-living or colonial organisms with diverse nutritional and reproductive modes</EN-Gloss>
+    <EN-Words>protist, protistan</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>protista</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13874558</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of
+    cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)</EN-Gloss>
+    <EN-Words>crenation, crenature, crenel, crenelle, scallop</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13874927</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>corda, corda</PT-Word-Cand>
+    <EN-Gloss>a straight line connecting two points on a curve</EN-Gloss>
+    <EN-Words>chord</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Cuerda, cuerda</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13875027</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a plane figure bounded by two radii and the included arc of a circle</EN-Gloss>
+    <EN-Words>sector</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13875392</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a toroidal shape; "a ring of ships in the harbor"; "a halo of smoke"</EN-Gloss>
+    <EN-Words>anchor ring, annulus, doughnut, halo, ring</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13875571</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)</EN-Gloss>
+    <EN-Words>loop</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13875884</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a loop in a rope</EN-Gloss>
+    <EN-Words>bight</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13875970</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a round shape formed by a series of concentric circles (as formed by leaves or flower petals)</EN-Gloss>
+    <EN-Words>coil, curl, curlicue, gyre, ringlet, roll, scroll, whorl</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1387617</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>any of the families of Protoctista</EN-Gloss>
+    <EN-Words>protoctist family</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13876371</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>espiral</PT-Word-Cand>
+    <EN-Gloss>a plane curve traced by a point circling about the center but at increasing distances from the center</EN-Gloss>
+    <EN-Words>spiral</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Espirales, espiral</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13876561</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Hélice, hélice, hélice</PT-Word-Cand>
+    <EN-Gloss>a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle</EN-Gloss>
+    <EN-Words>helix, spiral</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Hélice, Helice, hélice</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13876753</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>dupla hélice</PT-Word-Cand>
+    <EN-Gloss>a pair of parallel helices intertwined about a common axis; "the shape of the DNA molecule is a double helix"</EN-Gloss>
+    <EN-Words>double helix</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Doble helice, doble hélice</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13876921</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a curve that reverses the direction of something; "the tendrils of the plant exhibited perversion"; "perversion also shows up in kinky
+    telephone cords"</EN-Gloss>
+    <EN-Words>perversion</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13877129</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis;
+    "a circle is an ellipse with zero eccentricity"</EN-Gloss>
+    <EN-Words>eccentricity</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13877408</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a straight line that generates a cylinder or cone</EN-Gloss>
+    <EN-Words>element</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>generatriz</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13877547</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a straight line joining the apex and a point on the base</EN-Gloss>
+    <EN-Words>element of a cone</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13877667</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a straight line running the length of the cylinder</EN-Gloss>
+    <EN-Words>element of a cylinder</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13877785</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the constant angle at which a helix cuts the elements of a cylinder or cone</EN-Gloss>
+    <EN-Words>helix angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13877918</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a sharp bend in a line produced when a line having a loop is pulled tight</EN-Gloss>
+    <EN-Words>kink, twirl, twist</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13878112</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>redemoinho, vórtice, turbilhão</PT-Word-Cand>
+    <EN-Gloss>the shape of something rotating rapidly</EN-Gloss>
+    <EN-Words>convolution, swirl, vortex, whirl</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>remolino</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13878634</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Quadrado, quadrado, quadrado</PT-Word-Cand>
+    <EN-Gloss>(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon; "you can compute the area of a
+    square if you know the length of its sides"</EN-Gloss>
+    <EN-Words>foursquare, square</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Cuadrado, cuadrado, cuadrado</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13878951</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>something approximating the shape of a square</EN-Gloss>
+    <EN-Words>square</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13879049</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a square-shaped object</EN-Gloss>
+    <EN-Words>quadrate</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13879126</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>quadrilátero</PT-Word-Cand>
+    <EN-Gloss>a four-sided polygon</EN-Gloss>
+    <EN-Words>quadrangle, quadrilateral, tetragon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cuadrilátero, Cuadriláteros, Cuadrilatero, cuadrilátero</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13879320</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>triângulo, Triângulo, Triangulo, triângulo</PT-Word-Cand>
+    <EN-Gloss>a three-sided polygon</EN-Gloss>
+    <EN-Words>triangle, trigon, trilateral</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>triángulo, Triángulo, Triángulos, Triangulo, triángulo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13879634</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>triângulo</PT-Word-Cand>
+    <EN-Gloss>something approximating the shape of a triangle; "the coastline of Chile and Argentina and Brazil forms two legs of a
+    triangle"</EN-Gloss>
+    <EN-Words>triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13879816</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a triangle whose interior angles are all acute</EN-Gloss>
+    <EN-Words>acute triangle, acute-angled triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n138799</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>beijo de língua, beijo de língua, linguado</PT-Word-Cand>
+    <EN-Gloss>an openmouthed kiss in which your tongue is inserted into the other's mouth</EN-Gloss>
+    <EN-Words>French kiss, deep kiss, soul kiss</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>beso francés</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13879947</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a three-sided regular polygon</EN-Gloss>
+    <EN-Words>equiangular triangle, equilateral triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Triangulo equilatero, triángulo equilátero</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13880102</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an object shaped like an equilateral triangle</EN-Gloss>
+    <EN-Words>delta</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13880199</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a triangle with two equal sides</EN-Gloss>
+    <EN-Words>isosceles triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>triángulo isósceles</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13880295</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a triangle that contains no right angle</EN-Gloss>
+    <EN-Words>oblique triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13880415</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a triangle that contains an obtuse interior angle</EN-Gloss>
+    <EN-Words>obtuse triangle, obtuse-angled triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>triángulo obtusángulo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13880551</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>triângulo reto</PT-Word-Cand>
+    <EN-Gloss>a triangle with one right angle</EN-Gloss>
+    <EN-Words>right triangle, right-angled triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>triángulo rectángulo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13880704</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a triangle with no two sides of equal length</EN-Gloss>
+    <EN-Words>scalene triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13880811</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>hexagrama</PT-Word-Cand>
+    <EN-Gloss>a regular polygon formed by extending each of the sides of a regular hexagon to form two equilateral triangles</EN-Gloss>
+    <EN-Words>hexagram</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>hexagrama</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13880994</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Retas Paralelas, retas paralelas</PT-Word-Cand>
+    <EN-Gloss>(mathematics) one of a set of parallel geometric figures (parallel lines or planes); "parallels never meet"</EN-Gloss>
+    <EN-Words>parallel</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Paralelismo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13881175</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>paralelogramo, paralelogramo</PT-Word-Cand>
+    <EN-Gloss>a quadrilateral whose opposite sides are both parallel and equal in length</EN-Gloss>
+    <EN-Words>parallelogram</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>paralelogramo, Paralelógramo, paralelogramo, paralelograma</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1388130</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>any genus of Protoctista</EN-Gloss>
+    <EN-Words>protoctist genus</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13881381</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>trapézio</PT-Word-Cand>
+    <EN-Gloss>a quadrilateral with no parallel sides</EN-Gloss>
+    <EN-Words>trapezium</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>trapezoide</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13881512</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>trapézio, trapézio</PT-Word-Cand>
+    <EN-Gloss>a quadrilateral with two parallel sides</EN-Gloss>
+    <EN-Words>trapezoid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Trapecio, trapecio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13881644</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a plane figure with 5 or more points; often used as an emblem</EN-Gloss>
+    <EN-Words>star</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13881810</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light</EN-Gloss>
+    <EN-Words>asterism</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882008</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>pentagrama</PT-Word-Cand>
+    <EN-Gloss>a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon</EN-Gloss>
+    <EN-Words>pentacle, pentagram, pentangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Pentagrama, pentagrama, pentáculo, pentagrama</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882201</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Pentagono, pentágono, pentágono</PT-Word-Cand>
+    <EN-Gloss>a five-sided polygon</EN-Gloss>
+    <EN-Words>pentagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Pentagono, pentágono, pentágono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882276</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>hexágono, Hexagono, hexágono</PT-Word-Cand>
+    <EN-Gloss>a six-sided polygon</EN-Gloss>
+    <EN-Words>hexagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>hexágono, Hexagono, hexágono, exágono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882385</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a hexagon with six sides of equal length</EN-Gloss>
+    <EN-Words>regular hexagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882487</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>heptágono, heptágono</PT-Word-Cand>
+    <EN-Gloss>a seven-sided polygon</EN-Gloss>
+    <EN-Words>heptagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>heptágono, Heptagono, heptágono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882563</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Octogono, octógono, octágono</PT-Word-Cand>
+    <EN-Gloss>an eight-sided polygon</EN-Gloss>
+    <EN-Words>octagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>octágono, Octagono, octágono, octógono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882639</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>eneágono</PT-Word-Cand>
+    <EN-Gloss>a nine-sided polygon</EN-Gloss>
+    <EN-Words>nonagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Eneagono, eneágono, eneágono, nonágono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882713</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>decágono</PT-Word-Cand>
+    <EN-Gloss>a polygon with 10 sides and 10 angles</EN-Gloss>
+    <EN-Words>decagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>decágono, Decagono, decágono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882804</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>hendecágono</PT-Word-Cand>
+    <EN-Gloss>an eleven-sided polygon</EN-Gloss>
+    <EN-Words>undecagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>endecágono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882883</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>dodecágono, dodecágono</PT-Word-Cand>
+    <EN-Gloss>a twelve-sided polygon</EN-Gloss>
+    <EN-Words>dodecagon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>dodecágono, Dodecagono, dodecágono</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13882961</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>losango, losango</PT-Word-Cand>
+    <EN-Gloss>a parallelogram with four equal sides; an oblique-angled equilateral parallelogram</EN-Gloss>
+    <EN-Words>diamond, rhomb, rhombus</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>rombo, rombo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13883133</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a parallelogram with adjacent sides of unequal lengths; an oblique-angled parallelogram with only the opposite sides equal</EN-Gloss>
+    <EN-Words>rhomboid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>romboide, romboide</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13883346</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Retangulo, retângulo, retângulo, rectângulo</PT-Word-Cand>
+    <EN-Gloss>a parallelogram with four right angles</EN-Gloss>
+    <EN-Words>rectangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Rectangulo, rectángulo, rectángulo, rectangulo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13883494</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a rectangular drawing; "the flowchart contained many boxes"</EN-Gloss>
+    <EN-Words>box</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13883603</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a figure on the surface of a sphere bounded by arcs of 3 or more great circles</EN-Gloss>
+    <EN-Words>spherical polygon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13883763</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a spherical polygon formed by the arcs of 3 great circles</EN-Gloss>
+    <EN-Words>spherical triangle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13884261</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a polyhedron any plane section of which is a convex polygon</EN-Gloss>
+    <EN-Words>convex polyhedron</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13884384</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a polyhedron some of whose plane sections are concave polygons</EN-Gloss>
+    <EN-Words>concave polyhedron</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13884511</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>prisma</PT-Word-Cand>
+    <EN-Gloss>a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms</EN-Gloss>
+    <EN-Words>prism</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>prisma</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13884740</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Paralelepipedo, paralelepípedo, paralelepípedo</PT-Word-Cand>
+    <EN-Gloss>a prism whose bases are parallelograms</EN-Gloss>
+    <EN-Words>parallelepiped, parallelepipedon, parallelopiped, parallelopipedon</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Paralelepipedo, paralelepípedo, paralelepípedo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13884930</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a rectangular parallelepiped</EN-Gloss>
+    <EN-Words>cuboid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ortoedro</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13885011</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a prism whose bases are quadrangles</EN-Gloss>
+    <EN-Words>quadrangular prism</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13885111</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a prism whose bases are triangles</EN-Gloss>
+    <EN-Words>triangular prism</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13885207</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>sinuosidade</PT-Word-Cand>
+    <EN-Gloss>having curves; "he hated the sinuosity of mountain roads"</EN-Gloss>
+    <EN-Words>sinuosity, sinuousness</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>tortuosidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13885370</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a tortuous and twisted shape or position; "they built a tree house in the tortuosities of its boughs"; "the acrobat performed
+    incredible contortions"</EN-Gloss>
+    <EN-Words>contortion, crookedness, torsion, tortuosity, tortuousness</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13885700</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a shape distorted by twisting or folding</EN-Gloss>
+    <EN-Words>buckle, warp</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13885836</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>something twisted and tight and swollen; "their muscles stood out in knots"; "the old man's fists were two great gnarls"; "his stomach
+    was in knots"</EN-Gloss>
+    <EN-Words>gnarl, knot</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13886133</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>arco</PT-Word-Cand>
+    <EN-Gloss>a curved shape in the vertical plane that spans an opening</EN-Gloss>
+    <EN-Words>arch</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13886260</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the shape of a bell</EN-Gloss>
+    <EN-Words>bell shape, bell, campana</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13886575</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Hiperbole, hipérbole, hipérbole</PT-Word-Cand>
+    <EN-Gloss>an open curve formed by a plane that cuts the base of a right circular cone</EN-Gloss>
+    <EN-Words>hyperbola</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Hiperbola, hipérbola, hipérbola</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13886724</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the place where something divides into branches</EN-Gloss>
+    <EN-Words>forking, furcation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13886910</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the place where something divides into two branches</EN-Gloss>
+    <EN-Words>bifurcation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13887056</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>bifurcação</PT-Word-Cand>
+    <EN-Gloss>a bifurcating branch (one or both of them)</EN-Gloss>
+    <EN-Words>bifurcation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>bifurcación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13887211</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a sharp change in direction; "there was a jog in the road"</EN-Gloss>
+    <EN-Words>jog</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13887319</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ziguezague, Ziguezague</PT-Word-Cand>
+    <EN-Gloss>an angular shape characterized by sharp turns in alternating directions</EN-Gloss>
+    <EN-Words>zag, zig, zigzag</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>zigzag</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13888387</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Ângulo complementar</PT-Word-Cand>
+    <EN-Gloss>two angles whose sum is a right angle</EN-Gloss>
+    <EN-Words>complementary angles</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Angulos complementarios, ángulos complementarios</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13888491</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the angular separation between two objects as perceived by an observer; "he recorded angular distances between the stars"</EN-Gloss>
+    <EN-Words>angular distance</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13888783</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ângulo horário</PT-Word-Cand>
+    <EN-Gloss>(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right
+    ascension for an observer at a particular location and time of day</EN-Gloss>
+    <EN-Words>HA, hour angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Angulo Horario, Angulo horario, Ángulo Horario, ángulo horario</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13889066</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>anomalia verdadeira</PT-Word-Cand>
+    <EN-Gloss>the angular distance of a point in an orbit past the point of periapsis measured in degrees</EN-Gloss>
+    <EN-Words>true anomaly</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Anomalia verdadera, anomalía verdadera</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13889216</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an angle formed by two straight lines (in the same plane)</EN-Gloss>
+    <EN-Words>plane angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13889331</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an angle formed at the intersection of the arcs of two great circles</EN-Gloss>
+    <EN-Words>spherical angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13889461</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ângulo sólido</PT-Word-Cand>
+    <EN-Gloss>an angle formed by three or more planes intersecting at a common point (the vertex)</EN-Gloss>
+    <EN-Words>solid angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Angulo solido, ángulo sólido</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13889602</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Inclinação, inclinação</PT-Word-Cand>
+    <EN-Gloss>(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)</EN-Gloss>
+    <EN-Words>angle of inclination, inclination</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Inclinacion orbital, inclinación orbital</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13889843</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees</EN-Gloss>
+    <EN-Words>inclination of an orbit, inclination</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1388992</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a division of lower plants comprising unicellular and biflagellate algae that form starchy compounds</EN-Gloss>
+    <EN-Words>Pyrrophyta, phylum Pyrrophyta</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13890064</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an interior angle of a polygon that is greater than 180 degrees</EN-Gloss>
+    <EN-Words>reentering angle, reentrant angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13890226</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an angle pointing outward; an interior angle of a polygon that is less than 180 degrees</EN-Gloss>
+    <EN-Words>salient angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13890391</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the angle inside two adjacent sides of a polygon</EN-Gloss>
+    <EN-Words>interior angle, internal angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13890535</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the supplement of an interior angle of a polygon</EN-Gloss>
+    <EN-Words>exterior angle, external angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13890679</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof</EN-Gloss>
+    <EN-Words>hip</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13890869</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the angle that a line makes with a line perpendicular to the surface at the point of incidence</EN-Gloss>
+    <EN-Words>angle of incidence, incidence angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Angulo de Incidencia, Angulo de incidencia, ángulo de incidencia, ángulo de incidencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13891082</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ângulo de ataque</PT-Word-Cand>
+    <EN-Gloss>the acute angle between the direction of the undisturbed relative wind and the chord of an airfoil</EN-Gloss>
+    <EN-Words>angle of attack</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Angulo de ataque, ángulo de ataque</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13891242</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the smallest angle of incidence for which light is totally reflected</EN-Gloss>
+    <EN-Words>critical angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13891371</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the angle between a reflected ray and a line perpendicular to the reflecting surface at the point of incidence</EN-Gloss>
+    <EN-Words>angle of reflection</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ángulo de reflexión</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13891547</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the angle between a refracted ray and a line perpendicular to the surface between the two media at the point of refraction</EN-Gloss>
+    <EN-Words>angle of refraction</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ángulo de refracción, ángulo de transmisión</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13891735</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light</EN-Gloss>
+    <EN-Words>angle of extinction, extinction angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1389188</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Protozoários, protozoário</PT-Word-Cand>
+    <EN-Gloss>in some classifications considered a superphylum or a subkingdom; comprises flagellates; ciliates; sporozoans; amoebas;
+    foraminifers</EN-Gloss>
+    <EN-Words>Protozoa, phylum Protozoa</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Protozoos, protozoo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13891937</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an angle less than 90 degrees but more than 0 degrees</EN-Gloss>
+    <EN-Words>acute angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13892048</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an angle between 90 and 180 degrees</EN-Gloss>
+    <EN-Words>obtuse angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13892142</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>angle that resembles the hind leg of a dog</EN-Gloss>
+    <EN-Words>dogleg</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13892237</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Ângulo recto, ângulo reto</PT-Word-Cand>
+    <EN-Gloss>the 90 degree angle between two perpendicular lines</EN-Gloss>
+    <EN-Words>right angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Angulo recto, ángulo recto, ángulo recto</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13892383</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an angle that is not a right angle or a multiple of a right angle</EN-Gloss>
+    <EN-Words>oblique angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13892562</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>an angle greater than 180 degrees (but less than 360)</EN-Gloss>
+    <EN-Words>reflex angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13892674</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>ângulo de giro</PT-Word-Cand>
+    <EN-Gloss>an angle of 360 degrees</EN-Gloss>
+    <EN-Words>perigon, round angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ángulo redondo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13892765</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the angle between the face of a cutting tool and the surface of the work</EN-Gloss>
+    <EN-Words>cutting angle</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13892897</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>(physics) the angle that a magnetic needle makes with the plane of the horizon</EN-Gloss>
+    <EN-Words>angle of dip, dip, inclination, magnetic dip, magnetic inclination</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13893129</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the
+    missile)</EN-Gloss>
+    <EN-Words>lead</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13893310</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>declinação magnética</PT-Word-Cand>
+    <EN-Gloss>the angle (at a particular location) between magnetic north and true north</EN-Gloss>
+    <EN-Words>magnetic declination, magnetic variation, variation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Declinacion magnetica, declinación magnética</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13893502</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>azimute, Azimute, azimute</PT-Word-Cand>
+    <EN-Gloss>the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian</EN-Gloss>
+    <EN-Words>AZ, azimuth</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>acimut, azimut, acimut</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13893694</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a concave shape with an open top</EN-Gloss>
+    <EN-Words>bowl, trough</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13893786</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph
+    record)</EN-Gloss>
+    <EN-Words>channel, groove</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>rodada</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13894154</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>andada</PT-Word-Cand>
+    <EN-Gloss>a groove or furrow (especially one in soft earth caused by wheels)</EN-Gloss>
+    <EN-Words>rut</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>rodera</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13894306</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a hollow concave shape made by removing something</EN-Gloss>
+    <EN-Words>pocket, scoop</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13895262</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a part that bulges deeply; "the belly of a sail"</EN-Gloss>
+    <EN-Words>belly</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13895362</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a headlike protuberance on an organ or structure; "the caput humeri is the head of the humerus which fits into a cavity in the
+    scapula"</EN-Gloss>
+    <EN-Words>caput</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13895549</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a bump on a ski slope</EN-Gloss>
+    <EN-Words>mogul</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13895622</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a small lump or protuberance</EN-Gloss>
+    <EN-Words>nub, nubble</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13895745</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a sharp protuberance</EN-Gloss>
+    <EN-Words>snag</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>tocón</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13895852</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>verruga</PT-Word-Cand>
+    <EN-Gloss>any small rounded protuberance (as on certain plants or animals)</EN-Gloss>
+    <EN-Words>wart</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13895986</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>any thickened enlargement</EN-Gloss>
+    <EN-Words>knob, node, thickening</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13896217</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>crescente</PT-Word-Cand>
+    <EN-Gloss>any shape resembling the curved shape of the moon in its first or last quarters</EN-Gloss>
+    <EN-Words>crescent</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Media luna, media luna</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13896369</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>impressão</PT-Word-Cand>
+    <EN-Gloss>a concavity in a surface produced by pressing; "he left the impression of his fingers in the soft mud"</EN-Gloss>
+    <EN-Words>depression, impression, imprint</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13896695</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>any slight depression in a surface; "there are approximately 336 dimples on a golf ball"</EN-Gloss>
+    <EN-Words>dimple</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13896854</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Hiperbolóide, Hiperboloide</PT-Word-Cand>
+    <EN-Gloss>a quadric surface generated by rotating a hyperbola around its main axis</EN-Gloss>
+    <EN-Words>hyperboloid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>hiperboloide, hiperboloide</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13897002</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Parabolóide, paraboloide</PT-Word-Cand>
+    <EN-Gloss>a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis</EN-Gloss>
+    <EN-Words>paraboloid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>paraboloide, paraboloide</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13897198</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Elipsóide, Elipsoide, elipsóide</PT-Word-Cand>
+    <EN-Gloss>a surface whose plane sections are all ellipses or circles; "the Earth is an ellipsoid"</EN-Gloss>
+    <EN-Words>ellipsoid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>elipsoide, elipsoide</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13897528</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>hipotenusa, hipotenusa</PT-Word-Cand>
+    <EN-Gloss>the side of a right triangle opposite the right angle</EN-Gloss>
+    <EN-Words>hypotenuse</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>hipotenusa, hipotenusa</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13897657</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>altitude, ortocentro, altura</PT-Word-Cand>
+    <EN-Gloss>the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)</EN-Gloss>
+    <EN-Words>altitude</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ortocentro</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13898207</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>a symmetrical arrangement of the parts of a thing</EN-Gloss>
+    <EN-Words>conformation</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13898315</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>simetria, Simetria, simetria, proporção</PT-Word-Cand>
+    <EN-Gloss>balance among the parts of something</EN-Gloss>
+    <EN-Words>proportion, symmetry</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Simetría, Simetria, simetría, simetría</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13898509</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>desproporção</PT-Word-Cand>
+    <EN-Gloss>lack of proportion; imbalance among the parts of something</EN-Gloss>
+    <EN-Words>disproportion</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>desproporción, incongruencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13898645</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Esferóide, Esferoide</PT-Word-Cand>
+    <EN-Gloss>a shape that is generated by rotating an ellipse around one of its axes; "it looked like a sphere but on closer examination I saw it
+    was really a spheroid"</EN-Gloss>
+    <EN-Words>ellipsoid of revolution, spheroid</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>esferoide, esferoide</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n1389875</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>characterized by the formation of pseudopods for locomotion and taking food: Actinopoda; Rhizopoda</EN-Gloss>
+    <EN-Words>Sarcodina, class Sarcodina</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>99999999</BC>
+    <WN-3.0-Synset>n13898899</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>Esfera, esfera, bola</PT-Word-Cand>
+    <EN-Gloss>a three-dimensional closed surface such that every point on the surface is equidistant from the center</EN-Gloss>
+    <EN-Words>sphere</EN-Words>
+    <PT-Gloss />
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>esfera, esfera</SPA-Words-Sug>
+    <Comments />
+  </row>
+</rows>
