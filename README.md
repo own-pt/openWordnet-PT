@@ -25,13 +25,13 @@ run the script. I end up with the following XML fragments:
     <row>
      <BC>1</BC>
      <WN-3.0-Synset>n1740</WN-3.0-Synset>
-     <PT-Words-Man />
-     <PT-Words-Candidates>entidade, Entidade</PT-Words-Candidates>
+     <PT-Words-Man>entidade</PT-Words-Man>
+     <PT-Words-Cand>entidade, Entidade</PT-Words-Cand>
      <EN-Gloss>that which is perceived or known or inferred to have its own distinct existence (living or nonliving)</EN-Gloss>
      <EN-Words>entity</EN-Words>
-     <PT-Gloss />
-     <PT-Gloss-Prop />
-     <Spa-Words-Prop>entidad, entidad, ente</Spa-Words-Prop>
+     <PT-Gloss>o que é percebido, conhecido ou inferido como tendo existência própria (vivente ou não vivente)</PT-Gloss>
+     <PT-Gloss-Sug />
+     <Spa-Words-Sug>entidad, entidad, ente</Spa-Words-Sug>
      <Comments />
     </row>
 
