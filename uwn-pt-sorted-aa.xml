@@ -1678,7 +1678,7 @@
     <EN-Gloss>the technical aspects of doing something; "a mechanism of social control"; "mechanisms of communication"; "the mechanics of prose
     style"</EN-Gloss>
     <EN-Words>mechanics, mechanism</EN-Words>
-    <PT-Gloss>o aspectos técnicos de fazer algo</PT-Gloss>
+    <PT-Gloss>os aspectos técnicos de fazer algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Mecanismo, mecanismo, mecánica, mecanismo</SPA-Words-Sug>
     <Comments />
@@ -1722,7 +1722,7 @@
   <row>
     <BC>143</BC>
     <WN-3.0-Synset>v103317</WN-3.0-Synset>
-    <PT-Words-Man>corar, ruborizar-se, avermelhar</PT-Words-Man>
+    <PT-Words-Man>corar, ruborizar, avermelhar</PT-Words-Man>
     <PT-Word-Cand>ruborizar</PT-Word-Cand>
     <EN-Gloss>turn red, as if in embarrassment or shame; "The girl blushed when a young man whistled as she walked by"</EN-Gloss>
     <EN-Words>blush, crimson, flush, redden</EN-Words>
@@ -1734,11 +1734,11 @@
   <row>
     <BC>144</BC>
     <WN-3.0-Synset>v103619</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>empalidecer, branquear</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>turn pale, as if in fear</EN-Gloss>
     <EN-Words>blanch, blench, pale</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar pálido, como se com medo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>palidecer</SPA-Words-Sug>
     <Comments />
@@ -1746,11 +1746,11 @@
   <row>
     <BC>145</BC>
     <WN-3.0-Synset>v104868</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>expulsar, suprimir, retirar, ejetar</PT-Words-Man>
     <PT-Word-Cand>produção, afugentar, expulsar, ejetar, excetuar</PT-Word-Cand>
     <EN-Gloss>eliminate (a substance); "combustion products are exhausted in the engine"; "the plant releases a gas"</EN-Gloss>
     <EN-Words>discharge, eject, exhaust, expel, release</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>eliminar (substância)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>echar, eyectar</SPA-Words-Sug>
     <Comments />
@@ -1758,11 +1758,11 @@
   <row>
     <BC>146</BC>
     <WN-3.0-Synset>v106960</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atropelar, passar_por_cima</PT-Words-Man>
     <PT-Word-Cand>atropelar</PT-Word-Cand>
     <EN-Gloss>injure or kill by running over, as with a vehicle</EN-Gloss>
     <EN-Words>run down, run over</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ferir ou matar por atropelamento, como acontece com um veículo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>arrollar</SPA-Words-Sug>
     <Comments />
@@ -1770,11 +1770,11 @@
   <row>
     <BC>147</BC>
     <WN-3.0-Synset>n112312</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>empurrão, impulso, impulsão</PT-Words-Man>
     <PT-Word-Cand>pressão</PT-Word-Cand>
     <EN-Gloss>the act of applying force in order to move something away; "he gave the door a hard push"; "the pushing is good exercise"</EN-Gloss>
     <EN-Words>push, pushing</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de aplicar força com o intuito de mover algo para frente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1782,12 +1782,12 @@
   <row>
     <BC>148</BC>
     <WN-3.0-Synset>v109660</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mudar, alterar</PT-Words-Man>
     <PT-Word-Cand>mudar</PT-Word-Cand>
     <EN-Gloss>undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The
     weather changed last night"</EN-Gloss>
     <EN-Words>change</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sofrer uma mudança; tornar-se diferente em essência; se perder ou a sua natureza original</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>alterar, cambiar, combiar</SPA-Words-Sug>
     <Comments />
@@ -1795,12 +1795,12 @@
   <row>
     <BC>149</BC>
     <WN-3.0-Synset>n114431</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atração, puxão</PT-Words-Man>
     <PT-Word-Cand>tração</PT-Word-Cand>
     <EN-Gloss>the act of pulling; applying force to move something toward or with you; "the pull up the hill had him breathing harder"; "his
     strenuous pulling strained his back"</EN-Gloss>
     <EN-Words>pull, pulling</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de puxar; aplicando força para mover algo para ou com você</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1808,12 +1808,12 @@
   <row>
     <BC>150</BC>
     <WN-3.0-Synset>n116376</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>elevação, elevamento</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of raising something; "he responded with a lift of his eyebrow"; "fireman learn several different raises for getting ladders
     up"</EN-Gloss>
     <EN-Words>heave, lift, raise</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de elevar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1821,11 +1821,11 @@
   <row>
     <BC>151</BC>
     <WN-3.0-Synset>n119568</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pulo, salto</PT-Words-Man>
     <PT-Word-Cand>Pulo, salto</PT-Word-Cand>
     <EN-Gloss>the act of jumping; propelling yourself off the ground; "he advanced in a series of jumps"; "the jumping was unexpected"</EN-Gloss>
     <EN-Words>jump, jumping</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de pular; se impulsionar para cima</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1833,12 +1833,12 @@
   <row>
     <BC>152</BC>
     <WN-3.0-Synset>v117985</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>permanecer, ficar, manter, continuar</PT-Words-Man>
     <PT-Word-Cand>estar, permanecer, ficar</PT-Word-Cand>
     <EN-Gloss>stay the same; remain in a certain state; "The dress remained wet after repeated attempts to dry it"; "rest assured"; "stay alone"; "He
     remained unmoved by her tears"; "The bad weather continued for another week"</EN-Gloss>
     <EN-Words>remain, rest, stay</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>permanecer o mesmo; se manter em um certo estado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>permanecer</SPA-Words-Sug>
     <Comments />
@@ -1846,11 +1846,11 @@
   <row>
     <BC>153</BC>
     <WN-3.0-Synset>n122661</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tiro</PT-Words-Man>
     <PT-Word-Cand>tiro, tiro</PT-Word-Cand>
     <EN-Gloss>the act of firing a projectile; "his shooting was slow but accurate"</EN-Gloss>
     <EN-Words>shooting, shot</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de atirar um projétil</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>fusilamiento, tirada, tiro</SPA-Words-Sug>
     <Comments />
@@ -1858,12 +1858,11 @@
   <row>
     <BC>154</BC>
     <WN-3.0-Synset>v120316</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>deixar, fazer</PT-Words-Man>
     <PT-Word-Cand>converter</PT-Word-Cand>
-    <EN-Gloss>give certain properties to something; "get someone mad"; "She made us look silly"; "He made a fool of himself at the meeting"; "Don't
-    make this into a big deal"; "This invention will make you a millionaire"; "Make yourself clear"</EN-Gloss>
+    <EN-Gloss>give certain properties to something; "get someone mad"; "She made us look silly"; "He made a fool of himself at the meeting"; "Don't make this into a big deal"; "This invention will make you a millionaire"; "Make yourself clear"</EN-Gloss>
     <EN-Words>get, make</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dar certa propriedade a algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1871,25 +1870,24 @@
   <row>
     <BC>155</BC>
     <WN-3.0-Synset>n125629</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>contato, batida</PT-Words-Man>
     <PT-Word-Cand />
-    <EN-Gloss>the act of contacting one thing with another; "repeated hitting raised a large bruise"; "after three misses she finally got a
-    hit"</EN-Gloss>
+    <EN-Gloss>the act of contacting one thing with another; "repeated hitting raised a large bruise"; "after three misses she finally got a hit"</EN-Gloss>
     <EN-Words>hit, hitting, striking</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de uma coisa entrar em contato com outra</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments/> 
   </row>
   <row>
     <BC>156</BC>
     <WN-3.0-Synset>v123170</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>variar, modificar, alterar, mudar</PT-Words-Man>
     <PT-Word-Cand>variar, modificar, alterar</PT-Word-Cand>
     <EN-Gloss>become different in some particular way, without permanently losing one's or its former characteristics or essence; "her mood changes
     in accordance with the weather"; "The supermarket's selection of vegetables varies according to the season"</EN-Gloss>
     <EN-Words>alter, change, vary</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar-se diferente, de forma particular, sem perder permanentemente suas características anteriores ou essências</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1897,11 +1895,11 @@
   <row>
     <BC>157</BC>
     <WN-3.0-Synset>n127286</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>andada, andar_até_a_primeira_base</PT-Words-Man>
     <PT-Word-Cand>base por bolas</PT-Word-Cand>
     <EN-Gloss>(baseball) an advance to first base by a batter who receives four balls; "he worked the pitcher for a base on balls"</EN-Gloss>
     <EN-Words>base on balls, pass, walk</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(beisebol) um avanço para a primeira base por um batedor que recebe quatro bolas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>base por bolas</SPA-Words-Sug>
     <Comments />
@@ -1909,12 +1907,12 @@
   <row>
     <BC>158</BC>
     <WN-3.0-Synset>v126264</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>alterar, modificar, mudar</PT-Words-Man>
     <PT-Word-Cand>alterar, modificar</PT-Word-Cand>
     <EN-Gloss>cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the
     city"; "The discussion has changed my thinking about the issue"</EN-Gloss>
     <EN-Words>alter, change, modify</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causa para mudar; fazer diferente; causa uma transformação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cambiar, editar, alterar</SPA-Words-Sug>
     <Comments />
@@ -1922,11 +1920,11 @@
   <row>
     <BC>159</BC>
     <WN-3.0-Synset>n136329</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>chute</PT-Words-Man>
     <PT-Word-Cand>coice</PT-Word-Cand>
     <EN-Gloss>the act of delivering a blow with the foot; "he gave the ball a powerful kick"; "the team's kicking was excellent"</EN-Gloss>
     <EN-Words>boot, kick, kicking</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de aplicar um golpe com o pé</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>patada</SPA-Words-Sug>
     <Comments />
@@ -1934,11 +1932,11 @@
   <row>
     <BC>160</BC>
     <WN-3.0-Synset>n138221</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>beijo,ósculo</PT-Words-Man>
     <PT-Word-Cand>beijo</PT-Word-Cand>
     <EN-Gloss>the act of caressing with the lips (or an instance thereof)</EN-Gloss>
     <EN-Words>buss, kiss, osculation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de acariciar com os lábios (ou uma intância do mesmo)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>beso</SPA-Words-Sug>
     <Comments />
@@ -1946,12 +1944,12 @@
   <row>
     <BC>161</BC>
     <WN-3.0-Synset>n138956</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pegar, agarrar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of catching an object with the hands; "Mays made the catch with his back to the plate"; "he made a grab for the ball before it
     landed"; "Martin's snatch at the bridle failed and the horse raced away"; "the infielder's snap and throw was a single motion"</EN-Gloss>
     <EN-Words>catch, grab, snap, snatch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de pegar algo com as mãos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>agarre, clinch</SPA-Words-Sug>
     <Comments />
@@ -1959,11 +1957,11 @@
   <row>
     <BC>162</BC>
     <WN-3.0-Synset>v137313</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>afetar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>have an effect upon; "Will the new rules affect me?"</EN-Gloss>
     <EN-Words>affect, bear on, bear upon, impact, touch on, touch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter um efeito sobre</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1971,12 +1969,12 @@
   <row>
     <BC>163</BC>
     <WN-3.0-Synset>a127948</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>seguinte, próximo</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>immediately following in time or order; "the following day"; "next in line"; "the next president"; "the next item on the
     list"</EN-Gloss>
     <EN-Words>following, next</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>imediatamente seguinte no tempo ou ordem</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>siguiente</SPA-Words-Sug>
     <Comments />
@@ -1984,12 +1982,12 @@
   <row>
     <BC>164</BC>
     <WN-3.0-Synset>v138508</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>inverter, virar, virar_do_avesso</PT-Words-Man>
     <PT-Word-Cand>mudar</PT-Word-Cand>
     <EN-Gloss>change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the
     president had an affair with a White House intern"</EN-Gloss>
     <EN-Words>change by reversal, reverse, turn</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mudar para o contrário</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cambiar</SPA-Words-Sug>
     <Comments />
@@ -1997,11 +1995,11 @@
   <row>
     <BC>165</BC>
     <WN-3.0-Synset>n141806</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>inspeção, verificação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of inspecting or verifying; "they made a check of their equipment"; "the pilot ran through the check-out procedure"</EN-Gloss>
     <EN-Words>check, check-out procedure, checkout</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de inspecionar ou verificar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>repaso</SPA-Words-Sug>
     <Comments />
@@ -2009,12 +2007,12 @@
   <row>
     <BC>166</BC>
     <WN-3.0-Synset>n142665</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>comparação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of examining resemblances; "they made a comparison of noise levels"; "the fractions selected for comparison must require pupils
     to consider both numerator and denominator"</EN-Gloss>
     <EN-Words>comparing, comparison</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de examinar semelhanças</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>careo</SPA-Words-Sug>
     <Comments />
@@ -2022,11 +2020,11 @@
   <row>
     <BC>167</BC>
     <WN-3.0-Synset>n143251</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>revista, revisão</PT-Words-Man>
     <PT-Word-Cand>acompanhamento</PT-Word-Cand>
     <EN-Gloss>a subsequent examination of a patient for the purpose of monitoring earlier treatment</EN-Gloss>
     <EN-Words>follow-up, followup, reexamination, review</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um exame subseqüente de um paciente com a finalidade de monitorar o tratamento mais cedo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>continuación, seguimiento, follow-through</SPA-Words-Sug>
     <Comments />
@@ -2034,11 +2032,11 @@
   <row>
     <BC>168</BC>
     <WN-3.0-Synset>v140123</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mudar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>change in physical make-up</EN-Gloss>
     <EN-Words>change integrity</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mudar fisicamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2046,11 +2044,11 @@
   <row>
     <BC>169</BC>
     <WN-3.0-Synset>v140967</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>deformar, transformar, mudar_de_forma</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>assume a different shape or form</EN-Gloss>
     <EN-Words>change form, change shape, deform</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>assumir diferente forma</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2058,11 +2056,11 @@
   <row>
     <BC>170</BC>
     <WN-3.0-Synset>v142191</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>formar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>give shape or form to; "shape the dough"; "form the young child's character"</EN-Gloss>
     <EN-Words>form, shape</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dar forma a</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cambiar</SPA-Words-Sug>
     <Comments />
@@ -2070,11 +2068,11 @@
   <row>
     <BC>171</BC>
     <WN-3.0-Synset>v143338</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>moldar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>flatten, stretch, or mold metal or glass, by rolling or by pulling it through a die or by stretching; "draw steel"</EN-Gloss>
     <EN-Words>draw</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>achatar, esticar, ou moldar metal ou vidro, rolando ou puxando através de uma matriz ou esticando</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2082,11 +2080,11 @@
   <row>
     <BC>172</BC>
     <WN-3.0-Synset>v143914</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>torcer, retorcer</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>form into twists; "Twist the strips of dough"</EN-Gloss>
     <EN-Words>twist</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>forma reviravoltas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2094,12 +2092,12 @@
   <row>
     <BC>173</BC>
     <WN-3.0-Synset>v146138</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mudar_de_estado, virar</PT-Words-Man>
     <PT-Word-Cand>tornar-se</PT-Word-Cand>
     <EN-Gloss>undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the
     President when he stole the election"</EN-Gloss>
     <EN-Words>change state, turn</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sofrer uma transformação ou uma mudança de posição ou acção</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2107,12 +2105,12 @@
   <row>
     <BC>174</BC>
     <WN-3.0-Synset>v149583</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tornar, estar, ficar</PT-Words-Man>
     <PT-Word-Cand>morrer, bater a bota, Devenir, acontecer, devir</PT-Word-Cand>
     <EN-Gloss>enter or assume a certain state or condition; "He became annoyed when he heard the bad news"; "It must be getting more serious"; "her
     face went red with anger"; "She went into ecstasy"; "Get going!"</EN-Gloss>
     <EN-Words>become, get, go</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>assumir um certo estado ou condição</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>fenecer, morir, sucumbir, fallecer, estirar la pata, expirar, pasar a mejor vida, perecer, devenir</SPA-Words-Sug>
     <Comments />
@@ -2120,11 +2118,11 @@
   <row>
     <BC>175</BC>
     <WN-3.0-Synset>v153263</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aumentar, acrescentar</PT-Words-Man>
     <PT-Word-Cand>aumentar, acrescentar, acrecentar</PT-Word-Cand>
     <EN-Gloss>make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted"</EN-Gloss>
     <EN-Words>increase</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar maior ou com mais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>aumentar, acrecer</SPA-Words-Sug>
     <Comments />
@@ -2139,7 +2137,7 @@
     <PT-Gloss />
     <PT-Gloss-Sug />
     <SPA-Words-Sug>efecto, influencia</SPA-Words-Sug>
-    <Comments />
+    <Comments>não consegui entender a ligação de da palavra "influence" com o Gloss desse synset</Comments>
   </row>
   <row>
     <BC>177</BC>
