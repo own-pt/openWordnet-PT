@@ -2092,7 +2092,7 @@
   <row>
     <BC>173</BC>
     <WN-3.0-Synset>v146138</WN-3.0-Synset>
-    <PT-Words-Man>mudar_de_estado, virar</PT-Words-Man>
+    <PT-Words-Man>tornar, virar</PT-Words-Man>
     <PT-Word-Cand>tornar-se</PT-Word-Cand>
     <EN-Gloss>undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the
     President when he stole the election"</EN-Gloss>
@@ -2440,7 +2440,7 @@
     <PT-Word-Cand>voto, votação</PT-Word-Cand>
     <EN-Gloss>the opinion of a group as determined by voting; "they put the question to a vote"</EN-Gloss>
     <EN-Words>vote</EN-Words>
-    <PT-Gloss>a opinião de um grupo, determinado pelo voto</PT-Gloss>
+    <PT-Gloss>a opinião de um grupo, determinado por voto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>voto</SPA-Words-Sug>
     <Comments />
@@ -2460,12 +2460,12 @@
   <row>
     <BC>203</BC>
     <WN-3.0-Synset>n183505</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>votação, eleição</PT-Words-Man>
     <PT-Word-Cand>votação, eleição, votação, escrutínio</PT-Word-Cand>
     <EN-Gloss>a choice that is made by counting the number of people in favor of each alternative; "there were only 17 votes in favor of the motion";
     "they allowed just one vote per person"</EN-Gloss>
     <EN-Words>ballot, balloting, vote, voting</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma escolha que é feita contando o número de pessoas em favor de cada alternativa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Voto, voto, elección, votación, votacíon, votando</SPA-Words-Sug>
     <Comments />
@@ -2473,11 +2473,11 @@
   <row>
     <BC>204</BC>
     <WN-3.0-Synset>v180837</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>limpar</PT-Words-Man>
     <PT-Word-Cand>limpar</PT-Word-Cand>
     <EN-Gloss>remove unwanted substances from</EN-Gloss>
     <EN-Words>clean, scavenge</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover substâncias não desejáveis de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2485,11 +2485,11 @@
   <row>
     <BC>205</BC>
     <WN-3.0-Synset>v181664</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desobstruir</PT-Words-Man>
     <PT-Word-Cand>retirar</PT-Word-Cand>
     <EN-Gloss>rid of obstructions; "Clear your desk"</EN-Gloss>
     <EN-Words>clear, unclutter</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>livrar-se de obstruçẽs</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2497,12 +2497,12 @@
   <row>
     <BC>206</BC>
     <WN-3.0-Synset>v182406</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>acrescentar, adicionar, somar</PT-Words-Man>
     <PT-Word-Cand>acrescentar, juntar, aumentar, ajuntar</PT-Word-Cand>
     <EN-Gloss>make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of; "We added two students
     to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table"</EN-Gloss>
     <EN-Words>add</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss >fazer uma adição a; juntar ou combinar ou se unir com os outros; aumentar a qualidade, tamanho, quantidade ou extensão de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>adicionar</SPA-Words-Sug>
     <Comments />
@@ -2510,12 +2510,12 @@
   <row>
     <BC>207</BC>
     <WN-3.0-Synset>v183879</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>incluir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>add as part of something else; put in as part of a set, group, or category; "We must include this chemical element in the
     group"</EN-Gloss>
     <EN-Words>include</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>adicionar como parte de algo mais; encaixar como parte de um conjunto, grupo ou categoria</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2523,24 +2523,24 @@
   <row>
     <BC>208</BC>
     <WN-3.0-Synset>v184117</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>misturar</PT-Words-Man>
     <PT-Word-Cand>misturar</PT-Word-Cand>
     <EN-Gloss>add as an additional element or part; "mix water into the drink"</EN-Gloss>
     <EN-Words>mix in, mix</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>adicionar um elemento a outro, que necessariamente são diferentes</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mezclar</SPA-Words-Sug>
-    <Comments />
+    <Comments> mudei o Gloss porque achei a discrição muito abstrata, se me precipitei por favor me corrija</Comments> 
   </row>
   <row>
     <BC>209</BC>
     <WN-3.0-Synset>n191142</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mudança</PT-Words-Man>
     <PT-Word-Cand>mudança</PT-Word-Cand>
     <EN-Gloss>the action of changing something; "the change of government had no impact on the economy"; "his change on abortion cost him the
     election"</EN-Gloss>
     <EN-Words>change</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cambio, modificación</SPA-Words-Sug>
     <Comments />
@@ -2548,12 +2548,12 @@
   <row>
     <BC>210</BC>
     <WN-3.0-Synset>n192613</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>economia</PT-Words-Man>
     <PT-Word-Cand>poupança, economia, poupanças</PT-Word-Cand>
     <EN-Gloss>an act of economizing; reduction in cost; "it was a small economy to walk to work every day"; "there was a saving of 50
     cents"</EN-Gloss>
     <EN-Words>economy, saving</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um ato de economizar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ahorro, economía, ahorro</SPA-Words-Sug>
     <Comments />
@@ -2561,11 +2561,11 @@
   <row>
     <BC>211</BC>
     <WN-3.0-Synset>v190023</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pontuar, marcar_ponto</PT-Words-Man>
     <PT-Word-Cand>pontilhar, pontuar</PT-Word-Cand>
     <EN-Gloss>insert punctuation marks into</EN-Gloss>
     <EN-Words>mark, punctuate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>inserir pontuação em</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2573,12 +2573,12 @@
   <row>
     <BC>212</BC>
     <WN-3.0-Synset>v192051</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desanimar, amortecer</PT-Words-Man>
     <PT-Word-Cand>amortecer</PT-Word-Cand>
     <EN-Gloss>make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation; "Terror blunted her feelings"; "deaden a
     sound"</EN-Gloss>
     <EN-Words>blunt, deaden</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar menos animada, intensa ou vigorosa; prejudicar em vigor, força ou sensação de atividade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>amortecer</SPA-Words-Sug>
     <Comments />
@@ -2586,11 +2586,11 @@
   <row>
     <BC>213</BC>
     <WN-3.0-Synset>v193486</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>unir, reunir</PT-Words-Man>
     <PT-Word-Cand>unir</PT-Word-Cand>
     <EN-Gloss>put or add together; "combine resources"</EN-Gloss>
     <EN-Words>combine, compound</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>colocar ou incluir junto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>adicionar</SPA-Words-Sug>
     <Comments />
@@ -2598,11 +2598,11 @@
   <row>
     <BC>214</BC>
     <WN-3.0-Synset>n198451</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ascender</PT-Words-Man>
     <PT-Word-Cand>promoção</PT-Word-Cand>
     <EN-Gloss>act of raising in rank or position</EN-Gloss>
     <EN-Words>promotion</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de crescer em posição ou cargo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2610,11 +2610,11 @@
   <row>
     <BC>215</BC>
     <WN-3.0-Synset>v194534</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desmantelar, desmanchar</PT-Words-Man> 
     <PT-Word-Cand />
     <EN-Gloss>take off or remove; "strip a wall of its wallpaper"</EN-Gloss>
     <EN-Words>dismantle, strip</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>retirar ou remover algo de algum lugar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2622,11 +2622,11 @@
   <row>
     <BC>216</BC>
     <WN-3.0-Synset>v194912</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desnudar</PT-Words-Man>
     <PT-Word-Cand>despir</PT-Word-Cand>
     <EN-Gloss>lay bare; "denude a forest"</EN-Gloss>
     <EN-Words>bare, denudate, denude, strip</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>deixar nu</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desnudar</SPA-Words-Sug>
     <Comments />
@@ -2634,11 +2634,11 @@
   <row>
     <BC>217</BC>
     <WN-3.0-Synset>n199130</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>converter, mudança_de_estado</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of changing something into something different in essential characteristics</EN-Gloss>
     <EN-Words>change of state</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar alguma coisa em algo diferente nas características essenciais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2646,11 +2646,11 @@
   <row>
     <BC>218</BC>
     <WN-3.0-Synset>n199707</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>modificação, alteração, ajuste</PT-Words-Man>
     <PT-Word-Cand>mudança, modificação, alteração</PT-Word-Cand>
     <EN-Gloss>the act of making something different (as e.g. the size of a garment)</EN-Gloss>
     <EN-Words>adjustment, alteration, modification</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar algo (como por exemplo o tamanho de uma peça de roupa)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>modificación, cambio, ajuste, alteración, remuda</SPA-Words-Sug>
     <Comments />
@@ -2658,11 +2658,11 @@
   <row>
     <BC>219</BC>
     <WN-3.0-Synset>v196364</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>queimar</PT-Words-Man>
     <PT-Word-Cand>queimar</PT-Word-Cand>
     <EN-Gloss>burn with heat, fire, or radiation; "The iron burnt a hole in my dress"</EN-Gloss>
     <EN-Words>burn</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>queimar com o calor, fogo ou radiação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2670,11 +2670,11 @@
   <row>
     <BC>220</BC>
     <WN-3.0-Synset>n201058</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transição, passagem</PT-Words-Man>
     <PT-Word-Cand>transição</PT-Word-Cand>
     <EN-Gloss>the act of passing from one state or place to the next</EN-Gloss>
     <EN-Words>passage, transition</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de passar de um estado ou lugar para o outro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>transición</SPA-Words-Sug>
     <Comments />
@@ -2682,11 +2682,11 @@
   <row>
     <BC>221</BC>
     <WN-3.0-Synset>v197590</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>estripar, extrair_as_entranhas</PT-Words-Man>
     <PT-Word-Cand>tirar, estripar, sacar</PT-Word-Cand>
     <EN-Gloss>remove the entrails of; "draw a chicken"</EN-Gloss>
     <EN-Words>disembowel, draw, eviscerate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover as entranhas de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>destripar, desentrañar</SPA-Words-Sug>
     <Comments />
@@ -2694,12 +2694,12 @@
   <row>
     <BC>222</BC>
     <WN-3.0-Synset>n202284</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>oposição</PT-Words-Man>
     <PT-Word-Cand>oposição</PT-Word-Cand>
     <EN-Gloss>the action of opposing something that you disapprove or disagree with; "he encountered a general feeling of resistance from many
     citizens"; "despite opposition from the newspapers he went ahead"</EN-Gloss>
     <EN-Words>opposition, resistance</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a ação de se opor a algo que você desaprova ou discordar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>oposición, resistencia</SPA-Words-Sug>
     <Comments />
@@ -2707,12 +2707,12 @@
   <row>
     <BC>223</BC>
     <WN-3.0-Synset>n202816</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>resistência</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>doing something in opposition to another way of doing it that you don't like; "his style of painting was a reaction against
     cubism"</EN-Gloss>
     <EN-Words>reaction</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer algo de certa forma a se opor a uma outra forma ( forma essa que você não gosta)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2720,11 +2720,11 @@
   <row>
     <BC>224</BC>
     <WN-3.0-Synset>n203342</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>rejeição</PT-Words-Man>
     <PT-Word-Cand>rejeção</PT-Word-Cand>
     <EN-Gloss>the act of rejecting something; "his proposals were met with rejection"</EN-Gloss>
     <EN-Words>rejection</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de rejeitar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2732,11 +2732,11 @@
   <row>
     <BC>225</BC>
     <WN-3.0-Synset>v199659</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>retificar, corrigir</PT-Words-Man>
     <PT-Word-Cand>retificar, emendar</PT-Word-Cand>
     <EN-Gloss>make right or correct; "Correct the mistakes"; "rectify the calculation"</EN-Gloss>
     <EN-Words>correct, rectify, right</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar certo ou corrigir</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>rectificar, recuperar</SPA-Words-Sug>
     <Comments />
@@ -2744,35 +2744,35 @@
   <row>
     <BC>226</BC>
     <WN-3.0-Synset>v203866</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>decair, piorar</PT-Words-Man>
     <PT-Word-Cand>piorar</PT-Word-Cand>
     <EN-Gloss>grow worse; "Conditions in the slum worsened"</EN-Gloss>
     <EN-Words>decline, worsen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar pior</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments> o BC(136) tem o mesmo Gloss desse synset, mas as palavras e os exemplos são diferentes</Comments>
   </row>
   <row>
     <BC>227</BC>
     <WN-3.0-Synset>v204391</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>decair, piorar</PT-Words-Man>
     <PT-Word-Cand>piorar</PT-Word-Cand>
     <EN-Gloss>get worse; "My grades are slipping"</EN-Gloss>
     <EN-Words>drop away, drop off, fall away, slip</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>piorar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments> esse synset tem o Gloss muito parecido com os do BC(226) e BC(136), talvez fosse uma ideia dar uma olhada nesses três e analisar as semelhanças</Comments>
   </row>
   <row>
     <BC>228</BC>
     <WN-3.0-Synset>v205046</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>melhorar</PT-Words-Man>
     <PT-Word-Cand>melhorar, adiantar</PT-Word-Cand>
     <EN-Gloss>get better; "The weather improved toward evening"</EN-Gloss>
     <EN-Words>ameliorate, better, improve, meliorate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar melhor</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mejorar, corregir, potenciar</SPA-Words-Sug>
     <Comments />
@@ -2780,11 +2780,11 @@
   <row>
     <BC>229</BC>
     <WN-3.0-Synset>v205885</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>melhorar, aperfeiçoar</PT-Words-Man>
     <PT-Word-Cand>melhorar, emendar, aperfeiçoar</PT-Word-Cand>
     <EN-Gloss>to make better; "The editor improved the manuscript with his changes"</EN-Gloss>
     <EN-Words>ameliorate, amend, better, improve, meliorate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer melhor</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mejorar, cambiar, corregir, rectificar</SPA-Words-Sug>
     <Comments />
@@ -2792,11 +2792,11 @@
   <row>
     <BC>230</BC>
     <WN-3.0-Synset>n209943</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>conclusão</PT-Words-Man>
     <PT-Word-Cand>conclusão, aborto, terminação</PT-Word-Cand>
     <EN-Gloss>the act of ending something; "the termination of the agreement"</EN-Gloss>
     <EN-Words>conclusion, ending, termination</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de terminar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>terminación, conclusión, terminacion</SPA-Words-Sug>
     <Comments />
@@ -2804,11 +2804,11 @@
   <row>
     <BC>231</BC>
     <WN-3.0-Synset>v208055</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>resolver, chegar_a_acordo, acordar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>settle or put right; "we need to iron out our disagreements"</EN-Gloss>
     <EN-Words>iron out, put right, straighten out</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>resolver ou acordar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2816,11 +2816,11 @@
   <row>
     <BC>232</BC>
     <WN-3.0-Synset>v208210</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>agravar</PT-Words-Man>
     <PT-Word-Cand>piorar, exasperar, agravar, exacerbar</PT-Word-Cand>
     <EN-Gloss>make worse; "This drug aggravates the pain"</EN-Gloss>
     <EN-Words>aggravate, exacerbate, exasperate, worsen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer piorar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>agravar, exacerbar, empeorar, endiñar, recrudecer, avivar</SPA-Words-Sug>
     <Comments />
@@ -2828,11 +2828,11 @@
   <row>
     <BC>233</BC>
     <WN-3.0-Synset>v212414</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>preservar, conservar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>prevent (food) from rotting; "preserved meats"; "keep potatoes fresh"</EN-Gloss>
     <EN-Words>keep, preserve</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>prevenir (alimentos) de podridão</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2840,11 +2840,11 @@
   <row>
     <BC>234</BC>
     <WN-3.0-Synset>n216174</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>demissão, liberação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the termination of someone's employment (leaving them free to depart)</EN-Gloss>
     <EN-Words>discharge, dismissal, dismission, firing, liberation, release, sack, sacking</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o término do emprego de alguém (deixando livre para sair)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>liberación</SPA-Words-Sug>
     <Comments />
@@ -2852,11 +2852,11 @@
   <row>
     <BC>235</BC>
     <WN-3.0-Synset>n217014</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>destruição, devastação</PT-Words-Man>
     <PT-Word-Cand>destruição, devastação</PT-Word-Cand>
     <EN-Gloss>the termination of something by causing so much damage to it that it cannot be repaired or no longer exists</EN-Gloss>
     <EN-Words>destruction, devastation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o término de algo de tal forma que esse algo foi tão danificado que não pode ser mais consertado e nem mais existir</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>destrucción, destrozo</SPA-Words-Sug>
     <Comments />
@@ -2864,11 +2864,11 @@
   <row>
     <BC>236</BC>
     <WN-3.0-Synset>v213794</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enlatar, pôr_em_conserva</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>preserve in a can or tin; "tinned foods are not very tasty"</EN-Gloss>
     <EN-Words>can, put up, tin</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>preservar em um recipiente</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug>enlatar</SPA-Words-Sug>
     <Comments />
@@ -2876,11 +2876,11 @@
   <row>
     <BC>237</BC>
     <WN-3.0-Synset>v214951</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>molhar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>cause to become wet; "Wet your face"</EN-Gloss>
     <EN-Words>wet</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a causa para ficar molhado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mojar</SPA-Words-Sug>
     <Comments />
@@ -2888,11 +2888,11 @@
   <row>
     <BC>238</BC>
     <WN-3.0-Synset>n219012</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>homicídio</PT-Words-Man>
     <PT-Word-Cand>homicídio, matança</PT-Word-Cand>
     <EN-Gloss>the act of terminating a life</EN-Gloss>
     <EN-Words>kill, killing, putting to death</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de terminar com uma vida</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>homicidio, asesinato, matanza</SPA-Words-Sug>
     <Comments />
@@ -2900,11 +2900,11 @@
   <row>
     <BC>239</BC>
     <WN-3.0-Synset>n220522</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>assassinato, homicídio_doloso</PT-Words-Man>
     <PT-Word-Cand>homicídio, homicídio, assassínio</PT-Word-Cand>
     <EN-Gloss>unlawful premeditated killing of a human being by a human being</EN-Gloss>
     <EN-Words>execution, murder, slaying</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss> homicídio ilegal e premeditado de um ser humano por outro ser humano</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>asesinato, asesinato, homicidio</SPA-Words-Sug>
     <Comments />
@@ -2912,11 +2912,11 @@
   <row>
     <BC>240</BC>
     <WN-3.0-Synset>v217152</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>inundar</PT-Words-Man>
     <PT-Word-Cand>inundar</PT-Word-Cand>
     <EN-Gloss>cover with liquid, usually water; "The swollen river flooded the village"; "The broken vein had flooded blood in her eyes"</EN-Gloss>
     <EN-Words>flood</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cobrir de líquido, normalmente água</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
