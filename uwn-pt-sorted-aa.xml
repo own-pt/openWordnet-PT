@@ -811,7 +811,7 @@
   <row>
     <BC>68</BC>
     <WN-3.0-Synset>n43609</WN-3.0-Synset>
-    <PT-Words-Man/>
+    <PT-Words-Man />
     <PT-Word-Cand />
     <EN-Gloss>the act or means of getting rid of something</EN-Gloss>
     <EN-Words>disposal, disposition</EN-Words>
@@ -1515,11 +1515,11 @@
   <row>
     <BC>126</BC>
     <WN-3.0-Synset>v75021</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cansar, fadigar</PT-Words-Man>
     <PT-Word-Cand>cansar</PT-Word-Cand>
     <EN-Gloss>exhaust or get tired through overuse or great strain or stress; "We wore ourselves out on this hike"</EN-Gloss>
     <EN-Words>fag out, fag, fatigue, jade, outwear, tire out, tire, wear down, wear out, wear upon, wear, weary</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>exaustão ou cansaço através de uso excessivo ou grande tensão ou estresse</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cansar, cansarse, fatigar, abroncar</SPA-Words-Sug>
     <Comments />
@@ -2118,7 +2118,7 @@
   <row>
     <BC>175</BC>
     <WN-3.0-Synset>v153263</WN-3.0-Synset>
-    <PT-Words-Man>aumentar, acrescentar</PT-Words-Man>
+    <PT-Words-Man>aumentar, ampliar</PT-Words-Man>
     <PT-Word-Cand>aumentar, acrescentar, acrecentar</PT-Word-Cand>
     <EN-Gloss>make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted"</EN-Gloss>
     <EN-Words>increase</EN-Words>
@@ -2130,14 +2130,14 @@
   <row>
     <BC>176</BC>
     <WN-3.0-Synset>n157081</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>acidente</PT-Words-Man>
     <PT-Word-Cand>efeitos</PT-Word-Cand>
     <EN-Gloss>causing something without any direct or apparent effort</EN-Gloss>
     <EN-Words>influence</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causar algo sem qualquer esforço direto ou aparente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>efecto, influencia</SPA-Words-Sug>
-    <Comments>não consegui entender a ligação de da palavra "influence" com o Gloss desse synset</Comments>
+    <Comments />
   </row>
   <row>
     <BC>177</BC>
@@ -2178,7 +2178,7 @@
   <row>
     <BC>180</BC>
     <WN-3.0-Synset>v158222</WN-3.0-Synset>
-    <PT-Words-Man>subir, crescer</PT-Words-Man>
+    <PT-Words-Man>subir, crescer, aumentar</PT-Words-Man>
     <PT-Word-Cand>subir, aumentar</PT-Word-Cand>
     <EN-Gloss>rise in rate or price; "The stock market gained 24 points today"</EN-Gloss>
     <EN-Words>advance, gain</EN-Words>
@@ -2190,7 +2190,7 @@
   <row>
     <BC>181</BC>
     <WN-3.0-Synset>v158503</WN-3.0-Synset>
-    <PT-Words-Man>aumentar</PT-Words-Man>
+    <PT-Words-Man>aumentar, elevar</PT-Words-Man>
     <PT-Word-Cand>aumentar</PT-Word-Cand>
     <EN-Gloss>raise the level or amount of something; "raise my salary"; "raise the price of bread"</EN-Gloss>
     <EN-Words>raise</EN-Words>
@@ -2924,11 +2924,11 @@
   <row>
     <BC>241</BC>
     <WN-3.0-Synset>v218330</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ressecar, estorricar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>cause to wither or parch from exposure to heat; "The sun parched the earth"</EN-Gloss>
     <EN-Words>parch, sear</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causa de murchar e ressecar por exposição ao calor</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>resecar, chamuscar, agostar, abrasar</SPA-Words-Sug>
     <Comments />
@@ -2936,11 +2936,11 @@
   <row>
     <BC>242</BC>
     <WN-3.0-Synset>v218475</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>secar</PT-Words-Man>
     <PT-Word-Cand>secar</PT-Word-Cand>
     <EN-Gloss>remove the moisture from and make dry; "dry clothes"; "dry hair"</EN-Gloss>
     <EN-Words>dry out, dry</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover a umidade e tornar seco</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>secar, limpiar</SPA-Words-Sug>
     <Comments />
@@ -2948,11 +2948,11 @@
   <row>
     <BC>243</BC>
     <WN-3.0-Synset>v219403</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>secar</PT-Words-Man> 
     <PT-Word-Cand />
     <EN-Gloss>become dry or drier; "The laundry dries in the sun"</EN-Gloss>
     <EN-Words>dry out, dry</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar seco ou mais seco</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2960,12 +2960,12 @@
   <row>
     <BC>244</BC>
     <WN-3.0-Synset>v220869</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fortalecer, fortificar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make strong or stronger; "This exercise will strengthen your upper body"; "strengthen the relations between the two
     countries"</EN-Gloss>
     <EN-Words>beef up, fortify, strengthen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar forte ou mais forte</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>reforzar</SPA-Words-Sug>
     <Comments />
@@ -2973,11 +2973,11 @@
   <row>
     <BC>245</BC>
     <WN-3.0-Synset>v224901</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enfraquecer, amortecer</PT-Words-Man>
     <PT-Word-Cand>debilitar, enfraqueça-se</PT-Word-Cand>
     <EN-Gloss>lessen the strength of; "The fever weakened his body"</EN-Gloss>
     <EN-Words>weaken</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>diminuir a força de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>debilitar, atenuar, suavizar, flaquear</SPA-Words-Sug>
     <Comments />
@@ -2985,11 +2985,11 @@
   <row>
     <BC>246</BC>
     <WN-3.0-Synset>n230172</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desaparecimento</PT-Words-Man>
     <PT-Word-Cand>desaparecimento</PT-Word-Cand>
     <EN-Gloss>gradually ceasing to be visible</EN-Gloss>
     <EN-Words>disappearance, fade</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>deixar de ser visível gradualmente</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desvanecimiento</SPA-Words-Sug>
     <Comments />
@@ -2997,11 +2997,11 @@
   <row>
     <BC>247</BC>
     <WN-3.0-Synset>v226566</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>intensificar</PT-Words-Man>
     <PT-Word-Cand>aumentar</PT-Word-Cand>
     <EN-Gloss>become more intense; "The debate intensified"; "His dislike for raw fish only deepened in Japan"</EN-Gloss>
     <EN-Words>deepen, intensify</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar mais intenso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3009,11 +3009,11 @@
   <row>
     <BC>248</BC>
     <WN-3.0-Synset>n231567</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>anulaçao</PT-Words-Man>
     <PT-Word-Cand>anulação</PT-Word-Cand>
     <EN-Gloss>the act of nullifying; making null and void; counteracting or overriding the effect or force of something</EN-Gloss>
     <EN-Words>nullification, override</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de anular; tornando nula e sem efeito; neutralizar ou transpor o efeito ou a força de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>anulación, cancelación</SPA-Words-Sug>
     <Comments />
@@ -3021,11 +3021,11 @@
   <row>
     <BC>249</BC>
     <WN-3.0-Synset>n232386</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cancelamento</PT-Words-Man>
     <PT-Word-Cand>anulação, cancelamento</PT-Word-Cand>
     <EN-Gloss>the act of cancelling; calling off some arrangement</EN-Gloss>
     <EN-Words>cancellation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de cancelar; desmarcar um compromisso </PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>anulación, borradura</SPA-Words-Sug>
     <Comments />
@@ -3033,11 +3033,11 @@
   <row>
     <BC>250</BC>
     <WN-3.0-Synset>n234892</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reversão, inversão</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a change from one state to the opposite state; "there was a reversal of autonomic function"</EN-Gloss>
     <EN-Words>reversal</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma mudança de um estado para um estado oposto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>reversion</SPA-Words-Sug>
     <Comments />
@@ -3045,11 +3045,11 @@
   <row>
     <BC>251</BC>
     <WN-3.0-Synset>v230746</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aumentar</PT-Words-Man>
     <PT-Word-Cand>aumentar, crescer</PT-Word-Cand>
     <EN-Gloss>become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast"</EN-Gloss>
     <EN-Words>grow</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar mais largo, maior; expandir ou ganhar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>aumentar</SPA-Words-Sug>
     <Comments />
@@ -3057,11 +3057,11 @@
   <row>
     <BC>252</BC>
     <WN-3.0-Synset>n235435</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>começo</PT-Words-Man>
     <PT-Word-Cand>começo, princípio, início</PT-Word-Cand>
     <EN-Gloss>the act of starting something; "he was responsible for the beginning of negotiations"</EN-Gloss>
     <EN-Words>beginning, commencement, start</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de começar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>principio</SPA-Words-Sug>
     <Comments />
@@ -3069,12 +3069,12 @@
   <row>
     <BC>253</BC>
     <WN-3.0-Synset>v231557</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>crescer</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>increase in size by natural process; "Corn doesn't grow here"; "In these forests, mushrooms grow under the trees"; "her hair doesn't
     grow much anymore"</EN-Gloss>
     <EN-Words>grow</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>aumento no tamanho por processo natural</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3082,12 +3082,12 @@
   <row>
     <BC>254</BC>
     <WN-3.0-Synset>n237078</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>estabelecimento, constituição</PT-Words-Man>
     <PT-Word-Cand>organização, Constituição, Constituições, formação, estabelecimento, fundação</PT-Word-Cand>
     <EN-Gloss>the act of forming or establishing something; "the constitution of a PTA group last year"; "it was the establishment of his
     reputation"; "he still remembers the organization of the club"</EN-Gloss>
     <EN-Words>constitution, establishment, formation, organisation, organization</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de formar ou estabelecer alguma coisa;</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Constitución, Constitucion, Constituciones, constitución, establecimiento</SPA-Words-Sug>
     <Comments />
@@ -3095,11 +3095,11 @@
   <row>
     <BC>255</BC>
     <WN-3.0-Synset>v233335</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>limitar, restringir</PT-Words-Man>
     <PT-Word-Cand>limitar, restringir</PT-Word-Cand>
     <EN-Gloss>place limits on (extent or access); "restrict the use of this parking lot"; "limit the time you can spend with your friends"</EN-Gloss>
     <EN-Words>bound, confine, limit, restrain, restrict, throttle, trammel</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estabelecer limites em (alcance ou acesso)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>limitar</SPA-Words-Sug>
     <Comments />
@@ -3107,11 +3107,11 @@
   <row>
     <BC>256</BC>
     <WN-3.0-Synset>v234725</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>delimitar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>set boundaries to and delimit; "mark out the territory"</EN-Gloss>
     <EN-Words>mark off, mark out</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estabelecer barreiras e delimitaçoes</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3119,11 +3119,11 @@
   <row>
     <BC>257</BC>
     <WN-3.0-Synset>v235368</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>restringir, limitar</PT-Words-Man>
     <PT-Word-Cand>limitar, demarcar</PT-Word-Cand>
     <EN-Gloss>restrict or confine, "I limit you to two visits to the pub a day"</EN-Gloss>
     <EN-Words>circumscribe, confine, limit</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>restringir ou confinar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>circunscribir, limitar</SPA-Words-Sug>
     <Comments />
@@ -3131,11 +3131,11 @@
   <row>
     <BC>258</BC>
     <WN-3.0-Synset>v236999</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ferver</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>cook until very little liquid is left; "The cook reduced the sauce by boiling it for a long time"</EN-Gloss>
     <EN-Words>boil down, concentrate, reduce</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cozinhar até restar muito pouco de líquido</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3143,11 +3143,11 @@
   <row>
     <BC>259</BC>
     <WN-3.0-Synset>v237259</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ferver</PT-Words-Man> 
     <PT-Word-Cand>diminuir</PT-Word-Cand>
     <EN-Gloss>be cooked until very little liquid is left; "The sauce should reduce to one cup"</EN-Gloss>
     <EN-Words>boil down, concentrate, decoct, reduce</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser cozinhado até que muito pouco de líquido que resta</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mermar, disminuir</SPA-Words-Sug>
     <Comments />
@@ -3155,12 +3155,12 @@
   <row>
     <BC>260</BC>
     <WN-3.0-Synset>v237877</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desoxidar</PT-Words-Man>
     <PT-Word-Cand>desoxidar</PT-Word-Cand>
     <EN-Gloss>to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of
     electrons</EN-Gloss>
     <EN-Words>deoxidise, deoxidize, reduce</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover oxigênio de um composto, ou causar a reação com hidrogênio ou formar um hidreto, ou sofrer um aumento no número de elétrons</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desoxidar</SPA-Words-Sug>
     <Comments />
@@ -3168,12 +3168,12 @@
   <row>
     <BC>261</BC>
     <WN-3.0-Synset>n243918</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>preparo, culinária</PT-Words-Man>
     <PT-Word-Cand>cozinha, Culinária, cozedura, culinária</PT-Word-Cand>
     <EN-Gloss>the act of preparing something (as food) by the application of heat; "cooking can be a great art"; "people are needed who have
     experience in cookery"; "he left the preparation of meals to his wife"</EN-Gloss>
     <EN-Words>cookery, cooking, preparation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de preparar algo (comida) pela aplicação de calor</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cocina, Coccion, Cocina, cocción, arte culinario, gastronomía, cocción</SPA-Words-Sug>
     <Comments />
@@ -3181,11 +3181,11 @@
   <row>
     <BC>262</BC>
     <WN-3.0-Synset>v240571</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>encolher, murchar</PT-Words-Man>
     <PT-Word-Cand>diminuir, minguar, encolher, contrair</PT-Word-Cand>
     <EN-Gloss>become smaller or draw together; "The fabric shrank"; "The balloon shrank"</EN-Gloss>
     <EN-Words>contract, shrink</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar menor ou contrair</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mermar, menguar</SPA-Words-Sug>
     <Comments />
@@ -3193,11 +3193,11 @@
   <row>
     <BC>263</BC>
     <WN-3.0-Synset>v241038</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>diminuir, reduzir, ficar_menor</PT-Words-Man>
     <PT-Word-Cand>diminuir, contrair, encolher</PT-Word-Cand>
     <EN-Gloss>reduce in size; reduce physically; "Hot water will shrink the sweater"; "Can you shrink this image?"</EN-Gloss>
     <EN-Words>reduce, shrink</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>reduzir em tamanho; reduzir fisicamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mermar</SPA-Words-Sug>
     <Comments />
@@ -3205,11 +3205,11 @@
   <row>
     <BC>264</BC>
     <WN-3.0-Synset>v241689</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>murchar, enrugar</PT-Words-Man>
     <PT-Word-Cand>murchar, encarquilhar-se, engelhar, enrugar-se</PT-Word-Cand>
     <EN-Gloss>wither, as with a loss of moisture; "The fruit dried and shriveled"</EN-Gloss>
     <EN-Words>shrink, shrivel up, shrivel, wither</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>murchar, como com uma perda de umidade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mermar, marchitar</SPA-Words-Sug>
     <Comments />
@@ -3217,11 +3217,11 @@
   <row>
     <BC>265</BC>
     <WN-3.0-Synset>a2100031</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pai</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>used of the older of two persons of the same name especially used to distinguish a father from his son; "Bill Adams, Sr."</EN-Gloss>
     <EN-Words>elder, older, sr.</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>utilizado pelo mais velho de duas pessoas com o mesmo nome, em especial usado para distinguir um pai de seu filho</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>más viejo</SPA-Words-Sug>
     <Comments />
@@ -3229,11 +3229,11 @@
   <row>
     <BC>266</BC>
     <WN-3.0-Synset>v243900</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>resumir, condensar, abreviar</PT-Words-Man>
     <PT-Word-Cand>abreviar, encurtar, condensar, contrair, resumir, encolher, restringir</PT-Word-Cand>
     <EN-Gloss>reduce in scope while retaining essential elements; "The manuscript must be shortened"</EN-Gloss>
     <EN-Words>abbreviate, abridge, contract, cut, foreshorten, reduce, shorten</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss> reduzir em âmbito mantendo elementos essenciais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>abreviar, acortar, resumir, compendiar, condensar</SPA-Words-Sug>
     <Comments />
@@ -3241,11 +3241,11 @@
   <row>
     <BC>267</BC>
     <WN-3.0-Synset>n248977</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>melhoramento</PT-Words-Man>
     <PT-Word-Cand>melhoramento, melhora</PT-Word-Cand>
     <EN-Gloss>the act of improving something; "their improvements increased the value of the property"</EN-Gloss>
     <EN-Words>improvement</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de melhorar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mejora</SPA-Words-Sug>
     <Comments />
@@ -3253,11 +3253,11 @@
   <row>
     <BC>268</BC>
     <WN-3.0-Synset>v245059</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>diminuir, amenizar</PT-Words-Man>
     <PT-Word-Cand>diminuir, minguar, reduzir, enfraquecer</PT-Word-Cand>
     <EN-Gloss>become less in amount or intensity; "The storm abated"; "The rain let up after a few hours"</EN-Gloss>
     <EN-Words>abate, die away, let up, slack off, slack</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar menos quantitativo ou intenso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mermar, disminuir, menguar</SPA-Words-Sug>
     <Comments />
@@ -3265,12 +3265,12 @@
   <row>
     <BC>269</BC>
     <WN-3.0-Synset>n250259</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desenvolvimento</PT-Words-Man>
     <PT-Word-Cand>desenvolvimento, desenvolução</PT-Word-Cand>
     <EN-Gloss>act of improving by expanding or enlarging or refining; "he congratulated them on their development of a plan to meet the emergency";
     "they funded research and development"</EN-Gloss>
     <EN-Words>development</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de melhoria através da expansão ou ampliação ou refinação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desarrollo</SPA-Words-Sug>
     <Comments />
@@ -3278,11 +3278,11 @@
   <row>
     <BC>270</BC>
     <WN-3.0-Synset>n251013</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>limpeza</PT-Words-Man>
     <PT-Word-Cand>limpeza, limpeza (desinfecção)</PT-Word-Cand>
     <EN-Gloss>the act of making something clean; "he gave his shoes a good cleaning"</EN-Gloss>
     <EN-Words>cleaning, cleansing, cleanup</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de fazer algo ficar limpo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>limpieza, limpia, aseo</SPA-Words-Sug>
     <Comments />
@@ -3290,11 +3290,11 @@
   <row>
     <BC>271</BC>
     <WN-3.0-Synset>v248659</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>progredir, avançar</PT-Words-Man>
     <PT-Word-Cand>progredir, dar-se bem, entender-se</PT-Word-Cand>
     <EN-Gloss>develop in a positive way; "He progressed well in school"; "My plants are coming along"; "Plans are shaping up"</EN-Gloss>
     <EN-Words>advance, come along, come on, get along, get on, progress, shape up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>crescer positivamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>progresar, llevarse bien</SPA-Words-Sug>
     <Comments />
@@ -3302,11 +3302,11 @@
   <row>
     <BC>272</BC>
     <WN-3.0-Synset>v249852</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>amadurecer</PT-Words-Man>
     <PT-Word-Cand>amadurecer, madurar</PT-Word-Cand>
     <EN-Gloss>grow ripe; "The plums ripen in July"</EN-Gloss>
     <EN-Words>ripen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar maduro (alimentos)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>madurar</SPA-Words-Sug>
     <Comments />
@@ -3314,11 +3314,11 @@
   <row>
     <BC>273</BC>
     <WN-3.0-Synset>v250181</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>amadurecer</PT-Words-Man>
     <PT-Word-Cand>amadurecer</PT-Word-Cand>
     <EN-Gloss>develop and reach maturity; undergo maturation; "He matured fast"; "The child grew fast"</EN-Gloss>
     <EN-Words>grow, maturate, mature</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>desenvolver e atingir a maturidade; ficar maduro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3326,11 +3326,11 @@
   <row>
     <BC>274</BC>
     <WN-3.0-Synset>v251064</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>evoluir, desenvolver</PT-Words-Man>
     <PT-Word-Cand>evolucionar, evoluir, desenvolver-se</PT-Word-Cand>
     <EN-Gloss>undergo development or evolution; "Modern man evolved a long time ago"</EN-Gloss>
     <EN-Words>evolve</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>submeter a um desenvolvimento ou evolução</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3338,13 +3338,13 @@
   <row>
     <BC>275</BC>
     <WN-3.0-Synset>v252019</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desenvolver, progredir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A
     flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has
     developed over a long time"</EN-Gloss>
     <EN-Words>develop</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>crescer, progredir, se desdobram, ou evoluir através de um processo de evolução, o crescimento natural, a diferenciação, ou um ambiente propício</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3352,11 +3352,11 @@
   <row>
     <BC>276</BC>
     <WN-3.0-Synset>n258854</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>retificação, correção</PT-Words-Man>
     <PT-Word-Cand>rectificação, retificação, correção</PT-Word-Cand>
     <EN-Gloss>the act of offering an improvement to replace a mistake; setting right</EN-Gloss>
     <EN-Words>correction, rectification</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de contribuir uma melhoria para substituir um erro; endireitar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>rectificación, rectificacion</SPA-Words-Sug>
     <Comments />
@@ -3364,11 +3364,11 @@
   <row>
     <BC>277</BC>
     <WN-3.0-Synset>v256507</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>inchar</PT-Words-Man>
     <PT-Word-Cand>inchar</PT-Word-Cand>
     <EN-Gloss>expand abnormally; "The bellies of the starving children are swelling"</EN-Gloss>
     <EN-Words>intumesce, swell up, swell, tumefy, tumesce</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>expendir de forma anormal</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3376,11 +3376,11 @@
   <row>
     <BC>278</BC>
     <WN-3.0-Synset>n260622</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reforma, mudança_para_melhor</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a change for the better as a result of correcting abuses; "justice was for sale before the reform of the law courts"</EN-Gloss>
     <EN-Words>reform</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mudança para melhor como resulatdo da correção de abusos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>reforma</SPA-Words-Sug>
     <Comments />
@@ -3388,11 +3388,11 @@
   <row>
     <BC>279</BC>
     <WN-3.0-Synset>v257269</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>expandir</PT-Words-Man>
     <PT-Word-Cand>inchar, aumentar</PT-Word-Cand>
     <EN-Gloss>become larger in size or volume or quantity; "his business expanded rapidly"</EN-Gloss>
     <EN-Words>expand</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar maior em tamanho, volume ou quantidade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>hincharse</SPA-Words-Sug>
     <Comments />
@@ -3400,11 +3400,11 @@
   <row>
     <BC>280</BC>
     <WN-3.0-Synset>n262249</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>decoração</PT-Words-Man>
     <PT-Word-Cand>decoração, ornamento</PT-Word-Cand>
     <EN-Gloss>the act of decorating something (in the hope of making it more attractive)</EN-Gloss>
     <EN-Words>decoration</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de decorar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>decoración</SPA-Words-Sug>
     <Comments />
@@ -3412,11 +3412,11 @@
   <row>
     <BC>281</BC>
     <WN-3.0-Synset>v258857</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>danificar, avariar, deteriorar</PT-Words-Man>
     <PT-Word-Cand>deteriorar, danificar, avariar, arruinar</PT-Word-Cand>
     <EN-Gloss>inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree"</EN-Gloss>
     <EN-Words>damage</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>infligir dano</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>estropear, menoscabar</SPA-Words-Sug>
     <Comments />
