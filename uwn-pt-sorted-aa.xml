@@ -3667,19 +3667,19 @@
     <PT-Word-Cand>locomoção, curso</PT-Word-Cand>
     <EN-Gloss>self-propelled movement</EN-Gloss>
     <EN-Words>locomotion, travel</EN-Words>
-    <PT-Gloss>movimento autopropulsionado</PT-Gloss>
+    <PT-Gloss>movimento autopropulsado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>locomoción</SPA-Words-Sug>
-    <Comments />
+    <Comments> não sei se defini corretamenta esse Gloss, talvez não exista palavra em português correspondente a esse Gloss.</Comments>
   </row>
   <row>
     <BC>303</BC>
     <WN-3.0-Synset>n283568</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>caminhada</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of traveling by foot; "walking is a healthy form of exercise"</EN-Gloss>
     <EN-Words>walk, walking</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de viajar a pé</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3687,11 +3687,11 @@
   <row>
     <BC>304</BC>
     <WN-3.0-Synset>n284798</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>passeio, caminhada, andada</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of walking somewhere; "he took a walk after lunch"</EN-Gloss>
     <EN-Words>walk</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de andar em algum lugar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3699,11 +3699,11 @@
   <row>
     <BC>305</BC>
     <WN-3.0-Synset>v280930</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>iluminar-se</PT-Words-Man>
     <PT-Word-Cand>amanhecer</PT-Word-Cand>
     <EN-Gloss>become lighter; "The room lightened up"</EN-Gloss>
     <EN-Words>lighten up, lighten</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar-se mais claro (aspecto visual)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>iluminar</SPA-Words-Sug>
     <Comments />
@@ -3711,11 +3711,11 @@
   <row>
     <BC>306</BC>
     <WN-3.0-Synset>v281101</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>descolorir, colorir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>change color, often in an undesired manner; "The shirts discolored"</EN-Gloss>
     <EN-Words>color, colour, discolor, discolour</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mudar a cor, muitas vezes de forma indesejada;</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>decolorar</SPA-Words-Sug>
     <Comments />
@@ -3723,11 +3723,11 @@
   <row>
     <BC>307</BC>
     <WN-3.0-Synset>n285557</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>passo</PT-Words-Man>
     <PT-Word-Cand>passo, andar</PT-Word-Cand>
     <EN-Gloss>the act of changing location by raising the foot and setting it down; "he walked with unsteady steps"</EN-Gloss>
     <EN-Words>step</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar de lugar, movimentando a perna para cima e depois para baixo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3739,19 +3739,19 @@
     <PT-Word-Cand />
     <EN-Gloss>the act of running; traveling on foot at a fast pace; "he broke into a run"; "his daily run keeps him fit"</EN-Gloss>
     <EN-Words>run, running</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de correr; viajando a pé em ritmo acelerado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Carrera a pie</SPA-Words-Sug>
-    <Comments />
+    <Comments> não sei se existe um substantivo próprio em português para o ato de correr</Comments>
   </row>
   <row>
     <BC>309</BC>
     <WN-3.0-Synset>v291873</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>iluminar, brilhar</PT-Words-Man>
     <PT-Word-Cand>alumiar</PT-Word-Cand>
     <EN-Gloss>make lighter or brighter; "This lamp lightens the room a bit"</EN-Gloss>
     <EN-Words>illume, illuminate, illumine, light up, light</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar mais clara ou brilhante</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>alumbrar</SPA-Words-Sug>
     <Comments />
@@ -3759,11 +3759,11 @@
   <row>
     <BC>310</BC>
     <WN-3.0-Synset>n295701</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>viagem, travessia</PT-Words-Man>
     <PT-Word-Cand>viagem, viagens, curso, deslocamento</PT-Word-Cand>
     <EN-Gloss>the act of going from one place to another; "he enjoyed selling but he hated the travel"</EN-Gloss>
     <EN-Words>travel, traveling, travelling</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de ir de um lugar para outro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3771,11 +3771,11 @@
   <row>
     <BC>311</BC>
     <WN-3.0-Synset>v293141</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>embelezar</PT-Words-Man>
     <PT-Word-Cand>adornar</PT-Word-Cand>
     <EN-Gloss>make more beautiful</EN-Gloss>
     <EN-Words>beautify, embellish, fancify, prettify</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar mais bonito</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>hermosear</SPA-Words-Sug>
     <Comments />
@@ -3783,11 +3783,11 @@
   <row>
     <BC>312</BC>
     <WN-3.0-Synset>v294245</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>florescer, florir</PT-Words-Man>
     <PT-Word-Cand>florescer, florir</PT-Word-Cand>
     <EN-Gloss>produce or yield flowers; "The cherry tree bloomed"</EN-Gloss>
     <EN-Words>bloom, blossom, flower</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>produzir ou brotar flores</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>florecer</SPA-Words-Sug>
     <Comments />
@@ -3795,12 +3795,12 @@
   <row>
     <BC>313</BC>
     <WN-3.0-Synset>v296178</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ajustar, acertar</PT-Words-Man>
     <PT-Word-Cand>ajustar</PT-Word-Cand>
     <EN-Gloss>alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front
     wheels"</EN-Gloss>
     <EN-Words>adjust, correct, set</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>alterar ou regular de modo a alcançar exatidão ou adaptar-se a um padrão</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3808,11 +3808,11 @@
   <row>
     <BC>314</BC>
     <WN-3.0-Synset>v299580</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>adequar, adaptar, ajustar</PT-Words-Man>
     <PT-Word-Cand>acomodar, ajustar, adaptar</PT-Word-Cand>
     <EN-Gloss>make fit for, or change to suit a new purpose; "Adapt our native cuisine to the available food resources of the new country"</EN-Gloss>
     <EN-Words>accommodate, adapt</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>adequar para, ou mudar para atender um novo propósito</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>acomodar, adaptar, adecuar, adaptarse, adecuarse</SPA-Words-Sug>
     <Comments />
@@ -3820,11 +3820,11 @@
   <row>
     <BC>315</BC>
     <WN-3.0-Synset>n303849</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>paraquedismo</PT-Words-Man>
     <PT-Word-Cand>Pára-quedismo, Páraquedismo, Paraquedismo</PT-Word-Cand>
     <EN-Gloss>descent with a parachute; "he had done a lot of parachuting in the army"</EN-Gloss>
     <EN-Words>jump, parachuting</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>descida com um paraquedas;</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Paracaidismo, paracaidismo, paracaidismo</SPA-Words-Sug>
     <Comments />
@@ -3832,11 +3832,11 @@
   <row>
     <BC>316</BC>
     <WN-3.0-Synset>n306426</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>viagem, jornada</PT-Words-Man>
     <PT-Word-Cand>viagem</PT-Word-Cand>
     <EN-Gloss>the act of traveling from one place to another</EN-Gloss>
     <EN-Words>journey, journeying</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de viajar de um lugar para outro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>travesía, viaje, recorrido, jornada</SPA-Words-Sug>
     <Comments />
@@ -3844,11 +3844,11 @@
   <row>
     <BC>317</BC>
     <WN-3.0-Synset>n306900</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>etapa, parada</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a section or portion of a journey or course; "then we embarked on the second stage of our Caribbean cruise"</EN-Gloss>
     <EN-Words>leg, stage</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma seção ou parte de uma viagem ou curso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3856,11 +3856,11 @@
   <row>
     <BC>318</BC>
     <WN-3.0-Synset>n308370</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>excursão</PT-Words-Man>
     <PT-Word-Cand>viagem</PT-Word-Cand>
     <EN-Gloss>a journey for some purpose (usually including the return); "he took a trip to the shopping center"</EN-Gloss>
     <EN-Words>trip</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma jornada com algum propósito (geralmente incluindo o retorno)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3868,23 +3868,23 @@
   <row>
     <BC>319</BC>
     <WN-3.0-Synset>n307631</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>passeio</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a journey in a vehicle (usually an automobile); "he took the family for a drive in his new car"</EN-Gloss>
     <EN-Words>drive, ride</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma jornada em um veículo ( geralmente um automóvel)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>rait</SPA-Words-Sug>
-    <Comments />
+    <Comments> não existe um verbo em português especifico para esse Gloss, mas eu acho que passeio poderia se encaixar bem, oque vc acha?</Comments>
   </row>
   <row>
     <BC>320</BC>
     <WN-3.0-Synset>v307568</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>entrar_em_erupção</PT-Words-Man>
     <PT-Word-Cand>entrar em erupção</PT-Word-Cand>
     <EN-Gloss>become active and spew forth lava and rocks; "Vesuvius erupts once in a while"</EN-Gloss>
     <EN-Words>belch, erupt, extravasate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar-se ativo e lançar lava e rochas para fora</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3892,11 +3892,11 @@
   <row>
     <BC>321</BC>
     <WN-3.0-Synset>v309310</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>explodir, estourar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>come open suddenly and violently, as if from internal pressure; "The bubble burst"</EN-Gloss>
     <EN-Words>break open, burst, split</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>vir a abrir de repente e violentamente, como se tivesse pressão interna</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3904,11 +3904,11 @@
   <row>
     <BC>322</BC>
     <WN-3.0-Synset>v310386</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>vigorar</PT-Words-Man>
     <PT-Word-Cand>prosperar, crescer vigorosamente, dar lucro</PT-Word-Cand>
     <EN-Gloss>grow vigorously; "The deer population in this town is thriving"; "business is booming"</EN-Gloss>
     <EN-Words>boom, expand, flourish, thrive</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>crescer vigorosamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3916,11 +3916,11 @@
   <row>
     <BC>323</BC>
     <WN-3.0-Synset>v310635</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>proliferar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>grow rapidly; "Pizza parlors proliferate in this area"</EN-Gloss>
     <EN-Words>proliferate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>multiplicar-se rapidamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>proliferar</SPA-Words-Sug>
     <Comments />
@@ -3928,11 +3928,11 @@
   <row>
     <BC>324</BC>
     <WN-3.0-Synset>n315986</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transporte, transferência</PT-Words-Man>
     <PT-Word-Cand>transporte, Transportadoras, transporte, tráfego, transferência</PT-Word-Cand>
     <EN-Gloss>the act of moving something from one location to another</EN-Gloss>
     <EN-Words>conveyance, transfer, transferral, transport, transportation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mover algo de um lugar para outro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Empresas de transporte, transporte, transporte</SPA-Words-Sug>
     <Comments />
@@ -3940,11 +3940,11 @@
   <row>
     <BC>325</BC>
     <WN-3.0-Synset>v312380</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escurecer</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>become dark or darker; "The sky darkened"</EN-Gloss>
     <EN-Words>darken</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar escuro ou mais escuro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>oscurecer, ensombrecer, obscurecer</SPA-Words-Sug>
     <Comments />
@@ -3952,11 +3952,11 @@
   <row>
     <BC>326</BC>
     <WN-3.0-Synset>n317207</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>entrega</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of delivering or distributing something (as goods or mail); "his reluctant delivery of bad news"</EN-Gloss>
     <EN-Words>bringing, delivery</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de entregar ou distribur  algo (como bens ou correio)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>traída, extradicion</SPA-Words-Sug>
     <Comments />
@@ -3964,11 +3964,11 @@
   <row>
     <BC>327</BC>
     <WN-3.0-Synset>n319939</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>perseguição, caçada</PT-Words-Man>
     <PT-Word-Cand>perseguição, caça, caçada</PT-Word-Cand>
     <EN-Gloss>the act of pursuing in an effort to overtake or capture; "the culprit started to run and the cop took off in pursuit"</EN-Gloss>
     <EN-Words>chase, following, pursual, pursuit</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de perseguir com esforço para ultrapassar ou capturar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>acosamiento</SPA-Words-Sug>
     <Comments />
@@ -3976,11 +3976,11 @@
   <row>
     <BC>328</BC>
     <WN-3.0-Synset>n320852</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>introdução, inserção</PT-Words-Man>
     <PT-Word-Cand>inserção</PT-Word-Cand>
     <EN-Gloss>the act of putting one thing into another</EN-Gloss>
     <EN-Words>insertion, introduction, intromission</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de botar uma coisa dentro de outra</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>introducción, inserción</SPA-Words-Sug>
     <Comments />
@@ -3988,11 +3988,11 @@
   <row>
     <BC>329</BC>
     <WN-3.0-Synset>v316768</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>encolher, encurtar</PT-Words-Man>
     <PT-Word-Cand>encolher, encurtar</PT-Word-Cand>
     <EN-Gloss>make shorter than originally intended; reduce or retrench in length or duration; "He shortened his trip due to illness"</EN-Gloss>
     <EN-Words>shorten</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar mais curto do que o inicialmente; reduzir ou recuar no comprimento ou duração</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4000,11 +4000,11 @@
   <row>
     <BC>330</BC>
     <WN-3.0-Synset>v317700</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>alongar</PT-Words-Man>
     <PT-Word-Cand>alongar, alongar-se, tornar-se mais comprido, tornar-se mais longo, fazer mais comprido, fazer mais longo</PT-Word-Cand>
     <EN-Gloss>make longer; "Lengthen this skirt, please"</EN-Gloss>
     <EN-Words>lengthen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar mais longo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>estirar</SPA-Words-Sug>
     <Comments />
@@ -4012,12 +4012,12 @@
   <row>
     <BC>331</BC>
     <WN-3.0-Synset>v317888</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>prolongar, extender</PT-Words-Man>
     <PT-Word-Cand>alongar</PT-Word-Cand>
     <EN-Gloss>lengthen in time; cause to be or last longer; "We prolonged our stay"; "She extended her visit by another day"; "The meeting was drawn
     out until midnight"</EN-Gloss>
     <EN-Words>draw out, extend, prolong, protract</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>prolongar no tempo; fazer com que seja ou dure mais tempo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4025,11 +4025,11 @@
   <row>
     <BC>332</BC>
     <WN-3.0-Synset>v318816</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>alongar, extender</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make long or longer by pulling and stretching; "stretch the fabric"</EN-Gloss>
     <EN-Words>elongate, stretch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar longo ou mais longo puxando ou esticando</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4037,11 +4037,11 @@
   <row>
     <BC>333</BC>
     <WN-3.0-Synset>n324384</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ascensão, elevação</PT-Words-Man>
     <PT-Word-Cand>escalada, subida</PT-Word-Cand>
     <EN-Gloss>the act of changing location in an upward direction</EN-Gloss>
     <EN-Words>ascending, ascension, ascent, rise</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar de local em um sentido ascendente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ascensión</SPA-Words-Sug>
     <Comments />
@@ -4049,11 +4049,11 @@
   <row>
     <BC>334</BC>
     <WN-3.0-Synset>n325110</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escalada</PT-Words-Man>
     <PT-Word-Cand>escalada, subida</PT-Word-Cand>
     <EN-Gloss>the act of climbing something; "it was a difficult climb to the top"</EN-Gloss>
     <EN-Words>climb, mount</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de escalar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ascensión, subida</SPA-Words-Sug>
     <Comments />
@@ -4061,11 +4061,11 @@
   <row>
     <BC>335</BC>
     <WN-3.0-Synset>n326440</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>descensão</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of changing your location in a downward direction</EN-Gloss>
     <EN-Words>descent</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar de lugar em um sentido descendente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>alunizaje</SPA-Words-Sug>
     <Comments />
@@ -4073,11 +4073,11 @@
   <row>
     <BC>336</BC>
     <WN-3.0-Synset>v322151</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tostar</PT-Words-Man>
     <PT-Word-Cand>beber à saúde de</PT-Word-Cand>
     <EN-Gloss>make brown and crisp by heating; "toast bread"; "crisp potatoes"</EN-Gloss>
     <EN-Words>crisp, crispen, toast</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar marrom e crocante por aquecimento</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4085,7 +4085,7 @@
   <row>
     <BC>337</BC>
     <WN-3.0-Synset>n327366</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false" />
     <PT-Word-Cand />
     <EN-Gloss>the act of dropping something; "they expected the drop would be successful"</EN-Gloss>
     <EN-Words>drop</EN-Words>
