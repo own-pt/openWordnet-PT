@@ -4097,11 +4097,11 @@
   <row>
     <BC>338</BC>
     <WN-3.0-Synset>v322847</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cozinhar</PT-Words-Man>
     <PT-Word-Cand>cozinhar, assar</PT-Word-Cand>
     <EN-Gloss>transform and make suitable for consumption by heating; "These potatoes have to cook for 20 minutes"</EN-Gloss>
     <EN-Words>cook</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>transformar e tornar adequado para consumo por aquecimento</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cocinar, guisar</SPA-Words-Sug>
     <Comments />
@@ -4109,11 +4109,11 @@
   <row>
     <BC>339</BC>
     <WN-3.0-Synset>n328015</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>retorno, regresso</PT-Words-Man>
     <PT-Word-Cand>regresso</PT-Word-Cand>
     <EN-Gloss>the act of going back to a prior location; "they set out on their return to the base camp"</EN-Gloss>
     <EN-Words>return</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de voltar para um lugar anterior</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>regreso</SPA-Words-Sug>
     <Comments />
@@ -4121,23 +4121,23 @@
   <row>
     <BC>340</BC>
     <WN-3.0-Synset>n329227</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false" />
     <PT-Word-Cand />
     <EN-Gloss>the act of flowing or streaming; continuous progression</EN-Gloss>
     <EN-Words>flow, stream</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de fluir; progressão contínua</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não achei o significado de streaming e tambem acho que esse synset nao tem correspondente em portugues</Comments>
   </row>
   <row>
     <BC>341</BC>
     <WN-3.0-Synset>n329819</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enchente, inundação</PT-Words-Man>
     <PT-Word-Cand>aluvião</PT-Word-Cand>
     <EN-Gloss>a large flow</EN-Gloss>
     <EN-Words>flood, outpouring, overflow</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um grande escoamento</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>inundación, desbordamiento</SPA-Words-Sug>
     <Comments />
@@ -4145,11 +4145,11 @@
   <row>
     <BC>342</BC>
     <WN-3.0-Synset>v325328</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fritar</PT-Words-Man>
     <PT-Word-Cand>fritar, frigir</PT-Word-Cand>
     <EN-Gloss>cook on a hot surface using fat; "fry the pancakes"</EN-Gloss>
     <EN-Words>fry</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cozinhar em uma superfície quente usando  gordura</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4157,24 +4157,24 @@
   <row>
     <BC>343</BC>
     <WN-3.0-Synset>n330160</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aceleração</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>changing location rapidly</EN-Gloss>
     <EN-Words>hurrying, speed, speeding</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mudar de lugar rapidamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>velocidad</SPA-Words-Sug>
-    <Comments />
+    <Comments>nao sei se traduzi corretamente, foi a melhor tradução que pude fazer</Comments>
   </row>
   <row>
     <BC>344</BC>
     <WN-3.0-Synset>n331950</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mudança</PT-Words-Man>
     <PT-Word-Cand>movimento, mudança</PT-Word-Cand>
     <EN-Gloss>a change of position that does not entail a change of location; "the reflex motion of his eyebrows revealed his surprise"; "movement is
     a sign of life"; "an impatient move of his hand"; "gastrointestinal motility"</EN-Gloss>
     <EN-Words>motility, motion, move, movement</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma mudança de posição que não implica uma mudança de localização</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4182,11 +4182,11 @@
   <row>
     <BC>345</BC>
     <WN-3.0-Synset>n333366</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>agitação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of agitating something; causing it to move around (usually vigorously)</EN-Gloss>
     <EN-Words>agitation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de agitar algo; causando movimentação (normalmente vigorosa)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4194,11 +4194,11 @@
   <row>
     <BC>346</BC>
     <WN-3.0-Synset>n334509</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>gesto, sinal</PT-Words-Man>
     <PT-Word-Cand>gesto, movimento</PT-Word-Cand>
     <EN-Gloss>motion of hands or body to emphasize or help to express a thought or feeling</EN-Gloss>
     <EN-Words>gesture</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>movimento das mãos ou corpo para ajudar a enfatizar ou para expressar um pensamento ou sentimento</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4206,11 +4206,11 @@
   <row>
     <BC>347</BC>
     <WN-3.0-Synset>n335384</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>inclinação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of inclining; bending forward; "an inclination of his head indicated his agreement"</EN-Gloss>
     <EN-Words>inclination, inclining</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de inclinar; flexionar para a frente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4218,11 +4218,11 @@
   <row>
     <BC>348</BC>
     <WN-3.0-Synset>v331082</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>triturar, moer</PT-Words-Man>
     <PT-Word-Cand>moer</PT-Word-Cand>
     <EN-Gloss>reduce to small pieces or particles by pounding or abrading; "grind the spices in a mortar"; "mash the garlic"</EN-Gloss>
     <EN-Words>bray, comminute, crunch, grind, mash</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>reduzir em pequenos pedaços ou partículas triturando ou pulverizando</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>aplastar</SPA-Words-Sug>
     <Comments />
@@ -4230,23 +4230,23 @@
   <row>
     <BC>349</BC>
     <WN-3.0-Synset>n336430</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false" />
     <PT-Word-Cand />
     <EN-Gloss>the act of nodding the head</EN-Gloss>
     <EN-Words>nod</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de balançar a cabeça</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments> acho que em portugues nao existe um substantivo para esse Gloss</Comments>
   </row>
   <row>
     <BC>350</BC>
     <WN-3.0-Synset>v334186</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>dividir, separar</PT-Words-Man>
     <PT-Word-Cand>dividir</PT-Word-Cand>
     <EN-Gloss>become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart"</EN-Gloss>
     <EN-Words>break, come apart, fall apart, separate, split up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar separado em pedaços ou fragmentos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4254,12 +4254,12 @@
   <row>
     <BC>351</BC>
     <WN-3.0-Synset>v334996</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>romper, quebrar</PT-Words-Man>
     <PT-Word-Cand>dividir, fraturar</PT-Word-Cand>
     <EN-Gloss>destroy the integrity of; usually by force; cause to separate into pieces or fragments; "He broke the glass plate"; "She broke the
     match"</EN-Gloss>
     <EN-Words>break</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>destruir a integridade; geralmente pela força; causa da separação em pedaços ou fragmentos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4267,11 +4267,11 @@
   <row>
     <BC>352</BC>
     <WN-3.0-Synset>n342028</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>rotação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of rotating as if on an axis; "the rotation of the dancer kept time with the music"</EN-Gloss>
     <EN-Words>rotary motion, rotation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de girar, como se tivesse um eixo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>giro, vuelta</SPA-Words-Sug>
     <Comments />
@@ -4279,11 +4279,11 @@
   <row>
     <BC>353</BC>
     <WN-3.0-Synset>v338071</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fragmentar</PT-Words-Man>
     <PT-Word-Cand>fragmentar</PT-Word-Cand>
     <EN-Gloss>break or cause to break into pieces; "The plate fragmented"</EN-Gloss>
     <EN-Words>break up, fragment, fragmentise, fragmentize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>quebrar ou causar a quebra em pedaços</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>fragmentar</SPA-Words-Sug>
     <Comments />
@@ -4291,12 +4291,12 @@
   <row>
     <BC>354</BC>
     <WN-3.0-Synset>v339934</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>acontecer, ocorrer</PT-Words-Man>
     <PT-Word-Cand>acontecer, fazer-se, suceder, acaecer, ocorrer, ter lugar</PT-Word-Cand>
     <EN-Gloss>come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed
     important"</EN-Gloss>
     <EN-Words>come about, fall out, go on, hap, happen, occur, pass off, pass, take place</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>chegar a acorrer</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>acontecer, tener lugar, fenecer, suceder, ocurrir</SPA-Words-Sug>
     <Comments />
@@ -4304,11 +4304,11 @@
   <row>
     <BC>355</BC>
     <WN-3.0-Synset>n345454</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>giro</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>turning or twisting around (in place); "with a quick twist of his head he surveyed the room"</EN-Gloss>
     <EN-Words>turn, twist</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>volta ou giro em torno de (em um lugar)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4316,11 +4316,11 @@
   <row>
     <BC>356</BC>
     <WN-3.0-Synset>n345641</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>torção</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of winding or twisting; "he put the key in the old clock and gave it a good wind"</EN-Gloss>
     <EN-Words>twist, wind, winding</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de enrolar ou torcer</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4328,11 +4328,11 @@
   <row>
     <BC>357</BC>
     <WN-3.0-Synset>n346296</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reorientação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of changing the direction in which something is oriented</EN-Gloss>
     <EN-Words>change of direction, reorientation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar a direção em que algo é orientado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4340,11 +4340,11 @@
   <row>
     <BC>358</BC>
     <WN-3.0-Synset>v341560</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>prosseguir, ir</PT-Words-Man>
     <PT-Word-Cand>ir</PT-Word-Cand>
     <EN-Gloss>follow a certain course; "The inauguration went well"; "how did your interview go?"</EN-Gloss>
     <EN-Words>go, proceed</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>seguir um determinado curso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4352,11 +4352,11 @@
   <row>
     <BC>359</BC>
     <WN-3.0-Synset>n346693</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reversão</PT-Words-Man>
     <PT-Word-Cand>reversão</PT-Word-Cand>
     <EN-Gloss>turning in the opposite direction</EN-Gloss>
     <EN-Words>reversal, reverse, reversion, turnabout, turnaround</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>virada em uma direção oposta</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4364,11 +4364,11 @@
   <row>
     <BC>360</BC>
     <WN-3.0-Synset>n347652</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>agitação, sacolejo</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>causing to move repeatedly from side to side</EN-Gloss>
     <EN-Words>shake, wag, waggle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causa de mover repetidamente de lado a lado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>meneo</SPA-Words-Sug>
     <Comments />
@@ -4376,11 +4376,11 @@
   <row>
     <BC>361</BC>
     <WN-3.0-Synset>v343334</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>repitir, acontecer_de_novo</PT-Words-Man>
     <PT-Word-Cand>reocorrer, acontecer de novo</PT-Word-Cand>
     <EN-Gloss>happen or occur again; "This is a recurring story"</EN-Gloss>
     <EN-Words>recur, repeat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>acontecer ou ocorrer novamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>repetirse</SPA-Words-Sug>
     <Comments />
@@ -4388,11 +4388,11 @@
   <row>
     <BC>362</BC>
     <WN-3.0-Synset>v344174</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>materializar</PT-Words-Man>
     <PT-Word-Cand>acontecer, provir, suceder</PT-Word-Cand>
     <EN-Gloss>come into being; become reality; "Her dream really materialized"</EN-Gloss>
     <EN-Words>happen, materialise, materialize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>vir a ser; tornar realidade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>suceder, ocurrir, pasar, acontecer, materializar</SPA-Words-Sug>
     <Comments />
@@ -4400,11 +4400,11 @@
   <row>
     <BC>363</BC>
     <WN-3.0-Synset>n349369</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>golpe</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a single complete movement</EN-Gloss>
     <EN-Words>stroke</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um movimento único e completo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4412,12 +4412,12 @@
   <row>
     <BC>364</BC>
     <WN-3.0-Synset>v344643</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>acontecer, ocorrer, suceder</PT-Words-Man>
     <PT-Word-Cand>acontecer, acaecer, suceder</PT-Word-Cand>
     <EN-Gloss>happen, occur, or be the case in the course of events or by chance; "It happens that today is my birthday"; "These things befell"
     (Santayana)</EN-Gloss>
     <EN-Words>bechance, befall, happen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>acontecer, ocorrer, ou ser o caso no curso dos acontecimentos ou por acaso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>suceder, ocurrir, pasar, acontecer</SPA-Words-Sug>
     <Comments />
@@ -4425,12 +4425,12 @@
   <row>
     <BC>365</BC>
     <WN-3.0-Synset>v345761</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>começar, iniciar</PT-Words-Man>
     <PT-Word-Cand>começar, iniciar, pôr-se a caminho, pôr-se em marcha</PT-Word-Cand>
     <EN-Gloss>take the first step or steps in carrying out an action; "We began working at dawn"; "Who will start?"; "Get working as soon as the sun
     rises!"; "The first tourists began to arrive in Cambodia"; "He began early in the day"; "Let's get down to work now"</EN-Gloss>
     <EN-Words>begin, commence, get down, get, set about, set out, start out, start</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dar o primeiro passo ou passos na realização de uma ação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>iniciar, empezar, comenzar</SPA-Words-Sug>
     <Comments />
@@ -4438,11 +4438,11 @@
   <row>
     <BC>366</BC>
     <WN-3.0-Synset>n351485</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mudança_de_magnitude</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of changing the amount or size of something</EN-Gloss>
     <EN-Words>change of magnitude</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar o tamanho ou a quantidade de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4450,11 +4450,11 @@
   <row>
     <BC>367</BC>
     <WN-3.0-Synset>n351638</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>diminuição, redução</PT-Words-Man>
     <PT-Word-Cand>diminuição, abatimento, contracção, redução</PT-Word-Cand>
     <EN-Gloss>the act of decreasing or reducing something</EN-Gloss>
     <EN-Words>decrease, diminution, reduction, step-down</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de diminuir ou reduzir algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>disminución, reducción, debilitamiento</SPA-Words-Sug>
     <Comments />
@@ -4462,11 +4462,11 @@
   <row>
     <BC>368</BC>
     <WN-3.0-Synset>v350461</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>perseverar, persistir</PT-Words-Man>
     <PT-Word-Cand>perseverar, persistir, insistir</PT-Word-Cand>
     <EN-Gloss>be persistent, refuse to stop; "he persisted to call me every night"; "The child persisted and kept asking questions"</EN-Gloss>
     <EN-Words>hang in, hang on, hold on, persevere, persist</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser persistente, se recusar a parar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>perseverar, aguantar, subsistir</SPA-Words-Sug>
     <Comments />
@@ -4474,11 +4474,11 @@
   <row>
     <BC>369</BC>
     <WN-3.0-Synset>n356790</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pressão, compressão</PT-Words-Man>
     <PT-Word-Cand>compressão</PT-Word-Cand>
     <EN-Gloss>applying pressure</EN-Gloss>
     <EN-Words>compressing, compression</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>aplicação de pressão</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>compresión, empaquetado</SPA-Words-Sug>
     <Comments />
@@ -4486,12 +4486,12 @@
   <row>
     <BC>370</BC>
     <WN-3.0-Synset>v352826</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>finalizar, terminar, encerrar, concluir</PT-Words-Man>
     <PT-Word-Cand>finalizar, terminar, acabar, encerrar, matar</PT-Word-Cand>
     <EN-Gloss>bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on
     Poland terminated the relatively peaceful period after WW I"</EN-Gloss>
     <EN-Words>end, terminate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pôr um fim ou parar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>terminar, acabar, concluir, fenecer, parar, liquidar, cesar, rescindir</SPA-Words-Sug>
     <Comments />
@@ -4499,11 +4499,11 @@
   <row>
     <BC>371</BC>
     <WN-3.0-Synset>n358089</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esmagamento, compactação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of crushing</EN-Gloss>
     <EN-Words>compaction, crunch, crush</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de esmagar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4511,11 +4511,11 @@
   <row>
     <BC>372</BC>
     <WN-3.0-Synset>n358290</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>trituração, pulverização</PT-Words-Man>
     <PT-Word-Cand>trituração</PT-Word-Cand>
     <EN-Gloss>the act of grinding to a powder or dust</EN-Gloss>
     <EN-Words>grind, mill, pulverisation, pulverization</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de moer até que vire pó ou poeira</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>trituración</SPA-Words-Sug>
     <Comments />
@@ -4523,11 +4523,11 @@
   <row>
     <BC>373</BC>
     <WN-3.0-Synset>v353839</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>abortar, interromper, suspender</PT-Words-Man>
     <PT-Word-Cand>interromper, abortar, suspender</PT-Word-Cand>
     <EN-Gloss>terminate before completion; "abort the mission"; "abort the process running on my computer"</EN-Gloss>
     <EN-Words>abort</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>terminar antes de estar completo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4535,7 +4535,7 @@
   <row>
     <BC>374</BC>
     <WN-3.0-Synset>v356258</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false" />
     <PT-Word-Cand />
     <EN-Gloss>undergo or cause to undergo a change in the surface</EN-Gloss>
     <EN-Words>change surface</EN-Words>
@@ -4547,11 +4547,11 @@
   <row>
     <BC>375</BC>
     <WN-3.0-Synset>n363260</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>melhoramento</PT-Words-Man>
     <PT-Word-Cand>aumento</PT-Word-Cand>
     <EN-Gloss>the act of increasing something; "he gave me an increase in salary"</EN-Gloss>
     <EN-Words>increase, step-up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de melhorar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>acrecentamiento, recrecimiento</SPA-Words-Sug>
     <Comments />
@@ -4559,13 +4559,13 @@
   <row>
     <BC>376</BC>
     <WN-3.0-Synset>v358431</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>morrer, falecer, bater_as_botas, comer_capim_pela_raiz</PT-Words-Man>
     <PT-Word-Cand>morrer, bater a bota, falecer, destruir-se, perecer</PT-Word-Cand>
     <EN-Gloss>pass from physical life and lose all bodily attributes and functions necessary to sustain life; "She died from cancer"; "The children
     perished in the fire"; "The patient went peacefully"; "The old guy kicked the bucket at the age of 102"</EN-Gloss>
     <EN-Words>buy the farm, cash in one's chips, choke, conk, croak, decease, die, drop dead, exit, expire, give-up the ghost, go, kick the bucket,
     pass away, pass, perish, pop off, snuff it</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>passar da vida física, perder todos os atributos corporais e funções necessárias para sustentar a vida</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>fallecer, morir, fenecer, sucumbir, estirar la pata, pasar a mejor vida, perecer, expirar</SPA-Words-Sug>
     <Comments />
@@ -4573,11 +4573,11 @@
   <row>
     <BC>377</BC>
     <WN-3.0-Synset>n364260</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aumento</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>increase in price or value; "the news caused a general advance on the stock market"</EN-Gloss>
     <EN-Words>advance, rise</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>aumento em preço ou valor</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4585,11 +4585,11 @@
   <row>
     <BC>378</BC>
     <WN-3.0-Synset>v360501</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>afogar-se</PT-Words-Man>
     <PT-Word-Cand>afogamento</PT-Word-Cand>
     <EN-Gloss>die from being submerged in water, getting water into the lungs, and asphyxiating; "The child drowned in the lake"</EN-Gloss>
     <EN-Words>drown</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>morrer por estar submerso em água, tendo água nos pulmões, e asfixiando</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ahogamiento</SPA-Words-Sug>
     <Comments />
@@ -4597,11 +4597,11 @@
   <row>
     <BC>379</BC>
     <WN-3.0-Synset>v360932</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>nascer, vir_ao_mundo</PT-Words-Man>
     <PT-Word-Cand>nascer, vir à luz</PT-Word-Cand>
     <EN-Gloss>come into existence through birth; "She was born on a farm"</EN-Gloss>
     <EN-Words>be born</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>vir à existir através do nascimento</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>nacer, venir al mundo</SPA-Words-Sug>
     <Comments />
@@ -4609,11 +4609,11 @@
   <row>
     <BC>380</BC>
     <WN-3.0-Synset>v362348</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>interromper, suspender, parar</PT-Words-Man>
     <PT-Word-Cand>interromper, suspender, parar</PT-Word-Cand>
     <EN-Gloss>prevent completion; "stop the project"; "break off the negotiations"</EN-Gloss>
     <EN-Words>break off, break, discontinue, stop</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>impedir a conclusão</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>terminar, acabar, interrumpir, concluir, fenecer</SPA-Words-Sug>
     <Comments />
@@ -4621,11 +4621,11 @@
   <row>
     <BC>381</BC>
     <WN-3.0-Synset>v363110</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>abandonar</PT-Words-Man>
     <PT-Word-Cand>abandonar</PT-Word-Cand>
     <EN-Gloss>stop pursuing or acting; "drop a lawsuit"; "knock it off!"</EN-Gloss>
     <EN-Words>drop, knock off</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>parar de ir atrás ou agir</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4633,11 +4633,11 @@
   <row>
     <BC>382</BC>
     <WN-3.0-Synset>v364064</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>interromper, suspender</PT-Words-Man>
     <PT-Word-Cand>interromper, suspender</PT-Word-Cand>
     <EN-Gloss>terminate; "She interrupted her pregnancy"; "break a lucky streak"; "break the cycle of poverty"</EN-Gloss>
     <EN-Words>break, interrupt</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>terminar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>interrumpir</SPA-Words-Sug>
     <Comments />
@@ -4645,11 +4645,11 @@
   <row>
     <BC>383</BC>
     <WN-3.0-Synset>n372013</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>acumulação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of accumulating</EN-Gloss>
     <EN-Words>accrual, accruement, accumulation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de acumular</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Devengado, acumulación</SPA-Words-Sug>
     <Comments />
@@ -4657,11 +4657,11 @@
   <row>
     <BC>384</BC>
     <WN-3.0-Synset>v366858</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>evaporar, vaporizar</PT-Words-Man>
     <PT-Word-Cand>evaporar, vaporizar</PT-Word-Cand>
     <EN-Gloss>lose or cause to lose liquid by vaporization leaving a more concentrated residue; "evaporate milk"</EN-Gloss>
     <EN-Words>evaporate, vaporise, vaporize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>perder ou causar a perda de líquido por vaporização deixando um resíduo mais concentrado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>vaporizar, evaporar, evaporizar</SPA-Words-Sug>
     <Comments />
@@ -4669,12 +4669,12 @@
   <row>
     <BC>385</BC>
     <WN-3.0-Synset>n372226</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>acúmulo, acumulação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of building up an accumulation; "I envied his rapid buildup of assets"; "a military buildup in preparation for the
     invasion"</EN-Gloss>
     <EN-Words>buildup</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de acumular</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4682,11 +4682,11 @@
   <row>
     <BC>386</BC>
     <WN-3.0-Synset>n372448</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>colocação, depósito</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of putting something somewhere</EN-Gloss>
     <EN-Words>deposit, deposition</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de colocar algo em algum lugar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4694,12 +4694,12 @@
   <row>
     <BC>387</BC>
     <WN-3.0-Synset>n372607</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>armazenamento, depósito</PT-Words-Man>
     <PT-Word-Cand>armazenagem</PT-Word-Cand>
     <EN-Gloss>depositing in a warehouse; "they decided to reposition their furniture in a recommended repository in Brooklyn"; "my car is in
     storage"; "publishers reduced print runs to cut down the cost of warehousing"</EN-Gloss>
     <EN-Words>repositing, reposition, storage, warehousing</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>depósito em um armazém</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>almacenamiento</SPA-Words-Sug>
     <Comments />
@@ -4707,12 +4707,12 @@
   <row>
     <BC>388</BC>
     <WN-3.0-Synset>n373544</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enaltecimento, engrandecimento</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of increasing the wealth or prestige or power or scope of something; "the aggrandizement of the king"; "his elevation to
     cardinal"</EN-Gloss>
     <EN-Words>aggrandisement, aggrandizement, elevation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de aumentar a riqueza ou prestígio, poder ou alcance de alguma coisa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>engrandecimiento</SPA-Words-Sug>
     <Comments />
@@ -4720,7 +4720,7 @@
   <row>
     <BC>389</BC>
     <WN-3.0-Synset>n376063</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false" />
     <PT-Word-Cand />
     <EN-Gloss>the act of changing the unity or wholeness of something</EN-Gloss>
     <EN-Words>change of integrity</EN-Words>
@@ -4732,11 +4732,11 @@
   <row>
     <BC>390</BC>
     <WN-3.0-Synset>v370412</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>refrescar, esfriar, refrigerar</PT-Words-Man>
     <PT-Word-Cand>refrescar, congelar, esfriar-se, resfriar, resfriar-se, sentir frio</PT-Word-Cand>
     <EN-Gloss>make cool or cooler; "Chill the food"</EN-Gloss>
     <EN-Words>chill, cool down, cool</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar fresco ou mais fresco</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>enfriar</SPA-Words-Sug>
     <Comments />
@@ -4744,11 +4744,11 @@
   <row>
     <BC>391</BC>
     <WN-3.0-Synset>n376400</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>rompimento</PT-Words-Man>
     <PT-Word-Cand>rompimento, rutura</PT-Word-Cand>
     <EN-Gloss>the act of breaking something; "the breakage was unavoidable"</EN-Gloss>
     <EN-Words>break, breakage, breaking</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de quebrar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>quebrantamiento, depeçage, falla</SPA-Words-Sug>
     <Comments />
@@ -4756,11 +4756,11 @@
   <row>
     <BC>392</BC>
     <WN-3.0-Synset>v371264</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esquentar, aquecer</PT-Words-Man>
     <PT-Word-Cand>esquentar</PT-Word-Cand>
     <EN-Gloss>make hot or hotter; "the sun heats the oceans"; "heat the water on the stove"</EN-Gloss>
     <EN-Words>heat up, heat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar quente ou mais quente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>calentar</SPA-Words-Sug>
     <Comments />
@@ -4768,12 +4768,12 @@
   <row>
     <BC>393</BC>
     <WN-3.0-Synset>n377364</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>explosão</PT-Words-Man>
     <PT-Word-Cand>explosão, explosões, rompimento</PT-Word-Cand>
     <EN-Gloss>the act of exploding or bursting; "the explosion of the firecrackers awoke the children"; "the burst of an atom bomb creates enormous
     radiation aloft"</EN-Gloss>
     <EN-Words>burst, explosion</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de explodir ou romper</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>explosión</SPA-Words-Sug>
     <Comments />
@@ -4781,11 +4781,11 @@
   <row>
     <BC>394</BC>
     <WN-3.0-Synset>v372958</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aquecer, acalentar</PT-Words-Man>
     <PT-Word-Cand>temperar</PT-Word-Cand>
     <EN-Gloss>make warm or warmer; "The blanket will warm you"</EN-Gloss>
     <EN-Words>warm</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar morno ou mais morno</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug>calentar</SPA-Words-Sug>
     <Comments />
@@ -4793,11 +4793,11 @@
   <row>
     <BC>395</BC>
     <WN-3.0-Synset>v373250</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aquecer, esquentar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>get warm or warmer; "The soup warmed slowly on the stove"</EN-Gloss>
     <EN-Words>warm up, warm</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar quente ou mais quenter</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>calentar</SPA-Words-Sug>
     <Comments />
@@ -4805,11 +4805,11 @@
   <row>
     <BC>396</BC>
     <WN-3.0-Synset>n378985</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>combinação</PT-Words-Man>
     <PT-Word-Cand>combinação</PT-Word-Cand>
     <EN-Gloss>the act of combining things to form a new whole</EN-Gloss>
     <EN-Words>combination, combining, compounding</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de combinar coisas para formar um todo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4817,11 +4817,11 @@
   <row>
     <BC>397</BC>
     <WN-3.0-Synset>v373766</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cauterizar</PT-Words-Man>
     <PT-Word-Cand>cauterizar</PT-Word-Cand>
     <EN-Gloss>burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent; "The surgeon cauterized the wart"</EN-Gloss>
     <EN-Words>burn, cauterise, cauterize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>queimar, sear ou congelar (tecido) usando um ferro quente ou de corrente elétrica ou um agente cáustico</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cauterizar</SPA-Words-Sug>
     <Comments />
@@ -4829,11 +4829,11 @@
   <row>
     <BC>398</BC>
     <WN-3.0-Synset>v374135</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>congelar</PT-Words-Man>
     <PT-Word-Cand>congelar</PT-Word-Cand>
     <EN-Gloss>change to ice; "The water in the bowl froze"</EN-Gloss>
     <EN-Words>freeze</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mudar para gelo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>inmovilizarse, paralizarse, enfriarse</SPA-Words-Sug>
     <Comments />
@@ -4841,11 +4841,11 @@
   <row>
     <BC>399</BC>
     <WN-3.0-Synset>v375021</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ebulir</PT-Words-Man>
     <PT-Word-Cand>ferver, aferventar</PT-Word-Cand>
     <EN-Gloss>come to the boiling point and change from a liquid to vapor; "Water boils at 100 degrees Celsius"</EN-Gloss>
     <EN-Words>boil</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>chegar no ponto de ebulição e mudar de liquido para vapor</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4853,11 +4853,11 @@
   <row>
     <BC>400</BC>
     <WN-3.0-Synset>v375865</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>congelar, gelar</PT-Words-Man>
     <PT-Word-Cand>congelar, gelar</PT-Word-Cand>
     <EN-Gloss>cause to freeze; "Freeze the leftover food"</EN-Gloss>
     <EN-Words>freeze</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causa de congelamento</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4865,12 +4865,12 @@
   <row>
     <BC>401</BC>
     <WN-3.0-Synset>n381680</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>junção, unificação</PT-Words-Man>
     <PT-Word-Cand>unificação</PT-Word-Cand>
     <EN-Gloss>the act of making or becoming a single unit; "the union of opposing factions"; "he looked forward to the unification of his family for
     the holidays"</EN-Gloss>
     <EN-Words>conjugation, jointure, unification, union, uniting</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de fazer ou tornar-se uma única unidade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>unificación</SPA-Words-Sug>
     <Comments />
@@ -4878,12 +4878,12 @@
   <row>
     <BC>402</BC>
     <WN-3.0-Synset>v376106</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>derreter, amolecer</PT-Words-Man>
     <PT-Word-Cand>descongelar, derreter-se, degelar</PT-Word-Cand>
     <EN-Gloss>become or cause to become soft or liquid; "The sun melted the ice"; "the ice thawed"; "the ice cream melted"; "The heat melted the
     wax"; "The giant iceberg dissolved over the years during the global warming phase"; "dethaw the meat"</EN-Gloss>
     <EN-Words>dethaw, dissolve, melt, thaw, unfreeze, unthaw</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar ou causar tornando mole ou líquido</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>deshelar, derretir, fundirse</SPA-Words-Sug>
     <Comments />
@@ -4891,11 +4891,11 @@
   <row>
     <BC>403</BC>
     <WN-3.0-Synset>v377002</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>carburar, queimar</PT-Words-Man>
     <PT-Word-Cand>arder</PT-Word-Cand>
     <EN-Gloss>undergo combustion; "Maple wood burns well"</EN-Gloss>
     <EN-Words>burn, combust</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sofrer combustão</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4903,11 +4903,11 @@
   <row>
     <BC>404</BC>
     <WN-3.0-Synset>n383390</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>abertura</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>becoming open or being made open; "the opening of his arms was the sign I was waiting for"</EN-Gloss>
     <EN-Words>opening</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar-se aberto ou estar sendo aberto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4915,11 +4915,11 @@
   <row>
     <BC>405</BC>
     <WN-3.0-Synset>v378042</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>queimar, incinerar</PT-Words-Man>
     <PT-Word-Cand>incinerar</PT-Word-Cand>
     <EN-Gloss>cause to undergo combustion; "burn garbage"; "The car burns only Diesel oil"</EN-Gloss>
     <EN-Words>burn, incinerate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causa a combustão</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>incinerar</SPA-Words-Sug>
     <Comments />
@@ -4927,11 +4927,11 @@
   <row>
     <BC>406</BC>
     <WN-3.0-Synset>n383606</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>separação, divisão</PT-Words-Man>
     <PT-Word-Cand>separação</PT-Word-Cand>
     <EN-Gloss>the act of dividing or disconnecting</EN-Gloss>
     <EN-Words>separation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de dividir ou desconectar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
