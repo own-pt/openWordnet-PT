@@ -85,7 +85,3 @@ translation dictionary.
 - Valeria de Paiva
 - Rafael Haeusler
 
-## References
-
-[wn-map]: 
-
