@@ -149,11 +149,11 @@
   <row>
     <BC>512</BC>
     <WN-3.0-Synset>n515414</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>divertimento</PT-Words-Man>
     <PT-Word-Cand>distracção</PT-Word-Cand>
     <EN-Gloss>an entertainment that provokes pleased interest and distracts you from worries and vexations</EN-Gloss>
     <EN-Words>beguilement, distraction</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>entreternimento que provoca satisfação e distrai de preocupaçoes e aborrecimentos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -161,11 +161,11 @@
   <row>
     <BC>513</BC>
     <WN-3.0-Synset>v512186</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desabilitar, incapacitar</PT-Words-Man>
     <PT-Word-Cand>desativar, incapacitar, desligar, desabilitar, aleijar</PT-Word-Cand>
     <EN-Gloss>make unable to perform a certain action; "disable this command on your computer"</EN-Gloss>
     <EN-Words>disable, disenable, incapacitate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>impossibilitar de realizar uma determindada ação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>incapacitar</SPA-Words-Sug>
     <Comments />
@@ -173,11 +173,11 @@
   <row>
     <BC>514</BC>
     <WN-3.0-Synset>n428270</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>dança</PT-Words-Man>
     <PT-Word-Cand>dança, baile, Dança, dança</PT-Word-Cand>
     <EN-Gloss>taking a series of rhythmical steps (and movements) in time to music</EN-Gloss>
     <EN-Words>dance, dancing, saltation, terpsichore</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma série de passos rítmicos (e movimentos) no tempo de música</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>danza, baile, Danza, danza</SPA-Words-Sug>
     <Comments />
@@ -185,11 +185,11 @@
   <row>
     <BC>515</BC>
     <WN-3.0-Synset>v518395</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>facilitar, aliviar</PT-Words-Man>
     <PT-Word-Cand>aliviar, aquietar, facilitar, aplainar</PT-Word-Cand>
     <EN-Gloss>make easier; "you could facilitate the process by sharing your knowledge"</EN-Gloss>
     <EN-Words>alleviate, ease, facilitate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar fácil</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>facilitar</SPA-Words-Sug>
     <Comments />
@@ -197,11 +197,11 @@
   <row>
     <BC>516</BC>
     <WN-3.0-Synset>v520019</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>disturbar, perturbar</PT-Words-Man>
     <PT-Word-Cand>interromper</PT-Word-Cand>
     <EN-Gloss>destroy the peace or tranquility of; "Don't interrupt me when I'm reading"</EN-Gloss>
     <EN-Words>disturb, interrupt</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>destroi a paz ou tranquilidade de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -209,11 +209,11 @@
   <row>
     <BC>517</BC>
     <WN-3.0-Synset>n533922</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>passo</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a sequence of foot movements that make up a particular dance; "he taught them the waltz step"</EN-Gloss>
     <EN-Words>dance step, step</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma seqüência de movimentos do pé que compõem uma dança particular</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -221,24 +221,24 @@
   <row>
     <BC>518</BC>
     <WN-3.0-Synset>v522441</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transladar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>change the position of (figures or bodies) in space without rotation</EN-Gloss>
     <EN-Words>translate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>alterar a posição de figuras ou corpos no espaço sem rotação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>talvez o Gloss em potugues ficasse melhor se mudasse a parte "...sem rotação" para "...com translação", oque voces acham?</Comments>
   </row>
   <row>
     <BC>519</BC>
     <WN-3.0-Synset>v522751</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>obter, receber</PT-Words-Man>
     <PT-Word-Cand>acontecer, obter, adquirir, incorrer, atingir</PT-Word-Cand>
     <EN-Gloss>receive a specified treatment (abstract); "These aspects of civilization do not find expression or receive an interpretation"; "His
     movie received a good review"; "I got nothing but trouble for my good intentions"</EN-Gloss>
     <EN-Words>find, get, incur, obtain, receive</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>receber um tratamento específico (abstrato)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>obtener, adquirir, incurrir</SPA-Words-Sug>
     <Comments />
@@ -246,11 +246,11 @@
   <row>
     <BC>520</BC>
     <WN-3.0-Synset>v528836</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>amanhecer</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>become light; "It started to dawn, and we had to get up"</EN-Gloss>
     <EN-Words>dawn</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar claro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -258,11 +258,11 @@
   <row>
     <BC>521</BC>
     <WN-3.0-Synset>n543233</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>música</PT-Words-Man>
     <PT-Word-Cand>música</PT-Word-Cand>
     <EN-Gloss>musical activity (singing or whistling etc.); "his music was his central interest"</EN-Gloss>
     <EN-Words>music</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade musical (cantando ou assobiando, etc)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>música</SPA-Words-Sug>
     <Comments />
@@ -270,11 +270,11 @@
   <row>
     <BC>522</BC>
     <WN-3.0-Synset>n548326</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atuação, interpretação, representação</PT-Words-Man>
     <PT-Word-Cand>interpretação, representação</PT-Word-Cand>
     <EN-Gloss>the performance of a part or role in a drama</EN-Gloss>
     <EN-Words>acting, performing, playacting, playing</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o desempenho de uma peça ou papel em um drama</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>juego</SPA-Words-Sug>
     <Comments />
@@ -282,11 +282,11 @@
   <row>
     <BC>523</BC>
     <WN-3.0-Synset>n548802</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>caracterização</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>acting the part of a character on stage; dramatically representing the character by speech and action and gesture</EN-Gloss>
     <EN-Words>characterization, enactment, personation, portrayal</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer o papel de um personagem no palco, representando dramaticamente o personagem pelo discurso, ação e gesto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -294,11 +294,11 @@
   <row>
     <BC>524</BC>
     <WN-3.0-Synset>n549284</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>personificação, imitação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>imitating the mannerisms of another person</EN-Gloss>
     <EN-Words>impersonation, personation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>imitar o jeito de outra pessoa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -306,11 +306,11 @@
   <row>
     <BC>525</BC>
     <WN-3.0-Synset>n549472</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mímica, imitação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of mimicking; imitative behavior</EN-Gloss>
     <EN-Words>apery, mimicry</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mimicar; imitar o comportamento</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mimetismo</SPA-Words-Sug>
     <Comments />
@@ -318,11 +318,11 @@
   <row>
     <BC>526</BC>
     <WN-3.0-Synset>n549610</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>paródia</PT-Words-Man>
     <PT-Word-Cand>paródia</PT-Word-Cand>
     <EN-Gloss>humorous or satirical mimicry</EN-Gloss>
     <EN-Words>mockery, parody, takeoff</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>imitação homurística ou satírica</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>parodia, farsa</SPA-Words-Sug>
     <Comments />
@@ -330,11 +330,11 @@
   <row>
     <BC>527</BC>
     <WN-3.0-Synset>n550341</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ato</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>incidental activity performed by an actor for dramatic effect; "his business with the cane was hilarious"</EN-Gloss>
     <EN-Words>business, byplay, stage business</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade incidental feita por um ator com efeitos dramáticos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -342,11 +342,11 @@
   <row>
     <BC>528</BC>
     <WN-3.0-Synset>n552436</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>animação</PT-Words-Man>
     <PT-Word-Cand>animação</PT-Word-Cand>
     <EN-Gloss>general activity and motion</EN-Gloss>
     <EN-Words>animation, liveliness</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividades e movimentos gerais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>animación</SPA-Words-Sug>
     <Comments />
@@ -354,11 +354,11 @@
   <row>
     <BC>529</BC>
     <WN-3.0-Synset>n553823</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escândalo, tumulto</PT-Words-Man>
     <PT-Word-Cand>escândalo, barulho</PT-Word-Cand>
     <EN-Gloss>the act of making a noisy disturbance</EN-Gloss>
     <EN-Words>commotion, din, ruckus, ruction, rumpus, tumult</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de fazer uma confusão barulhenta</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>alboroto, algazara</SPA-Words-Sug>
     <Comments />
@@ -366,11 +366,11 @@
   <row>
     <BC>530</BC>
     <WN-3.0-Synset>n555648</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>precipitação</PT-Words-Man>
     <PT-Word-Cand>pressa, arremetidas</PT-Word-Cand>
     <EN-Gloss>the act of moving hurriedly and in a careless manner; "in his haste to leave he forgot his book"</EN-Gloss>
     <EN-Words>haste, hurry, rush, rushing</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de se mover rapidamente e de forma descuidada</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>prisa, presura, precipitacion, tropelía</SPA-Words-Sug>
     <Comments />
@@ -378,12 +378,12 @@
   <row>
     <BC>531</BC>
     <WN-3.0-Synset>n556313</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>manobra</PT-Words-Man>
     <PT-Word-Cand>manobra</PT-Word-Cand>
     <EN-Gloss>a deliberate coordinated movement requiring dexterity and skill; "he made a great maneuver"; "the runner was out on a play by the
     shortstop"</EN-Gloss>
     <EN-Words>maneuver, manoeuvre, play</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um movimento coordenado deliberadamente exigindo destreza e habilidade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -391,11 +391,11 @@
   <row>
     <BC>532</BC>
     <WN-3.0-Synset>v543016</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pegar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>be struck or affected by; "catch fire"; "catch the mood"</EN-Gloss>
     <EN-Words>catch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser atingido ou afetado por</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -403,11 +403,11 @@
   <row>
     <BC>533</BC>
     <WN-3.0-Synset>n557588</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tática</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a preset plan of action in team sports; "the coach drew up the plays for her team"</EN-Gloss>
     <EN-Words>play</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um plano de ação pré-estabelecido em esportes de equipe</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -415,12 +415,12 @@
   <row>
     <BC>534</BC>
     <WN-3.0-Synset>v545557</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desenvolver</PT-Words-Man>
     <PT-Word-Cand>evolucionar, evoluir</PT-Word-Cand>
     <EN-Gloss>gain through experience; "I acquired a strong aversion to television"; "Children must develop a sense of right and wrong"; "Dave
     developed leadership qualities in his new position"; "develop a passion for painting"</EN-Gloss>
     <EN-Words>acquire, develop, evolve</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ganho através da experiência</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -428,11 +428,11 @@
   <row>
     <BC>535</BC>
     <WN-3.0-Synset>n562280</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>obstrução</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>getting in someone's way</EN-Gloss>
     <EN-Words>obstruction</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de ficar no caminho de alguém</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -440,11 +440,11 @@
   <row>
     <BC>536</BC>
     <WN-3.0-Synset>v548616</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>nivelar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>change from one level to another; "She dropped into army jargon"</EN-Gloss>
     <EN-Words>drop</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mudar de um nível para outro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -452,11 +452,11 @@
   <row>
     <BC>537</BC>
     <WN-3.0-Synset>v549217</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>clarear</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make clear, bright, light, or translucent; "The water had to be cleared through filtering"</EN-Gloss>
     <EN-Words>clear</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>deixar claro, brilhante, iluminado ou translúcido</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -464,11 +464,11 @@
   <row>
     <BC>538</BC>
     <WN-3.0-Synset>v555780</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escovar</PT-Words-Man>
     <PT-Word-Cand>apartar</PT-Word-Cand>
     <EN-Gloss>remove with or as if with a brush; "brush away the crumbs"; "brush the dust from the jacket"; "brush aside the objections"</EN-Gloss>
     <EN-Words>brush</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover com ou como se tivesse uma escova</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -476,12 +476,12 @@
   <row>
     <BC>539</BC>
     <WN-3.0-Synset>v556593</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>conduzir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>bring or lead someone to a certain action or condition; "She was drawn to despair"; "The President refused to be drawn into delivering
     an ultimatum"; "The session was drawn to a close"</EN-Gloss>
     <EN-Words>draw</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>trazer ou levar alguém a uma determinada ação ou condição</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -489,11 +489,11 @@
   <row>
     <BC>540</BC>
     <WN-3.0-Synset>n575741</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tarefa, trabalho</PT-Words-Man>
     <PT-Word-Cand>emprego, trabalho, tarefa, ocupação</PT-Word-Cand>
     <EN-Gloss>activity directed toward making or doing something; "she checked several points needing further work"</EN-Gloss>
     <EN-Words>work</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade voltada para fazer ou executar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>trabajo, empleo, ocupación</SPA-Words-Sug>
     <Comments />
@@ -501,12 +501,12 @@
   <row>
     <BC>541</BC>
     <WN-3.0-Synset>n577068</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>procedimento, operação</PT-Words-Man>
     <PT-Word-Cand>procedimento, operação, funcionamento, trabalho, procedimento operativo, funcionalidade</PT-Word-Cand>
     <EN-Gloss>a process or series of acts especially of a practical or mechanical nature involved in a particular form of work; "the operations in
     building a house"; "certain machine tool operations"</EN-Gloss>
     <EN-Words>operation, procedure</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um processo ou série de atos, especialmente de natureza prática ou mecânica envolvendo uma forma particular de trabalho</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>operatividad, trabajo, procedimiento</SPA-Words-Sug>
     <Comments />
@@ -514,12 +514,12 @@
   <row>
     <BC>542</BC>
     <WN-3.0-Synset>a579622</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>importante, ilustre, proeminente</PT-Words-Man>
     <PT-Word-Cand>importante, grande, proeminente, dianteiro</PT-Word-Cand>
     <EN-Gloss>conspicuous in position or importance; "a big figure in the movement"; "big man on campus"; "he's very large in financial circles"; "a
     prominent citizen"</EN-Gloss>
     <EN-Words>big, large, prominent</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>conspícua em posição ou importância</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>prominente, importante</SPA-Words-Sug>
     <Comments />
@@ -527,11 +527,11 @@
   <row>
     <BC>543</BC>
     <WN-3.0-Synset>n586262</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cargo, posição</PT-Words-Man>
     <PT-Word-Cand>posição</PT-Word-Cand>
     <EN-Gloss>a job in an organization; "he occupied a post in the treasury"</EN-Gloss>
     <EN-Words>berth, billet, office, place, position, post, situation, spot</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um trabalho em uma organização</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Puesto de Trabajo</SPA-Words-Sug>
     <Comments />
@@ -539,11 +539,11 @@
   <row>
     <BC>544</BC>
     <WN-3.0-Synset>v588221</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>entender, compreender</PT-Words-Man>
     <PT-Word-Cand>entender, compreender, comprender</PT-Word-Cand>
     <EN-Gloss>get the meaning of something; "Do you comprehend the meaning of this letter?"</EN-Gloss>
     <EN-Words>apprehend, compass, comprehend, dig, get the picture, grasp, grok, savvy</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pegar o sentido de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comprender, entender, Comprension lectora, comprensión lectora</SPA-Words-Sug>
     <Comments />
@@ -551,12 +551,12 @@
   <row>
     <BC>545</BC>
     <WN-3.0-Synset>v591115</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>entender, compreender</PT-Words-Man>
     <PT-Word-Cand>entender, compreender, comprender</PT-Word-Cand>
     <EN-Gloss>perceive (an idea or situation) mentally; "Now I see!"; "I just can't see your point"; "Does she realize how important this decision
     is?"; "I don't understand the idea"</EN-Gloss>
     <EN-Words>realise, realize, see, understand</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>perceber (uma idéia ou situação) mentalmente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comprender, entender</SPA-Words-Sug>
     <Comments />
@@ -564,11 +564,11 @@
   <row>
     <BC>546</BC>
     <WN-3.0-Synset>n606370</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ofício, profissão</PT-Words-Man>
     <PT-Word-Cand>ocupação, profissão</PT-Word-Cand>
     <EN-Gloss>the skilled practice of a practical occupation; "he learned his trade as an apprentice"</EN-Gloss>
     <EN-Words>craft, trade</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a prática qualificada de uma ocupação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>profesión, ocupación</SPA-Words-Sug>
     <Comments />
@@ -576,11 +576,11 @@
   <row>
     <BC>547</BC>
     <WN-3.0-Synset>v593852</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>entender, traduzir, interpretar</PT-Words-Man>
     <PT-Word-Cand>entender, compreender, comprender, traduzir, ler</PT-Word-Cand>
     <EN-Gloss>make sense of a language; "She understands French"; "Can you read Greek?"</EN-Gloss>
     <EN-Words>interpret, read, translate, understand</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>entender uma lingua</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comprender, entender</SPA-Words-Sug>
     <Comments />
@@ -588,7 +588,7 @@
   <row>
     <BC>548</BC>
     <WN-3.0-Synset>n609236</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalize="false" />
     <PT-Word-Cand>empresas de pintura</PT-Word-Cand>
     <EN-Gloss>the occupation of a house painter; "house painting was the only craft he knew"</EN-Gloss>
     <EN-Words>house painting, painting</EN-Words>
@@ -600,12 +600,12 @@
   <row>
     <BC>549</BC>
     <WN-3.0-Synset>v594621</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>conhecer, saber, entender</PT-Words-Man>
     <PT-Word-Cand>saber, comprender, entender</PT-Word-Cand>
     <EN-Gloss>be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about; "I know that the President
     lied to the people"; "I want to know who is winning the game!"; "I know it's time"</EN-Gloss>
     <EN-Words>cognise, cognize, know</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estar cientes ou conhecer  um fato ou uma parte específica de informação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comprender, entender, saber, conocer</SPA-Words-Sug>
     <Comments />
@@ -613,11 +613,11 @@
   <row>
     <BC>550</BC>
     <WN-3.0-Synset>n609953</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>profissão</PT-Words-Man>
     <PT-Word-Cand>ocupação, emprego, trabalho, profissão, mister</PT-Word-Cand>
     <EN-Gloss>an occupation requiring special education (especially in the liberal arts or sciences)</EN-Gloss>
     <EN-Words>profession</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma ocupação que requer educação especial (especialmente nas artes ou das ciências)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>profesión, empleo, oficio</SPA-Words-Sug>
     <Comments />
@@ -625,11 +625,11 @@
   <row>
     <BC>551</BC>
     <WN-3.0-Synset>n611433</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pedagogia</PT-Words-Man>
     <PT-Word-Cand>educação</PT-Word-Cand>
     <EN-Gloss>the profession of teaching (especially at a school or college or university)</EN-Gloss>
     <EN-Words>education</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a profissão de ensinar (especialmente em uma escola ou faculdade ou universidade)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -637,11 +637,11 @@
   <row>
     <BC>552</BC>
     <WN-3.0-Synset>n611972</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>política</PT-Words-Man>
     <PT-Word-Cand>política</PT-Word-Cand>
     <EN-Gloss>the profession devoted to governing and to political affairs</EN-Gloss>
     <EN-Words>politics</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a profissão dedicada a governar e a assuntos políticos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>política</SPA-Words-Sug>
     <Comments />
@@ -649,11 +649,11 @@
   <row>
     <BC>553</BC>
     <WN-3.0-Synset>n614224</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escrita</PT-Words-Man>
     <PT-Word-Cand>escrita</PT-Word-Cand>
     <EN-Gloss>the activity of putting something in written form; "she did the thinking while he did the writing"</EN-Gloss>
     <EN-Words>committal to writing, writing</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de colocar algo na forma escrita</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
