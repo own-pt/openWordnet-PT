@@ -588,7 +588,7 @@
   <row>
     <BC>548</BC>
     <WN-3.0-Synset>n609236</WN-3.0-Synset>
-    <PT-Words-Man Lexicalize="false" />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand>empresas de pintura</PT-Word-Cand>
     <EN-Gloss>the occupation of a house painter; "house painting was the only craft he knew"</EN-Gloss>
     <EN-Words>house painting, painting</EN-Words>
@@ -661,11 +661,11 @@
   <row>
     <BC>554</BC>
     <WN-3.0-Synset>a608421</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalize="false">não_convencional</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>not conventional or conformist; "unconventional life styles"</EN-Gloss>
     <EN-Words>unconventional</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>não convencional ou comformista</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -673,11 +673,11 @@
   <row>
     <BC>555</BC>
     <WN-3.0-Synset>n614730</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>the activity of writing by hand; "handwriting can be slow and painful for one with arthritis"</EN-Gloss>
     <EN-Words>handwriting</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de escrever à mão</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -685,11 +685,11 @@
   <row>
     <BC>556</BC>
     <WN-3.0-Synset>v600370</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ocupar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>consume all of one's attention or time; "Her interest in butterflies absorbs her completely"</EN-Gloss>
     <EN-Words>absorb, engage, engross, occupy</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>consumir toda atenção ou tempo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>absorber</SPA-Words-Sug>
     <Comments />
@@ -697,13 +697,13 @@
   <row>
     <BC>557</BC>
     <WN-3.0-Synset>a608791</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>bizzaro, estranho</PT-Words-Man>
     <PT-Word-Cand>excêntrico, extravagante, silvestre</PT-Word-Cand>
     <EN-Gloss>conspicuously or grossly unconventional or unusual; "restaurants of bizarre design--one like a hat, another like a rabbit"; "famed for
     his eccentric spelling"; "a freakish combination of styles"; "his off-the-wall antics"; "the outlandish clothes of teenagers"; "outre and
     affected stage antics"</EN-Gloss>
     <EN-Words>bizarre, eccentric, flakey, flaky, freakish, freaky, gonzo, off-the-wall, outlandish, outre</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>conspicuamente ou grosseiramente não convencionail ou incomum</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>de aspecto extranjero</SPA-Words-Sug>
     <Comments />
@@ -711,11 +711,11 @@
   <row>
     <BC>558</BC>
     <WN-3.0-Synset>v601043</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>focar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>devote (oneself) fully to; "He immersed himself into his studies"</EN-Gloss>
     <EN-Words>absorb, engross, engulf, immerse, plunge, soak up, steep</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dedicar-se totalmente em</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -723,12 +723,11 @@
   <row>
     <BC>559</BC>
     <WN-3.0-Synset>v603298</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>treinar, instruir</PT-Words-Man>
     <PT-Word-Cand>educar, instruir</PT-Word-Cand>
-    <EN-Gloss>create by training and teaching; "The old master is training world-class violinists"; "we develop the leaders for the
-    future"</EN-Gloss>
+    <EN-Gloss>create by training and teaching; "The old master is training world-class violinists"; "we develop the leaders for the future"</EN-Gloss>
     <EN-Words>develop, educate, prepare, train</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>formar por treinamento ou ensino</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>adiestrar</SPA-Words-Sug>
     <Comments />
@@ -736,11 +735,11 @@
   <row>
     <BC>560</BC>
     <WN-3.0-Synset>n620752</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mão_de_obra</PT-Words-Man>
     <PT-Word-Cand>trabalho</PT-Word-Cand>
     <EN-Gloss>productive work (especially physical work done for wages); "his labor did not require a great deal of skill"</EN-Gloss>
     <EN-Words>labor, labour, toil</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>trabalho produtivo (especialmente esforço físico feito por um salário)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>esfuerzo, trabajo</SPA-Words-Sug>
     <Comments />
@@ -748,11 +747,11 @@
   <row>
     <BC>561</BC>
     <WN-3.0-Synset>n621627</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esforço, empenho</PT-Words-Man>
     <PT-Word-Cand>esforço</PT-Word-Cand>
     <EN-Gloss>use of physical or mental energy; hard work; "he got an A for effort"; "they managed only with great exertion"</EN-Gloss>
     <EN-Words>effort, elbow grease, exertion, sweat, travail</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uso de energia física ou mental; trabalho duro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>esfuerzo</SPA-Words-Sug>
     <Comments />
@@ -760,11 +759,11 @@
   <row>
     <BC>562</BC>
     <WN-3.0-Synset>n622068</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>grande_esforço, luta, batalha</PT-Words-Man>
     <PT-Word-Cand>esforço, batalha</PT-Word-Cand>
     <EN-Gloss>strenuous effort; "the struggle to get through the crowd exhausted her"</EN-Gloss>
     <EN-Words>struggle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>esforço extenuante</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>esfuerzo</SPA-Words-Sug>
     <Comments />
@@ -772,12 +771,12 @@
   <row>
     <BC>563</BC>
     <WN-3.0-Synset>v607780</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>lembrar, recordar</PT-Words-Man>
     <PT-Word-Cand>lembrar-se, recordar-se</PT-Word-Cand>
     <EN-Gloss>recall knowledge from memory; have a recollection; "I can't remember saying any such thing"; "I can't think what her last name was";
     "can you remember her phone number?"; "Do you remember that he once loved you?"; "call up memories"</EN-Gloss>
     <EN-Words>call back, call up, recall, recollect, remember, retrieve, think</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>recordar conhecimento da memória; ter uma lembrança</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>acordarse</SPA-Words-Sug>
     <Comments />
@@ -785,11 +784,11 @@
   <row>
     <BC>564</BC>
     <WN-3.0-Synset>v609506</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>lembrar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>keep in mind</EN-Gloss>
     <EN-Words>bear in mind, mind</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter em mente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -797,12 +796,11 @@
   <row>
     <BC>565</BC>
     <WN-3.0-Synset>v609683</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>lembrar, pensar</PT-Words-Man>
     <PT-Word-Cand />
-    <EN-Gloss>keep in mind for attention or consideration; "Remember the Alamo"; "Remember to call your mother every day!"; "Think of the starving
-    children in India!"</EN-Gloss>
+    <EN-Gloss>keep in mind for attention or consideration; "Remember the Alamo"; "Remember to call your mother every day!"; "Think of the starving children in India!"</EN-Gloss>
     <EN-Words>remember, think of</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>manter algo em mente, por atenção ou consideração</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -810,12 +808,12 @@
   <row>
     <BC>566</BC>
     <WN-3.0-Synset>n624738</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>exercício_fisico</PT-Words-Man>
     <PT-Word-Cand>exercício físico, movimento, ginástica, treinamento, treino</PT-Word-Cand>
     <EN-Gloss>the activity of exerting your muscles in various ways to keep fit; "the doctor recommended regular exercise"; "he did some exercising";
     "the physical exertion required by his work kept him fit"</EN-Gloss>
     <EN-Words>exercise, exercising, physical exercise, physical exertion, workout</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de execitar seus músculos de várias maneiras para manter a forma</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Ejercicio fisico, ejercicio físico, entrenamiento</SPA-Words-Sug>
     <Comments />
@@ -823,11 +821,11 @@
   <row>
     <BC>567</BC>
     <WN-3.0-Synset>v610374</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reconhecer</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>perceive to be the same</EN-Gloss>
     <EN-Words>recognise, recognize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>observar ser o mesmo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -835,11 +833,11 @@
   <row>
     <BC>568</BC>
     <WN-3.0-Synset>v611256</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>lembrar, recordar, relembrar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>recapture the past; indulge in memories; "he remembered how he used to pick flowers"</EN-Gloss>
     <EN-Words>remember, think back</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>recapturar o passado; trazer à memórias</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -847,11 +845,11 @@
   <row>
     <BC>569</BC>
     <WN-3.0-Synset>v613018</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esquecer</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>leave behind unintentionally; "I forgot my umbrella in the restaurant"; "I left my keys inside the car and locked the doors"</EN-Gloss>
     <EN-Words>forget, leave</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>deixar para trás não intencionalmente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -859,12 +857,11 @@
   <row>
     <BC>570</BC>
     <WN-3.0-Synset>v613393</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desistir, abandonar</PT-Words-Man>
     <PT-Word-Cand>abandonar, desamparar</PT-Word-Cand>
-    <EN-Gloss>stop maintaining or insisting on; of ideas or claims; "He abandoned the thought of asking for her hand in marriage"; "Both sides have
-    to give up some claims in these negotiations"</EN-Gloss>
+    <EN-Gloss>stop maintaining or insisting on; of ideas or claims; "He abandoned the thought of asking for her hand in marriage"; "Both sides have to give up some claims in these negotiations"</EN-Gloss>
     <EN-Words>abandon, give up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>parar de manter ou insistir em; idéias ou reivindicações</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -872,11 +869,11 @@
   <row>
     <BC>571</BC>
     <WN-3.0-Synset>v617748</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>confundir, equivocar</PT-Words-Man>
     <PT-Word-Cand>enganar-se, equivocar-se, confundir-se</PT-Word-Cand>
     <EN-Gloss>to make a mistake or be incorrect</EN-Gloss>
     <EN-Words>err, mistake, slip</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cometer um erro ou estar incorreto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>equivocarse</SPA-Words-Sug>
     <Comments />
@@ -884,11 +881,11 @@
   <row>
     <BC>572</BC>
     <WN-3.0-Synset>a626800</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>material</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>derived from or composed of matter; "the material universe"</EN-Gloss>
     <EN-Words>material</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>derivado ou composto da matéria</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -896,11 +893,11 @@
   <row>
     <BC>573</BC>
     <WN-3.0-Synset>n633864</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>investigação</PT-Words-Man>
     <PT-Word-Cand>inquérito, investigação, teste, exame, pesquisa, prova, exploração</PT-Word-Cand>
     <EN-Gloss>the work of inquiring into something thoroughly and systematically</EN-Gloss>
     <EN-Words>investigating, investigation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>verificaçaõ minuciosa e sitemática de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>investigación, examen, indagación, encuesta</SPA-Words-Sug>
     <Comments />
@@ -908,11 +905,11 @@
   <row>
     <BC>574</BC>
     <WN-3.0-Synset>v618878</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reconhecer, identificar</PT-Words-Man>
     <PT-Word-Cand>identificar</PT-Word-Cand>
     <EN-Gloss>recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster"</EN-Gloss>
     <EN-Words>identify, place</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>reconhecer como ser; estabelecer a identidade de alguém ou algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>identificar</SPA-Words-Sug>
     <Comments />
@@ -920,12 +917,12 @@
   <row>
     <BC>575</BC>
     <WN-3.0-Synset>n635850</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>examinar, inspecionar</PT-Words-Man>
     <PT-Word-Cand>teste, investigação, pesquisa, inspecção, estudo, exploração, inquérito, exame, levantamentos, serviços de inspecção, prova,
     análise, sondagem</PT-Word-Cand>
     <EN-Gloss>the act of examining something closely (as for mistakes)</EN-Gloss>
     <EN-Words>examination, scrutiny</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de examinar algo de perto (como por erros)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>investigación, estudio, inspección, encuesta, control, indagación, exploración, escrutinio</SPA-Words-Sug>
     <Comments />
@@ -933,11 +930,11 @@
   <row>
     <BC>576</BC>
     <WN-3.0-Synset>v620239</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>compreender, entender</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>to hear and understand; "I read you loud and clear!"</EN-Gloss>
     <EN-Words>read</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ouvir e entender</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -945,12 +942,12 @@
   <row>
     <BC>577</BC>
     <WN-3.0-Synset>a629997</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>corpóreo, corpórea</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>having material or physical form or substance; "that which is created is of necessity corporeal and visible and tangible" - Benjamin
     Jowett</EN-Gloss>
     <EN-Words>corporeal, material</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter material ou forma física ou substância</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>física, corpórea, fisico</SPA-Words-Sug>
     <Comments />
@@ -958,11 +955,11 @@
   <row>
     <BC>578</BC>
     <WN-3.0-Synset>n636921</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pesquisa</PT-Words-Man>
     <PT-Word-Cand>investigação, inquérito, pesquisa, exploração, levantamentos</PT-Word-Cand>
     <EN-Gloss>systematic investigation to establish facts</EN-Gloss>
     <EN-Words>research</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>investigação sistemática para estabelecer fatos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>investigación, encuesta</SPA-Words-Sug>
     <Comments />
@@ -970,13 +967,13 @@
   <row>
     <BC>579</BC>
     <WN-3.0-Synset>v621058</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esclarecer, elucidar</PT-Words-Man>
     <PT-Word-Cand>cristalizar, lançar uma luz sobre, explicar, iluminar</PT-Word-Cand>
     <EN-Gloss>make free from confusion or ambiguity; make clear; "Could you clarify these remarks?"; "Clear up the question of who is at
     fault"</EN-Gloss>
     <EN-Words>clear up, clear, crystalise, crystalize, crystallise, crystallize, elucidate, enlighten, illuminate, shed light on, sort out,
     straighten out</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar livre de confusão ou ambiguidade; deixar claro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>arrojar luz sobre, cristalizar</SPA-Words-Sug>
     <Comments />
@@ -984,11 +981,11 @@
   <row>
     <BC>580</BC>
     <WN-3.0-Synset>n637354</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>inquérito</PT-Words-Man>
     <PT-Word-Cand>inquérito, exploração</PT-Word-Cand>
     <EN-Gloss>an investigation seeking answers; "a thorough search of the ledgers revealed nothing"; "the outcome justified the search"</EN-Gloss>
     <EN-Words>search</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma investigação em busca de respostas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -996,11 +993,11 @@
   <row>
     <BC>581</BC>
     <WN-3.0-Synset>v623151</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>entender, compreender</PT-Words-Man>
     <PT-Word-Cand>entender</PT-Word-Cand>
     <EN-Gloss>make sense of; assign a meaning to; "What message do you see in this letter?"; "How do you interpret his behavior?"</EN-Gloss>
     <EN-Words>construe, interpret, see</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer sentido; atribuir um significado à</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comprender, entender, interpretar</SPA-Words-Sug>
     <Comments />
@@ -1008,11 +1005,11 @@
   <row>
     <BC>582</BC>
     <WN-3.0-Synset>n639556</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>experiência, experimento</PT-Words-Man>
     <PT-Word-Cand>experiência, experiência científica, fazerexperiências</PT-Word-Cand>
     <EN-Gloss>the act of conducting a controlled test or investigation</EN-Gloss>
     <EN-Words>experiment, experimentation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de conduzir um teste ou investigação controlada</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>experimentación, experimento</SPA-Words-Sug>
     <Comments />
@@ -1020,11 +1017,11 @@
   <row>
     <BC>583</BC>
     <WN-3.0-Synset>v625119</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ler</PT-Words-Man>
     <PT-Word-Cand>ler</PT-Word-Cand>
     <EN-Gloss>interpret something that is written or printed; "read the advertisement"; "Have you read Salman Rushdie?"</EN-Gloss>
     <EN-Words>read</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>interpretar algo que é escrito ou impresso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>leer</SPA-Words-Sug>
     <Comments />
@@ -1032,23 +1029,23 @@
   <row>
     <BC>584</BC>
     <WN-3.0-Synset>v626428</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>proclamar</PT-Words-Man>
     <PT-Word-Cand>ler</PT-Word-Cand>
     <EN-Gloss>look at, interpret, and say out loud something that is written or printed; "The King will read the proclamation at noon"</EN-Gloss>
     <EN-Words>read</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>olhar, interpretar, e dizer em voz alta algo que está escrito ou impresso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>leer</SPA-Words-Sug>
-    <Comments />
+    <Comments>talvez "proclamar" não seja uma opção nesse synset, mas ai se nao for acho que nao existe uma palavra corresponte a esse Gloss (LexicalGap="true")</Comments>
   </row>
   <row>
     <BC>585</BC>
     <WN-3.0-Synset>v626890</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ditar</PT-Words-Man>
     <PT-Word-Cand>ditar</PT-Word-Cand>
     <EN-Gloss>say out loud for the purpose of recording; "He dictated a report to his secretary"</EN-Gloss>
     <EN-Words>dictate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dizer em voz alta para fins de registro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>dictar</SPA-Words-Sug>
     <Comments />
@@ -1056,11 +1053,11 @@
   <row>
     <BC>586</BC>
     <WN-3.0-Synset>v627520</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>scanear</PT-Words-Man>
     <PT-Word-Cand>ler</PT-Word-Cand>
     <EN-Gloss>obtain data from magnetic tapes; "This dictionary can be read by the computer"</EN-Gloss>
     <EN-Words>read, scan</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>obter dados de fitas magnéticas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>leer</SPA-Words-Sug>
     <Comments />
@@ -1068,11 +1065,11 @@
   <row>
     <BC>587</BC>
     <WN-3.0-Synset>n644366</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>boarding and inspecting a ship on the high seas; "right of search"</EN-Gloss>
     <EN-Words>search</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>embarque e inspecção de navios em alto-mar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1080,12 +1077,12 @@
   <row>
     <BC>588</BC>
     <WN-3.0-Synset>v628491</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pensar, raciocínar</PT-Words-Man>
     <PT-Word-Cand>pensar, ponderar, achar, meditar</PT-Word-Cand>
     <EN-Gloss>use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've
     been thinking all day and getting nowhere"</EN-Gloss>
     <EN-Words>cerebrate, cogitate, think</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>usar ou exercitar a mente ou  poder da raciocínio, a fim de fazer inferências, decisões ou chegar a uma solução ou julgamentos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>meditar, discurrir</SPA-Words-Sug>
     <Comments />
@@ -1093,12 +1090,12 @@
   <row>
     <BC>589</BC>
     <WN-3.0-Synset>v630380</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>refletir, contemplar</PT-Words-Man>
     <PT-Word-Cand>pensar, ponderar, ruminar, meditar, reflexionar, refletirmuito, reflectir</PT-Word-Cand>
     <EN-Gloss>reflect deeply on a subject; "I mulled over the events of the afternoon"; "philosophers have speculated on the question of God for
     thousands of years"; "The scientist must stop to observe and start to excogitate"</EN-Gloss>
     <EN-Words>chew over, contemplate, excogitate, meditate, mull over, mull, muse, ponder, reflect, ruminate, speculate, think over</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>refletir profundamente sobre um assunto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>meditar, contemplar, preguntarse, considerar, ponderar</SPA-Words-Sug>
     <Comments />
@@ -1106,12 +1103,12 @@
   <row>
     <BC>590</BC>
     <WN-3.0-Synset>v631737</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>achar</PT-Words-Man>
     <PT-Word-Cand>imaginar, supor, achar, pensar</PT-Word-Cand>
     <EN-Gloss>expect, believe, or suppose; "I imagine she earned a lot of money with her new novel"; "I thought to find her in a bad state"; "he
     didn't think to find her in the kitchen"; "I guess she is angry at me for standing her up"</EN-Gloss>
     <EN-Words>guess, imagine, opine, reckon, suppose, think</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>imaginar, acreditar, ou supor</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>suponer, conjeturar, imaginar, hipotetizar, plantear una hipótesis, teorizar, especular</SPA-Words-Sug>
     <Comments />
@@ -1119,11 +1116,11 @@
   <row>
     <BC>591</BC>
     <WN-3.0-Synset>v632236</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>assumir, presumir</PT-Words-Man>
     <PT-Word-Cand>achar, pensar, supor</PT-Word-Cand>
     <EN-Gloss>take to be the case or to be true; accept without verification or proof; "I assume his train was late"</EN-Gloss>
     <EN-Words>assume, presume, take for granted</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>considerar ser uma hipótese ou uma verdade; aceitar sem verificação ou prova</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>suponer, dar por supuesto, dar por hecho, dar por sentado</SPA-Words-Sug>
     <Comments />
@@ -1131,11 +1128,11 @@
   <row>
     <BC>592</BC>
     <WN-3.0-Synset>v632627</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>raciocinar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>think logically; "The children must learn to reason"</EN-Gloss>
     <EN-Words>reason</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pensar logicamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1143,11 +1140,11 @@
   <row>
     <BC>593</BC>
     <WN-3.0-Synset>v633443</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>teorizar, supor</PT-Words-Man>
     <PT-Word-Cand>achar, fazer a hipótese de, supor</PT-Word-Cand>
     <EN-Gloss>to believe especially on uncertain or tentative grounds; "Scientists supposed that large dinosaurs lived in swamps"</EN-Gloss>
     <EN-Words>conjecture, hypothecate, hypothesise, hypothesize, speculate, suppose, theorise, theorize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>acreditar especialmente em fundamentos incertos ou experimentais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>conjeturar, hipotetizar, plantear una hipótesis, teorizar, especular, suponer</SPA-Words-Sug>
     <Comments />
@@ -1155,13 +1152,13 @@
   <row>
     <BC>594</BC>
     <WN-3.0-Synset>v634906</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>resolver</PT-Words-Man>
     <PT-Word-Cand>compreender, entender, resolver, deduzir, perceber, solucionar, decidir, solver</PT-Word-Cand>
     <EN-Gloss>find the solution to (a problem or question) or understand the meaning of; "did you solve the problem?"; "Work out your problems with
     the boss"; "this unpleasant situation isn't going to work itself out"; "did you get it?"; "Did you get my meaning?"; "He could not work the math
     problem"</EN-Gloss>
     <EN-Words>figure out, lick, puzzle out, solve, work out, work</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>encontrar a solução para (um problema ou pergunta) ou entender o significado de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comprender, resolver, deducir, solucionar, solventar</SPA-Words-Sug>
     <Comments />
@@ -1169,12 +1166,12 @@
   <row>
     <BC>595</BC>
     <WN-3.0-Synset>n652069</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">visita_de_inspeção</PT-Words-Man>
     <PT-Word-Cand>visita, visitação</PT-Word-Cand>
     <EN-Gloss>an official visit for inspection or supervision; "the commissioner made visitations to all the precinct stations"; "the recent
     visitation of the bishop to his diocese"</EN-Gloss>
     <EN-Words>visitation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma visita oficial para  inspeção ou fiscalização</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>visita</SPA-Words-Sug>
     <Comments />
@@ -1182,11 +1179,11 @@
   <row>
     <BC>596</BC>
     <WN-3.0-Synset>v636061</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>supor</PT-Words-Man>
     <PT-Word-Cand>supor</PT-Word-Cand>
     <EN-Gloss>guess correctly; solve by guessing; "He guessed the right number of beans in the jar and won the prize"</EN-Gloss>
     <EN-Words>guess, infer</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>supor corretamente; resolver por suposição</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>suponer</SPA-Words-Sug>
     <Comments />
@@ -1194,11 +1191,11 @@
   <row>
     <BC>597</BC>
     <WN-3.0-Synset>v637259</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>calcular, computar</PT-Words-Man>
     <PT-Word-Cand>calcular</PT-Word-Cand>
     <EN-Gloss>make a mathematical calculation or computation</EN-Gloss>
     <EN-Words>calculate, cipher, compute, cypher, figure, reckon, work out</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um calculo ou computação matemática</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>computar</SPA-Words-Sug>
     <Comments />
@@ -1206,12 +1203,12 @@
   <row>
     <BC>598</BC>
     <WN-3.0-Synset>n654885</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>assintência</PT-Words-Man>
     <PT-Word-Cand>atenção</PT-Word-Cand>
     <EN-Gloss>the work of providing treatment for or attending to someone or something; "no medical care was required"; "the old car needs constant
     attention"</EN-Gloss>
     <EN-Words>aid, attention, care, tending</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o trabalho de fornecer tratamento a ou assitir algo ou alguém</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Atención, Atencion, atención</SPA-Words-Sug>
     <Comments />
@@ -1219,11 +1216,11 @@
   <row>
     <BC>599</BC>
     <WN-3.0-Synset>n657604</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">cuidados_médicos</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>professional treatment for illness or injury</EN-Gloss>
     <EN-Words>medical aid, medical care</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tratamento profissional para doenças ou lesões</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1231,12 +1228,12 @@
   <row>
     <BC>600</BC>
     <WN-3.0-Synset>n658082</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tratamento</PT-Words-Man>
     <PT-Word-Cand>tratamento, terapia</PT-Word-Cand>
     <EN-Gloss>care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or
     injury)</EN-Gloss>
     <EN-Words>intervention, treatment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cuidados prestados para melhorar uma situação (especialmente procedimentos médicos ou aplicações que se destinam a aliviar doenças ou lesões)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>terapia, cura</SPA-Words-Sug>
     <Comments />
@@ -1244,11 +1241,11 @@
   <row>
     <BC>601</BC>
     <WN-3.0-Synset>v641252</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>subtrair, deduzir</PT-Words-Man>
     <PT-Word-Cand>subtrair, extrair, deduzir, descontar</PT-Word-Cand>
     <EN-Gloss>make a subtraction; "subtract this amount from my paycheck"</EN-Gloss>
     <EN-Words>deduct, subtract, take off</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer uma subtração</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>substraer, sustraer, abstraer, restar, extraer, sonsacar</SPA-Words-Sug>
     <Comments />
@@ -1256,11 +1253,11 @@
   <row>
     <BC>602</BC>
     <WN-3.0-Synset>v642098</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>dividir</PT-Words-Man>
     <PT-Word-Cand>dividir, seccionar</PT-Word-Cand>
     <EN-Gloss>perform a division; "Can you divide 49 by seven?"</EN-Gloss>
     <EN-Words>divide, fraction</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>realizar uma divisão</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1268,12 +1265,12 @@
   <row>
     <BC>603</BC>
     <WN-3.0-Synset>v644583</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>analizar, examinar</PT-Words-Man>
     <PT-Word-Cand>ensaiar, inspecionar</PT-Word-Cand>
     <EN-Gloss>consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare";
     "analyze the evidence in a criminal trial"; "analyze your real motives"</EN-Gloss>
     <EN-Words>analyse, analyze, canvas, canvass, examine, study</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>examinar em detalhe e sujeito a uma análise para descobrir as características ou significado essenciais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>examinar</SPA-Words-Sug>
     <Comments />
@@ -1281,11 +1278,11 @@
   <row>
     <BC>604</BC>
     <WN-3.0-Synset>v647094</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mensurar, medir</PT-Words-Man>
     <PT-Word-Cand>dosar, balizar</PT-Word-Cand>
     <EN-Gloss>determine the measurements of something or somebody, take measurements of; "Measure the length of the wall"</EN-Gloss>
     <EN-Words>measure out, measure, mensurate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>determinar as medições de algo ou alguém, fazer medições de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>dosar, mesurar</SPA-Words-Sug>
     <Comments />
@@ -1293,12 +1290,12 @@
   <row>
     <BC>605</BC>
     <WN-3.0-Synset>a656862</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>formalizado, formalizada</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>having become fixed and definite in form; "distinguish between crystallized and uncrystallized opinion"- Psychological
     Abstracts</EN-Gloss>
     <EN-Words>crystallised, crystallized</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tendo-se tornado fixa e definitiva em forma</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1306,11 +1303,11 @@
   <row>
     <BC>606</BC>
     <WN-3.0-Synset>v650016</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>distinguir, diferenciar, discriminar</PT-Words-Man>
     <PT-Word-Cand>discriminar, demonstrar preconceito</PT-Word-Cand>
     <EN-Gloss>recognize or perceive the difference</EN-Gloss>
     <EN-Words>discriminate, know apart</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>reconhecer ou perceber diferença</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>distinguir, discriminar</SPA-Words-Sug>
     <Comments />
@@ -1318,11 +1315,11 @@
   <row>
     <BC>607</BC>
     <WN-3.0-Synset>v650353</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>distinguir</PT-Words-Man>
     <PT-Word-Cand>distinguir</PT-Word-Cand>
     <EN-Gloss>mark as different; "We distinguish several kinds of maple"</EN-Gloss>
     <EN-Words>differentiate, distinguish, secern, secernate, separate, severalise, severalize, tell apart, tell</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>marcar como diferente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>distinguir</SPA-Words-Sug>
     <Comments />
@@ -1330,12 +1327,12 @@
   <row>
     <BC>608</BC>
     <WN-3.0-Synset>v651991</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>diferenciar</PT-Words-Man>
     <PT-Word-Cand>diferenciar, diferençar</PT-Word-Cand>
     <EN-Gloss>be a distinctive feature, attribute, or trait; sometimes in a very positive sense; "His modesty distinguishes him from his
     peers"</EN-Gloss>
     <EN-Words>differentiate, distinguish, mark</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser uma característica, atributo ou traço distinto; às vezes num sentido muito positivo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1343,11 +1340,11 @@
   <row>
     <BC>609</BC>
     <WN-3.0-Synset>v652346</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>identificar</PT-Words-Man>
     <PT-Word-Cand>identificar, descrever</PT-Word-Cand>
     <EN-Gloss>identify as in botany or biology, for example</EN-Gloss>
     <EN-Words>describe, discover, distinguish, identify, key out, key, name</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>identificar como em botânica ou biologia, por exemplo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>identificar</SPA-Words-Sug>
     <Comments />
@@ -1355,12 +1352,12 @@
   <row>
     <BC>610</BC>
     <WN-3.0-Synset>v652900</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>comparar</PT-Words-Man>
     <PT-Word-Cand>comparar</PT-Word-Cand>
     <EN-Gloss>examine and note the similarities or differences of; "John compared his haircut to his friend's"; "We compared notes after we had both
     seen the movie"</EN-Gloss>
     <EN-Words>compare</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>examinar e notar as similaridades ou diferenças de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comparar, cotejar</SPA-Words-Sug>
     <Comments />
@@ -1368,12 +1365,12 @@
   <row>
     <BC>611</BC>
     <WN-3.0-Synset>v653620</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>equiparar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>consider or describe as similar, equal, or analogous; "We can compare the Han dynasty to the Romans"; "You cannot equate success in
     financial matters with greed"</EN-Gloss>
     <EN-Words>compare, equate, liken</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>considerar ou descrever como semelhante, igual ou análogo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cotejar, equiparar</SPA-Words-Sug>
     <Comments />
@@ -1381,11 +1378,11 @@
   <row>
     <BC>612</BC>
     <WN-3.0-Synset>v654625</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>classificar</PT-Words-Man>
     <PT-Word-Cand>classificar, dividir</PT-Word-Cand>
     <EN-Gloss>arrange or order by classes or categories; "How would you classify these pottery shards--are they prehistoric?"</EN-Gloss>
     <EN-Words>assort, class, classify, separate, sort out, sort</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>organizar ou ordenar por classes ou categorias</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>clasificar, agrupar, poner orden</SPA-Words-Sug>
     <Comments />
@@ -1393,11 +1390,11 @@
   <row>
     <BC>613</BC>
     <WN-3.0-Synset>v658052</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ranquiar</PT-Words-Man>
     <PT-Word-Cand>avaliar, taxar</PT-Word-Cand>
     <EN-Gloss>assign a rank or rating to; "how would you rank these students?"; "The restaurant is rated highly in the food guide"</EN-Gloss>
     <EN-Words>grade, order, place, range, rank, rate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atribuir uma classificação ou ranque para</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1405,11 +1402,11 @@
   <row>
     <BC>614</BC>
     <WN-3.0-Synset>v661824</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>checar, conferir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>examine so as to determine accuracy, quality, or condition; "check the brakes"; "Check out the engine"</EN-Gloss>
     <EN-Words>check into, check out, check over, check up on, check, go over, look into, suss out</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>examinar de modo a determinar a precisão, qualidade ou condição</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1417,12 +1414,12 @@
   <row>
     <BC>615</BC>
     <WN-3.0-Synset>v664788</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>validar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>establish the validity of something, as by an example, explanation or experiment; "The experiment demonstrated the instability of the
     compound"; "The mathematician showed the validity of the conjecture"</EN-Gloss>
     <EN-Words>demonstrate, establish, prove, shew, show</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estabelecer a validade de algo, como por exemplo uma explicação ou experiência</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>demostrar</SPA-Words-Sug>
     <Comments />
@@ -1430,12 +1427,12 @@
   <row>
     <BC>616</BC>
     <WN-3.0-Synset>v668099</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tolerar, aturar, aguentar</PT-Words-Man>
     <PT-Word-Cand>sofrer</PT-Word-Cand>
     <EN-Gloss>put up with something or somebody unpleasant; "I cannot bear his constant criticism"; "The new secretary had to endure a lot of
     unprofessional remarks"; "he learned to tolerate the heat"; "She stuck out two years in a miserable marriage"</EN-Gloss>
     <EN-Words>abide, bear, brook, digest, endure, put up, stand, stick out, stomach, suffer, support, tolerate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>aturar algo ou alguém desagradável</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>permitir, caber</SPA-Words-Sug>
     <Comments />
@@ -1443,12 +1440,12 @@
   <row>
     <BC>617</BC>
     <WN-3.0-Synset>v670261</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>julgar</PT-Words-Man>
     <PT-Word-Cand>pensar, avaliar, julgar, crer, acreditar</PT-Word-Cand>
     <EN-Gloss>form a critical opinion of; "I cannot judge some works of modern art"; "How do you evaluate this grant proposal?" "We shouldn't pass
     judgment on other people"</EN-Gloss>
     <EN-Words>evaluate, judge, pass judgment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>formar uma opinião crítica sobre</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>juzgar, pensar, evaluar, opinar, creer</SPA-Words-Sug>
     <Comments />
@@ -1456,11 +1453,11 @@
   <row>
     <BC>618</BC>
     <WN-3.0-Synset>v672433</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>estimar, chutar</PT-Words-Man>
     <PT-Word-Cand>calcular, taxar, orçar</PT-Word-Cand>
     <EN-Gloss>judge tentatively or form an estimate of (quantities or time); "I estimate this chicken to weigh three pounds"</EN-Gloss>
     <EN-Words>approximate, estimate, gauge, guess, judge</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>julgar por tentativa ou formar uma estimativa de (quantidades ou tempo)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1468,12 +1465,12 @@
   <row>
     <BC>619</BC>
     <WN-3.0-Synset>v673571</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>estimar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>estimate the duration or outcome of something; "He gave the patient three months to live"; "I gave him a very good chance at
     success"</EN-Gloss>
     <EN-Words>give</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estimar a duração ou o resultado de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1481,11 +1478,11 @@
   <row>
     <BC>620</BC>
     <WN-3.0-Synset>v673983</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aprovar</PT-Words-Man>
     <PT-Word-Cand>aprovar</PT-Word-Cand>
     <EN-Gloss>judge to be right or commendable; think well of</EN-Gloss>
     <EN-Words>approve</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>julgar certo ou louvável; pensar bem de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>aprobar</SPA-Words-Sug>
     <Comments />
@@ -1493,12 +1490,12 @@
   <row>
     <BC>621</BC>
     <WN-3.0-Synset>v674607</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escolher, selecionar</PT-Words-Man>
     <PT-Word-Cand>escolher, eleger, designar, seleccionar</PT-Word-Cand>
     <EN-Gloss>pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter";
     "She selected a pair of shoes from among the dozen the salesgirl had shown her"</EN-Gloss>
     <EN-Words>choose, pick out, select, take</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>escolher, selecionar de um numero de alternativas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>elegir</SPA-Words-Sug>
     <Comments />
@@ -1506,11 +1503,11 @@
   <row>
     <BC>622</BC>
     <WN-3.0-Synset>v676450</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escolher</PT-Words-Man>
     <PT-Word-Cand>escolher, eleger</PT-Word-Cand>
     <EN-Gloss>select carefully from a group; "She finally picked her successor"; "He picked his way carefully"</EN-Gloss>
     <EN-Words>pick</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>selecionar cuidadosamente apartir de um grupo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>escoger</SPA-Words-Sug>
     <Comments />
@@ -1518,11 +1515,11 @@
   <row>
     <BC>623</BC>
     <WN-3.0-Synset>v676864</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>eleger, escolher</PT-Words-Man>
     <PT-Word-Cand>escolher, eleger, designar</PT-Word-Cand>
     <EN-Gloss>choose; "I elected to have my funds deposited automatically"</EN-Gloss>
     <EN-Words>elect</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>escolher</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>escoger</SPA-Words-Sug>
     <Comments />
@@ -1530,12 +1527,12 @@
   <row>
     <BC>624</BC>
     <WN-3.0-Synset>v681429</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>avaliar</PT-Words-Man>
     <PT-Word-Cand>taxar, orçar, avaliar, valorizar, ajuizar, aforar</PT-Word-Cand>
     <EN-Gloss>evaluate or estimate the nature, quality, ability, extent, or significance of; "I will have the family jewels appraised by a
     professional"; "access all the factors when taking a risk"</EN-Gloss>
     <EN-Words>appraise, assess, evaluate, measure, valuate, value</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>avaliar ou estimar a natureza, qualidade, capacidade, medida ou a importância de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>juzgar, tasar, aforar, valuar</SPA-Words-Sug>
     <Comments />
@@ -1543,12 +1540,12 @@
   <row>
     <BC>625</BC>
     <WN-3.0-Synset>v683280</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>acreditar</PT-Words-Man>
     <PT-Word-Cand>confiar</PT-Word-Cand>
     <EN-Gloss>accept as true; take to be true; "I believed his report"; "We didn't believe his stories from the War"; "She believes in
     spirits"</EN-Gloss>
     <EN-Words>believe</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>aceitar como verdade; tomar como verdade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>confiar</SPA-Words-Sug>
     <Comments />
@@ -1556,11 +1553,11 @@
   <row>
     <BC>626</BC>
     <WN-3.0-Synset>v684838</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>incluir</PT-Words-Man>
     <PT-Word-Cand>incluir</PT-Word-Cand>
     <EN-Gloss>consider as part of something; "I include you in the list of culprits"</EN-Gloss>
     <EN-Words>include</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>considerar como parte de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1568,11 +1565,11 @@
   <row>
     <BC>627</BC>
     <WN-3.0-Synset>v685683</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>rejeitar</PT-Words-Man>
     <PT-Word-Cand>recusar</PT-Word-Cand>
     <EN-Gloss>refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper"</EN-Gloss>
     <EN-Words>reject</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>se recusar a aceitar ou reconhecer</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1580,11 +1577,11 @@
   <row>
     <BC>628</BC>
     <WN-3.0-Synset>v686447</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aceitar</PT-Words-Man>
     <PT-Word-Cand>aceitar</PT-Word-Cand>
     <EN-Gloss>consider or hold as true; "I cannot accept the dogma of this church"; "accept an argument"</EN-Gloss>
     <EN-Words>accept</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>considerar ou manter como verdadeiro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>reconocer, aceptar</SPA-Words-Sug>
     <Comments />
@@ -1592,12 +1589,12 @@
   <row>
     <BC>629</BC>
     <WN-3.0-Synset>v688377</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>crer</PT-Words-Man>
     <PT-Word-Cand>contar com</PT-Word-Cand>
     <EN-Gloss>have confidence or faith in; "We can trust in God"; "Rely on your friends"; "bank on your good education"; "I swear by my grandmother's
     recipes"</EN-Gloss>
     <EN-Words>bank, rely, swear, trust</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter confiança ou fé em</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>contar con</SPA-Words-Sug>
     <Comments />
@@ -1605,12 +1602,12 @@
   <row>
     <BC>630</BC>
     <WN-3.0-Synset>v689344</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pensar, achar</PT-Words-Man>
     <PT-Word-Cand>pensar, achar, considerar</PT-Word-Cand>
     <EN-Gloss>judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend";
     "The racist conceives such people to be inferior"</EN-Gloss>
     <EN-Words>believe, conceive, consider, think</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>julgar ou reparar; considerar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1618,12 +1615,12 @@
   <row>
     <BC>631</BC>
     <WN-3.0-Synset>v689950</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>considerar</PT-Words-Man>
     <PT-Word-Cand>considerar, pensar</PT-Word-Cand>
     <EN-Gloss>look on as or consider; "she looked on this affair as a joke"; "He thinks of himself as a brilliant musician"; "He is reputed to be
     intelligent"</EN-Gloss>
     <EN-Words>esteem, look on, look upon, regard as, repute, take to be, think of</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>observar ou considerar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1631,12 +1628,12 @@
   <row>
     <BC>632</BC>
     <WN-3.0-Synset>v690614</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>achar,considerar</PT-Words-Man>
     <PT-Word-Cand>considerar, pensar, achar</PT-Word-Cand>
     <EN-Gloss>deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively
     as you do"</EN-Gloss>
     <EN-Words>consider, reckon, regard, see, view</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>julgar ser</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>apreciar</SPA-Words-Sug>
     <Comments />
@@ -1651,17 +1648,17 @@
     <PT-Gloss />
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não entendi a relação que esse Gloss tem com a palavra "like"</Comments> 
   </row>
   <row>
     <BC>634</BC>
     <WN-3.0-Synset>v693780</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>considerar, julgar</PT-Words-Man>
     <PT-Word-Cand>considerar, julgar, mirar, olhar, observar, estimar</PT-Word-Cand>
     <EN-Gloss>keep in mind or convey as a conviction or view; "take for granted"; "view as important"; "hold these truths to be self-evident"; "I
     hold him personally responsible"</EN-Gloss>
     <EN-Words>deem, hold, take for, view as</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>manter em mente ou transmitir uma convicção ou opinião</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ver, observar, mirar, contemplar, considerar, estimar, comprender</SPA-Words-Sug>
     <Comments />
@@ -1669,11 +1666,11 @@
   <row>
     <BC>635</BC>
     <WN-3.0-Synset>v694068</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>prezar, venerar</PT-Words-Man>
     <PT-Word-Cand>respeitar, apreciar, considerar, estimar, prezar</PT-Word-Cand>
     <EN-Gloss>regard highly; think much of; "I respect his judgement"; "We prize his creativity"</EN-Gloss>
     <EN-Words>esteem, prise, prize, respect, value</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>respeitar muito; achar muito de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>apreciar, respetar, estimar</SPA-Words-Sug>
     <Comments />
@@ -1681,11 +1678,11 @@
   <row>
     <BC>636</BC>
     <WN-3.0-Synset>v697589</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>resolver, decidir</PT-Words-Man>
     <PT-Word-Cand>resolver, decidir, designar, decidir-se, determinar, dirimir, haver por bem</PT-Word-Cand>
     <EN-Gloss>reach, make, or come to a decision about something; "We finally decided after lengthy deliberations"</EN-Gloss>
     <EN-Words>decide, determine, make up one's mind</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>chegar, fazer uma decisão sobre algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>determinar, resolver, decidir, decidirse</SPA-Words-Sug>
     <Comments />
@@ -1693,12 +1690,12 @@
   <row>
     <BC>637</BC>
     <WN-3.0-Synset>v698855</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>concluir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>bring to an end; settle conclusively; "The case was decided"; "The judge decided the case in favor of the plaintiff"; "The father
     adjudicated when the sons were quarreling over their inheritance"</EN-Gloss>
     <EN-Words>adjudicate, decide, resolve, settle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pôr um fim; resolver conclusivamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>concluir</SPA-Words-Sug>
     <Comments />
@@ -1706,11 +1703,11 @@
   <row>
     <BC>638</BC>
     <WN-3.0-Synset>v699815</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>determinar</PT-Words-Man>
     <PT-Word-Cand>escolher, resolver, designar, decidir</PT-Word-Cand>
     <EN-Gloss>fix conclusively or authoritatively; "set the rules"</EN-Gloss>
     <EN-Words>determine, set</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estabelecer conclusivamente ou autoritariamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>determinar</SPA-Words-Sug>
     <Comments />
@@ -1718,11 +1715,11 @@
   <row>
     <BC>639</BC>
     <WN-3.0-Synset>n719494</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>dever, obrigação</PT-Words-Man>
     <PT-Word-Cand>tarefa, dever, encargo</PT-Word-Cand>
     <EN-Gloss>work that you are obliged to perform for moral or legal reasons; "the duties of the job"</EN-Gloss>
     <EN-Words>duty</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>trabalho que você é obrigado  a realizar por razões morais ou legais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>tarea, cometido, deb</SPA-Words-Sug>
     <Comments />
@@ -1730,13 +1727,13 @@
   <row>
     <BC>640</BC>
     <WN-3.0-Synset>n719705</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>incumbência, serviço</PT-Words-Man>
     <PT-Word-Cand>trabalho, dever, tarefa, empreitada</PT-Word-Cand>
     <EN-Gloss>a specific piece of work required to be done as a duty or for a specific fee; "estimates of the city's loss on that job ranged as high
     as a million dollars"; "the job of repairing the engine took several hours"; "the endless task of classifying the samples"; "the farmer's morning
     chores"</EN-Gloss>
     <EN-Words>chore, job, task</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma parte específica do trabalho que requer ser feito como um dever ou por honorário específico</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>tarea, talacha</SPA-Words-Sug>
     <Comments />
@@ -1744,12 +1741,12 @@
   <row>
     <BC>641</BC>
     <WN-3.0-Synset>n720565</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>função, papel</PT-Words-Man>
     <PT-Word-Cand>deveres oficiais, papel, dever, tarefa, função</PT-Word-Cand>
     <EN-Gloss>the actions and activities assigned to or required or expected of a person or group; "the function of a teacher"; "the government must
     do its part"; "play its role"</EN-Gloss>
     <EN-Words>function, office, part, role</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ações e atividades atribuídas ou necessárias ou esperadas de uma pessoa ou grupo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>tarea</SPA-Words-Sug>
     <Comments />
@@ -1757,11 +1754,11 @@
   <row>
     <BC>642</BC>
     <WN-3.0-Synset>n721141</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>an informal term for a person's role; "he took off his politician's hat and talked frankly"</EN-Gloss>
     <EN-Words>hat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um termo informal para o papel de uma pessoa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1769,12 +1766,12 @@
   <row>
     <BC>643</BC>
     <WN-3.0-Synset>n721431</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>posição</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the post or function properly or customarily occupied or served by another; "can you go in my stead?"; "took his place"; "in lieu
     of"</EN-Gloss>
     <EN-Words>lieu, place, position, stead</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o cargo ou função propriamente ou habitualmente ocupada ou atendida por outro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1782,11 +1779,11 @@
   <row>
     <BC>644</BC>
     <WN-3.0-Synset>v704690</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>planejar</PT-Words-Man>
     <PT-Word-Cand>planear, pensar</PT-Word-Cand>
     <EN-Gloss>make plans for something; "He is planning a trip with his family"</EN-Gloss>
     <EN-Words>plan</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer planos para algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1794,12 +1791,12 @@
   <row>
     <BC>645</BC>
     <WN-3.0-Synset>v705227</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>planejar</PT-Words-Man>
     <PT-Word-Cand>pensar, planejar</PT-Word-Cand>
     <EN-Gloss>have the will and intention to carry out some action; "He plans to be in graduate school next year"; "The rebels had planned turmoil
     and confusion"</EN-Gloss>
     <EN-Words>be after, plan</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter a vontade e a intenção de realizar alguma ação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>planear</SPA-Words-Sug>
     <Comments />
@@ -1807,12 +1804,12 @@
   <row>
     <BC>646</BC>
     <WN-3.0-Synset>v708538</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pretender</PT-Words-Man>
     <PT-Word-Cand>pensar, pretende</PT-Word-Cand>
     <EN-Gloss>have in mind as a purpose; "I mean no harm"; "I only meant to help you"; "She didn't think to harm me"; "We thought to return early
     that night"</EN-Gloss>
     <EN-Words>intend, mean, think</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter em mente como objetivo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1820,11 +1817,11 @@
   <row>
     <BC>647</BC>
     <WN-3.0-Synset>v1824339</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desejar, querer</PT-Words-Man>
     <PT-Word-Cand>querer, desejar, esperar, ansiar</PT-Word-Cand>
     <EN-Gloss>hope for; have a wish; "I wish I could go home now"</EN-Gloss>
     <EN-Words>wish</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>esperar por; ter um desejo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desear, querer</SPA-Words-Sug>
     <Comments />
@@ -1832,11 +1829,11 @@
   <row>
     <BC>648</BC>
     <WN-3.0-Synset>v709379</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>destinar</PT-Words-Man>
     <PT-Word-Cand>destinar, designar, aprazar</PT-Word-Cand>
     <EN-Gloss>design or destine; "She was intended to become the director"</EN-Gloss>
     <EN-Words>designate, destine, intend, specify</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>designar ou destinar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>destinar</SPA-Words-Sug>
     <Comments />
@@ -1844,11 +1841,11 @@
   <row>
     <BC>649</BC>
     <WN-3.0-Synset>n730247</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>designação, tarefa</PT-Words-Man>
     <PT-Word-Cand>tarefa, encargo</PT-Word-Cand>
     <EN-Gloss>a duty that you are assigned to perform (especially in the armed forces); "hazardous duty"</EN-Gloss>
     <EN-Words>assignment, duty assignment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um dever que lhe é atribuído para realização(especialmente nas forças armadas)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1856,11 +1853,11 @@
   <row>
     <BC>650</BC>
     <WN-3.0-Synset>n730538</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>guarda, vigia</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the duty of serving as a sentry; "he was on guard that night"</EN-Gloss>
     <EN-Words>guard duty, guard, sentry duty, sentry go</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o dever de servir como uma sentinela</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>guardia</SPA-Words-Sug>
     <Comments />
@@ -1868,12 +1865,12 @@
   <row>
     <BC>651</BC>
     <WN-3.0-Synset>n731222</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>missão</PT-Words-Man>
     <PT-Word-Cand>missão</PT-Word-Cand>
     <EN-Gloss>a special assignment that is given to a person or group; "a confidential mission to London"; "his charge was deliver a
     message"</EN-Gloss>
     <EN-Words>charge, commission, mission</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma tarefa especial que é dada a uma pessoa ou grupo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>encargo, mision</SPA-Words-Sug>
     <Comments />
