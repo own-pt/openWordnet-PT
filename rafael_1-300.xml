@@ -15,7 +15,7 @@
   <row>
     <BC>2</BC>
     <WN-3.0-Synset>n3553</WN-3.0-Synset>
-    <PT-Words-Man>unidade, todo</Pt-Words-Man>
+    <PT-Words-Man>unidade, todo</PT-Words-Man>
     <PT-Words-Cand>unidade, todo</PT-Words-Cand> 
     <EN-Gloss>an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a
     unit"</EN-Gloss>
@@ -121,7 +121,7 @@
     <PT-Gloss>mover de forma incontrolada</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug />
-    <Comments vcvp:esse tb nao sei porque existe.../>
+    <Comments by="vcvp">esse tb nao sei porque existe</Comments>
   </row>
   <row>
     <BC>11</BC>
@@ -134,7 +134,7 @@
     <PT-Gloss >agir de forma involuntaria</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug />
-    <Comments vcvp:nao acho necessario esse synset />
+    <Comments by="vcvp">nao acho necessario esse synset</Comments>
   </row>
   <row>
     <BC>12</BC>
@@ -146,7 +146,7 @@
     <PT-Gloss >agir de uma certa forma;  comportar-se ou conduzir-se; "você deveria agir como adulto"; "não se comporte como um tolo"; "o que faz ela agir dessa maneira?"; "o cachorro parece feroz, mas ele realmente tem medo de pessoas"</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug>construir</Spa-Words-Sug>
-    <Comments vcvp: construir? nao faz sentido />
+    <Comments by="vcvp">construir? nao faz sentido</Comments>
   </row>
   <row>
     <BC>13</BC>
@@ -170,7 +170,7 @@
     <PT-Gloss> agir repentinamente de forma fria e formal; "ela paralizou quando viu seu ex-marido"</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug />
-    <Comments acho que esse esta' estranho, dizemos 'o seu sorriso congelou' mas paralizou na frase do gloss 'e mais ficar sem acao, do que realmente agir de uma maneira fria. enfim estou mantendo./>
+    <Comments by="vcvp">acho que esse esta' estranho, dizemos 'o seu sorriso congelou' mas paralizou na frase do gloss 'e mais ficar sem acao, do que realmente agir de uma maneira fria. enfim estou mantendo.</Comments>
   </row>
   <row>
     <BC>15</BC>
@@ -252,7 +252,7 @@
     <PT-Words-Cand>planta</PT-Words-Cand>
     <EN-Gloss>(botany) a living organism lacking the power of locomotion</EN-Gloss>
     <EN-Words>flora, plant life, plant</EN-Words>
-    <PT-Gloss (botânica) um organismo vivo sem capacidade de locomoção />
+    <PT-Gloss>(botânica) um organismo vivo sem capacidade de locomoção</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug>plantas</Spa-Words-Sug>
     <Comments> achei desnecessário botar planta ou qualquer tipo de vida vegetal no PT-Words-Man desse synset, apesar do gloss ser bem abrangente qualquer vida vegetal se encaixaria como um hipônimo (hyponym), se estiver errado me corrija por favor.vcvp: bom, eu acho que plantas sao o que eles estao descrevendo</Comments> 
@@ -356,7 +356,7 @@
   <row>
     <BC>30</BC>
     <WN-3.0-Synset>n23100</WN-3.0-Synset>
-<PT-Words-Man lexicalGap="True">característica_psicológica</PT-Words-Man>
+    <PT-Words-Man lexicalGap="True">característica_psicológica</PT-Words-Man>
     <PT-Words-Man>característica_psicológica</PT-Words-Man>
     <PT-Words-Cand />
     <EN-Gloss>a feature of the mental life of a living organism</EN-Gloss>
@@ -453,7 +453,7 @@
   <row>
     <BC>38</BC>
     <WN-3.0-Synset>n24720</WN-3.0-Synset>
-    <PT-Words-Man>estado, condição, situação</Pt-Words-Man>
+    <PT-Words-Man>estado, condição, situação</PT-Words-Man>
     <PT-Words-Cand>estado, assunto, condição, situação</PT-Words-Cand>
     <EN-Gloss>the way something is with respect to its main attributes; "the current state of knowledge"; "his state of health"; "in a weak financial
     state"</EN-Gloss>
@@ -557,7 +557,7 @@
     <PT-Gloss>uma abstração pertencente à alguma coisa ou característica de uma  entidade</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug>atributo, calidad, propiedad</Spa-Words-Sug>
-    <Comments vcvp: precisa de crase mas nao tenho como consertar facilmente />
+    <Comments by="vcvp">precisa de crase mas nao tenho como consertar facilmente</Comments>
   </row>
   <row>
     <BC>47</BC>
@@ -677,7 +677,7 @@
     <PT-Gloss> ter uma certa aparência ou expressão facial; "Como é que ela está?"; "A criança parece infeliz"; "Ela estava pálida após a cirurgia "</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug />
-    <Comments esse vai ser problematico, vcvp />
+    <Comments by="vcvp">esse vai ser problematico</Comments>
   </row>
   <row>
     <BC>57</BC>
@@ -701,7 +701,7 @@
     <PT-Gloss> curso de ação; "se você persistir nesse caminho, irá certamente falhar"; "uma vez que uma nação  embarca em uma conduta torna-se   extremamente difícil que alguma retração aconteça"</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug />
-    <Comments  esse nao esta' bom, vcvp/>
+    <Comments by="vcvp">esse nao esta' bom</Comments>
   </row>
   <row>
     <BC>59</BC>
@@ -762,8 +762,10 @@
     <PT-Gloss>utilizar uma espada (ou outra arma) de forma enérgica e habilmente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments>fiquei na dúvida nesse synset, acho que talvez esse Gloss só tenha uma definição em inglês mesmo, mas botei "luta armada" também porque achei que mais se aproxima. vcvp: eu concodrdo que esse synset nao existe em portugues </Comments>
-
+    <Comments>fiquei na dúvida nesse synset, acho que talvez esse
+    Gloss só tenha uma definição em inglês mesmo, mas botei "luta
+    armada" também porque achei que mais se aproxima. vcvp: eu
+    concodrdo que esse synset nao existe em portugues </Comments>
   </row>
   <row>
     <BC>64</BC>
@@ -777,8 +779,7 @@
     <SPA-Words-Sug />
     <Comments />
   </row>
-
-  <Row>
+  <row>
     <BC>65</BC>
     <WN-3.0-Synset>n42311</WN-3.0-Synset>
     <PT-Words-Man>causalidade</PT-Words-Man>
@@ -806,7 +807,7 @@
     <BC>67</BC>
     <WN-3.0-Synset>n43195</WN-3.0-Synset>
     <PT-Words-Man> descoberta, descobrimento,  achado</PT-Words-Man>
-    <Pt-Word-Cand>achado, descoberta, descobrimento</PT-Word-Cand>
+    <PT-Word-Cand>achado, descoberta, descobrimento</PT-Word-Cand>
     <EN-Gloss>the act of discovering something</EN-Gloss>
     <EN-Words>discovery, find, uncovering</EN-Words>
     <PT-Gloss>o ato de descobrir algo</PT-Gloss>
@@ -1260,7 +1261,7 @@
     <PT-Gloss>o ato de não alcançar o objetivo desejado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments vcvp: aqui acho que a traducao como descumprimento foi mal/>
+    <Comments by="vcvp">aqui acho que a traducao como descumprimento foi mal</Comments>
   </row>
   <row>
     <BC>105</BC>
@@ -1368,7 +1369,7 @@
     <PT-Gloss>sofrer de; estar doente com; "ela estava com artrite"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>padecer</SPA-Words-Sug>
-    <Comments ter 'e um problema tanto em ingles qto em portugues/>
+    <Comments by="vcvp">ter é um problema tanto em ingles qto em portugues</Comments>
   </row>
   <row>
     <BC>114</BC>
@@ -1430,7 +1431,7 @@
     <PT-Gloss>se encher de lágrimas ou derramar lágrimas; "os olhos dela estavam lacrimejando"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>llorar</SPA-Words-Sug>
-    <Comments vcvp: esse nao funciona muito bem. mantemos por enquanto./>
+    <Comments by="vcvp">esse nao funciona muito bem. mantemos por enquanto</Comments>
   </row>
   <row>
     <BC>119</BC>
@@ -1515,7 +1516,7 @@
     <PT-Gloss>causa de estar com prisão de ventre</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>estreñir</SPA-Words-Sug>
-    <Comments vcvp: esse synset tb nao existe em portugues, o verbo nao ter forma ativa,so' passiva />
+    <Comments by="vcvp">esse synset tb nao existe em portugues, o verbo nao ter forma ativa,so' passiva</Comments>
   </row>
   <row>
     <BC>126</BC>
@@ -1719,8 +1720,8 @@
     <PT-Gloss>o ato de rolar alguma coisa (como a bola de boliche)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments vcvp:esse tb nao existe em portugues usado />
-  </Row>
+    <Comments by="vcvp">esse tb nao existe em portugues usado</Comments>
+  </row>
   <row>
     <BC>143</BC>
     <WN-3.0-Synset>v103317</WN-3.0-Synset>
@@ -1743,7 +1744,7 @@
     <PT-Gloss>ficar pálido, quando com medo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>palidecer</SPA-Words-Sug>
-    <Comments  vcvp:esse tb nao existe em portugues usado />
+    <Comments by="vcvp">esse tb nao existe em portugues usado</Comments>
   </row>
   <row>
     <BC>145</BC>
@@ -1803,7 +1804,7 @@
     <PT-Gloss>o ato de puxar; aplicando força para mover algo para ou com você; </PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments vcvp: acho que esse tb nao funciona em portugues/>
+    <Comments by="vcvp">acho que esse tb nao funciona em portugues</Comments>
   </row>
   <row>
     <BC>150</BC>
@@ -1852,7 +1853,7 @@
     <PT-Gloss>o ato de atirar um projétil; "seu tiro era devagar, mas preciso"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>fusilamiento, tirada, tiro</SPA-Words-Sug>
-    <Comments vcvp: nao funciona muito/>
+    <Comments by="vcvp">nao funciona muito</Comments>
   </row>
   <row>
     <BC>154</BC>
@@ -1894,14 +1895,14 @@
   <row>
     <BC>157</BC>
     <WN-3.0-Synset>n127286</WN-3.0-Synset>
-    <PT-Words-Man lexicalGap=True >andada, andar_até_a_primeira_base</PT-Words-Man>
+    <PT-Words-Man lexicalGap="True">andada, andar_até_a_primeira_base</PT-Words-Man>
     <PT-Word-Cand>base por bolas</PT-Word-Cand>
     <EN-Gloss>(baseball) an advance to first base by a batter who receives four balls; "he worked the pitcher for a base on balls"</EN-Gloss>
     <EN-Words>base on balls, pass, walk</EN-Words>
     <PT-Gloss>(beisebol) um avanço para a primeira base por um batedor que recebe quatro bolas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>base por bolas</SPA-Words-Sug>
-    <Comments vcvp: nao 'e importante, nem funciona/>
+    <Comments by="vcvp">nao é importante, nem funciona</Comments>
   </row>
   <row>
     <BC>158</BC>
@@ -1950,7 +1951,7 @@
     <PT-Gloss>o ato de pegar algo com as mãos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>agarre, clinch</SPA-Words-Sug>
-    <Comments  acho que esse tb nao funciona/>
+    <Comments by="vcvp">acho que esse tb nao funciona</Comments>
   </row>
   <row>
     <BC>162</BC>
@@ -2132,7 +2133,7 @@
     <PT-Gloss>causar algo sem qualquer esforço direto ou aparente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>efecto, influencia</SPA-Words-Sug>
-    <Comments vcvp: Rafael nao sei porque voce acho qe acidente 'e bom aqui./>
+    <Comments by="vcvp">Rafael nao sei porque voce acho que acidente é bom aqui</Comments>
   </row>
   <row>
     <BC>177</BC>
@@ -2332,7 +2333,7 @@
   <row>
     <BC>193</BC>
     <WN-3.0-Synset>v169651</WN-3.0-Synset>
-    <PT-Words-Man lexicalGap=True> mudar_a_magnitude, mudar_de_tamanho</PT-Words-Man>
+    <PT-Words-Man lexicalGap="True"> mudar_a_magnitude, mudar_de_tamanho</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>change in size or magnitude</EN-Gloss>
     <EN-Words>change magnitude</EN-Words>
@@ -2666,7 +2667,7 @@
     <PT-Gloss>o ato de passar de um estado ou lugar para o outro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>transición</SPA-Words-Sug>
-    <Comments vcvp:na verdade els dizem  passar de um estado para o proximo, mas isso me parece estranho/>
+    <Comments by="vcvp">na verdade els dizem  passar de um estado para o proximo, mas isso me parece estranho</Comments>
   </row>
   <row>
     <BC>221</BC>
@@ -3098,7 +3099,7 @@
     <PT-Gloss>estabelecer barreiras e delimitaçoes; "marque o territorio"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments vcvp: nao sei se esse funciona em portugues/>
+    <Comments by="vcvp">nao sei se esse funciona em portugues</Comments>
   </row>
   <row>
     <BC>257</BC>
@@ -3200,7 +3201,7 @@
   <row>
     <BC>265</BC>
     <WN-3.0-Synset>a2100031</WN-3.0-Synset>
-    <PT-Words-Man lexicalGap=True> o Pai</PT-Words-Man>
+    <PT-Words-Man lexicalGap="True"> o Pai</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>used of the older of two persons of the same name especially used to distinguish a father from his son; "Bill Adams, Sr."</EN-Gloss>
     <EN-Words>elder, older, sr.</EN-Words>
@@ -3417,8 +3418,8 @@
   <row>
     <BC>283</BC>
     <WN-3.0-Synset>v260648</WN-3.0-Synset>
-    <PT-Words-Man>consertar, emendar</PT-Gloss> 
-    <PT-Word-Cand>consertar, emendar, arreglar</Pt-Word-Cand>
+    <PT-Words-Man>consertar, emendar</PT-Words-Man>
+    <PT-Word-Cand>consertar, emendar, arreglar</PT-Word-Cand>
     <EN-Gloss>restore by replacing a part or putting together what is torn or broken; "She repaired her TV set"; "Repair my shoes please"</EN-Gloss>
     <EN-Words>bushel, doctor, fix, furbish up, mend, repair, restore, touch on</EN-Words>
     <PT-Gloss> Restaurar, substituindo uma parte ou consertando o que estava quebrado ou rasgado; "ela consertou a televisao"; "Conserte os meus sapatos, por favor" </PT-Gloss> 
@@ -3429,7 +3430,7 @@
   <row>
     <BC>284</BC>
     <WN-3.0-Synset>v262703</WN-3.0-Synset>
-    <PT-Words-Man >consertar, remendar</PT-Gloss> 
+    <PT-Words-Man >consertar, remendar</PT-Words-Man>
     <PT-Word-Cand>consertar, remendar</PT-Word-Cand>
     <EN-Gloss>mend by putting a patch on; "patch a hole"</EN-Gloss>
     <EN-Words>patch up, patch</EN-Words>
@@ -3441,7 +3442,7 @@
   <row>
     <BC>285</BC>
     <WN-3.0-Synset>n266806</WN-3.0-Synset>
-    <PT-Words-Man>reparação,   conserto</PT-Word-Man> 
+    <PT-Words-Man>reparação,   conserto</PT-Words-Man>
     <PT-Word-Cand>reparação, indemnização, indenização, conserto</PT-Word-Cand>
     <EN-Gloss>the act of putting something in working order again</EN-Gloss>
     <EN-Words>fix, fixing, fixture, mend, mending, repair, reparation</EN-Words>
