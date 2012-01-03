@@ -1,0 +1,3633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rows>
+   <row>
+    <BC>1</BC>
+    <WN-3.0-Synset>n1740</WN-3.0-Synset>
+    <PT-Words-Man>entidade, ente, ser</PT-Words-Man>
+    <PT-Words-Cand>entidade, Entidade</PT-Words-Cand>
+    <EN-Gloss>that which is perceived or known or inferred to have its own distinct existence (living or nonliving)</EN-Gloss>
+    <EN-Words>entity</EN-Words>
+    <PT-Gloss>o que é percebido, conhecido ou inferido como tendo existência própria (vivente ou não vivente)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>entidad, entidad, ente</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>2</BC>
+    <WN-3.0-Synset>n3553</WN-3.0-Synset>
+    <PT-Words-Man>unidade, todo</Pt-Words-Man>
+    <PT-Words-Cand>unidade, todo</PT-Words-Cand> 
+    <EN-Gloss>an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a
+    unit"</EN-Gloss>
+    <EN-Words>unit, whole</EN-Words>
+    <PT-Gloss>um aglomerado de partes que é considerado uma entidade única; "quão grande é esta parte comparada com o todo?"; "o time é uma unidade"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>3</BC>
+    <WN-3.0-Synset>n4475</WN-3.0-Synset>
+    <PT-Words-Man> organismo, ser</PT-Words-Man>
+    <PT-Words-Cand>Organismos, organismo, ser, organismo, organismos (taxonomia), organinsmo</PT-Words-Cand>
+    <EN-Gloss>a living thing that has (or can develop) the ability to act or function independently</EN-Gloss>
+    <EN-Words>being, organism</EN-Words>
+    <PT-Gloss>uma coisa viva que tem (ou pode desenvolver) a habilidade de agir ou funcionar de forma independente</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>ser, Ser Vivo, ser vivo, organismos, organismo</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>4</BC>
+    <WN-3.0-Synset>n6269</WN-3.0-Synset>
+    <PT-Words-Man>vida</PT-Words-Man>
+    <PT-Words-Cand>vida</PT-Words-Cand>
+    <EN-Gloss>living things collectively; "the oceans are teeming with life"</EN-Gloss>
+    <EN-Words>life</EN-Words>
+    <PT-Gloss>coisas vivas, tomadas coletivamente; "os oceanos estão repletos de vida"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>vida</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>5</BC>
+    <WN-3.0-Synset>n6484</WN-3.0-Synset>
+    <PT-Words-Man>célula</PT-Words-Man>
+    <PT-Words-Cand>células, célula, tabela de células, cabina</PT-Words-Cand>
+    <EN-Gloss>(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals</EN-Gloss>
+    <EN-Words>cell</EN-Words>
+    <PT-Gloss>(biologia) a unidade de estrutura básica e funcional de todos os organismos; elas podem existir como unidades independentes de vida ou formar colônias ou tecidos como em  plantas e animais </PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>célula, célula terrorista, celula, cubículo</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>6</BC>
+    <WN-3.0-Synset>n7347</WN-3.0-Synset>
+    <PT-Words-Man>causador, agente_causador, causa</PT-Words-Man> 
+    <PT-Words-Cand />
+    <EN-Gloss>any entity that produces an effect or is responsible for events or results</EN-Gloss>
+    <EN-Words>causal agency, causal agent, cause</EN-Words>
+    <PT-Gloss > qualquer entidade que produz um efeito ou é responsável por eventos ou resultados</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>causa</Spa-Words-Sug>
+    <Comments>não achei um correspondente para "causal agency", não entendi o que significa, vcvp: acho que esta' bom</Comments>
+  </row>
+  <row>
+    <BC>7</BC>
+    <WN-3.0-Synset>n7846</WN-3.0-Synset>
+    <PT-Words-Man>ser humano, pessoa, homem, mortal, alma, indivíduo</PT-Words-Man>
+    <PT-Words-Cand>pessoa, homem, mortal, alma, indivíduo, alguma pessoa, uma pessoa</PT-Words-Cand>
+    <EN-Gloss>a human being; "there was too much for one person to do"</EN-Gloss>
+    <EN-Words>individual, mortal, person, somebody, someone, soul</EN-Words>
+    <PT-Gloss> ser humano; "havia  coisas demais para só uma pessoa fazer"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>ser humano, hombre, varón, sujeto, alguien</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>8</BC>
+    <WN-3.0-Synset>v7739</WN-3.0-Synset>
+    <PT-Words-Man>piscar, pestanejar</PT-Words-Man>
+    <PT-Words-Cand>Piscar</PT-Words-Cand>
+    <EN-Gloss>briefly shut the eyes; "The TV announcer never seems to blink"</EN-Gloss>
+    <EN-Words>blink, nictate, nictitate, wink</EN-Words>
+    <PT-Gloss>rápido fechar dos olhos; "O locutor da televisão parece nunca piscar"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>guiñar, pestañear</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>9</BC>
+    <WN-3.0-Synset>v9147</WN-3.0-Synset>
+<PT-Words-Man lexicalGap="True">mudar, depenar, desplumar, trocar</PT-Words-Man>    
+<PT-Words-Man></PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>cast off hair, skin, horn, or feathers; "our dog sheds every Spring"</EN-Gloss>
+    <EN-Words>exuviate, molt, moult, shed, slough</EN-Words>
+    <PT-Gloss> arrematar o cabelo, pele, chifre ou penas; "nosso cachorro muda de pelo toda primavera"</PT-Gloss>  
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>mudar, pelechar</Spa-Words-Sug>
+    <Comments>esse synset eu não sei se intendi corretamente. Intendi que o Gloss diz respeito a mudança de característica física (tanto animal quanto de homen), estou em duvida quanto aos PT-Words-Man, por favor corrija se estiver errado.vcvp: Rafael esse synset nao 'e necessario, ele nao existe em Portugues, eu acho.em ingles eles teem verbos pra mudar de pele,de pelo.</Comments>
+  </row>
+  <row>
+    <BC>10</BC>
+    <WN-3.0-Synset>v10054</WN-3.0-Synset>
+<PT-Words-Man lexicalGap="True">mover_reflexivamente, mover_involuntariamente</PT-Words-Man>
+    <PT-Words-Man></PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>move in an uncontrolled manner</EN-Gloss>
+    <EN-Words>move involuntarily, move reflexively</EN-Words>
+    <PT-Gloss>mover de forma incontrolada</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments vcvp:esse tb nao sei porque existe.../>
+  </row>
+  <row>
+    <BC>11</BC>
+    <WN-3.0-Synset>v10241</WN-3.0-Synset>    
+<PT-Words-Man lexicalGap="True">mover_reflexivamente, mover_involuntariamente</PT-Words-Man>
+<PT-Words-Man>agir_involuntariamente, agir_reflexivamente</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>act in an uncontrolled manner</EN-Gloss>
+    <EN-Words>act involuntarily, act reflexively</EN-Words>
+    <PT-Gloss >agir de forma involuntaria</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments vcvp:nao acho necessario esse synset />
+  </row>
+  <row>
+    <BC>12</BC>
+    <WN-3.0-Synset>v10435</WN-3.0-Synset>
+    <PT-Words-Man >agir, atuar, comportar-se, parecer, fazer_papel</PT-Words-Man>
+    <PT-Words-Cand>actuar, atuar</PT-Words-Cand>
+    <EN-Gloss>behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people"</EN-Gloss>
+    <EN-Words>act, behave, do</EN-Words>
+    <PT-Gloss >agir de uma certa forma;  comportar-se ou conduzir-se; "você deveria agir como adulto"; "não se comporte como um tolo"; "o que faz ela agir dessa maneira?"; "o cachorro parece feroz, mas ele realmente tem medo de pessoas"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>construir</Spa-Words-Sug>
+    <Comments vcvp: construir? nao faz sentido />
+  </row>
+  <row>
+    <BC>13</BC>
+    <WN-3.0-Synset>v12267</WN-3.0-Synset>
+    <PT-Words-Man>fazer, adquirir, conquistar</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>act in a certain way so as to acquire; "make friends"; "make enemies"</EN-Gloss>
+    <EN-Words>make</EN-Words>
+    <PT-Gloss >agir de forma a adquirir; "fazer amigos"; "conquistar inimigos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>14</BC>
+    <WN-3.0-Synset>v12613</WN-3.0-Synset>
+    <PT-Words-Man> paralizar</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>suddenly behave coldly and formally; "She froze when she saw her ex-husband"</EN-Gloss>
+    <EN-Words>freeze</EN-Words>
+    <PT-Gloss> agir repentinamente de forma fria e formal; "ela paralizou quando viu seu ex-marido"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments acho que esse esta' estranho, dizemos 'o seu sorriso congelou' mas paralizou na frase do gloss 'e mais ficar sem acao, do que realmente agir de uma maneira fria. enfim estou mantendo./>
+  </row>
+  <row>
+    <BC>15</BC>
+    <WN-3.0-Synset>n15388</WN-3.0-Synset>
+    <PT-Words-Man> animal, criatura, besta, fauna, animal_selvagem, bicho</PT-Words-Man>
+    <PT-Words-Cand>Animal, Animalia, criatura, besta, bruto, criança, ser, fauna, alimária, ente, animalselvagem, bicho</PT-Words-Cand>
+    <EN-Gloss>a living organism characterized by voluntary movement</EN-Gloss>
+    <EN-Words>animal, animate being, beast, brute, creature, fauna</EN-Words>
+    <PT-Gloss> organismo vivo caracterizado por capacidade de  movimentos voluntários</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>Animalia, bestia, animal, organismo, animales, res</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>16</BC>
+    <WN-3.0-Synset>v14034</WN-3.0-Synset>
+    <PT-Words-Man>tremer, sacudir,  estremecer</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>move with or as if with a tremor; "his hands shook"</EN-Gloss>
+    <EN-Words>didder, shake</EN-Words>
+    <PT-Gloss > mover com ou como se tivesse um tremor; "sua mão tremia"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>17</BC>
+    <WN-3.0-Synset>v14201</WN-3.0-Synset>
+    <PT-Words-Man > tremer, bater_queixo, ter_calafrios, tiritar</PT-Words-Man>
+    <PT-Words-Cand>tremer, tiritar, estremecer</PT-Words-Cand>
+    <EN-Gloss>shake, as from cold; "The children are shivering--turn on the heat!"</EN-Gloss>
+    <EN-Words>shiver, shudder</EN-Words>
+    <PT-Gloss> tremer, por causa do frio; "as crianças estão tiritando--ligue o aquecedor!"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>temblar, estremecer, escalofrio, temblar de frio, tiritar</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>18</BC>
+    <WN-3.0-Synset>v14405</WN-3.0-Synset>
+    <PT-Words-Man>dormir, repousar, descansar, cochilar</PT-Words-Man>
+    <PT-Words-Cand>basear, dormir, repousar, descansar</PT-Words-Cand>
+    <EN-Gloss>be at rest</EN-Gloss>
+    <EN-Words>rest</EN-Words>
+    <PT-Gloss> estar repousando</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>dormir, reposar</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>19</BC>
+    <WN-3.0-Synset>v14549</WN-3.0-Synset>
+<PT-Words-Man lexicalGap="True">mover-se_voluntariamente</PT-Words-Man>
+    <PT-Words-Man> se movimentar, ser_ativo</PT-Words-Man> 
+    <PT-Words-Cand />
+    <EN-Gloss>be in a state of action; "she is always moving"</EN-Gloss>
+    <EN-Words>be active, move</EN-Words>
+    <PT-Gloss> estar em um estado de ação, ser ativo; "ela está sempre em movimento"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>20</BC>
+    <WN-3.0-Synset>v14742</WN-3.0-Synset>
+    <PT-Words-Man>dormir, tirar_uma_soneca, pernoitar, cochilar</PT-Words-Man>
+    <PT-Words-Cand>dormir</PT-Words-Cand>
+    <EN-Gloss>be asleep</EN-Gloss>
+    <EN-Words>catch some Z's, kip, log Z's, sleep, slumber</EN-Words>
+    <PT-Gloss>estar dormindo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>dormitar, dormir</Spa-Words-Sug>
+    <Comments> no BC(18) o Gloss é "be at rest" e nesse é "be asleep", em ambos botei "dormir" e "cochilar" como PT-Words-Man, mas estou na duvida se essas duas palavras só se encaixariam nesse synset.vcvp: acho que esta' bem sim</Comments> 
+  </row>
+  <row>
+    <BC>21</BC>
+    <WN-3.0-Synset>n17222</WN-3.0-Synset>
+    <PT-Words-Man>flora, planta, vida_vegetal</PT-Words-Man> 
+    <PT-Words-Cand>planta</PT-Words-Cand>
+    <EN-Gloss>(botany) a living organism lacking the power of locomotion</EN-Gloss>
+    <EN-Words>flora, plant life, plant</EN-Words>
+    <PT-Gloss (botânica) um organismo vivo sem capacidade de locomoção />
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>plantas</Spa-Words-Sug>
+    <Comments> achei desnecessário botar planta ou qualquer tipo de vida vegetal no PT-Words-Man desse synset, apesar do gloss ser bem abrangente qualquer vida vegetal se encaixaria como um hipônimo (hyponym), se estiver errado me corrija por favor.vcvp: bom, eu acho que plantas sao o que eles estao descrevendo</Comments> 
+  </row>
+  <row>
+    <BC>22</BC>
+    <WN-3.0-Synset>n2684</WN-3.0-Synset>
+    <PT-Words-Man>objeto, coisa, objeto físico,  artefato</PT-Words-Man>
+    <PT-Words-Cand>objeto, objecto, objecto físico, objeto físico, coisa, cousa, cousa</PT-Words-Cand>
+    <EN-Gloss>a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects"</EN-Gloss>
+    <EN-Words>object, physical object</EN-Words>
+    <PT-Gloss> entidade tangível e visível; uma entidade que pode produzir uma sombra; "a caixa estava cheia de raquetes, bolas e outros objetos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>cosa, asunto, objeto, objeto, cosa, pan comido</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>23</BC>
+    <WN-3.0-Synset>n19128</WN-3.0-Synset>
+    <PT-Words-Man>natureza, objeto_natural</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>an object occurring naturally; not made by man</EN-Gloss>
+    <EN-Words>natural object</EN-Words>
+    <PT-Gloss> um objeto que é produzido pela  natureza; não feito pelo homen;</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments> nao tenho certeza se o PT-Words-Man que eu botei está bom, até intendi o conceito mas nao consegui pensar em mais nenhum.vcvp: ta bom sim.</Comments>
+  </row>
+  <row>
+    <BC>24</BC>
+    <WN-3.0-Synset>n20827</WN-3.0-Synset>
+    <PT-Words-Man>matéria, substância</PT-Words-Man>
+    <PT-Words-Cand>substância</PT-Words-Cand>
+    <EN-Gloss>that which has mass and occupies space; "physicists study both the nature of matter and the forces which govern it"</EN-Gloss>
+    <EN-Words>matter</EN-Words>
+    <PT-Gloss> tudo aquilo que têm massa e ocupa espaço; "os físicos estudam tanto a natureza da matéria quanto as forças que a governam"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>materia</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>25</BC>
+    <WN-3.0-Synset>v18526</WN-3.0-Synset>
+    <PT-Words-Man>acordar, despertar, levantar-se</PT-Words-Man>
+    <PT-Words-Cand>acordar, despertar</PT-Words-Cand>
+    <EN-Gloss>stop sleeping; "She woke up to the sound of the alarm clock"</EN-Gloss>
+    <EN-Words>arouse, awake, awaken, come alive, wake up, wake, waken</EN-Words>
+    <PT-Gloss>parar de dormir; "ela acordou com o som do despertador"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>despertarse, despertar, espabilar.</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>26</BC>
+    <WN-3.0-Synset>n21265</WN-3.0-Synset>
+    <PT-Words-Man>comida, alimento,  nutriente</PT-Words-Man>
+    <PT-Words-Cand>alimento, alimento, nutrientes, alimentos, comida, nutriente</PT-Words-Cand>
+    <EN-Gloss>any solid substance that can be metabolized by an animal to give energy and build tissue</EN-Gloss>
+    <EN-Words>food, nutrient</EN-Words>
+    <PT-Gloss> qualquer substância sólida que pode ser metabolizada por um animal para gerar energia e construir tecidos</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>alimento, alimento, nutrimento, nutriente, alimentos</Spa-Words-Sug>
+    <Comments>mudei o EN-Gloss desse synset, era "any substance that" eu mudei para "any solid substance that", porque sem a palavra "solid" o Gloss da margem a substâncias líquidas também. Na verdade nao gostei muito desse Gloss, o que vocês acham desse "any solid substance (as opposed to liquid) that is used as a source of nourishment", tirei da Wordnet 3.1.vcvp: bom, a gente nao deve mudar o ingles, mas tudo bem</Comments> 
+  </row>
+  <row>
+    <BC>27</BC>
+    <WN-3.0-Synset>v19448</WN-3.0-Synset>
+    <PT-Words-Man>afetar</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>act physically on; have an effect upon; "the medicine affects my heart rate"</EN-Gloss>
+    <EN-Words>affect</EN-Words>
+    <PT-Gloss>agir fisicamente em alguma coisa; ter um efeito sobre; "o medicamento afeta minha batida cardíaca"</PT-Gloss> 
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments>fiquei na dúvida se "empregar" pode ser mesmo usado como PT-Words-Man nesse caso (com esse Gloss) vcvp: acho que nao, estou removendo</Comments>
+  </row>
+  <row>
+    <BC>28</BC>
+    <WN-3.0-Synset>n21939</WN-3.0-Synset>
+    <PT-Words-Man>artefato, produto, utensílio</PT-Words-Man>
+    <PT-Words-Cand>artefacto, artefato, produto</PT-Words-Cand>
+    <EN-Gloss>a man-made object taken as a whole</EN-Gloss>
+    <EN-Words>artefact, artifact</EN-Words>
+    <PT-Gloss>um objeto feito pelo homem considerado como um todo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>utensilio, artefacto</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>29</BC>
+    <WN-3.0-Synset>n22903</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Words-Cand>artigo</PT-Words-Cand>
+    <EN-Gloss>one of a class of artifacts; "an article of clothing"</EN-Gloss>
+    <EN-Words>article</EN-Words>
+    <PT-Gloss>Um de uma classe de artefatos; "um artigo de vestuário"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>30</BC>
+    <WN-3.0-Synset>n23100</WN-3.0-Synset>
+<PT-Words-Man lexicalGap="True">característica_psicológica</PT-Words-Man>
+    <PT-Words-Man>característica_psicológica</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>a feature of the mental life of a living organism</EN-Gloss>
+    <EN-Words>psychological feature</EN-Words>
+    <PT-Gloss>uma característica da vida mental de um organismo vivo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>31</BC>
+    <WN-3.0-Synset>n2137</WN-3.0-Synset>
+    <PT-Words-Man>abstração, entidade_abstrata, idéia_abstrata</PT-Words-Man>
+    <PT-Words-Cand>Abstração, Abstracção, Abstracao, abstração, abstração</PT-Words-Cand>
+    <EN-Gloss>a general concept formed by extracting common features from specific examples</EN-Gloss>
+    <EN-Words>abstract entity, abstraction</EN-Words>
+    <PT-Gloss>um conceito geral formado pela  extração das características comuns de exemplos específicos</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>Abstraccion filosofia, Abstraccion, abstracción</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>32</BC>
+    <WN-3.0-Synset>n23271</WN-3.0-Synset>
+    <PT-Words-Man>cognição, compreensão, noção, conhecimento</PT-Words-Man>
+    <PT-Words-Cand>saber, Cognição, cognição, conhecimento, cognição</PT-Words-Cand>
+    <EN-Gloss>the psychological result of perception and learning and reasoning</EN-Gloss>
+    <EN-Words>cognition, knowledge, noesis</EN-Words>
+    <PT-Gloss>o resultado psicológico da percepção, aprendizagem e raciocínio</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>Cognición, Cognicion, cognición, cognición, conocimiento, saber</Spa-Words-Sug>
+    <Comments>fiquei dúvida se "noção" e "conhecimento" fazem parte desse synset, estava pensando que talvez eles fossem produtos da compreensão e cognição,o que vocês acham?vcvp: eu acho que "conhecimento" certamente faz parte, nao sei se "nocao" faz, mas resolvi deixar.</Comments> 
+  </row>
+  <row>
+    <BC>33</BC>
+    <WN-3.0-Synset>n23773</WN-3.0-Synset>
+    <PT-Words-Man>motivação, intenção, necessidade</PT-Words-Man>
+    <PT-Words-Cand>motivação</PT-Words-Cand>
+    <EN-Gloss>the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior; "we did not understand his motivation"; "he acted with the best of motives"</EN-Gloss>
+    <EN-Words>motivation, motive, need</EN-Words>
+    <PT-Gloss>característica psicológica que desperta em um organismo a ação em direção a um objetivo desejado;a razão para uma ação; o que dá sentido e direção a um comportamento; "nós não entendemos sua motivação"; "ele agiu com a melhor das intenções";</PT-Gloss> 
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>motivación</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>34</BC>
+    <WN-3.0-Synset>v22686</WN-3.0-Synset>
+    <PT-Words-Man>estimular, animar, energizar, excitar</PT-Words-Man>
+    <PT-Words-Cand>estimular</PT-Words-Cand>
+    <EN-Gloss>cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate"</EN-Gloss>
+    <EN-Words>arouse, brace, energise, energize, perk up, stimulate</EN-Words>
+    <PT-Gloss> causar um estado alerta e energizado; "Café e chá me estimulam"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>dar energía, energizar, excitar energía</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>35</BC>
+    <WN-3.0-Synset>n27167</WN-3.0-Synset>
+    <PT-Words-Man>lugar, ponto</PT-Words-Man>
+    <PT-Words-Cand>lugar, paragem</PT-Words-Cand>
+    <EN-Gloss>a point or extent in space</EN-Gloss>
+    <EN-Words>location</EN-Words>
+    <PT-Gloss>um ponto ou lugar no espaço</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>punto</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>36</BC>
+    <WN-3.0-Synset>n27807</WN-3.0-Synset>
+    <PT-Words-Man>forma, configuração, formato, forma geométrica</PT-Words-Man>
+    <PT-Words-Cand>Forma geométrica, forma</PT-Words-Cand>
+    <EN-Gloss>the spatial arrangement of something as distinct from its substance; "geometry is the mathematical science of shape"</EN-Gloss>
+    <EN-Words>form, shape</EN-Words>
+    <PT-Gloss>o arranjo espacial de algo, considerado como distinto de sua substância; "geometria é a ciência matemática da forma"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>Figura geometrica, Figura, Figuras geométricas, figura geométrica</Spa-Words-Sug>
+    <Comments> não sei se traduzi corretamente esse Gloss, se estiver errado por favor corrija.vcvp: esta' bom sim.</Comments>
+  </row>
+  <row>
+    <BC>37</BC>
+    <WN-3.0-Synset>n28270</WN-3.0-Synset>
+    <PT-Words-Man>tempo, espaço_temporal</PT-Words-Man>
+    <PT-Words-Cand/>
+    <EN-Gloss>the continuum of experience in which events pass from the future through the present to the past</EN-Gloss>
+    <EN-Words>time</EN-Words>
+    <PT-Gloss>a experiência continua em que os eventos passam do futuro através do presente para o passado</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>38</BC>
+    <WN-3.0-Synset>n24720</WN-3.0-Synset>
+    <PT-Words-Man>estado, condição, situação</Pt-Words-Man>
+    <PT-Words-Cand>estado, assunto, condição, situação</PT-Words-Cand>
+    <EN-Gloss>the way something is with respect to its main attributes; "the current state of knowledge"; "his state of health"; "in a weak financial
+    state"</EN-Gloss>
+    <EN-Words>state</EN-Words>
+    <PT-Gloss>a maneira como algo é, com respeito a seus principais atributos; "o  atual estado do conhecimento", "seu estado de saúde", "em uma situação financeira enfraquecida"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>estado, asunto, situación, ubicación, Spaanse vertaling</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>39</BC>
+    <WN-3.0-Synset>v25203</WN-3.0-Synset>
+    <PT-Words-Man> estressar</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>cause to be tense and uneasy or nervous or anxious; "he got a phone call from his lawyer that tensed him up"</EN-Gloss>
+    <EN-Words>strain, tense up, tense</EN-Words>
+    <PT-Gloss>causar um estado tenso, inquieto, nervoso ou ansioso; "ele recebeu um telefonema de seu advogado que o estressou"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>estresar</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>40</BC>
+    <WN-3.0-Synset>v26385</WN-3.0-Synset>
+    <PT-Words-Man>relaxar, descontrair, pegar_leve</PT-Words-Man>
+    <PT-Words-Cand>desentesar-se, relaxar-se</PT-Words-Cand>
+    <EN-Gloss>become less tense, rest, or take one's ease; "He relaxed in the hot tub"; "Let's all relax after a hard day's work"</EN-Gloss>
+    <EN-Words>decompress, loosen up, relax, slow down, unbend, unwind</EN-Words>
+    <PT-Gloss>ficar menos tenso, descansar ou pegar leve; "Ele gostava de relaxar num banho quente"; "Fomos descontrair após um dia duro de trabalho"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>relajar</Spa-Words-Sug>
+    <Comments>não sei se traduzi "take one's ease" corretamente, será que pode ver essa parte por favor.vcvp:pegar leve funciona bem sim</Comments> 
+  </row>
+  <row>
+    <BC>41</BC>
+    <WN-3.0-Synset>n29378</WN-3.0-Synset>
+    <PT-Words-Man>evento, acontecimento, fato</PT-Words-Man>
+    <PT-Words-Cand>evento, acontecimento, Evento</PT-Words-Cand>
+    <EN-Gloss>something that happens at a given place and time</EN-Gloss>
+    <EN-Words>event</EN-Words>
+    <PT-Gloss> alguma coisa que acontece em um determinado lugar e tempo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>cosa, suceso, hecho, evento</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>42</BC>
+    <WN-3.0-Synset>n30358</WN-3.0-Synset>
+    <PT-Words-Man>ato, feito, ação</PT-Words-Man>
+    <PT-Words-Cand>actividade umana, acto umano, acto legislativo</PT-Words-Cand>
+    <EN-Gloss>something that people do or cause to happen</EN-Gloss>
+    <EN-Words>act, deed, human action, human activity</EN-Words>
+    <PT-Gloss>alguma coisa que as pessoas fazem ou causam</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>acción</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>43</BC>
+    <WN-3.0-Synset>v27268</WN-3.0-Synset>
+    <PT-Words-Man>esticar, alongar, estender</PT-Words-Man>
+    <PT-Words-Cand>esticar</PT-Words-Cand>
+    <EN-Gloss>extend one's limbs or muscles, or the entire body; "Stretch your legs!"; "Extend your right arm above your head"</EN-Gloss>
+    <EN-Words>extend, stretch</EN-Words>
+    <PT-Gloss>esticar ou alongar os músculos ou o corpo inteiro; "alongue suas pernas!"; "estenda seu braço direito acima da sua cabeça"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>44</BC>
+    <WN-3.0-Synset>n31264</WN-3.0-Synset>
+    <PT-Words-Man>grupo, agrupação, conjunto</PT-Words-Man>
+    <PT-Words-Cand>grupo, agrupação</PT-Words-Cand>
+    <EN-Gloss>any number of entities (members) considered as a unit</EN-Gloss>
+    <EN-Words>group, grouping</EN-Words>
+    <PT-Gloss>qualquer número de entidades (membros) considerados como uma unidade</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>grupo, agrupación, cuadrilla</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>45</BC>
+    <WN-3.0-Synset>n32613</WN-3.0-Synset>
+    <PT-Words-Man> propriadade, posse,  bem</PT-Words-Man>
+    <PT-Words-Cand>possessão, propriedade, detenção de bens</PT-Words-Cand>
+    <EN-Gloss>anything owned or possessed</EN-Gloss>
+    <EN-Words>possession</EN-Words>
+    <PT-Gloss>qualquer coisa que seja propriedade  de alguém</PT-Gloss>m
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>posesión, propiedad, bien</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>46</BC>
+    <WN-3.0-Synset>n24264</WN-3.0-Synset>
+    <PT-Words-Man>atributo, predicado, característica, propriedade</PT-Words-Man>
+    <PT-Words-Cand>qualidade, atributos, atributo, predicado</PT-Words-Cand>
+    <EN-Gloss>an abstraction belonging to or characteristic of an entity</EN-Gloss>
+    <EN-Words>attribute</EN-Words>
+    <PT-Gloss>uma abstração pertencente à alguma coisa ou característica de uma  entidade</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>atributo, calidad, propiedad</Spa-Words-Sug>
+    <Comments vcvp: precisa de crase mas nao tenho como consertar facilmente />
+  </row>
+  <row>
+    <BC>47</BC>
+    <WN-3.0-Synset>n31921</WN-3.0-Synset>
+    <PT-Words-Man>relação, conexão</PT-Words-Man>
+    <PT-Words-Cand>relação</PT-Words-Cand>
+    <EN-Gloss>an abstraction belonging to or characteristic of two entities or parts together</EN-Gloss>
+    <EN-Words>relation</EN-Words>
+    <PT-Gloss>uma abstração que corresponde ou relaciona características de duas entidades ou partes</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>relacion</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>48</BC>
+    <WN-3.0-Synset>n32823</WN-3.0-Synset>
+    <PT-Words-Man>relação_social</PT-Words-Man>
+    <PT-Words-Cand>relação social, relação social</PT-Words-Cand>
+    <EN-Gloss>a relation between living organisms (especially between people)</EN-Gloss>
+    <EN-Words>social relation</EN-Words>
+    <PT-Gloss>uma relação entre organismos vivos (principalmente entre pessoas)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>Relación social, Relacion social</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>49</BC>
+    <WN-3.0-Synset>n33020</WN-3.0-Synset>
+    <PT-Words-Man>comunicação, mensagem</PT-Words-Man>
+    <PT-Words-Cand>comunicação, Comunicacao, comunicação</PT-Words-Cand>
+    <EN-Gloss>something that is communicated by or to or between people or groups</EN-Gloss>
+    <EN-Words>communication</EN-Words>
+    <PT-Gloss> alguma coisa que é comunicada por, ou para, ou entre pessoas ou grupos</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>Comunicacion, comunicación, comunicación</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>50</BC>
+    <WN-3.0-Synset>n34213</WN-3.0-Synset>
+    <PT-Words-Man>fenômeno</PT-Words-Man>
+    <PT-Words-Cand>fenómeno, fenômeno</PT-Words-Cand>
+    <EN-Gloss>any state or process known through the senses rather than by intuition or reasoning</EN-Gloss>
+    <EN-Words>phenomenon</EN-Words>
+    <PT-Gloss>qualquer estado ou processo cujo conhecimento  é adquirido através dos sentidos e não pela intuição ou raciocínio</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>fenómeno</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>51</BC>
+    <WN-3.0-Synset>n34479</WN-3.0-Synset>
+    <PT-Words-Man>coisa</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>an action; "how could you do such a thing?"</EN-Gloss>
+    <EN-Words>thing</EN-Words>
+    <PT-Gloss>uma ação; "como voce pode fazer tal coisa?"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>cosa</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>52</BC>
+    <WN-3.0-Synset>n34574</WN-3.0-Synset>
+    <PT-Words-Man>bondade, amabilidade, delicadeza, gentileza</PT-Words-Man>
+    <PT-Words-Cand>bondade, amabilidade</PT-Words-Cand>
+    <EN-Gloss>a kind act</EN-Gloss>
+    <EN-Words>benignity, kindness</EN-Words>
+    <PT-Gloss>um ato bondoso, gentil</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>amabilidad</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>53</BC>
+    <WN-3.0-Synset>n35189</WN-3.0-Synset>
+    <PT-Words-Man>realização, feito, façanha, conquista, obra </PT-Words-Man>
+    <PT-Words-Cand>realização, façanha, consecução, feito, conquista, obra</PT-Words-Cand>
+    <EN-Gloss>the action of accomplishing something</EN-Gloss>
+    <EN-Words>accomplishment, achievement</EN-Words>
+    <PT-Gloss>a ação de realizar alguma coisa</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>logro, realización, hazaña, proeza, consecución, potencia, logros, acabamiento</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>54</BC>
+    <WN-3.0-Synset>v31820</WN-3.0-Synset>
+    <PT-Words-Man>rir, gargalhar</PT-Words-Man>
+    <PT-Words-Cand>rir, caçoar, tirrar sarro, zoar, rir-se</PT-Words-Cand>
+    <EN-Gloss>produce laughter</EN-Gloss>
+    <EN-Words>express joy, express mirth, laugh</EN-Words>
+    <PT-Gloss>produzir  riso</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>reír</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>55</BC>
+    <WN-3.0-Synset>n36762</WN-3.0-Synset>
+    <PT-Words-Man>façanha, feito, proeza, realização</PT-Words-Man>
+    <PT-Words-Cand>façanha, consecução, realização, feito, Acção, Ação</PT-Words-Cand>
+    <EN-Gloss>a notable achievement; "he performed a great feat"; "the book was her finest effort"</EN-Gloss>
+    <EN-Words>effort, exploit, feat</EN-Words>
+    <PT-Gloss>um feito notável; "Ele realizou uma grande facanha ", "o livro foi sua melhor realização"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>hazaña, proeza, logro</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>56</BC>
+    <WN-3.0-Synset>v33599</WN-3.0-Synset>
+    <PT-Words-Man> parecer, aparentar, estar</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>have a certain outward or facial expression; "How does she look?"; "The child looks unhappy"; "She looked pale after the surgery"</EN-Gloss>
+    <EN-Words>look</EN-Words>
+    <PT-Gloss> ter uma certa aparência ou expressão facial; "Como é que ela está?"; "A criança parece infeliz"; "Ela estava pálida após a cirurgia "</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments esse vai ser problematico, vcvp />
+  </row>
+  <row>
+    <BC>57</BC>
+    <WN-3.0-Synset>n37396</WN-3.0-Synset>
+    <PT-Words-Man> ato, ação </PT-Words-Man>
+    <PT-Words-Cand>consecução, acto legislativo, acto</PT-Words-Cand>
+    <EN-Gloss>something done (usually as opposed to something said); "there were stories of murders and other unnatural actions"</EN-Gloss>
+    <EN-Words>action</EN-Words>
+    <PT-Gloss> Alguma coisa feita (por oposição  a alguma coisa dita); "ouvimos estorias de assassinatos e outros atos não naturais"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>acción</Spa-Words-Sug>
+    <Comments>não entendi o Gloss desse synset, ficou muito abrangente vcvp: e' a palavra ação tem muitos significados parecidos</Comments>
+  </row>
+  <row>
+    <BC>58</BC>
+    <WN-3.0-Synset>n38262</WN-3.0-Synset>
+    <PT-Words-Man>caminho, curso, corrente, conduta</PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>a mode of action; "if you persist in that course you will surely fail"; "once a nation is embarked on a course of action it becomes extremely difficult for any retraction to take place"</EN-Gloss>
+    <EN-Words>course of action, course</EN-Words>
+    <PT-Gloss> curso de ação; "se você persistir nesse caminho, irá certamente falhar"; "uma vez que uma nação  embarca em uma conduta torna-se   extremamente difícil que alguma retração aconteça"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments  esse nao esta' bom, vcvp/>
+  </row>
+  <row>
+    <BC>59</BC>
+    <WN-3.0-Synset>n39021</WN-3.0-Synset>
+    <PT-Words-Man>interação</PT-Words-Man>
+    <PT-Words-Cand>interação, interação</PT-Words-Cand>
+    <EN-Gloss>a mutual or reciprocal action; interacting</EN-Gloss>
+    <EN-Words>interaction</EN-Words>
+    <PT-Gloss>uma ação mútua ou recíproca; interação</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug>interacción</Spa-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>60</BC>
+    <WN-3.0-Synset>v35758</WN-3.0-Synset>
+    <PT-Words-Man>limpar, lavar, se limpar, se arrumar </PT-Words-Man>
+    <PT-Words-Cand />
+    <EN-Gloss>clean one's body or parts thereof, as by washing; "clean up before you see your grandparents"; "clean your fingernails before dinner"</EN-Gloss>
+    <EN-Words>clean, cleanse</EN-Words>
+    <PT-Gloss> limpar o seu corpo ou  partes do mesmo, como se estivesse usando água; "se arrume antes de ver seus avós"; "lave suas mãos antes do jantar";</PT-Gloss>
+    <PT-Gloss-Sug />
+    <Spa-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>61</BC>
+    <WN-3.0-Synset>n39297</WN-3.0-Synset>
+    <PT-Words-Man>contato, ligação</PT-Words-Man>
+    <PT-Word-Cand>contato, contacto</PT-Word-Cand>
+    <EN-Gloss>close interaction; "they kept in daily contact"; "they claimed that they had been in contact with extraterrestrial beings"</EN-Gloss>
+    <EN-Words>contact</EN-Words>
+    <PT-Gloss> interação próxima, estreita; "eles continuavam em contato todo dia"; "Eles alegaram que tinham entrado em contato com seres extraterrestres"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>contacto</SPA-Words-Sug>
+    <Comments>fiquei na dúvida se talvez "relação" também pudesse entrar nesse synset. Pelo o que eu estou entendendo do wordnet Glosses muito abrangentes, significam palavras muito abrangentes, e por isso não sei se "relação" ja é um tipo de "contato", ou é tão abrangente quanto. vcvp:eu acho que a gente quer limitar a abrangencia, se possivel</Comments>
+  </row>
+  <row>
+    <BC>62</BC>
+    <WN-3.0-Synset>v36362</WN-3.0-Synset>
+    <PT-Words-Man>lavar-se, limpar</PT-Words-Man>
+    <PT-Word-Cand>lavar</PT-Word-Cand>
+    <EN-Gloss>cleanse (one's body) with soap and water</EN-Gloss>
+    <EN-Words>lave, wash</EN-Words>
+    <PT-Gloss> limpar (o seu próprio corpo) com  água e sabão</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments/> 
+  </row>
+  <row>
+    <BC>63</BC>
+    <WN-3.0-Synset>n41468</WN-3.0-Synset>
+<PT-Words-Man lexicalGap="True">swordplay, luta_de_espada</PT-Words-Man>
+    <PT-Words-Man></PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act using a sword (or other weapon) vigorously and skillfully</EN-Gloss>
+    <EN-Words>play, swordplay</EN-Words>
+    <PT-Gloss>utilizar uma espada (ou outra arma) de forma enérgica e habilmente</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments>fiquei na dúvida nesse synset, acho que talvez esse Gloss só tenha uma definição em inglês mesmo, mas botei "luta armada" também porque achei que mais se aproxima. vcvp: eu concodrdo que esse synset nao existe em portugues </Comments>
+
+  </row>
+  <row>
+    <BC>64</BC>
+    <WN-3.0-Synset>n41899</WN-3.0-Synset>
+    <PT-Words-Man lexicalGap="True">aquisição</PT-Words-Man>
+    <PT-Word-Cand>consecução </PT-Word-Cand>
+    <EN-Gloss>the act of acquiring something; "I envied his talent for acquiring"; "he's much more interested in the getting than in the giving"</EN-Gloss>
+    <EN-Words>acquiring, getting</EN-Words>
+    <PT-Gloss>o ato de adquirir algo; "Eu invejava seu talento para adquirir coisas"; "ele está muito mais interessado em receber do que em dar"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+
+  <Row>
+    <BC>65</BC>
+    <WN-3.0-Synset>n42311</WN-3.0-Synset>
+    <PT-Words-Man>causalidade</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of causing something to happen</EN-Gloss>
+    <EN-Words>causation, causing</EN-Words>
+    <PT-Gloss>o ato de fazer algo acontecer</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>causalidad</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>66</BC>
+    <WN-3.0-Synset>n42757</WN-3.0-Synset>
+    <PT-Words-Man>partida</PT-Words-Man>
+    <PT-Word-Cand>partida</PT-Word-Cand>
+    <EN-Gloss>the act of departing</EN-Gloss>
+    <EN-Words>departure, going away, going, leaving</EN-Words>
+    <PT-Gloss>o ato de ir embora </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>partida</SPA-Words-Sug>
+    <Comments/>
+  </row>
+  <row>
+    <BC>67</BC>
+    <WN-3.0-Synset>n43195</WN-3.0-Synset>
+    <PT-Words-Man> descoberta, descobrimento,  achado</PT-Words-Man>
+    <Pt-Word-Cand>achado, descoberta, descobrimento</PT-Word-Cand>
+    <EN-Gloss>the act of discovering something</EN-Gloss>
+    <EN-Words>discovery, find, uncovering</EN-Words>
+    <PT-Gloss>o ato de descobrir algo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>68</BC>
+    <WN-3.0-Synset>n43609</WN-3.0-Synset>
+   <PT-Words-Man> eliminação</PT-Words-Man>    <PT-Words-Man />
+    <PT-Word-Cand />
+    <EN-Gloss>the act or means of getting rid of something</EN-Gloss>
+    <EN-Words>disposal, disposition</EN-Words>
+    <PT-Gloss> o ato ou os meios de livrar-se de algo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments>não sei a palavra que representa o ato de livra-se de algo em potuguês, pensei em "disposição" (dispor) mas fiquei na duvida e como não achei nada a respeito disso na internet preferi não colocar. vcvp: acho que disposicao nao funciona muito bem nao..</Comments> 
+  </row>
+  <row>
+    <BC>69</BC>
+    <WN-3.0-Synset>n43902</WN-3.0-Synset>
+    <PT-Words-Man> batida, hit</PT-Words-Man>
+    <PT-Word-Cand>rebatida</PT-Word-Cand>
+    <EN-Gloss>(baseball) a successful stroke in an athletic contest (especially in baseball); "he came all the way around on Williams' hit"</EN-Gloss>
+    <EN-Words>hit</EN-Words>
+    <PT-Gloss>(baseball) um golpe bem sucedido em uma competição atlética</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Hit, hit</SPA-Words-Sug>
+    <Comments> não sei se fiz a tradução do exemplo desse Gloss corretamente, confira para mim por favor, vcvp: nao vale a pena olocar essa metafora de baseball</Comments>
+  </row>
+  <row>
+    <BC>70</BC>
+    <WN-3.0-Synset>v40353</WN-3.0-Synset>
+    <PT-Words-Man lexicalGap="True">cuidar-se</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>care for one's external appearance; "He is always well-groomed"</EN-Gloss>
+    <EN-Words>groom, neaten</EN-Words>
+    <PT-Gloss>ter cuidado com a aparência externa; "ele é sempre bem arrumado"</PT-Gloss> 
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>71</BC>
+    <WN-3.0-Synset>n44150</WN-3.0-Synset>
+    <PT-Words-Man> implementação, execução</PT-Words-Man>
+    <PT-Word-Cand>realização, implementação, execução</PT-Word-Cand>
+    <EN-Gloss>the act of implementing (providing a practical means for accomplishing something); carrying into effect</EN-Gloss>
+    <EN-Words>effectuation, implementation</EN-Words>
+    <PT-Gloss>o ato de implementar (fornecer meios práticos para a realização de alguma coisa); fazer</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>implementación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>72</BC>
+    <WN-3.0-Synset>v40928</WN-3.0-Synset>
+    <PT-Words-Man>maquiar, maquilar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>apply make-up or cosmetics to one's face to appear prettier; "She makes herself up every morning"</EN-Gloss>
+    <EN-Words>make up</EN-Words>
+    <PT-Gloss>aplicar maquiagem ou cosméticos na face para parecer bonitao/a; "ela se maqueia todas as manhãs"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>73</BC>
+    <WN-3.0-Synset>n45250</WN-3.0-Synset>
+    <PT-Words-Man>propulsão, impulsão</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of propelling</EN-Gloss>
+    <EN-Words>actuation, propulsion</EN-Words>
+    <PT-Gloss> o ato de propulsionar</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>impulsion, propulsión</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>74</BC>
+    <WN-3.0-Synset>n45907</WN-3.0-Synset>
+    <PT-Words-Man>recuperação</PT-Words-Man>
+    <PT-Word-Cand>recuperação</PT-Word-Cand>
+    <EN-Gloss>the act of regaining or saving something lost (or in danger of becoming lost)</EN-Gloss>
+    <EN-Words>recovery, retrieval</EN-Words>
+    <PT-Gloss>o ato de recuperar ou salvar algo perdido (ou a perigo de se perder)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>recuperación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>75</BC>
+    <WN-3.0-Synset>n46177</WN-3.0-Synset>
+    <PT-Words-Man>fuga, escape, escapatória</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of leaving (without permission) the place you are expected to be</EN-Gloss>
+    <EN-Words>running away</EN-Words>
+    <PT-Gloss>o ato de sair (sem permissão) do lugar onde  vôce devia estar</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>76</BC>
+    <WN-3.0-Synset>n46344</WN-3.0-Synset>
+    <PT-Words-Man>façanha, proeza</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>a difficult or unusual or dangerous feat; usually done to gain attention</EN-Gloss>
+    <EN-Words>stunt</EN-Words>
+    <PT-Gloss>um feito difícil, não-usual ou perigoso; geralmente feito para chamar a atenção</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Escena de accion, escena de acción</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>77</BC>
+    <WN-3.0-Synset>n46522</WN-3.0-Synset>
+    <PT-Words-Man>toque, contato</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of putting two things together with no space between them; "at his touch the room filled with lights"</EN-Gloss>
+    <EN-Words>touch, touching</EN-Words>
+    <PT-Gloss>o ato de colocar duas coisas juntas sem espaço entre elas; "ao seu toque o quarto se encheu de luzes"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>78</BC>
+    <WN-3.0-Synset>n48225</WN-3.0-Synset>
+   <PT-Words-Man lexicalGap="True">chegar_la-metaforicamente</PT-Words-Man>
+    <PT-Word-Cand>realização, chegada</PT-Word-Cand>
+    <EN-Gloss>accomplishment of an objective</EN-Gloss>
+    <EN-Words>arrival, reaching</EN-Words>
+    <PT-Gloss/>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>logro, arribo, llegada</SPA-Words-Sug>
+    <Comments> não entendi a ligação entre o Gloss e as EN-Words. vcvp: chegar la metaforicamente a gente usa, mas nao o substantivo...</Comments>
+  </row>
+  <row>
+    <BC>79</BC>
+    <WN-3.0-Synset>n48374</WN-3.0-Synset>
+    <PT-Words-Man>chegada</PT-Words-Man>
+    <PT-Word-Cand>chegada, vinda</PT-Word-Cand>
+    <EN-Gloss>the act of arriving at a certain place; "they awaited her arrival"</EN-Gloss>
+    <EN-Words>arrival</EN-Words>
+    <PT-Gloss> o ato de chegar em certo lugar; "eles esperavam sua chegada"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>80</BC>
+    <WN-3.0-Synset>n48828</WN-3.0-Synset>
+    <PT-Words-Man>advento, vinda, chegada</PT-Words-Man>
+    <PT-Word-Cand>advento</PT-Word-Cand>
+    <EN-Gloss>arrival that has been awaited (especially of something momentous); "the advent of the computer"</EN-Gloss>
+    <EN-Words>advent, coming</EN-Words>
+    <PT-Gloss>chegada de algo que estava sendo aguardado (especialmente de algo importante); "o advento do computador"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>advenimiento, venida</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>81</BC>
+    <WN-3.0-Synset>n49003</WN-3.0-Synset>
+    <PT-Words-Man>entrada, ingresso</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of entering; "she made a grand entrance"</EN-Gloss>
+    <EN-Words>entering, entrance, entry, incoming, ingress</EN-Words>
+    <PT-Gloss>o ato de entrar; " ela fez uma entrada triunfal"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>82</BC>
+    <WN-3.0-Synset>v45817</WN-3.0-Synset>
+    <PT-Words-Man>perder_peso, reduzir_peso, emagrecer</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>take off weight</EN-Gloss>
+    <EN-Words>lose weight, melt off, reduce, slenderize, slim down, slim, thin</EN-Words>
+    <PT-Gloss>perder peso</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>enflacar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>83</BC>
+    <WN-3.0-Synset>v46151</WN-3.0-Synset>
+    <PT-Words-Man>engordar, ganhar_peso</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>increase (one's body weight); "She gained 20 pounds when she stopped exercising"</EN-Gloss>
+    <EN-Words>gain, put on</EN-Words>
+    <PT-Gloss>acrescentar (peso a si mesmo); "ela ganhou 20 pounds quando ela parou de exercitar"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>84</BC>
+    <WN-3.0-Synset>v46534</WN-3.0-Synset>
+    <PT-Words-Man>vestir-se, arrumar-se</PT-Words-Man>
+    <PT-Word-Cand>vestir-se, vestir</PT-Word-Cand>
+    <EN-Gloss>put on clothes; "we had to dress quickly"; "dress the patient"; "Can the child dress by herself?"</EN-Gloss>
+    <EN-Words>dress, get dressed</EN-Words>
+    <PT-Gloss> botar a roupa; "nós temos que nos vestir rapidamente"; "vista o paciente"; "as crianças conseguem se vestir por conta própria?"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>vestirse</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>85</BC>
+    <WN-3.0-Synset>n50037</WN-3.0-Synset>
+    <PT-Words-Man>inscrição, registro, matricula</PT-Words-Man>
+    <PT-Word-Cand>inscrição</PT-Word-Cand>
+    <EN-Gloss>the act of enrolling</EN-Gloss>
+    <EN-Words>enrollment, enrolment, registration</EN-Words>
+    <PT-Gloss> o ato de se inscrever</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>matriculación, registración</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>86</BC>
+    <WN-3.0-Synset>v47317</WN-3.0-Synset>
+    <PT-Words-Man>experimentar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>put on a garment in order to see whether it fits and looks nice; "Try on this sweater to see how it looks"</EN-Gloss>
+    <EN-Words>try on, try</EN-Words>
+    <PT-Gloss>colocar uma roupa, a fim de ver se ele se encaixa e parece bom; "Experimente esta camisola para ver como fica"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>87</BC>
+    <WN-3.0-Synset>n51192</WN-3.0-Synset>
+    <PT-Words-Man>regresso, retorno, volta, vinda</PT-Words-Man>
+    <PT-Word-Cand>regresso</PT-Word-Cand>
+    <EN-Gloss>a coming to or returning home; "on his return from Australia we gave him a welcoming party"</EN-Gloss>
+    <EN-Words>homecoming, return</EN-Words>
+    <PT-Gloss>uma vinda ou regresso para casa, "no seu regresso da Austrália, demos-lhe uma festa de boas-vindas"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>88</BC>
+    <WN-3.0-Synset>n53097</WN-3.0-Synset>
+    <PT-Words-Man>despedida, partida</PT-Words-Man> 
+    <PT-Word-Cand />
+    <EN-Gloss>the act of departing politely; "he disliked long farewells"; "he took his leave"; "parting is such sweet sorrow"</EN-Gloss>
+    <EN-Words>farewell, leave, leave-taking, parting</EN-Words>
+    <PT-Gloss>o ato de sair educadamente, "ele não gostava de despedidas longas", "ele despediu-se", " partir é  uma tristeza doce"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>89</BC>
+    <WN-3.0-Synset>v50652</WN-3.0-Synset>
+    <PT-Words-Man>caber, colocar, vestir, usar</PT-Words-Man>
+    <PT-Word-Cand>vestir</PT-Word-Cand>
+    <EN-Gloss>put clothing on one's body; "What should I wear today?"; "He put on his best suit for the wedding"; "The princess donned a long blue
+    dress"; "The queen assumed the stately robes"; "He got into his jeans"</EN-Gloss>
+    <EN-Words>assume, don, get into, put on, wear</EN-Words>
+    <PT-Gloss>colocar roupas no  corpo: "O que devo vestir hoje?", "Ele usou seu melhor terno  no casamento", "A princesa usou um vestido  azul longo"," A rainha colocou as vestes imponentes "," Ele cabia no seus jeans "</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>vestirse</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>90</BC>
+    <WN-3.0-Synset>v52548</WN-3.0-Synset>
+    <PT-Words-Man>fecundar, inseminar, fertilizar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>introduce semen into (a female)</EN-Gloss>
+    <EN-Words>fecundate, fertilise, fertilize, inseminate</EN-Words>
+    <PT-Gloss>introduzir sêmem em uma fêmea</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>91</BC>
+    <WN-3.0-Synset>n56087</WN-3.0-Synset>
+    <PT-Words-Man>emigração, expatriação</PT-Words-Man>
+    <PT-Word-Cand>emigração, emigração</PT-Word-Cand>
+    <EN-Gloss>migration from a place (especially migration from your native country in order to settle in another)</EN-Gloss>
+    <EN-Words>emigration, expatriation, out-migration</EN-Words>
+    <PT-Gloss>migração para fora de um lugar (especialmente migração saindo do seu país natal com o objetivo de se estabelecer em outro)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>emigración, Emigración, Emigracion, emigración, expatriación, migración</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>92</BC>
+    <WN-3.0-Synset>v53159</WN-3.0-Synset>
+    <PT-Words-Man>engravidar, emprenhar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>make pregnant; "He impregnated his wife again"</EN-Gloss>
+    <EN-Words>bang up, impregnate, knock up, prang up</EN-Words>
+    <PT-Gloss>fazer engravidar; "ele engravidou sua mulher novamente"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>preñar, embarazar, incordiar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>93</BC>
+    <WN-3.0-Synset>n58519</WN-3.0-Synset>
+    <PT-Words-Man>saída</PT-Words-Man>
+    <PT-Word-Cand>partida, saída</PT-Word-Cand>
+    <EN-Gloss>the act of going out</EN-Gloss>
+    <EN-Words>exit</EN-Words>
+    <PT-Gloss>o ato de sair</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>94</BC>
+    <WN-3.0-Synset>v55142</WN-3.0-Synset>
+    <PT-Words-Man>procriar, gerar, reproduzir</PT-Words-Man>
+    <PT-Word-Cand>procriar, gerar, reproduzir, conceber</PT-Word-Cand>
+    <EN-Gloss>have offspring or produce more individuals of a given animal or plant; "The Bible tells people to procreate"</EN-Gloss>
+    <EN-Words>multiply, procreate, reproduce</EN-Words>
+    <PT-Gloss>ter filhos ou produzir mais indivíduos de um determinado animal ou planta; "a bíblia diz para as pessoas procriarem"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>generar, engendrar, procrear, reproducir, reproducirse, fecundar, concebir</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>95</BC>
+    <WN-3.0-Synset>n58743</WN-3.0-Synset>
+    <PT-Words-Man>fuga, escape, escapada</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of escaping physically; "he made his escape from the mental hospital"; "the canary escaped from its cage"; "his flight was an
+    indication of his guilt"</EN-Gloss>
+    <EN-Words>escape, flight</EN-Words>
+    <PT-Gloss>o ato de escapar (fisicamente); " ele fez sua fuga do sanatório"; "o canário escapou de sua gaiola"; "sua escapada foi uma indicação da sua culpa"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>96</BC>
+    <WN-3.0-Synset>v56930</WN-3.0-Synset>
+    <PT-Words-Man>parir, dar_à_luz, pôr_no_mundo</PT-Words-Man>
+    <PT-Word-Cand>parir, dar à luz, dar a luz</PT-Word-Cand>
+    <EN-Gloss>cause to be born; "My wife had twins yesterday!"</EN-Gloss>
+    <EN-Words>bear, birth, deliver, give birth, have</EN-Words>
+    <PT-Gloss>causar o nascimento; "minha esposa teve gemeos ontem" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>parir</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>97</BC>
+    <WN-3.0-Synset>n61290</WN-3.0-Synset>
+    <PT-Words-Man>expedição, envio</PT-Words-Man>
+    <PT-Word-Cand>expedição, envio</PT-Word-Cand>
+    <EN-Gloss>the act of sending off something</EN-Gloss>
+    <EN-Words>despatch, dispatch, shipment</EN-Words>
+    <PT-Gloss>o ato de expedir algo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>envío, envio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>98</BC>
+    <WN-3.0-Synset>n62806</WN-3.0-Synset>
+    <PT-Words-Man>realização, obtenção</PT-Words-Man>
+    <PT-Word-Cand>realização</PT-Word-Cand>
+    <EN-Gloss>the act of achieving an aim; "the attainment of independence"</EN-Gloss>
+    <EN-Words>attainment</EN-Words>
+    <PT-Gloss>o ato de atingir um objetivo; "a obtenção da independencia"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>logro</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>99</BC>
+    <WN-3.0-Synset>n63014</WN-3.0-Synset>
+    <PT-Words-Man>récorde</PT-Words-Man>
+    <PT-Word-Cand>recorde, récord</PT-Word-Cand>
+    <EN-Gloss>an extreme attainment; the best (or worst) performance ever attested (as in a sport); "he tied the Olympic record"; "coffee production
+    last year broke all previous records"; "Chicago set the homicide record"</EN-Gloss>
+    <EN-Words>record</EN-Words>
+    <PT-Gloss>uma realização extrema; o melhor (ou pior) desempenhos  já atingidos (em um esporte); "ele empatou com o récorde olimpico"; </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>récord</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>100</BC>
+    <WN-3.0-Synset>n63652</WN-3.0-Synset>
+    <PT-Words-Man>sucesso, êxito, triunfo</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>an attainment that is successful; "his success in the marathon was unexpected"; "his new play was a great success"</EN-Gloss>
+    <EN-Words>success</EN-Words>
+    <PT-Gloss>uma realização bem sucedida; "o sucesso dele na maratona foi inesperado", "a peça nova foi um grande sucesso"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>logro, hit</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>101</BC>
+    <WN-3.0-Synset>v60833</WN-3.0-Synset>
+    <PT-Words-Man>castrar, capar</PT-Words-Man>
+    <PT-Word-Cand>castrar</PT-Word-Cand>
+    <EN-Gloss>remove the testicles of a male animal</EN-Gloss>
+    <EN-Words>castrate, demasculinise, demasculinize, emasculate</EN-Words>
+    <PT-Gloss>remover os testículos de um animal do sexo masculino</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>castrar, emascular, capar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>102</BC>
+    <WN-3.0-Synset>n64504</WN-3.0-Synset>
+    <PT-Words-Man>sucesso, estrondo, sensação</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>a conspicuous success; "that song was his first hit and marked the beginning of his career"; "that new Broadway show is a real
+    smasher"; "the party went with a bang"</EN-Gloss>
+    <EN-Words>bang, hit, smash, smasher, strike</EN-Words>
+    <PT-Gloss>um sucesso notável; "aquela musica foi seu primeiro sucesso"; </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>103</BC>
+    <WN-3.0-Synset>v61595</WN-3.0-Synset>
+    <PT-Words-Man>esterilizar </PT-Words-Man>
+    <PT-Word-Cand>Esterilização compulsiva</PT-Word-Cand>
+    <EN-Gloss>make infertile; "in some countries, people with genetically transmissible disabilities are sterilized"</EN-Gloss>
+    <EN-Words>desex, desexualise, desexualize, fix, sterilise, sterilize, unsex</EN-Words>
+    <PT-Gloss>o ato de tornar infertil; "em alguns paises pessoas com problemas transmissiveis geneticamente sao esterilizadas" </PT-Gloss> 
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>esterilizar, Esterilizacion forzosa, esterilización forzosa, castrar, emascular, capar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>104</BC>
+    <WN-3.0-Synset>n66216</WN-3.0-Synset>
+    <PT-Words-Man>insucesso, falha</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>an act that does not achieve its intended goal</EN-Gloss>
+    <EN-Words>nonaccomplishment, nonachievement</EN-Words>
+    <PT-Gloss>o ato de não alcançar o objetivo desejado</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments vcvp: aqui acho que a traducao como descumprimento foi mal/>
+  </row>
+  <row>
+    <BC>105</BC>
+    <WN-3.0-Synset>n66636</WN-3.0-Synset>
+    <PT-Words-Man>erro, falha</PT-Words-Man>
+    <PT-Word-Cand>erro</PT-Word-Cand>
+    <EN-Gloss>an act that fails; "his failure to pass the test"</EN-Gloss>
+    <EN-Words>failure</EN-Words>
+    <PT-Gloss> um ato que falha; "sua falha em passar o teste" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>equivocación, error</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>106</BC>
+    <WN-3.0-Synset>v63291</WN-3.0-Synset>
+    <PT-Words-Man>irritar, enervar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>excite to an abnormal condition, or chafe or inflame; "Aspirin irritates my stomach"</EN-Gloss>
+    <EN-Words>irritate</EN-Words>
+    <PT-Gloss>provocar uma condição anormal,  irritar ou inflamar; "aspirina irrita o meu estomago" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>107</BC>
+    <WN-3.0-Synset>v64095</WN-3.0-Synset>
+    <PT-Words-Man>aliviar, melhorar, amenizar, atenuar</PT-Words-Man>
+    <PT-Word-Cand>aliviar</PT-Word-Cand>
+    <EN-Gloss>provide physical relief, as from pain; "This pill will relieve your headaches"</EN-Gloss>
+    <EN-Words>alleviate, assuage, palliate, relieve</EN-Words>
+    <PT-Gloss>provocar o alívio físico (de dor, usualmente); "essa pilula vai melhorar sua dor-de-cabeca"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>108</BC>
+    <WN-3.0-Synset>n67526</WN-3.0-Synset>
+    <PT-Words-Man>perda, derrota</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of losing someone or something; "everyone expected him to win so his loss was a shock"</EN-Gloss>
+    <EN-Words>loss</EN-Words>
+    <PT-Gloss>o ato de perder alguém ou algo; "todo mundo esperava que ele ganhasse, portanto sua derrota foi um choque" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>109</BC>
+    <WN-3.0-Synset>n67707</WN-3.0-Synset>
+    <PT-Words-Man>rendição, capitulaçao</PT-Words-Man>
+    <PT-Word-Cand>capitulação</PT-Word-Cand>
+    <EN-Gloss>the act of surrendering (usually under agreed conditions); "they were protected until the capitulation of the fort"</EN-Gloss>
+    <EN-Words>capitulation, fall, surrender</EN-Words>
+    <PT-Gloss>o ato de render-se (normalmente sob condicoes estipuladas);"eles estavam protegidos ate a capitulação do forte"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>capitulación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>110</BC>
+    <WN-3.0-Synset>v64643</WN-3.0-Synset>
+    <PT-Words-Man>ferir, doer, machucar</PT-Words-Man>
+    <PT-Word-Cand>ferir</PT-Word-Cand>
+    <EN-Gloss>give trouble or pain to; "This exercise will hurt your back"</EN-Gloss>
+    <EN-Words>hurt</EN-Words>
+    <PT-Gloss>causar  dor a alguem ou algo; "esse exercicio vai machucar suas costas" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>echar a perder</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>111</BC>
+    <WN-3.0-Synset>v64889</WN-3.0-Synset>
+    <PT-Words-Man>indispor</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>cause to feel unwell; "She was indisposed"</EN-Gloss>
+    <EN-Words>indispose</EN-Words>
+    <PT-Gloss>causar um sentimento de mal-estar; "ela estava indisposta"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>indisponer</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>112</BC>
+    <WN-3.0-Synset>v65070</WN-3.0-Synset>
+    <PT-Words-Man> doer, sofrer dor</PT-Words-Man>
+    <PT-Word-Cand>doer, sofrer</PT-Word-Cand>
+    <EN-Gloss>feel pain or be in pain</EN-Gloss>
+    <EN-Words>hurt, suffer</EN-Words>
+    <PT-Gloss>sentir dor, estar com dor</PT-Gloss>
+    <PT-Gloss-Sug/>
+    <SPA-Words-Sug>doler</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>113</BC>
+    <WN-3.0-Synset>v65370</WN-3.0-Synset>
+    <PT-Words-Man>ter, padecer, sofrer_de</PT-Words-Man>
+    <PT-Word-Cand>padecer</PT-Word-Cand>
+    <EN-Gloss>suffer from; be ill with; "She has arthritis"</EN-Gloss>
+    <EN-Words>have</EN-Words>
+    <PT-Gloss>sofrer de; estar doente com; "ela estava com artrite"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>padecer</SPA-Words-Sug>
+    <Comments ter 'e um problema tanto em ingles qto em portugues/>
+  </row>
+  <row>
+    <BC>114</BC>
+    <WN-3.0-Synset>v65495</WN-3.0-Synset>
+    <PT-Words-Man>estar bem</PT-Words-Man>
+    <PT-Word-Cand>estar com saúde, estar bem</PT-Word-Cand>
+    <EN-Gloss>be healthy; feel good; "She has not been well lately"</EN-Gloss>
+    <EN-Words>be well</EN-Words>
+    <PT-Gloss>estar saudável; sentir-se bem; "ela nao tem se sentido bem recentemente"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>115</BC>
+    <WN-3.0-Synset>v65639</WN-3.0-Synset>
+    <PT-Words-Man>sofrer, ter, contrair</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>undergo (as of injuries and illnesses); "She suffered a fracture in the accident"; "He had an insulin shock after eating three candy
+    bars"; "She got a bruise on her leg"; "He got his arm broken in the scuffle"</EN-Gloss>
+    <EN-Words>get, have, suffer, sustain</EN-Words>
+    <PT-Gloss>ser acometido de lesões e doenças; "ela sofreu uma fratura no acidente"; "ele teve um choque de insulina depois de comer tres chocolates"; "ela tinha um machucado na perna"; </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>116</BC>
+    <WN-3.0-Synset>v66025</WN-3.0-Synset>
+    <PT-Words-Man>choramingar, gemer</PT-Words-Man> 
+    <PT-Word-Cand>queixar-se</PT-Word-Cand>
+    <EN-Gloss>cry weakly or softly; "she wailed with pain"</EN-Gloss>
+    <EN-Words>mewl, pule, wail, whimper</EN-Words>
+    <PT-Gloss>chorar baixinho; "ela choramingava de dor" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>lloriquear</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>117</BC>
+    <WN-3.0-Synset>v66191</WN-3.0-Synset>
+    <PT-Words-Man>chorar, choramingar, derramar_lágrimas</PT-Words-Man>
+    <PT-Word-Cand>chorar, derramar lágrimas, lacrimejar</PT-Word-Cand>
+    <EN-Gloss>shed tears because of sadness, rage, or pain; "She cried bitterly when she heard the news of his death"; "The girl in the wheelchair
+    wept with frustration when she could not get up the stairs"</EN-Gloss>
+    <EN-Words>cry, weep</EN-Words>
+    <PT-Gloss>derramar lágrimas de tristeza, raiva, ou dor; "ela chorou amargamente quando soube da morte dele"; "a menina na cadeira de rodas chorava de raiva de nao conseguir subir as escadas" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>llorar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>118</BC>
+    <WN-3.0-Synset>v66977</WN-3.0-Synset>
+    <PT-Words-Man>lacrimejar</PT-Words-Man>
+    <PT-Word-Cand>chorar</PT-Word-Cand>
+    <EN-Gloss>fill with tears or shed tears; "Her eyes were tearing"</EN-Gloss>
+    <EN-Words>tear</EN-Words>
+    <PT-Gloss>se encher de lágrimas ou derramar lágrimas; "os olhos dela estavam lacrimejando"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>llorar</SPA-Words-Sug>
+    <Comments vcvp: esse nao funciona muito bem. mantemos por enquanto./>
+  </row>
+  <row>
+    <BC>119</BC>
+    <WN-3.0-Synset>n70965</WN-3.0-Synset>
+    <PT-Words-Man>erro, falha, equívoco</PT-Words-Man>
+    <PT-Word-Cand>erro, culpa</PT-Word-Cand>
+    <EN-Gloss>a wrong action attributable to bad judgment or ignorance or inattention; "he made a bad mistake"; "she was quick to point out my
+    errors"; "I could understand his English in spite of his grammatical faults"</EN-Gloss>
+    <EN-Words>error, fault, mistake</EN-Words>
+    <PT-Gloss>uma ação errada atribuível ao mau julgamento ou ignorância ou desatenção; "ele fez um erro formidavel"; "ela foi rapida em apontar as minhas falhas"; "eu conseguia entender o ingles dele, apesar das falhas gramaticais" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>equivocación, culpabilidad, error</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>120</BC>
+    <WN-3.0-Synset>n72261</WN-3.0-Synset>
+    <PT-Words-Man> mancha, mácula</PT-Words-Man>
+    <PT-Word-Cand>mancha, mácula</PT-Word-Cand>
+    <EN-Gloss>an act that brings discredit to the person who does it; "he made a huge blot on his copybook"</EN-Gloss>
+    <EN-Words>blot, smear, smirch, spot, stain</EN-Words>
+    <PT-Gloss>um fato que traz descrédito para a pessoa que o faz; "ele fez uma mancha na sua reputacao"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mancha</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>121</BC>
+    <WN-3.0-Synset>v69879</WN-3.0-Synset>
+    <PT-Words-Man>ferir, machucar</PT-Words-Man> 
+    <PT-Word-Cand>ferir, machucar, vulnerar</PT-Word-Cand>
+    <EN-Gloss>cause injuries or bodily harm to</EN-Gloss>
+    <EN-Words>injure, wound</EN-Words>
+    <PT-Gloss>provocar ferimentos ou danos corporais em alguem</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>herir, lacerar, lesionar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>122</BC>
+    <WN-3.0-Synset>n74524</WN-3.0-Synset>
+    <PT-Words-Man>erro, negligência, descuido</PT-Words-Man>
+    <PT-Word-Cand>erro</PT-Word-Cand>
+    <EN-Gloss>a mistake resulting from inattention</EN-Gloss>
+    <EN-Words>lapse, oversight</EN-Words>
+    <PT-Gloss>um erro resultante de falta de atençao</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>equivocación, error</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>123</BC>
+    <WN-3.0-Synset>n74790</WN-3.0-Synset>
+    <PT-Words-Man>fiasco, gafe, bobagem</PT-Words-Man>
+    <PT-Word-Cand>Botch, botch, gafe, dodói, estrague, caçapo, láparo</PT-Word-Cand>
+    <EN-Gloss>an embarrassing mistake</EN-Gloss>
+    <EN-Words>bloomer, blooper, blunder, boner, boo-boo, botch, bungle, flub, foul-up, fuckup, pratfall</EN-Words>
+    <PT-Gloss>um erro embaraçoso, envergonhante</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>chapuza, pifia, equivocación, descache, remiendo, yerro</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>124</BC>
+    <WN-3.0-Synset>v71803</WN-3.0-Synset>
+    <PT-Words-Man>puxar, estirar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>strain abnormally; "I pulled a muscle in my leg when I jumped up"; "The athlete pulled a tendon in the competition"</EN-Gloss>
+    <EN-Words>overstretch, pull</EN-Words>
+    <PT-Gloss>extender  demais; "o atlelta estirou um tendao na competicao" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>125</BC>
+    <WN-3.0-Synset>v74558</WN-3.0-Synset>
+   <PT-Words-Man lexicalGap="True">constipar</PT-Words-Man>
+    <PT-Word-Cand>constipar</PT-Word-Cand>
+    <EN-Gloss>cause to be constipated; "These foods tend to constipate you"</EN-Gloss>
+    <EN-Words>bind, constipate</EN-Words>
+    <PT-Gloss>causa de estar com prisão de ventre</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>estreñir</SPA-Words-Sug>
+    <Comments vcvp: esse synset tb nao existe em portugues, o verbo nao ter forma ativa,so' passiva />
+  </row>
+  <row>
+    <BC>126</BC>
+    <WN-3.0-Synset>v75021</WN-3.0-Synset>
+    <PT-Words-Man>cansar-se, exaurir-se</PT-Words-Man>
+    <PT-Word-Cand>cansar</PT-Word-Cand>
+    <EN-Gloss>exhaust or get tired through overuse or great strain or stress; "We wore ourselves out on this hike"</EN-Gloss>
+    <EN-Words>fag out, fag, fatigue, jade, outwear, tire out, tire, wear down, wear out, wear upon, wear, weary</EN-Words>
+    <PT-Gloss>causar exaustão ou cansaço através de uso excessivo, grande tensão ou estresse; "nos nos exaurimos nessa caminhada" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cansar, cansarse, fatigar, abroncar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>127</BC>
+    <WN-3.0-Synset>v78138</WN-3.0-Synset>
+    <PT-Words-Man>congelar, morrer_ de_frio</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>be cold; "I could freeze to death in this office when the air conditioning is turned on"</EN-Gloss>
+    <EN-Words>freeze</EN-Words>
+    <PT-Gloss>estar com frio; "eu  congelo  nessa sala quando o ar condicionado esta ligado" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>128</BC>
+    <WN-3.0-Synset>n83585</WN-3.0-Synset>
+    <PT-Words-Man>herança, espólio</PT-Words-Man>
+    <PT-Word-Cand>herança, legado, património</PT-Word-Cand>
+    <EN-Gloss>hereditary succession to a title or an office or property</EN-Gloss>
+    <EN-Words>heritage, inheritance</EN-Words>
+    <PT-Gloss>passagem hereditária de um título ou um cargo ou de propriedade</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>herencia, futura</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>129</BC>
+    <WN-3.0-Synset>v81072</WN-3.0-Synset>
+    <PT-Words-Man>administrar, dispensar</PT-Words-Man>
+    <PT-Word-Cand>administrar, dispensar</PT-Word-Cand>
+    <EN-Gloss>give or apply (medications)</EN-Gloss>
+    <EN-Words>administer, dispense</EN-Words>
+    <PT-Gloss>dar ou aplicar (medicamentos)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>administrar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>130</BC>
+    <WN-3.0-Synset>v83809</WN-3.0-Synset>
+    <PT-Words-Man>operar</PT-Words-Man>
+    <PT-Word-Cand>operar, intervir</PT-Word-Cand>
+    <EN-Gloss>perform surgery on; "The doctors operated on the patient but failed to save his life"</EN-Gloss>
+    <EN-Words>operate on, operate</EN-Words>
+    <PT-Gloss>fazer cirurgia em alguem; "os medicos operaram o paciente, mas falharam ao tentar salvar a vida dele" </PT-Gloss> 
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>intervenir</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>131</BC>
+    <WN-3.0-Synset>n89351</WN-3.0-Synset>
+    <PT-Words-Man>restituição, retorno</PT-Words-Man>
+    <PT-Word-Cand>restituição, devolução</PT-Word-Cand>
+    <EN-Gloss>getting something back again; "upon the restitution of the book to its rightful owner the child was given a tongue lashing"</EN-Gloss>
+    <EN-Words>regaining, restitution, restoration, return</EN-Words>
+    <PT-Gloss>receber algo de volta de novo; "depois que o livro foi retornado ao seu dono verdadeiro, a crianca levou uma bronca seria" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>restitución</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>132</BC>
+    <WN-3.0-Synset>n90253</WN-3.0-Synset>
+    <PT-Words-Man>recebimento</PT-Words-Man>
+    <PT-Word-Cand>recepção, aquisição, recibo, nota fiscal</PT-Word-Cand>
+    <EN-Gloss>the act of receiving</EN-Gloss>
+    <EN-Words>receipt, reception</EN-Words>
+    <PT-Gloss>o ato de receber</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>recepción, quitanza</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>133</BC>
+    <WN-3.0-Synset>v87454</WN-3.0-Synset>
+    <PT-Words-Man>adoentar, adoecer</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>get sick; "She fell sick last Friday, and now she is in the hospital"</EN-Gloss>
+    <EN-Words>come down, sicken</EN-Words>
+    <PT-Gloss>ficar doente; "ela ficou doente na sexta-feira passada e agora esta no hospial"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>134</BC>
+    <WN-3.0-Synset>v89324</WN-3.0-Synset>
+    <PT-Words-Man>desinfectar</PT-Words-Man>
+    <PT-Word-Cand>desinfectar, desinfetar</PT-Word-Cand>
+    <EN-Gloss>destroy microorganisms or pathogens by cleansing; "disinfect a wound"</EN-Gloss>
+    <EN-Words>disinfect</EN-Words>
+    <PT-Gloss>destruir microorganismos ou patógenos por limpeza; "desinfete o machucado" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>desinfectar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>135</BC>
+    <WN-3.0-Synset>n93483</WN-3.0-Synset>
+    <PT-Words-Man>salvação, salvamento,</PT-Words-Man>
+    <PT-Word-Cand>Resgate, redenção, salvação, resgate, salvamento, libertação</PT-Word-Cand>
+    <EN-Gloss>recovery or preservation from loss or danger; "work is the deliverance of mankind"; "a surgeon's job is the saving of lives"</EN-Gloss>
+    <EN-Words>deliverance, delivery, rescue, saving</EN-Words>
+    <PT-Gloss>recuperação ou preservação da perda ou do perigo; "trabalho e' a salvacao do homem"; "o trabalho de um cirurgiao e' salvar vidas"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>salvamento, salvacion, rescate, salvamiento, entrega, rescado</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>136</BC>
+    <WN-3.0-Synset>v92293</WN-3.0-Synset>
+    <PT-Words-Man>piorar, deteriorar, degenerar, degradar</PT-Words-Man>
+    <PT-Word-Cand>deteriorar, corromper-se, degenerar</PT-Word-Cand>
+    <EN-Gloss>grow worse; "Her condition deteriorated"; "Conditions in the slums degenerated"; "The discussion devolved into a shouting   match"</EN-Gloss>
+    <EN-Words>degenerate, deteriorate, devolve, drop</EN-Words>
+    <PT-Gloss>ficar pior; "A condicao dela deteriorou-se"; "as condicoes nas favelas pioraram muito"; "a discussao degenerou numa gritaria" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>agravarse, degenerar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>137</BC>
+    <WN-3.0-Synset>v92690</WN-3.0-Synset>
+    <PT-Words-Man>recuperar, melhorar, convalescer</PT-Words-Man>
+    <PT-Word-Cand>melhorar, convalescer, recuperar</PT-Word-Cand>
+    <EN-Gloss>get over an illness or shock; "The patient is recuperating"</EN-Gloss>
+    <EN-Words>convalesce, recover, recuperate</EN-Words>
+    <PT-Gloss>sair de uma doença ou choque; "o paciente esta se recuperando" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mejorar, curarse, convalecer</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>138</BC>
+    <WN-3.0-Synset>n97504</WN-3.0-Synset>
+    <PT-Words-Man>desempenho, realização, execução</PT-Words-Man>
+    <PT-Word-Cand>realização, cumprimento, execução</PT-Word-Cand>
+    <EN-Gloss>the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it; "they criticised  his performance as mayor"; "experience generally improves performance"</EN-Gloss>
+    <EN-Words>carrying into action, carrying out, execution, performance</EN-Words>
+    <PT-Gloss>o ato de realizar alguma coisa; de fazer algo com sucesso; usar conhecimento em vez de meramente possuí-lo; "eles criticaram o seu desemenho como prefeito"; "experiencia normalmente melhora o desempenho" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ejecución, realización</SPA-Words-Sug>
+    <Comments> não sei se traduzi a parte final do Gloss corretamente ("as distinguished..."), corrija se estiver errado por favor. vcvp:corrigido! :) </Comments>
+  </row>
+  <row>
+    <BC>139</BC>
+    <WN-3.0-Synset>n98385</WN-3.0-Synset>
+    <PT-Words-Man>mecanismo, mecanica</PT-Words-Man>
+    <PT-Word-Cand>mecanismo, mecanismo</PT-Word-Cand>
+    <EN-Gloss>the technical aspects of doing something; "a mechanism of social control"; "mechanisms of communication"; "the mechanics of prose    style"</EN-Gloss>
+    <EN-Words>mechanics, mechanism</EN-Words>
+    <PT-Gloss>os aspectos técnicos de fazer alguma coisa; "um mecanismo de controle social"; "os mecanismos de comunicacao"; "a mecanica do estilo de poesia" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Mecanismo, mecanismo, mecánica, mecanismo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>140</BC>
+    <WN-3.0-Synset>n103834</WN-3.0-Synset>
+    <PT-Words-Man>impulso, impulsão, forca, empurrão</PT-Words-Man>
+    <PT-Word-Cand>impulso</PT-Word-Cand>
+    <EN-Gloss>the act of applying force to propel something; "after reaching the desired velocity the drive is cut off"</EN-Gloss>
+    <EN-Words>drive, driving force, thrust</EN-Words>
+    <PT-Gloss>o ato de aplicar força para mover algo; "apos alcancar a velocidade desejada, removemos o impulso"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>141</BC>
+    <WN-3.0-Synset>v99721</WN-3.0-Synset>
+    <PT-Words-Man>exercitar, malhar </PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>do physical exercise; "She works out in the gym every day"</EN-Gloss>
+    <EN-Words>exercise, work out</EN-Words>
+    <PT-Gloss>fazer execício físico; "ela se exercita na academia todo dia"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ejercitar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>142</BC>
+    <WN-3.0-Synset>n104409</WN-3.0-Synset>
+    <PT-Words-Man lexicalGap="True">rolamento</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of rolling something (as the ball in bowling)</EN-Gloss>
+    <EN-Words>bowl, roll</EN-Words>
+    <PT-Gloss>o ato de rolar alguma coisa (como a bola de boliche)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments vcvp:esse tb nao existe em portugues usado />
+  </Row>
+  <row>
+    <BC>143</BC>
+    <WN-3.0-Synset>v103317</WN-3.0-Synset>
+    <PT-Words-Man>corar, ruborizar, avermelhar</PT-Words-Man>
+    <PT-Word-Cand>ruborizar</PT-Word-Cand>
+    <EN-Gloss>turn red, as if in embarrassment or shame; "The girl blushed when a young man whistled as she walked by"</EN-Gloss>
+    <EN-Words>blush, crimson, flush, redden</EN-Words>
+    <PT-Gloss>ficar vermelho, como se estivesse embaraçado ou com vergonha; "a menina corou quando um rapaz assobiou quanda ela passou"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>rubor, sonrojar, enrojecerse, ruborizarse, sonrojarse</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>144</BC>
+    <WN-3.0-Synset>v103619</WN-3.0-Synset>
+    <PT-Words-Man>empalidecer</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>turn pale, as if in fear</EN-Gloss>
+    <EN-Words>blanch, blench, pale</EN-Words>
+    <PT-Gloss>ficar pálido, quando com medo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>palidecer</SPA-Words-Sug>
+    <Comments  vcvp:esse tb nao existe em portugues usado />
+  </row>
+  <row>
+    <BC>145</BC>
+    <WN-3.0-Synset>v104868</WN-3.0-Synset>
+    <PT-Words-Man>ejetar, expulsar, expelir, liberar</PT-Words-Man>
+    <PT-Word-Cand>produção, afugentar, expulsar, ejetar, excetuar</PT-Word-Cand>
+    <EN-Gloss>eliminate (a substance); "combustion products are exhausted in the engine"; "the plant releases a gas"</EN-Gloss>
+    <EN-Words>discharge, eject, exhaust, expel, release</EN-Words>
+    <PT-Gloss>eliminar (uma substância); "produtos da combustao sao expelidos no motor"; "a planta libera gases" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>echar, eyectar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>146</BC>
+    <WN-3.0-Synset>v106960</WN-3.0-Synset>
+    <PT-Words-Man>atropelar, passar_por_cima</PT-Words-Man>
+    <PT-Word-Cand>atropelar</PT-Word-Cand>
+    <EN-Gloss>injure or kill by running over, as with a vehicle</EN-Gloss>
+    <EN-Words>run down, run over</EN-Words>
+    <PT-Gloss>ferir ou matar por atropelamento, como acontece com um veículo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>arrollar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>147</BC>
+    <WN-3.0-Synset>n112312</WN-3.0-Synset>
+    <PT-Words-Man>empurrão, impulso, impulsão</PT-Words-Man>
+    <PT-Word-Cand>pressão</PT-Word-Cand>
+    <EN-Gloss>the act of applying force in order to move something away; "he gave the door a hard push"; "the pushing is good exercise"</EN-Gloss>
+    <EN-Words>push, pushing</EN-Words>
+    <PT-Gloss>o ato de aplicar força com o intuito de mover algo para frente; "ele deu um empurrão na porta"; </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>148</BC>
+    <WN-3.0-Synset>v109660</WN-3.0-Synset>
+    <PT-Words-Man>mudar, alterar</PT-Words-Man>
+    <PT-Word-Cand>mudar</PT-Word-Cand>
+    <EN-Gloss>undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The  weather changed last night"</EN-Gloss>
+    <EN-Words>change</EN-Words>
+    <PT-Gloss>sofrer uma mudança; tornar-se diferente em essência;  perder  a sua natureza original; "ela mudou completamente quando ficou mais velha", "o tempo mudou ontem a noite" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>alterar, cambiar, combiar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>149</BC>
+    <WN-3.0-Synset>n114431</WN-3.0-Synset>
+    <PT-Words-Man>tração, puxão</PT-Words-Man>
+    <PT-Word-Cand>tração</PT-Word-Cand>
+    <EN-Gloss>the act of pulling; applying force to move something toward or with you; "the pull up the hill had him breathing harder"; "his   strenuous pulling strained his back"</EN-Gloss>
+    <EN-Words>pull, pulling</EN-Words>
+    <PT-Gloss>o ato de puxar; aplicando força para mover algo para ou com você; </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments vcvp: acho que esse tb nao funciona em portugues/>
+  </row>
+  <row>
+    <BC>150</BC>
+    <WN-3.0-Synset>n116376</WN-3.0-Synset>
+    <PT-Words-Man>elevação, levantamento, alcar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of raising something; "he responded with a lift of his eyebrow"; "fireman learn several different raises for getting ladders  up"</EN-Gloss>
+    <EN-Words>heave, lift, raise</EN-Words>
+    <PT-Gloss>o ato de elevar algo; "ele respondeu com um alcar das sombracelhas"; "os bmbeiros aprendem varias formas de levantamento de escadas" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>151</BC>
+    <WN-3.0-Synset>n119568</WN-3.0-Synset>
+    <PT-Words-Man>pulo, salto</PT-Words-Man>
+    <PT-Word-Cand>Pulo, salto</PT-Word-Cand>
+    <EN-Gloss>the act of jumping; propelling yourself off the ground; "he advanced in a series of jumps"; "the jumping was unexpected"</EN-Gloss>
+    <EN-Words>jump, jumping</EN-Words>
+    <PT-Gloss>o ato de pular; se impulsionar para cima; "ele avancou numa serie de saltos"; "o pulo foi inesperado" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>152</BC>
+    <WN-3.0-Synset>v117985</WN-3.0-Synset>
+    <PT-Words-Man>permanecer, ficar, manter, continuar</PT-Words-Man>
+    <PT-Word-Cand>estar, permanecer, ficar</PT-Word-Cand>
+    <EN-Gloss>stay the same; remain in a certain state; "The dress remained wet after repeated attempts to dry it"; "rest assured"; "stay alone"; "He
+    remained unmoved by her tears"; "The bad weather continued for another week"</EN-Gloss>
+    <EN-Words>remain, rest, stay</EN-Words>
+    <PT-Gloss>permanecer o mesmo; se manter em um certo estado; "o vestido continuava molhado apesar das varias tentativas de seca-lo"; "fique tranquilo"; "fique sozinho"; "ele permaneceu insensivel as lagrimas dela" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>permanecer</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>153</BC>
+    <WN-3.0-Synset>n122661</WN-3.0-Synset>
+    <PT-Words-Man>tiro, pontaria</PT-Words-Man>
+    <PT-Word-Cand>tiro, tiro</PT-Word-Cand>
+    <EN-Gloss>the act of firing a projectile; "his shooting was slow but accurate"</EN-Gloss>
+    <EN-Words>shooting, shot</EN-Words>
+    <PT-Gloss>o ato de atirar um projétil; "seu tiro era devagar, mas preciso"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>fusilamiento, tirada, tiro</SPA-Words-Sug>
+    <Comments vcvp: nao funciona muito/>
+  </row>
+  <row>
+    <BC>154</BC>
+    <WN-3.0-Synset>v120316</WN-3.0-Synset>
+    <PT-Words-Man>deixar, fazer</PT-Words-Man>
+    <PT-Word-Cand>converter</PT-Word-Cand>
+    <EN-Gloss>give certain properties to something; "get someone mad"; "She made us look silly"; "He made a fool of himself at the meeting"; "Don't make this into a big deal"; "This invention will make you a millionaire"; "Make yourself clear"</EN-Gloss>
+    <EN-Words>get, make</EN-Words>
+    <PT-Gloss>dar certa propriedades a algo; "deixar alguem com raiva"; "ele nos fez de bobos"; "ele fez papel de idiota no encontro"; "essa invencao vai te fazer um milionario" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>155</BC>
+    <WN-3.0-Synset>n125629</WN-3.0-Synset>
+    <PT-Words-Man>contato, batida</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of contacting one thing with another; "repeated hitting raised a large bruise"; "after three misses she finally got a hit"</EN-Gloss>
+    <EN-Words>hit, hitting, striking</EN-Words>
+    <PT-Gloss>o ato de uma coisa entrar em contato com outra; "batidas repetidas fizeram uma marca grande", "depois de tres falhas ela finalmente emplacou" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments/> 
+  </row>
+  <row>
+    <BC>156</BC>
+    <WN-3.0-Synset>v123170</WN-3.0-Synset>
+    <PT-Words-Man>variar, modificar, alterar, mudar</PT-Words-Man>
+    <PT-Word-Cand>variar, modificar, alterar</PT-Word-Cand>
+    <EN-Gloss>become different in some particular way, without permanently losing one's or its former characteristics or essence; "her mood changes
+    in accordance with the weather"; "The supermarket's selection of vegetables varies according to the season"</EN-Gloss>
+    <EN-Words>alter, change, vary</EN-Words>
+    <PT-Gloss>tornar-se diferente, de forma particular, sem perder permanentemente suas características anteriores ou essenciais; "o humor dela varia com o clima"; "os vegetais no supermercado variam com as estacoes" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>157</BC>
+    <WN-3.0-Synset>n127286</WN-3.0-Synset>
+    <PT-Words-Man lexicalGap=True >andada, andar_até_a_primeira_base</PT-Words-Man>
+    <PT-Word-Cand>base por bolas</PT-Word-Cand>
+    <EN-Gloss>(baseball) an advance to first base by a batter who receives four balls; "he worked the pitcher for a base on balls"</EN-Gloss>
+    <EN-Words>base on balls, pass, walk</EN-Words>
+    <PT-Gloss>(beisebol) um avanço para a primeira base por um batedor que recebe quatro bolas</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>base por bolas</SPA-Words-Sug>
+    <Comments vcvp: nao 'e importante, nem funciona/>
+  </row>
+  <row>
+    <BC>158</BC>
+    <WN-3.0-Synset>v126264</WN-3.0-Synset>
+    <PT-Words-Man>alterar, modificar, mudar</PT-Words-Man>
+    <PT-Word-Cand>alterar, modificar</PT-Word-Cand>
+    <EN-Gloss>cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the  city"; "The discussion has changed my thinking about the issue"</EN-Gloss>
+    <EN-Words>alter, change, modify</EN-Words>
+    <PT-Gloss>causar mudanca; fazer diferente; causar uma transformação; "o advento do automovel pode ter alterado o padrao de crescimento das cidades"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cambiar, editar, alterar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>159</BC>
+    <WN-3.0-Synset>n136329</WN-3.0-Synset>
+    <PT-Words-Man>chute</PT-Words-Man>
+    <PT-Word-Cand>coice</PT-Word-Cand>
+    <EN-Gloss>the act of delivering a blow with the foot; "he gave the ball a powerful kick"; "the team's kicking was excellent"</EN-Gloss>
+    <EN-Words>boot, kick, kicking</EN-Words>
+    <PT-Gloss>o ato de aplicar um golpe com o pé; "ele deu um chute poderoso na bola"; </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>patada</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>160</BC>
+    <WN-3.0-Synset>n138221</WN-3.0-Synset>
+    <PT-Words-Man>beijo,ósculo</PT-Words-Man>
+    <PT-Word-Cand>beijo</PT-Word-Cand>
+    <EN-Gloss>the act of caressing with the lips (or an instance thereof)</EN-Gloss>
+    <EN-Words>buss, kiss, osculation</EN-Words>
+    <PT-Gloss>o ato de acariciar com os lábios (ou uma intância do mesmo)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>beso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>161</BC>
+    <WN-3.0-Synset>n138956</WN-3.0-Synset>
+    <PT-Words-Man>pegada, agarrao</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of catching an object with the hands; "Mays made the catch with his back to the plate"; "he made a grab for the ball before it
+    landed"; "Martin's snatch at the bridle failed and the horse raced away"; "the infielder's snap and throw was a single motion"</EN-Gloss>
+    <EN-Words>catch, grab, snap, snatch</EN-Words>
+    <PT-Gloss>o ato de pegar algo com as mãos</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>agarre, clinch</SPA-Words-Sug>
+    <Comments  acho que esse tb nao funciona/>
+  </row>
+  <row>
+    <BC>162</BC>
+    <WN-3.0-Synset>v137313</WN-3.0-Synset>
+    <PT-Words-Man>afetar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>have an effect upon; "Will the new rules affect me?"</EN-Gloss>
+    <EN-Words>affect, bear on, bear upon, impact, touch on, touch</EN-Words>
+    <PT-Gloss>ter um efeito sobre; "Sera' que as novas regras vao me afetar?" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>163</BC>
+    <WN-3.0-Synset>a127948</WN-3.0-Synset>
+    <PT-Words-Man>seguinte, próximo</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>immediately following in time or order; "the following day"; "next in line"; "the next president"; "the next item on the    list"</EN-Gloss>
+    <EN-Words>following, next</EN-Words>
+    <PT-Gloss>imediatamente seguinte no tempo ou ordem; " o dia seguinte"; "o proximo na fila"; "o proximo presidente"; "o item seguinte na lista" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>siguiente</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>164</BC>
+    <WN-3.0-Synset>v138508</WN-3.0-Synset>
+    <PT-Words-Man>inverter, reverter, virar, virar_do_avesso</PT-Words-Man>
+    <PT-Word-Cand>mudar</PT-Word-Cand>
+    <EN-Gloss>change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the
+    president had an affair with a White House intern"</EN-Gloss>
+    <EN-Words>change by reversal, reverse, turn</EN-Words>
+    <PT-Gloss>mudar para o contrário, reverter, virar;"a tendencia foi revertida"; "a mare virou contra ele"; "a opiniao publica mudou quando foi revelado que o presidente estava tendo um caso com uma estagiaria da Casa Branca" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cambiar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>165</BC>
+    <WN-3.0-Synset>n141806</WN-3.0-Synset>
+    <PT-Words-Man>inspeção, verificação</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of inspecting or verifying; "they made a check of their equipment"; "the pilot ran through the check-out procedure"</EN-Gloss>
+    <EN-Words>check, check-out procedure, checkout</EN-Words>
+    <PT-Gloss>o ato de inspecionar ou verificar; "eles fizeram uma inspeção do equipamento"; "o piloto fez a verificação do procedimento" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>repaso</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>166</BC>
+    <WN-3.0-Synset>n142665</WN-3.0-Synset>
+    <PT-Words-Man>comparação</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of examining resemblances; "they made a comparison of noise levels"; "the fractions selected for comparison must require pupils    to consider both numerator and denominator"</EN-Gloss>
+    <EN-Words>comparing, comparison</EN-Words>
+    <PT-Gloss>o ato de examinar semelhanças; "eles fizeram a comparação dos niveis de barulho"  </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>careo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>167</BC>
+    <WN-3.0-Synset>n143251</WN-3.0-Synset>
+    <PT-Words-Man>acompanhamento, revisão</PT-Words-Man>
+    <PT-Word-Cand>acompanhamento</PT-Word-Cand>
+    <EN-Gloss>a subsequent examination of a patient for the purpose of monitoring earlier treatment</EN-Gloss>
+    <EN-Words>follow-up, followup, reexamination, review</EN-Words>
+    <PT-Gloss>um exame subseqüente de um paciente com a finalidade de monitorar o tratamento mais cedo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>continuación, seguimiento, follow-through</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>168</BC>
+    <WN-3.0-Synset>v140123</WN-3.0-Synset>
+    <PT-Words-Man>mudar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>change in physical make-up</EN-Gloss>
+    <EN-Words>change integrity</EN-Words>
+    <PT-Gloss>mudar fisicamente</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>169</BC>
+    <WN-3.0-Synset>v140967</WN-3.0-Synset>
+    <PT-Words-Man>transformar, mudar, deformar </PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>assume a different shape or form</EN-Gloss>
+    <EN-Words>change form, change shape, deform</EN-Words>
+    <PT-Gloss>assumir uma forma diferente</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>170</BC>
+    <WN-3.0-Synset>v142191</WN-3.0-Synset>
+    <PT-Words-Man>formar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>give shape or form to; "shape the dough"; "form the young child's character"</EN-Gloss>
+    <EN-Words>form, shape</EN-Words>
+    <PT-Gloss>dar forma a alguma coisa; "formar o caracter de uma crianca pequena", "formar a massa"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cambiar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>171</BC>
+    <WN-3.0-Synset>v143338</WN-3.0-Synset>
+    <PT-Words-Man>moldar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>flatten, stretch, or mold metal or glass, by rolling or by pulling it through a die or by stretching; "draw steel"</EN-Gloss>
+    <EN-Words>draw</EN-Words>
+    <PT-Gloss>achatar, esticar, ou moldar metal ou vidro, rolando ou puxando através de uma matriz ou esticando</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>172</BC>
+    <WN-3.0-Synset>v143914</WN-3.0-Synset>
+    <PT-Words-Man>torcer, retorcer</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>form into twists; "Twist the strips of dough"</EN-Gloss>
+    <EN-Words>twist</EN-Words>
+    <PT-Gloss>dar a forma de trancas</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>173</BC>
+    <WN-3.0-Synset>v146138</WN-3.0-Synset>
+    <PT-Words-Man>tornar, revoltar-se</PT-Words-Man>
+    <PT-Word-Cand>tornar-se</PT-Word-Cand>
+    <EN-Gloss>undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the
+    President when he stole the election"</EN-Gloss>
+    <EN-Words>change state, turn</EN-Words>
+    <PT-Gloss>sofrer uma transformação ou uma mudança de posição ou ação; "Nos  nos mudamos de Socialismo para Capitalismo"; "o povo se revoltou contra o presidente quando ele fraudou as eleicoes" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>174</BC>
+    <WN-3.0-Synset>v149583</WN-3.0-Synset>
+    <PT-Words-Man>tornar, estar, ficar</PT-Words-Man>
+    <PT-Word-Cand>morrer, bater a bota, Devenir, acontecer, devir</PT-Word-Cand>
+    <EN-Gloss>enter or assume a certain state or condition; "He became annoyed when he heard the bad news"; "It must be getting more serious"; "her  face went red with anger"; "She went into ecstasy"; "Get going!"</EN-Gloss>
+    <EN-Words>become, get, go</EN-Words>
+    <PT-Gloss>assumir um certo estado ou condiçã; "ele se  tornou irascivel quando ouviu as mas noticias" ; "a face dela se tornou vermelha de raiva" ; "ela ficou extasiada" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>fenecer, morir, sucumbir, fallecer, estirar la pata, expirar, pasar a mejor vida, perecer, devenir</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>175</BC>
+    <WN-3.0-Synset>v153263</WN-3.0-Synset>
+    <PT-Words-Man>aumentar, ampliar</PT-Words-Man>
+    <PT-Word-Cand>aumentar, acrescentar, acrescentar</PT-Word-Cand>
+    <EN-Gloss>make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted"</EN-Gloss>
+    <EN-Words>increase</EN-Words>
+    <PT-Gloss>fazer maior ou com mais; "o chefe finalmente aumentou o salario dela"; "a university ampliou o numero de estudantes que admite todo ano" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aumentar, acrecer</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>176</BC>
+    <WN-3.0-Synset>n157081</WN-3.0-Synset>
+    <PT-Words-Man>efeito</PT-Words-Man>
+    <PT-Word-Cand>efeitos</PT-Word-Cand>
+    <EN-Gloss>causing something without any direct or apparent effort</EN-Gloss>
+    <EN-Words>influence</EN-Words>
+    <PT-Gloss>causar algo sem qualquer esforço direto ou aparente</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>efecto, influencia</SPA-Words-Sug>
+    <Comments vcvp: Rafael nao sei porque voce acho qe acidente 'e bom aqui./>
+  </row>
+  <row>
+    <BC>177</BC>
+    <WN-3.0-Synset>v155143</WN-3.0-Synset>
+    <PT-Words-Man>subir, aumentar</PT-Words-Man>
+    <PT-Word-Cand>subir, aumentar</PT-Word-Cand>
+    <EN-Gloss>increase in value or to a higher point; "prices climbed steeply"; "the value of our house rose sharply last year"</EN-Gloss>
+    <EN-Words>climb, go up, rise</EN-Words>
+    <PT-Gloss>aumento no valor ou a um ponto mais alto; "os precos subiram vertiginosamente"; "o valor de nossa casa aumentou no ano passado" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>178</BC>
+    <WN-3.0-Synset>v156601</WN-3.0-Synset>
+    <PT-Words-Man>crescer, aumentar</PT-Words-Man>
+    <PT-Word-Cand>aumentar, acrescentar, subir, incrementar</PT-Word-Cand>
+    <EN-Gloss>become bigger or greater in amount; "The amount of work increased"</EN-Gloss>
+    <EN-Words>increase</EN-Words>
+    <PT-Gloss>se tornar maior ou maior em valor; "A quantidade de trabalho cresceu"; </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aumentar, subir, crecer, subir de punto</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>179</BC>
+    <WN-3.0-Synset>n161243</WN-3.0-Synset>
+    <PT-Words-Man>escolha, seleção</PT-Words-Man>
+    <PT-Word-Cand>escolha, eleição, escolha</PT-Word-Cand>
+    <EN-Gloss>the act of choosing or selecting; "your choice of colors was unfortunate"; "you can take your pick"</EN-Gloss>
+    <EN-Words>choice, option, pick, selection</EN-Words>
+    <PT-Gloss>o ato de escolher ou selecionar; "sua escolha de cores foi pouco feliz"; "voce pode fazer sua selecao" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>decisión, elección</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>180</BC>
+    <WN-3.0-Synset>v158222</WN-3.0-Synset>
+    <PT-Words-Man>subir, crescer, aumentar</PT-Words-Man>
+    <PT-Word-Cand>subir, aumentar</PT-Word-Cand>
+    <EN-Gloss>rise in rate or price; "The stock market gained 24 points today"</EN-Gloss>
+    <EN-Words>advance, gain</EN-Words>
+    <PT-Gloss>aumento da taxa ou preço; "o mercado de acoes subiu 24 pontos hoje" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>181</BC>
+    <WN-3.0-Synset>v158503</WN-3.0-Synset>
+    <PT-Words-Man>aumentar, elevar</PT-Words-Man>
+    <PT-Word-Cand>aumentar</PT-Word-Cand>
+    <EN-Gloss>raise the level or amount of something; "raise my salary"; "raise the price of bread"</EN-Gloss>
+    <EN-Words>raise</EN-Words>
+    <PT-Gloss>elevar o nível ou quantidade de algo; "aumentar meu salario"; "elevar o preco do pao" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aumentar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>182</BC>
+    <WN-3.0-Synset>v158804</WN-3.0-Synset>
+    <PT-Words-Man>acumular, conglomerar, amontoar</PT-Words-Man>
+    <PT-Word-Cand>acumular, empilhar, amontoar, juntar em excesso, conglomerar</PT-Word-Cand>
+    <EN-Gloss>collect or gather; "Journals are accumulating in my office"; "The work keeps piling up"</EN-Gloss>
+    <EN-Words>accumulate, amass, conglomerate, cumulate, gather, pile up</EN-Words>
+    <PT-Gloss>acumular ou amontoar; "Revistas estao se acumulando no meu escritorio"; "o trabalho continua aumentando"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>acumular, amontonar, conglomerar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>183</BC>
+    <WN-3.0-Synset>n162632</WN-3.0-Synset>
+    <PT-Words-Man>decisão, resolução</PT-Words-Man>
+    <PT-Word-Cand>resolução, determinação, decisão</PT-Word-Cand>
+    <EN-Gloss>the act of making up your mind about something; "the burden of decision was his"; "he drew his conclusions quickly"</EN-Gloss>
+    <EN-Words>conclusion, decision, determination</EN-Words>
+    <PT-Gloss>o ato de se decidir sobre alguma coisa;"o peso da decisao era dele"; "ele tomou suas decisoes rapidamente"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>determinación, decisión, decisiones, proposito</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>184</BC>
+    <WN-3.0-Synset>n163406</WN-3.0-Synset>
+    <PT-Words-Man>reviravolta, conversão</PT-Words-Man>
+    <PT-Word-Cand>mudança, meia volta</PT-Word-Cand>
+    <EN-Gloss>a major change in attitude or principle or point of view; "an about-face on foreign policy"</EN-Gloss>
+    <EN-Words>about-face, policy change, reversal, volte-face</EN-Words>
+    <PT-Gloss>uma grande mudança de atitude ou princípio ou ponto de vista; "uma reviravolta em politica externa"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>media vuelta</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>185</BC>
+    <WN-3.0-Synset>n163779</WN-3.0-Synset>
+    <PT-Words-Man>designação, nomeacao</PT-Words-Man>
+    <PT-Word-Cand>designação</PT-Word-Cand>
+    <EN-Gloss>the act of putting a person into a non-elective position; "the appointment had to be approved by the whole committee"</EN-Gloss>
+    <EN-Words>appointment, assignment, designation, naming</EN-Words>
+    <PT-Gloss>o ato de colocar uma pessoa em uma posição não-eletiva; "a nomeacao tinha que ser aprovada pelo comite inteiro"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>nombramiento</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>186</BC>
+    <WN-3.0-Synset>v161225</WN-3.0-Synset>
+    <PT-Words-Man>trocar, converter, substituir</PT-Words-Man>
+    <PT-Word-Cand>trocar, permutar</PT-Word-Cand>
+    <EN-Gloss>exchange or replace with another, usually of the same kind or category; "Could you convert my dollars into pounds?"; "He changed his
+    name"; "convert centimeters into inches"; "convert holdings into shares"</EN-Gloss>
+    <EN-Words>change, commute, convert, exchange</EN-Words>
+    <PT-Gloss>troca ou substituição por outra coisa, normalmente da mesma espécie ou categoria; "voce pode converter meus dolares em reais?"; "converta centimetros em polegadas"; "ele mudou seu nome"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>187</BC>
+    <WN-3.0-Synset>v162688</WN-3.0-Synset>
+    <PT-Words-Man>substituir</PT-Words-Man> 
+    <PT-Word-Cand>substituir</PT-Word-Cand>
+    <EN-Gloss>substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected); "He    replaced the old razor blade"; "We need to replace the secretary that left a month ago"; "the insurance will replace the lost income"; "This
+    antique vase can never be replaced"</EN-Gloss>
+    <EN-Words>replace</EN-Words>
+    <PT-Gloss>substituir uma pessoa ou coisa por outra quando a primeira está quebrada ou perdida ou deixou de funcionar ou  render o que se esperava; "ele trocou a gillete por uma nova"; "nos precisamos substituir  a secretrai que se foi no mes passado"; "esse vaso, uma antiguidade, nao pode ser subsitutido" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>reemplazar, sustituir, canjear, remplazar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>188</BC>
+    <WN-3.0-Synset>n165942</WN-3.0-Synset>
+    <PT-Words-Man>passo, movimento</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of deciding to do something; "he didn't make a move to help"; "his first move was to hire a lawyer"</EN-Gloss>
+    <EN-Words>move</EN-Words>
+    <PT-Gloss>o ato de decidir fazer algo, "ele nao deu um passo para ajudar"; "seu primeiro movimento foi contratar um advogado"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>189</BC>
+    <WN-3.0-Synset>n168237</WN-3.0-Synset>
+    <PT-Words-Man>manobra</PT-Words-Man>
+    <PT-Word-Cand>manobra</PT-Word-Cand>
+    <EN-Gloss>a move made to gain a tactical end</EN-Gloss>
+    <EN-Words>maneuver, manoeuvre, tactical maneuver, tactical manoeuvre</EN-Words>
+    <PT-Gloss>um movimento feito para obter um fim tático</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>190</BC>
+    <WN-3.0-Synset>n168658</WN-3.0-Synset>
+    <PT-Words-Man>mudança</PT-Words-Man>
+    <PT-Word-Cand>mudança, realojamentos</PT-Word-Cand>
+    <EN-Gloss>the act of changing your residence or place of business; "they say that three moves equal one fire"</EN-Gloss>
+    <EN-Words>move, relocation</EN-Words>
+    <PT-Gloss>ato de mudar de residência ou local de trabalho; "dizem que tres mudancas correspondem  um incendio"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>reagrupación, mudanza, deslocalización</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>191</BC>
+    <WN-3.0-Synset>n172710</WN-3.0-Synset>
+    <PT-Words-Man>meio, ferramenta, caminho</PT-Words-Man>
+    <PT-Word-Cand>ferramenta, recurso</PT-Word-Cand>
+    <EN-Gloss>how a result is obtained or an end is achieved; "a means of control"; "an example is the best agency of instruction"; "the true way to
+    success"</EN-Gloss>
+    <EN-Words>agency, means, way</EN-Words>
+    <PT-Gloss>como um resultado é obtido ou um fim é alcançado; "um meio de controle"; "um exemplo e' o melhor instrumento de instrucao" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>herramienta, instrumento, utensilio, útil, cintura, instrumento, herramienta</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>192</BC>
+    <WN-3.0-Synset>v169458</WN-3.0-Synset>
+    <PT-Words-Man>trocar, mudar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>change clothes; put on different clothes; "Change before you go to the opera"</EN-Gloss>
+    <EN-Words>change</EN-Words>
+    <PT-Gloss>trocar de roupa; colocar roupas diferentes; "Troque de roupa antes da opera"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>193</BC>
+    <WN-3.0-Synset>v169651</WN-3.0-Synset>
+    <PT-Words-Man lexicalGap=True> mudar_a_magnitude, mudar_de_tamanho</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>change in size or magnitude</EN-Gloss>
+    <EN-Words>change magnitude</EN-Words>
+    <PT-Gloss>mudar em tamanho ou magnitude</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>194</BC>
+    <WN-3.0-Synset>v169806</WN-3.0-Synset>
+    <PT-Words-Man>amenizar</PT-Words-Man>
+    <PT-Word-Cand>modificar, alterar</PT-Word-Cand>
+    <EN-Gloss>make less severe or harsh or extreme; "please modify this letter to make it more polite"; "he modified his views on same-gender  marriage"</EN-Gloss>
+    <EN-Words>modify</EN-Words>
+    <PT-Gloss>tornar coisas menos graves ou menos  severas ou extremas; "por favor modifique essa carta para torna-la mais polida"; "ele mudou suas opinioes sobre casamento de pessoas do mesmo sexo"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>alterar, modificar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>195</BC>
+    <WN-3.0-Synset>v173338</WN-3.0-Synset>
+    <PT-Words-Man>tirar, remover</PT-Words-Man>
+    <PT-Word-Cand>tirar, sacar</PT-Word-Cand>
+    <EN-Gloss>remove something concrete, as by lifting, pushing, or taking off, or remove something abstract; "remove a threat"; "remove a wrapper";
+    "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment"</EN-Gloss>
+    <EN-Words>remove, take away, take, withdraw</EN-Words>
+    <PT-Gloss>remover algo concreto, levantando, empurrando, tirando, ou remover algo abstrato, "remover uma ameaca"; "tirar os pratos sujos da mesa"; "tirar a arma do bolso"; "essa maquina retira calor do ambiente" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sacar, quitar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>196</BC>
+    <WN-3.0-Synset>n180962</WN-3.0-Synset>
+    <PT-Words-Man>escolha, eleição</PT-Words-Man>
+    <PT-Word-Cand>eleição, escolha</PT-Word-Cand>
+    <EN-Gloss>the act of selecting someone or something; the exercise of deliberate choice; "her election of medicine as a profession"</EN-Gloss>
+    <EN-Words>election</EN-Words>
+    <PT-Gloss>o ato de selecionar alguém ou alguma coisa; o exercício da escolha deliberada; "a eleicao de medicina como sua profissao" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>elección</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>197</BC>
+    <WN-3.0-Synset>v177714</WN-3.0-Synset>
+    <PT-Words-Man>limpar, tirar</PT-Words-Man>
+    <PT-Word-Cand>tirar, limpar, lavar</PT-Word-Cand>
+    <EN-Gloss>remove unwanted substances from, such as feathers or pits; "Clean the turkey"</EN-Gloss>
+    <EN-Words>clean, pick</EN-Words>
+    <PT-Gloss>remover substâncias indesejáveis, tais como penas ou carocos; "Limpe o peru"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments> não achei um significado de "pits" que fizesse sentido na frase do Glossvcvp: pit e' caroco de azeitona</Comments>
+  </row>
+  <row>
+    <BC>198</BC>
+    <WN-3.0-Synset>v177861</WN-3.0-Synset>
+    <PT-Words-Man>descascar</PT-Words-Man>
+    <PT-Word-Cand>sacar, limpar</PT-Word-Cand>
+    <EN-Gloss>remove shells or husks from; "clean grain before milling it"</EN-Gloss>
+    <EN-Words>clean</EN-Words>
+    <PT-Gloss>remover conchas ou cascas de alguma coisa; "limpe os graos antes de moe-los"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sacar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>199</BC>
+    <WN-3.0-Synset>v178102</WN-3.0-Synset>
+    <PT-Words-Man>tirar</PT-Words-Man>
+    <PT-Word-Cand>tirar, colher</PT-Word-Cand>
+    <EN-Gloss>remove in small bits; "pick meat from a bone"</EN-Gloss>
+    <EN-Words>pick</EN-Words>
+    <PT-Gloss>remover em pequenos pedaços; "tire a carne da galinha dos ossos e desfie-a"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>200</BC>
+    <WN-3.0-Synset>v178235</WN-3.0-Synset>
+    <PT-Words-Man>tossir, pigarrear</PT-Words-Man> 
+    <PT-Word-Cand>limpar</PT-Word-Cand>
+    <EN-Gloss>free (the throat) by making a rasping sound; "Clear the throat"</EN-Gloss>
+    <EN-Words>clear up, clear</EN-Words>
+    <PT-Gloss>limpar a garganta, fazendo um som áspero; "Limpe a garganta antes de comecar o discurso"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>201</BC>
+    <WN-3.0-Synset>n182213</WN-3.0-Synset>
+    <PT-Words-Man>votação</PT-Words-Man>
+    <PT-Word-Cand>voto, votação</PT-Word-Cand>
+    <EN-Gloss>the opinion of a group as determined by voting; "they put the question to a vote"</EN-Gloss>
+    <EN-Words>vote</EN-Words>
+    <PT-Gloss>a opinião de um grupo, determinado por voto; "eles colocaram a mocao em votacao"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>voto</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>202</BC>
+    <WN-3.0-Synset>v179311</WN-3.0-Synset>
+    <PT-Words-Man>remover, tirar</PT-Words-Man>
+    <PT-Word-Cand>sacar, tirar, retirar</PT-Word-Cand>
+    <EN-Gloss>take out or remove; "take out the chicken after adding the vegetables"</EN-Gloss>
+    <EN-Words>take away, take out</EN-Words>
+    <PT-Gloss>retirar ou remover; "Retire a galinha da sopa depois de adicionar os vegetais"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>sacar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>203</BC>
+    <WN-3.0-Synset>n183505</WN-3.0-Synset>
+    <PT-Words-Man>votação, eleição</PT-Words-Man>
+    <PT-Word-Cand>votação, eleição, votação, escrutínio</PT-Word-Cand>
+    <EN-Gloss>a choice that is made by counting the number of people in favor of each alternative; "there were only 17 votes in favor of the motion";
+    "they allowed just one vote per person"</EN-Gloss>
+    <EN-Words>ballot, balloting, vote, voting</EN-Words>
+    <PT-Gloss>uma escolha que é feita contando o número de pessoas em favor de cada alternativa; "tinhamos 17 votos a favor da moção"; "eles permitiam somente um voto por pessoa"; </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Voto, voto, elección, votación, votacíon, votando</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>204</BC>
+    <WN-3.0-Synset>v180837</WN-3.0-Synset>
+    <PT-Words-Man>limpar</PT-Words-Man>
+    <PT-Word-Cand>limpar</PT-Word-Cand>
+    <EN-Gloss>remove unwanted substances from</EN-Gloss>
+    <EN-Words>clean, scavenge</EN-Words>
+    <PT-Gloss>remover substâncias não desejáveis de alguma coisa</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>205</BC>
+    <WN-3.0-Synset>v181664</WN-3.0-Synset>
+    <PT-Words-Man>limpar,desobstruir</PT-Words-Man>
+    <PT-Word-Cand>retirar</PT-Word-Cand>
+    <EN-Gloss>rid of obstructions; "Clear your desk"</EN-Gloss>
+    <EN-Words>clear, unclutter</EN-Words>
+    <PT-Gloss>livrar-se de obstruçoẽs; "Limpe a sua escrivaninha" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>206</BC>
+    <WN-3.0-Synset>v182406</WN-3.0-Synset>
+    <PT-Words-Man>acrescentar, adicionar, somar</PT-Words-Man>
+    <PT-Word-Cand>acrescentar, juntar, aumentar, ajuntar</PT-Word-Cand>
+    <EN-Gloss>make an addition (to); join, combine or unite with others; increase the quality, quantity, size or scope of; "We added two students
+    to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table"</EN-Gloss>
+    <EN-Words>add</EN-Words>
+    <PT-Gloss >fazer uma adição a; juntar, combinar ou se unir com os outros; aumentar a qualidade, tamanho, quantidade ou extensão de alguma coisa; "nos adicionamos dois alunos a aquele dormitorio"; "ela adicionou uma nota pessao a mensage oficial"; "vamos acrescentar alguns pratos extras a mesa de jantar" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>adicionar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>207</BC>
+    <WN-3.0-Synset>v183879</WN-3.0-Synset>
+    <PT-Words-Man>incluir</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>add as part of something else; put in as part of a set, group, or category; "We must include this chemical element in the group"</EN-Gloss>
+    <EN-Words>include</EN-Words>
+    <PT-Gloss>adicionar como parte de algo mais; encaixar como parte de um conjunto, grupo ou categoria; "nos precisamos incluir esse  elemento quimico no grupo"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>208</BC>
+    <WN-3.0-Synset>v184117</WN-3.0-Synset>
+    <PT-Words-Man>misturar</PT-Words-Man>
+    <PT-Word-Cand>misturar</PT-Word-Cand>
+    <EN-Gloss>add as an additional element or part; "mix water into the drink"</EN-Gloss>
+    <EN-Words>mix in, mix</EN-Words>
+    <PT-Gloss>adicionar como um elemento adicional ou como parte do todo; "misturar agua na bebida"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mezclar</SPA-Words-Sug>
+    <Comments> mudei o Gloss porque achei a discrição muito abstrata, se me precipitei por favor me corrija. vcvp: acho que a sua versao 'e muito especifica, voltei pra deles.</Comments> 
+  </row>
+  <row>
+    <BC>209</BC>
+    <WN-3.0-Synset>n191142</WN-3.0-Synset>
+    <PT-Words-Man>mudança</PT-Words-Man>
+    <PT-Word-Cand>mudança</PT-Word-Cand>
+    <EN-Gloss>the action of changing something; "the change of government had no impact on the economy"; "his change on abortion cost him the    election"</EN-Gloss>
+    <EN-Words>change</EN-Words>
+    <PT-Gloss>o ato de mudar algo; "a mudanca do governo nao teve nenhum impacto na economia"; "suaa mudanca de opiniao sobre a legalizacao do aborto custou-lhe a eleicao"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cambio, modificación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>210</BC>
+    <WN-3.0-Synset>n192613</WN-3.0-Synset>
+    <PT-Words-Man>economia</PT-Words-Man>
+    <PT-Word-Cand>poupança, economia, poupanças</PT-Word-Cand>
+    <EN-Gloss>an act of economizing; reduction in cost; "it was a small economy to walk to work every day"; "there was a saving of 50   cents"</EN-Gloss>
+    <EN-Words>economy, saving</EN-Words>
+    <PT-Gloss>o ato de economizar; reducao de custos; "era uma economia pequena ir ao trabalho todo dia a pe"; "isso era uma poupnaca de 50 centavos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ahorro, economía, ahorro</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>211</BC>
+    <WN-3.0-Synset>v190023</WN-3.0-Synset>
+    <PT-Words-Man>pontuar, marcar_ponto</PT-Words-Man>
+    <PT-Word-Cand>pontilhar, pontuar</PT-Word-Cand>
+    <EN-Gloss>insert punctuation marks into</EN-Gloss>
+    <EN-Words>mark, punctuate</EN-Words>
+    <PT-Gloss>inserir marcas de  pontuação em alguma coisa</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>212</BC>
+    <WN-3.0-Synset>v192051</WN-3.0-Synset>
+    <PT-Words-Man>amortecer, enfraquecer</PT-Words-Man>
+    <PT-Word-Cand>amortecer</PT-Word-Cand>
+    <EN-Gloss>make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation; "Terror blunted her feelings"; "deaden a   sound"</EN-Gloss>
+    <EN-Words>blunt, deaden</EN-Words>
+    <PT-Gloss>tornar menos animada, intensa ou vigorosa qualquer coisa; prejudicar em vigor, força,  atividade ou sensação; "Terror amortizava os sentimentos dela"; "enfraquecer o som"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>amortecer</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>213</BC>
+    <WN-3.0-Synset>v193486</WN-3.0-Synset>
+    <PT-Words-Man>unir, reunir, combinar</PT-Words-Man>
+    <PT-Word-Cand>unir</PT-Word-Cand>
+    <EN-Gloss>put or add together; "combine resources"</EN-Gloss>
+    <EN-Words>combine, compound</EN-Words>
+    <PT-Gloss>colocar junto ou adicionar; "combinar recursos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>adicionar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>214</BC>
+    <WN-3.0-Synset>n198451</WN-3.0-Synset>
+    <PT-Words-Man>promoção, ascenção</PT-Words-Man>
+    <PT-Word-Cand>promoção</PT-Word-Cand>
+    <EN-Gloss>act of raising in rank or position</EN-Gloss>
+    <EN-Words>promotion</EN-Words>
+    <PT-Gloss>ato de crescer em posição ou cargo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>215</BC>
+    <WN-3.0-Synset>v194534</WN-3.0-Synset>
+    <PT-Words-Man>desmantelar, desmanchar</PT-Words-Man> 
+    <PT-Word-Cand />
+    <EN-Gloss>take off or remove; "strip a wall of its wallpaper"</EN-Gloss>
+    <EN-Words>dismantle, strip</EN-Words>
+    <PT-Gloss>retirar ou remover algo de algum lugar; "remover o papel de parede de uma parede"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>216</BC>
+    <WN-3.0-Synset>v194912</WN-3.0-Synset>
+    <PT-Words-Man>desnudar</PT-Words-Man>
+    <PT-Word-Cand>despir</PT-Word-Cand>
+    <EN-Gloss>lay bare; "denude a forest"</EN-Gloss>
+    <EN-Words>bare, denudate, denude, strip</EN-Words>
+    <PT-Gloss>deixar nu; "desnudar a floresta" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>desnudar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>217</BC>
+    <WN-3.0-Synset>n199130</WN-3.0-Synset>
+    <PT-Words-Man>converter, mudança_de_estado</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of changing something into something different in its essential characteristics</EN-Gloss>
+    <EN-Words>change of state</EN-Words>
+    <PT-Gloss>o ato de mudar alguma coisa em algo diferente nas suas características essenciais</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>218</BC>
+    <WN-3.0-Synset>n199707</WN-3.0-Synset>
+    <PT-Words-Man>modificação, alteração, ajuste</PT-Words-Man>
+    <PT-Word-Cand>mudança, modificação, alteração</PT-Word-Cand>
+    <EN-Gloss>the act of making something different (as e.g. the size of a garment)</EN-Gloss>
+    <EN-Words>adjustment, alteration, modification</EN-Words>
+    <PT-Gloss>o ato de mudar algo (como por exemplo o tamanho de uma peça de roupa)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>modificación, cambio, ajuste, alteración, remuda</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>219</BC>
+    <WN-3.0-Synset>v196364</WN-3.0-Synset>
+    <PT-Words-Man>queimar</PT-Words-Man>
+    <PT-Word-Cand>queimar</PT-Word-Cand>
+    <EN-Gloss>burn with heat, fire, or radiation; "The iron burnt a hole in my dress"</EN-Gloss>
+    <EN-Words>burn</EN-Words>
+    <PT-Gloss>queimar com calor, fogo ou radiação; "o ferro queimou um buraco no meu vestido"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>220</BC>
+    <WN-3.0-Synset>n201058</WN-3.0-Synset>
+    <PT-Words-Man>transição, passagem</PT-Words-Man>
+    <PT-Word-Cand>transição</PT-Word-Cand>
+    <EN-Gloss>the act of passing from one state or place to the next</EN-Gloss>
+    <EN-Words>passage, transition</EN-Words>
+    <PT-Gloss>o ato de passar de um estado ou lugar para o outro</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>transición</SPA-Words-Sug>
+    <Comments vcvp:na verdade els dizem  passar de um estado para o proximo, mas isso me parece estranho/>
+  </row>
+  <row>
+    <BC>221</BC>
+    <WN-3.0-Synset>v197590</WN-3.0-Synset>
+    <PT-Words-Man>estripar, extrair_as_entranhas</PT-Words-Man>
+    <PT-Word-Cand>tirar, estripar, sacar</PT-Word-Cand>
+    <EN-Gloss>remove the entrails of; "draw a chicken"</EN-Gloss>
+    <EN-Words>disembowel, draw, eviscerate</EN-Words>
+    <PT-Gloss>remover as entranhas de alguma coisa; "desentranhar uma galinha"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>destripar, desentrañar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>222</BC>
+    <WN-3.0-Synset>n202284</WN-3.0-Synset>
+    <PT-Words-Man>oposição</PT-Words-Man>
+    <PT-Word-Cand>oposição</PT-Word-Cand>
+    <EN-Gloss>the action of opposing something that you disapprove or disagree with; "he encountered a general feeling of resistance from many  citizens"; "despite opposition from the newspapers he went ahead"</EN-Gloss>
+    <EN-Words>opposition, resistance</EN-Words>
+    <PT-Gloss>a ação de se opor a algo que você desaprova ou discorda de; "ele encontrou um sentimento geral de oposição de muitos cidadaos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>oposición, resistencia</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>223</BC>
+    <WN-3.0-Synset>n202816</WN-3.0-Synset>
+    <PT-Words-Man>reação, resistência</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>doing something in opposition to another way of doing it that you don't like; "his style of painting was a reaction against   cubism"</EN-Gloss>
+    <EN-Words>reaction</EN-Words>
+    <PT-Gloss>fazer algo de  forma a se opor a uma outra forma, forma essa que você não gosta; "o estilo dele de pintura era uma reação contra o cubismo"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>224</BC>
+    <WN-3.0-Synset>n203342</WN-3.0-Synset>
+    <PT-Words-Man>rejeição</PT-Words-Man>
+    <PT-Word-Cand>rejeção</PT-Word-Cand>
+    <EN-Gloss>the act of rejecting something; "his proposals were met with rejection"</EN-Gloss>
+    <EN-Words>rejection</EN-Words>
+    <PT-Gloss>o ato de rejeitar algo; "as propostas dele foram recebidas com rejeição" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>225</BC>
+    <WN-3.0-Synset>v199659</WN-3.0-Synset>
+    <PT-Words-Man>retificar, corrigir</PT-Words-Man>
+    <PT-Word-Cand>retificar, emendar</PT-Word-Cand>
+    <EN-Gloss>make right or correct; "Correct the mistakes"; "rectify the calculation"</EN-Gloss>
+    <EN-Words>correct, rectify, right</EN-Words>
+    <PT-Gloss>tornar certo ou corrigir; "Corrija os erros"; "Retifique os calculos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>rectificar, recuperar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>226</BC>
+    <WN-3.0-Synset>v203866</WN-3.0-Synset>
+    <PT-Words-Man>decair, piorar</PT-Words-Man>
+    <PT-Word-Cand>piorar</PT-Word-Cand>
+    <EN-Gloss>grow worse; "Conditions in the slum worsened"</EN-Gloss>
+    <EN-Words>decline, worsen</EN-Words>
+    <PT-Gloss>ficar pior; "As condicoes na favela piorarm"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments> o BC(136) tem o mesmo Gloss desse synset, mas as palavras e os exemplos são diferentes</Comments>
+  </row>
+  <row>
+    <BC>227</BC>
+    <WN-3.0-Synset>v204391</WN-3.0-Synset>
+    <PT-Words-Man>decair, piorar</PT-Words-Man>
+    <PT-Word-Cand>piorar</PT-Word-Cand>
+    <EN-Gloss>get worse; "My grades are slipping"</EN-Gloss>
+    <EN-Words>drop away, drop off, fall away, slip</EN-Words>
+    <PT-Gloss>piorar, decair; "as minhas notas decairam" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments> esse synset tem o Gloss muito parecido com os do BC(226) e BC(136), talvez fosse uma ideia dar uma olhada nesses três e analisar as semelhanças. vcvp: voce tem razao, precisamos verificar as semelhancas, mais tarde.</Comments>
+  </row>
+  <row>
+    <BC>228</BC>
+    <WN-3.0-Synset>v205046</WN-3.0-Synset>
+    <PT-Words-Man>melhorar</PT-Words-Man>
+    <PT-Word-Cand>melhorar, adiantar</PT-Word-Cand>
+    <EN-Gloss>get better; "The weather improved toward evening"</EN-Gloss>
+    <EN-Words>ameliorate, better, improve, meliorate</EN-Words>
+    <PT-Gloss>ficar melhor; "o tempo melhorou no final da tarde"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mejorar, corregir, potenciar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>229</BC>
+    <WN-3.0-Synset>v205885</WN-3.0-Synset>
+    <PT-Words-Man>melhorar, aperfeiçoar</PT-Words-Man>
+    <PT-Word-Cand>melhorar, emendar, aperfeiçoar</PT-Word-Cand>
+    <EN-Gloss>to make better; "The editor improved the manuscript with his changes"</EN-Gloss>
+    <EN-Words>ameliorate, amend, better, improve, meliorate</EN-Words>
+    <PT-Gloss>fazer melhor, aperfeiçoar; "O editor melhorou o manuscrito com sua mudancas" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mejorar, cambiar, corregir, rectificar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>230</BC>
+    <WN-3.0-Synset>n209943</WN-3.0-Synset>
+    <PT-Words-Man>conclusão, termino</PT-Words-Man>
+    <PT-Word-Cand>conclusão, aborto, terminação</PT-Word-Cand>
+    <EN-Gloss>the act of ending something; "the termination of the agreement"</EN-Gloss>
+    <EN-Words>conclusion, ending, termination</EN-Words>
+    <PT-Gloss>o ato de terminar algo; "o termino do contrato" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>terminación, conclusión, terminacion</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>231</BC>
+    <WN-3.0-Synset>v208055</WN-3.0-Synset>
+    <PT-Words-Man>resolver, chegar_a_acordo, acordar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>settle or put right; "we need to iron out our disagreements"</EN-Gloss>
+    <EN-Words>iron out, put right, straighten out</EN-Words>
+    <PT-Gloss>resolver ou acordar; "nos precisamos resolver nossas diferencas"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>232</BC>
+    <WN-3.0-Synset>v208210</WN-3.0-Synset>
+    <PT-Words-Man>agravar</PT-Words-Man>
+    <PT-Word-Cand>piorar, exasperar, agravar, exacerbar</PT-Word-Cand>
+    <EN-Gloss>make worse; "This drug aggravates the pain"</EN-Gloss>
+    <EN-Words>aggravate, exacerbate, exasperate, worsen</EN-Words>
+    <PT-Gloss>fazer piorar; "esse remedio piora a dor"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>agravar, exacerbar, empeorar, endiñar, recrudecer, avivar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>233</BC>
+    <WN-3.0-Synset>v212414</WN-3.0-Synset>
+    <PT-Words-Man>preservar, conservar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>prevent (food) from rotting; "preserved meats"; "keep potatoes fresh"</EN-Gloss>
+    <EN-Words>keep, preserve</EN-Words>
+    <PT-Gloss>impedir (alimentos) de apodrecer; "carnes conservadas", "mantenha as batatas"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>234</BC>
+    <WN-3.0-Synset>n216174</WN-3.0-Synset>
+    <PT-Words-Man>demissão</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the termination of someone's employment (leaving them free to depart)</EN-Gloss>
+    <EN-Words>discharge, dismissal, dismission, firing, liberation, release, sack, sacking</EN-Words>
+    <PT-Gloss>o término do emprego de alguém (deixando-o livre para sair)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>liberación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>235</BC>
+    <WN-3.0-Synset>n217014</WN-3.0-Synset>
+    <PT-Words-Man>destruição, devastação</PT-Words-Man>
+    <PT-Word-Cand>destruição, devastação</PT-Word-Cand>
+    <EN-Gloss>the termination of something by causing so much damage to it that it cannot be repaired or no longer exists</EN-Gloss>
+    <EN-Words>destruction, devastation</EN-Words>
+    <PT-Gloss>o término de algo de tal forma que esse algo foi tão danificado que não pode ser mais consertado e nem pode mais existir</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>destrucción, destrozo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>236</BC>
+    <WN-3.0-Synset>v213794</WN-3.0-Synset>
+    <PT-Words-Man>enlatar, pôr_em_conserva</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>preserve in a can or tin; "tinned foods are not very tasty"</EN-Gloss>
+    <EN-Words>can, put up, tin</EN-Words>
+    <PT-Gloss>preservar em lata; "comida enlatada nao e' muito saborosa"</PT-Gloss> 
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>enlatar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>237</BC>
+    <WN-3.0-Synset>v214951</WN-3.0-Synset>
+    <PT-Words-Man>molhar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>cause to become wet; "Wet your face"</EN-Gloss>
+    <EN-Words>wet</EN-Words>
+    <PT-Gloss>causar de se tornar  molhado; "Molhe o seu rosto"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mojar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>238</BC>
+    <WN-3.0-Synset>n219012</WN-3.0-Synset>
+    <PT-Words-Man>homicídio, assassinato</PT-Words-Man>
+    <PT-Word-Cand>homicídio, matança</PT-Word-Cand>
+    <EN-Gloss>the act of terminating a life</EN-Gloss>
+    <EN-Words>kill, killing, putting to death</EN-Words>
+    <PT-Gloss>o ato de terminar  uma vida</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>homicidio, asesinato, matanza</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>239</BC>
+    <WN-3.0-Synset>n220522</WN-3.0-Synset>
+    <PT-Words-Man>assassinato, homicídio_doloso</PT-Words-Man>
+    <PT-Word-Cand>homicídio, homicídio, assassínio</PT-Word-Cand>
+    <EN-Gloss>unlawful premeditated killing of a human being by a human being</EN-Gloss>
+    <EN-Words>execution, murder, slaying</EN-Words>
+    <PT-Gloss> homicídio ilegal e premeditado de um ser humano por outro ser humano</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>asesinato, asesinato, homicidio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>240</BC>
+    <WN-3.0-Synset>v217152</WN-3.0-Synset>
+    <PT-Words-Man>inundar</PT-Words-Man>
+    <PT-Word-Cand>inundar</PT-Word-Cand>
+    <EN-Gloss>cover with liquid, usually water; "The swollen river flooded the village"; "The broken vein had flooded blood in her eyes"</EN-Gloss>
+    <EN-Words>flood</EN-Words>
+    <PT-Gloss>cobrir de líquido, normalmente água; "O rio transbordou e inundou a vila"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>241</BC>
+    <WN-3.0-Synset>v218330</WN-3.0-Synset>
+    <PT-Words-Man>ressecar, estorricar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>cause to wither or parch from exposure to heat; "The sun parched the earth"</EN-Gloss>
+    <EN-Words>parch, sear</EN-Words>
+    <PT-Gloss>causa de murchar e ressecar por exposição ao calor; "O sol ressecou a terra"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>resecar, chamuscar, agostar, abrasar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>242</BC>
+    <WN-3.0-Synset>v218475</WN-3.0-Synset>
+    <PT-Words-Man>secar</PT-Words-Man>
+    <PT-Word-Cand>secar</PT-Word-Cand>
+    <EN-Gloss>remove the moisture from and make dry; "dry clothes"; "dry hair"</EN-Gloss>
+    <EN-Words>dry out, dry</EN-Words>
+    <PT-Gloss>remover a umidade e tornar seco; "roupas secas"; "cabelo seco"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>secar, limpiar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>243</BC>
+    <WN-3.0-Synset>v219403</WN-3.0-Synset>
+    <PT-Words-Man>secar</PT-Words-Man> 
+    <PT-Word-Cand />
+    <EN-Gloss>become dry or drier; "The laundry dries in the sun"</EN-Gloss>
+    <EN-Words>dry out, dry</EN-Words>
+    <PT-Gloss>ficar seco ou mais seco; "as roupas secam ao sol" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>244</BC>
+    <WN-3.0-Synset>v220869</WN-3.0-Synset>
+    <PT-Words-Man>fortalecer, fortificar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>make strong or stronger; "This exercise will strengthen your upper body"; "strengthen the relations between the two countries"</EN-Gloss>
+    <EN-Words>beef up, fortify, strengthen</EN-Words>
+    <PT-Gloss>fazer forte ou mais forte; "esse exercicio vai fortalecer o seu torso"; "fortalecer as relacoes entre os dois paises"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>reforzar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>245</BC>
+    <WN-3.0-Synset>v224901</WN-3.0-Synset>
+    <PT-Words-Man>enfraquecer, amortecer</PT-Words-Man>
+    <PT-Word-Cand>debilitar, enfraqueça-se</PT-Word-Cand>
+    <EN-Gloss>lessen the strength of; "The fever weakened his body"</EN-Gloss>
+    <EN-Words>weaken</EN-Words>
+    <PT-Gloss>diminuir a força de alguem; "a febre enfraqueceu seu corpo" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>debilitar, atenuar, suavizar, flaquear</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>246</BC>
+    <WN-3.0-Synset>n230172</WN-3.0-Synset>
+    <PT-Words-Man>desaparecimento</PT-Words-Man>
+    <PT-Word-Cand>desaparecimento</PT-Word-Cand>
+    <EN-Gloss>gradually ceasing to be visible</EN-Gloss>
+    <EN-Words>disappearance, fade</EN-Words>
+    <PT-Gloss>deixar de ser visível gradualmente</PT-Gloss> 
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>desvanecimiento</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>247</BC>
+    <WN-3.0-Synset>v226566</WN-3.0-Synset>
+    <PT-Words-Man>intensificar</PT-Words-Man>
+    <PT-Word-Cand>aumentar</PT-Word-Cand>
+    <EN-Gloss>become more intense; "The debate intensified"; "His dislike for raw fish only deepened in Japan"</EN-Gloss>
+    <EN-Words>deepen, intensify</EN-Words>
+    <PT-Gloss>tornar mais intenso; "o debate se intensificou"; "seu nao gostar de peixe cru so se intensificou no Japao"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>248</BC>
+    <WN-3.0-Synset>n231567</WN-3.0-Synset>
+    <PT-Words-Man>anulaçao</PT-Words-Man>
+    <PT-Word-Cand>anulação</PT-Word-Cand>
+    <EN-Gloss>the act of nullifying; making null and void; counteracting or overriding the effect or force of something</EN-Gloss>
+    <EN-Words>nullification, override</EN-Words>
+    <PT-Gloss>o ato de anular; tornar nulo e sem efeito; neutralizar ou transpor o efeito ou a força de algo\uma coisa</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>anulación, cancelación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>249</BC>
+    <WN-3.0-Synset>n232386</WN-3.0-Synset>
+    <PT-Words-Man>cancelamento</PT-Words-Man>
+    <PT-Word-Cand>anulação, cancelamento</PT-Word-Cand>
+    <EN-Gloss>the act of cancelling; calling off some arrangement</EN-Gloss>
+    <EN-Words>cancellation</EN-Words>
+    <PT-Gloss>o ato de cancelar; desmarcar um compromisso </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>anulación, borradura</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>250</BC>
+    <WN-3.0-Synset>n234892</WN-3.0-Synset>
+    <PT-Words-Man>reversão, inversão</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>a change from one state to the opposite state; "there was a reversal of autonomic function"</EN-Gloss>
+    <EN-Words>reversal</EN-Words>
+    <PT-Gloss>uma mudança de um estado para um estado oposto; "existiu uma reversao de uma funcao autonomica"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>reversion</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>251</BC>
+    <WN-3.0-Synset>v230746</WN-3.0-Synset>
+    <PT-Words-Man>aumentar, crescer</PT-Words-Man>
+    <PT-Word-Cand>aumentar, crescer</PT-Word-Cand>
+    <EN-Gloss>become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast"</EN-Gloss>
+    <EN-Words>grow</EN-Words>
+    <PT-Gloss>ficar maior, mais largo; expandir ou ganhar; "O problema cresceu demais pra mim"; "O negocio dela aumentou rapidamente" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aumentar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>252</BC>
+    <WN-3.0-Synset>n235435</WN-3.0-Synset>
+    <PT-Words-Man>começo, princípio </PT-Words-Man>
+    <PT-Word-Cand>começo, princípio, início</PT-Word-Cand>
+    <EN-Gloss>the act of starting something; "he was responsible for the beginning of negotiations"</EN-Gloss>
+    <EN-Words>beginning, commencement, start</EN-Words>
+    <PT-Gloss>o ato de começar algo; "ele foi responsavel pelo princípio das negociacoes" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>principio</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>253</BC>
+    <WN-3.0-Synset>v231557</WN-3.0-Synset>
+    <PT-Words-Man>crescer</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>increase in size by natural process; "Corn doesn't grow here"; "In these forests, mushrooms grow under the trees"; "her hair doesn't  grow much anymore"</EN-Gloss>
+    <EN-Words>grow</EN-Words>
+    <PT-Gloss>aumentar de tamanho por processo natural; "Milho nas cresce aqui"; "Nessas florestas os cogumelos crescem sob as arvors"; "O cabelo dela nao cresce muito mais"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>254</BC>
+    <WN-3.0-Synset>n237078</WN-3.0-Synset>
+    <PT-Words-Man>estabelecimento, constituição, organização</PT-Words-Man>
+    <PT-Word-Cand>organização, Constituição, Constituições, formação, estabelecimento, fundação</PT-Word-Cand>
+    <EN-Gloss>the act of forming or establishing something; "the constitution of a PTA group last year"; "it was the establishment of his  reputation"; "he still remembers the organization of the club"</EN-Gloss>
+    <EN-Words>constitution, establishment, formation, organisation, organization</EN-Words>
+    <PT-Gloss>o ato de formar ou estabelecer alguma coisa; "a constituição de uma associacao de pais e professores"; "foi o estabelecimento da sua reputacao"; " ele ainda se lembra da organização do clube"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>Constitución, Constitucion, Constituciones, constitución, establecimiento</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>255</BC>
+    <WN-3.0-Synset>v233335</WN-3.0-Synset>
+    <PT-Words-Man>limitar, restringir</PT-Words-Man>
+    <PT-Word-Cand>limitar, restringir</PT-Word-Cand>
+    <EN-Gloss>place limits on (extent or access); "restrict the use of this parking lot"; "limit the time you can spend with your friends"</EN-Gloss>
+    <EN-Words>bound, confine, limit, restrain, restrict, throttle, trammel</EN-Words>
+    <PT-Gloss>estabelecer limites em (alcance ou acesso); "vamos restringir o uso desse estacionamento"; "Limite o tempo que voce pode gastar com seus amigos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>limitar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>256</BC>
+    <WN-3.0-Synset>v234725</WN-3.0-Synset>
+    <PT-Words-Man>delimitar, marcar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>set boundaries to and delimit; "mark out the territory"</EN-Gloss>
+    <EN-Words>mark off, mark out</EN-Words>
+    <PT-Gloss>estabelecer barreiras e delimitaçoes; "marque o territorio"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments vcvp: nao sei se esse funciona em portugues/>
+  </row>
+  <row>
+    <BC>257</BC>
+    <WN-3.0-Synset>v235368</WN-3.0-Synset>
+    <PT-Words-Man>restringir, limitar</PT-Words-Man>
+    <PT-Word-Cand>limitar, demarcar</PT-Word-Cand>
+    <EN-Gloss>restrict or confine, "I limit you to two visits to the pub a day"</EN-Gloss>
+    <EN-Words>circumscribe, confine, limit</EN-Words>
+    <PT-Gloss>restringir ou confinar; "Eu vou limitar as suas visitar ao bar"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>circunscribir, limitar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>258</BC>
+    <WN-3.0-Synset>v236999</WN-3.0-Synset>
+    <PT-Words-Man>reduzir, ferver</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>cook until very little liquid is left; "The cook reduced the sauce by boiling it for a long time"</EN-Gloss>
+    <EN-Words>boil down, concentrate, reduce</EN-Words>
+    <PT-Gloss>cozinhar até restar muito pouco de líquido; "o chef reduziu o molho, fervendo-o por muito tempo"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>259</BC>
+    <WN-3.0-Synset>v237259</WN-3.0-Synset>
+    <PT-Words-Man>diminuir</PT-Words-Man> 
+    <PT-Word-Cand>diminuir</PT-Word-Cand>
+    <EN-Gloss>be cooked until very little liquid is left; "The sauce should reduce to one cup"</EN-Gloss>
+    <EN-Words>boil down, concentrate, decoct, reduce</EN-Words>
+    <PT-Gloss>diminuir o liquido,  cozinhando até que muito pouco de líquido  reste; "o molho de ser reduzido a uma xicara"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mermar, disminuir</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>260</BC>
+    <WN-3.0-Synset>v237877</WN-3.0-Synset>
+    <PT-Words-Man>desoxidar</PT-Words-Man>
+    <PT-Word-Cand>desoxidar</PT-Word-Cand>
+    <EN-Gloss>to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of
+    electrons</EN-Gloss>
+    <EN-Words>deoxidise, deoxidize, reduce</EN-Words>
+    <PT-Gloss>remover oxigênio de um composto, ou causar a reação com hidrogênio ou formar um hidreto, ou sofrer um aumento no número de elétrons</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>desoxidar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>261</BC>
+    <WN-3.0-Synset>n243918</WN-3.0-Synset>
+    <PT-Words-Man>preparação, cozinha, culinária</PT-Words-Man>
+    <PT-Word-Cand>cozinha, Culinária, cozedura, culinária</PT-Word-Cand>
+    <EN-Gloss>the act of preparing something (as food) by the application of heat; "cooking can be a great art"; "people are needed who have    experience in cookery"; "he left the preparation of meals to his wife"</EN-Gloss>
+    <EN-Words>cookery, cooking, preparation</EN-Words>
+    <PT-Gloss>o ato de preparar alguma coisa (como comida) pela aplicação de calor; "Cozinha 'e uma arte"; "PRecisamos de pessoas com experiencia de culinaria"; "Ele deixava a preparacao das refeicoes para sua esposa"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>cocina, Coccion, Cocina, cocción, arte culinario, gastronomía, cocción</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>262</BC>
+    <WN-3.0-Synset>v240571</WN-3.0-Synset>
+    <PT-Words-Man>encolher, murchar</PT-Words-Man>
+    <PT-Word-Cand>diminuir, minguar, encolher, contrair</PT-Word-Cand>
+    <EN-Gloss>become smaller or draw together; "The fabric shrank"; "The balloon shrank"</EN-Gloss>
+    <EN-Words>contract, shrink</EN-Words>
+    <PT-Gloss>ficar menor ou contrair; "o tecido encolheu"; "o balao murchou"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mermar, menguar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>263</BC>
+    <WN-3.0-Synset>v241038</WN-3.0-Synset>
+    <PT-Words-Man>diminuir, reduzir, ficar_menor</PT-Words-Man>
+    <PT-Word-Cand>diminuir, contrair, encolher</PT-Word-Cand>
+    <EN-Gloss>reduce in size; reduce physically; "Hot water will shrink the sweater"; "Can you shrink this image?"</EN-Gloss>
+    <EN-Words>reduce, shrink</EN-Words>
+    <PT-Gloss>reduzir em tamanho; reduzir fisicamente; "Agua quente vai encolher o casaco de la"; "voce pode diminuir essa imagem?"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mermar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>264</BC>
+    <WN-3.0-Synset>v241689</WN-3.0-Synset>
+    <PT-Words-Man>murchar, enrugar</PT-Words-Man>
+    <PT-Word-Cand>murchar, encarquilhar-se, engelhar, enrugar-se</PT-Word-Cand>
+    <EN-Gloss>wither, as with a loss of moisture; "The fruit dried and shriveled"</EN-Gloss>
+    <EN-Words>shrink, shrivel up, shrivel, wither</EN-Words>
+    <PT-Gloss>murchar, por causa da  perda de umidade; "a fruta murchou e enrugou-se"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mermar, marchitar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>265</BC>
+    <WN-3.0-Synset>a2100031</WN-3.0-Synset>
+    <PT-Words-Man lexicalGap=True> o Pai</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>used of the older of two persons of the same name especially used to distinguish a father from his son; "Bill Adams, Sr."</EN-Gloss>
+    <EN-Words>elder, older, sr.</EN-Words>
+    <PT-Gloss>utilizado quando no nos referimos ao mais velho de duas pessoas com o mesmo nome, em especial usado para distinguir um pai de seu filho; "Afonso de Gusmao, o pai"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>más viejo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>266</BC>
+    <WN-3.0-Synset>v243900</WN-3.0-Synset>
+    <PT-Words-Man>resumir, condensar, abreviar</PT-Words-Man>
+    <PT-Word-Cand>abreviar, encurtar, condensar, contrair, resumir, encolher, restringir</PT-Word-Cand>
+    <EN-Gloss>reduce in scope while retaining essential elements; "The manuscript must be shortened"</EN-Gloss>
+    <EN-Words>abbreviate, abridge, contract, cut, foreshorten, reduce, shorten</EN-Words>
+    <PT-Gloss> reduzir em âmbito mantendo os elementos essenciais; "O manuscrito precisa ser condensado"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>abreviar, acortar, resumir, compendiar, condensar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>267</BC>
+    <WN-3.0-Synset>n248977</WN-3.0-Synset>
+    <PT-Words-Man>melhoramento, melhoria</PT-Words-Man>
+    <PT-Word-Cand>melhoramento, melhora</PT-Word-Cand>
+    <EN-Gloss>the act of improving something; "their improvements increased the value of the property"</EN-Gloss>
+    <EN-Words>improvement</EN-Words>
+    <PT-Gloss>o ato de melhorar algo; "as melhorias que eles fizeram aumentaram o valor da propriedade"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mejora</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>268</BC>
+    <WN-3.0-Synset>v245059</WN-3.0-Synset>
+    <PT-Words-Man>diminuir, amenizar</PT-Words-Man>
+    <PT-Word-Cand>diminuir, minguar, reduzir, enfraquecer</PT-Word-Cand>
+    <EN-Gloss>become less in amount or intensity; "The storm abated"; "The rain let up after a few hours"</EN-Gloss>
+    <EN-Words>abate, die away, let up, slack off, slack</EN-Words>
+    <PT-Gloss>tornar-se menor, quantitativamente  ou em intensidade; "A tempestated diminuiu"; "A chuva enfraqueceu depois de algumas horas" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>mermar, disminuir, menguar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>269</BC>
+    <WN-3.0-Synset>n250259</WN-3.0-Synset>
+    <PT-Words-Man>desenvolvimento</PT-Words-Man>
+    <PT-Word-Cand>desenvolvimento, desenvolução</PT-Word-Cand>
+    <EN-Gloss>act of improving by expanding or enlarging or refining; "he congratulated them on their development of a plan to meet the emergency";
+    "they funded research and development"</EN-Gloss>
+    <EN-Words>development</EN-Words>
+    <PT-Gloss>ato de melhoria através da expansão ou ampliação ou refinação de alguma coisa; "ele congratulou-os no desenvolvimento de um plano para lidar com a emergencia"; "eles patrocinam pesquisa e desenvolvimento"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>desarrollo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>270</BC>
+    <WN-3.0-Synset>n251013</WN-3.0-Synset>
+    <PT-Words-Man>limpeza</PT-Words-Man>
+    <PT-Word-Cand>limpeza, limpeza (desinfecção)</PT-Word-Cand>
+    <EN-Gloss>the act of making something clean; "he gave his shoes a good cleaning"</EN-Gloss>
+    <EN-Words>cleaning, cleansing, cleanup</EN-Words>
+    <PT-Gloss>o ato de fazer algo ficar limpo; "Ele fez uma limpeza boa no seus sapatos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>limpieza, limpia, aseo</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>271</BC>
+    <WN-3.0-Synset>v248659</WN-3.0-Synset>
+    <PT-Words-Man>progredir, avançar</PT-Words-Man>
+    <PT-Word-Cand>progredir, dar-se bem, entender-se</PT-Word-Cand>
+    <EN-Gloss>develop in a positive way; "He progressed well in school"; "My plants are coming along"; "Plans are shaping up"</EN-Gloss>
+    <EN-Words>advance, come along, come on, get along, get on, progress, shape up</EN-Words>
+    <PT-Gloss>desenvolver de uma forma positiva; "ele proegrediu bem na escola"; "minhas plantas estao se desenvolvendo bem"; "os planos estao avancando"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>progresar, llevarse bien</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>272</BC>
+    <WN-3.0-Synset>v249852</WN-3.0-Synset>
+    <PT-Words-Man>amadurecer</PT-Words-Man>
+    <PT-Word-Cand>amadurecer, madurar</PT-Word-Cand>
+    <EN-Gloss>grow ripe; "The plums ripen in July"</EN-Gloss>
+    <EN-Words>ripen</EN-Words>
+    <PT-Gloss>ficar maduro (alimentos); "As ameixas amadurecem em julho"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>madurar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>273</BC>
+    <WN-3.0-Synset>v250181</WN-3.0-Synset>
+    <PT-Words-Man>amadurecer</PT-Words-Man>
+    <PT-Word-Cand>amadurecer</PT-Word-Cand>
+    <EN-Gloss>develop and reach maturity; undergo maturation; "He matured fast"; "The child grew fast"</EN-Gloss>
+    <EN-Words>grow, maturate, mature</EN-Words>
+    <PT-Gloss>desenvolver e atingir a maturidade; ficar maduro; "Ele amadureceu rapidamente"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>274</BC>
+    <WN-3.0-Synset>v251064</WN-3.0-Synset>
+    <PT-Words-Man>evoluir, desenvolver</PT-Words-Man>
+    <PT-Word-Cand>evolucionar, evoluir, desenvolver-se</PT-Word-Cand>
+    <EN-Gloss>undergo development or evolution; "Modern man evolved a long time ago"</EN-Gloss>
+    <EN-Words>evolve</EN-Words>
+    <PT-Gloss>sofrer desenvolvimento ou evolução; "O homem moderno evoluiu ha muitos anos atras"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>275</BC>
+    <WN-3.0-Synset>v252019</WN-3.0-Synset>
+    <PT-Words-Man>desenvolver, progredir</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A  flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time"</EN-Gloss>
+    <EN-Words>develop</EN-Words>
+    <PT-Gloss>crescer, progredir, se desdobrar, ou passar por  um processo de evolução, o crescimento natural, a diferenciação, ou um ambiente propício; "a flor se desenvolve no ramo"; "o pai se desenvolver numa superpotencia" ; "essa situacao se desenvolveu durante um longo periodo de tempo"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>276</BC>
+    <WN-3.0-Synset>n258854</WN-3.0-Synset>
+    <PT-Words-Man>retificação, correção</PT-Words-Man>
+    <PT-Word-Cand>rectificação, retificação, correção</PT-Word-Cand>
+    <EN-Gloss>the act of offering an improvement to replace a mistake; setting right</EN-Gloss>
+    <EN-Words>correction, rectification</EN-Words>
+    <PT-Gloss>o ato de oferecer uma melhoria para substituir um erro; endireitar</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>rectificación, rectificacion</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>277</BC>
+    <WN-3.0-Synset>v256507</WN-3.0-Synset>
+    <PT-Words-Man>inchar</PT-Words-Man>
+    <PT-Word-Cand>inchar</PT-Word-Cand>
+    <EN-Gloss>expand abnormally; "The bellies of the starving children are swelling"</EN-Gloss>
+    <EN-Words>intumesce, swell up, swell, tumefy, tumesce</EN-Words>
+    <PT-Gloss>expendir de forma anormal; "As barrigas das criancas sub-nutridas sao inchadas"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>278</BC>
+    <WN-3.0-Synset>n260622</WN-3.0-Synset>
+    <PT-Words-Man>reforma, mudança_para_melhor</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>a change for the better as a result of correcting abuses; "justice was for sale before the reform of the law courts"</EN-Gloss>
+    <EN-Words>reform</EN-Words>
+    <PT-Gloss>mudança para melhor como resulatdo da correção de abusos; "a justica era  vendida antes da reforma das cortes de leis"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>reforma</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>279</BC>
+    <WN-3.0-Synset>v257269</WN-3.0-Synset>
+    <PT-Words-Man>expandir</PT-Words-Man>
+    <PT-Word-Cand>inchar, aumentar</PT-Word-Cand>
+    <EN-Gloss>become larger in size or volume or quantity; "his business expanded rapidly"</EN-Gloss>
+    <EN-Words>expand</EN-Words>
+    <PT-Gloss>ficar maior em tamanho, volume ou quantidade; "o negocio dele se expandiu rapidamente"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>hincharse</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>280</BC>
+    <WN-3.0-Synset>n262249</WN-3.0-Synset>
+    <PT-Words-Man>decoração</PT-Words-Man>
+    <PT-Word-Cand>decoração, ornamento</PT-Word-Cand>
+    <EN-Gloss>the act of decorating something (in the hope of making it more attractive)</EN-Gloss>
+    <EN-Words>decoration</EN-Words>
+    <PT-Gloss>o ato de decorar algo, na esperanca de faze-lo mais atrativo</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>decoración</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>281</BC>
+    <WN-3.0-Synset>v258857</WN-3.0-Synset>
+    <PT-Words-Man>danificar, avariar, deteriorar</PT-Words-Man>
+    <PT-Word-Cand>deteriorar, danificar, avariar, arruinar</PT-Word-Cand>
+    <EN-Gloss>inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree"</EN-Gloss>
+    <EN-Words>damage</EN-Words>
+    <PT-Gloss>infligir dano; "A neve danificou o teto"; "Ela danificou o carro quando bateu na arvore" </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>estropear, menoscabar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>282</BC>
+    <WN-3.0-Synset>n262743</WN-3.0-Synset>
+    <PT-Words-Man />
+    <PT-Word-Cand>decoração, ornamento</PT-Word-Cand>
+    <EN-Gloss>the act of adding extraneous decorations to something</EN-Gloss>
+    <EN-Words>embellishment, ornamentation</EN-Words>
+    <PT-Gloss>o ato de adicionar decoracoes a alguma coisa </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>ornamentación, decoración, adorno</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>283</BC>
+    <WN-3.0-Synset>v260648</WN-3.0-Synset>
+    <PT-Words-Man>consertar, emendar</PT-Gloss> 
+    <PT-Word-Cand>consertar, emendar, arreglar</Pt-Word-Cand>
+    <EN-Gloss>restore by replacing a part or putting together what is torn or broken; "She repaired her TV set"; "Repair my shoes please"</EN-Gloss>
+    <EN-Words>bushel, doctor, fix, furbish up, mend, repair, restore, touch on</EN-Words>
+    <PT-Gloss> Restaurar, substituindo uma parte ou consertando o que estava quebrado ou rasgado; "ela consertou a televisao"; "Conserte os meus sapatos, por favor" </PT-Gloss> 
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>aparear</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>284</BC>
+    <WN-3.0-Synset>v262703</WN-3.0-Synset>
+    <PT-Words-Man >consertar, remendar</PT-Gloss> 
+    <PT-Word-Cand>consertar, remendar</PT-Word-Cand>
+    <EN-Gloss>mend by putting a patch on; "patch a hole"</EN-Gloss>
+    <EN-Words>patch up, patch</EN-Words>
+    <PT-Gloss> Consertar colocando um remendo; "remendar um buraco".</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>remendar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>285</BC>
+    <WN-3.0-Synset>n266806</WN-3.0-Synset>
+    <PT-Words-Man>reparação,   conserto</PT-Word-Man> 
+    <PT-Word-Cand>reparação, indemnização, indenização, conserto</PT-Word-Cand>
+    <EN-Gloss>the act of putting something in working order again</EN-Gloss>
+    <EN-Words>fix, fixing, fixture, mend, mending, repair, reparation</EN-Words>
+    <PT-Gloss> O ato de colocar alguma coisa em ordem de novo </PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>reparación, accesorios</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>286</BC>
+    <WN-3.0-Synset>v264034</WN-3.0-Synset>
+    <PT-Words-Man> inchar, inflar </PT-Words-Man> 
+    <PT-Word-Cand>inchar, inflar</PT-Word-Cand>
+    <EN-Gloss>fill with gas or air; "inflate a balloons"</EN-Gloss>
+    <EN-Words>blow up, inflate</EN-Words>
+    <PT-Gloss> Encher de gas ou ar; "Encher os baloes"  </PT-Gloss> 
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>287</BC>
+    <WN-3.0-Synset>n271263</WN-3.0-Synset>
+     <PT-Words-Man>degradação</PT-Words-Man>
+    <PT-Word-Cand>degradação</PT-Word-Cand>
+    <EN-Gloss>changing to a lower state (a less respected state)</EN-Gloss>
+    <EN-Words>debasement, degradation</EN-Words>
+    <PT-Gloss>mudança para uma situação inferior (uma situação menos respeitada)</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>degradación</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>288</BC>
+    <WN-3.0-Synset>n272713</WN-3.0-Synset>
+     <PT-Words-Man>desmoralização</PT-Words-Man>
+    <PT-Word-Cand>desmoralização</PT-Word-Cand>
+    <EN-Gloss>destroying the moral basis for a doctrine or policy</EN-Gloss>
+    <EN-Words>demoralisation, demoralization</EN-Words>
+     <PT-Gloss>destruição da base moral, por uma doutrina ou política</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>desmoralización</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>289</BC>
+    <WN-3.0-Synset>v270561</WN-3.0-Synset>
+    <PT-Words-Man> melhorar</PT-Words-Man>
+    <PT-Word-Cand>melhorar</PT-Word-Cand>
+    <EN-Gloss>heal or recover; "My broken leg is mending"</EN-Gloss>
+    <EN-Words>heal, mend</EN-Words>
+     <PT-Gloss>curar ou recuperar;"minha perda quebrada esta melhorando"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>290</BC>
+    <WN-3.0-Synset>v271946</WN-3.0-Synset>
+     <PT-Words-Man>estabilizar-se, firmar</PT-Words-Man>
+    <PT-Word-Cand>estabilizar-se, estabilizar</PT-Word-Cand>
+    <EN-Gloss>become stable or more stable; "The economy stabilized"</EN-Gloss>
+    <EN-Words>stabilise, stabilize</EN-Words>
+     <PT-Gloss>ficar estável ou mais estável; "A economia estabilizou-se"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>estabilizar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>291</BC>
+    <WN-3.0-Synset>n276620</WN-3.0-Synset>
+    <PT-Words-Man>contaminação</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>the act of soiling something</EN-Gloss>
+    <EN-Words>dirtying, soiling, soilure</EN-Words>
+    <PT-Gloss>o ato de sujar alguma coisa</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>contaminación, embrutecimiento</SPA-Words-Sug>
+    <Comments> não soube achar uma palavra que se encaixe. vcvp: acho que contaminacao funciona bem.</Comments>
+  </row>
+  <row>
+    <BC>292</BC>
+    <WN-3.0-Synset>n276987</WN-3.0-Synset>
+    <PT-Words-Man>contaminação, poluição</PT-Words-Man>
+    <PT-Word-Cand>contaminação, poluição</PT-Word-Cand>
+    <EN-Gloss>the act of contaminating or polluting; including (either intentionally or accidentally) unwanted substances or factors</EN-Gloss>
+    <EN-Words>contamination, pollution</EN-Words>
+     <PT-Gloss>o ato de contaminar ou poluir, incluindo poluicao acidental ou intencional</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>contaminación, polución</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>293</BC>
+    <WN-3.0-Synset>v273445</WN-3.0-Synset>
+   <PT-Words-Man>acostumar-se, habituar-se</PT-Words-Man>
+    <PT-Word-Cand>costumar, acostumar, habituar, estar habitado a, ter o costume de, soer</PT-Word-Cand>
+    <EN-Gloss>make psychologically or physically used (to something); "She became habituated to the background music"</EN-Gloss>
+    <EN-Words>accustom, habituate</EN-Words>
+    <PT-Gloss>fazer psicologicamente ou fisicamente acostumado (a algo); "Ela se habituou a musica de fundo"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>acostumbrarse</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>294</BC>
+    <WN-3.0-Synset>v275607</WN-3.0-Synset>
+   <PT-Words-Man>regularizar</PT-Words-Man>
+    <PT-Word-Cand>regularizar</PT-Word-Cand>
+    <EN-Gloss>make regular or more regular; "regularize the heart beat with a pace maker"</EN-Gloss>
+    <EN-Words>regularise, regularize</EN-Words>
+    <PT-Gloss>tornar regular ou mais regular; "regularize a batida cardiaca com um marca-passo"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>regularizar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>295</BC>
+    <WN-3.0-Synset>v275843</WN-3.0-Synset>
+    <PT-Words-Man>arrumar, organizar</PT-Words-Man>
+    <PT-Word-Cand>limpar</PT-Word-Cand>
+    <EN-Gloss>put (things or places) in order; "Tidy up your room!"</EN-Gloss>
+    <EN-Words>clean up, neaten, square away, straighten out, straighten, tidy up, tidy</EN-Words>
+    <PT-Gloss>colocar (coisas ou lugares) em ordem; "Arrume o seu quarto!"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>296</BC>
+    <WN-3.0-Synset>v276068</WN-3.0-Synset>
+    <PT-Words-Man>arrumar, organizar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>put in order or neaten; "make the bed"; "make up a room"</EN-Gloss>
+    <EN-Words>make up, make</EN-Words>
+    <PT-Gloss>colocar em ordem ou arrumar; "Arrume a cama"; "organizar o quarto"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>297</BC>
+    <WN-3.0-Synset>v276214</WN-3.0-Synset>
+    <PT-Words-Man>desorganizar</PT-Words-Man>
+    <PT-Word-Cand>desarrumar</PT-Word-Cand>
+    <EN-Gloss>make a mess of or create disorder in; "He messed up his room"</EN-Gloss>
+    <EN-Words>mess up, mess</EN-Words>
+     <PT-Gloss>fazer uma bagunça ou criar disordem; "Ele fez uma bagunca no seu quarto"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
+    <BC>298</BC>
+    <WN-3.0-Synset>n279835</WN-3.0-Synset>
+    <PT-Words-Man>movimento, deslocamento, traslado</PT-Words-Man>
+    <PT-Word-Cand>movimento, mudança, deslocamento, tráfego, traslado</PT-Word-Cand>
+    <EN-Gloss>the act of changing location from one place to another; "police controlled the motion of the crowd"; "the movement of people from the
+    farms to the cities"; "his move put him directly in my path"</EN-Gloss>
+    <EN-Words>motion, move, movement</EN-Words>
+     <PT-Gloss>o ato de mudar algo de um lugar para outro; "a policia controlou o movimento da multidao"; "o movimento de pessoas do campo para a cidades"; "o movimento dele colocou-o diretamente no meu caminho"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>traslado</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>299</BC>
+    <WN-3.0-Synset>v276373</WN-3.0-Synset>
+    <PT-Words-Man>disordenar, baguncar</PT-Words-Man>
+    <PT-Word-Cand />
+    <EN-Gloss>bring disorder to</EN-Gloss>
+    <EN-Words>disarray, disorder</EN-Words>
+    <PT-Gloss>trazer disordem para</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug>desarreglar</SPA-Words-Sug>
+    <Comments />
+  </row>
+  <row>
+    <BC>300</BC>
+    <WN-3.0-Synset>v277659</WN-3.0-Synset>
+    <PT-Words-Man>ordenar</PT-Words-Man>
+    <PT-Word-Cand>ordenar</PT-Word-Cand>
+    <EN-Gloss>bring order to or into; "Order these files"</EN-Gloss>
+    <EN-Words>order</EN-Words>
+    <PT-Gloss>trazer ordem para alguma coisa; "ordene esses arquivos"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
