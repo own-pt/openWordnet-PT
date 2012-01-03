@@ -71,7 +71,8 @@
     <PT-Gloss > qualquer entidade que produz um efeito ou é responsável por eventos ou resultados</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug>causa</Spa-Words-Sug>
-    <Comments>não achei um correspondente para "causal agency", não entendi o que significa, vcvp: acho que esta' bom</Comments>
+    <Comments by="rafael">não achei um correspondente para "causal agency"</Comments>
+    <Comments by="vcvp">acho que esta' bom</Comments>
   </row>
   <row>
     <BC>7</BC>
@@ -108,7 +109,12 @@
     <PT-Gloss> arrematar o cabelo, pele, chifre ou penas; "nosso cachorro muda de pelo toda primavera"</PT-Gloss>  
     <PT-Gloss-Sug />
     <Spa-Words-Sug>mudar, pelechar</Spa-Words-Sug>
-    <Comments>esse synset eu não sei se intendi corretamente. Intendi que o Gloss diz respeito a mudança de característica física (tanto animal quanto de homen), estou em duvida quanto aos PT-Words-Man, por favor corrija se estiver errado.vcvp: Rafael esse synset nao 'e necessario, ele nao existe em Portugues, eu acho.em ingles eles teem verbos pra mudar de pele,de pelo.</Comments>
+    <Comments>esse synset eu não sei se intendi corretamente. Intendi
+    que o Gloss diz respeito a mudança de característica física (tanto
+    animal quanto de homen), estou em duvida quanto aos PT-Words-Man,
+    por favor corrija se estiver errado.vcvp: Rafael esse synset nao
+    'e necessario, ele nao existe em Portugues, eu acho.em ingles eles
+    teem verbos pra mudar de pele,de pelo.</Comments>
   </row>
   <row>
     <BC>10</BC>
@@ -3521,7 +3527,8 @@
     <PT-Gloss>o ato de sujar alguma coisa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>contaminación, embrutecimiento</SPA-Words-Sug>
-    <Comments> não soube achar uma palavra que se encaixe. vcvp: acho que contaminacao funciona bem.</Comments>
+    <Comments by="rafael">não soube achar uma palavra que se encaixe</Comments>
+    <Comments by="vcvp">acho que contaminacao funciona bem.</Comments>
   </row>
   <row>
     <BC>292</BC>
