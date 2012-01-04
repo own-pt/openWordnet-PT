@@ -2789,23 +2789,23 @@
   <row>
     <BC>726</BC>
     <WN-3.0-Synset>n815644</WN-3.0-Synset>
-    <PT-Words-Man>alvo, mira</PT-Words-Man>
+    <PT-Words-Man LexicalGap="true"/>
     <PT-Word-Cand>terem vista</PT-Word-Cand>
     <EN-Gloss>the action of directing something at an object; "he took aim and fired"</EN-Gloss>
     <EN-Words>aim</EN-Words>
-    <PT-Gloss>direcionamento de alguma coisa em um objeto</PT-Gloss>
+    <PT-Gloss>a ação de direcionar alguma coisa em algum objeto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>posso estar errado mas acho que não existe um correspondente em portugues para esse Gloss</Comments>
   </row>
   <row>
     <BC>727</BC>
     <WN-3.0-Synset>v792471</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>convocar, chamar</PT-Words-Man>
     <PT-Word-Cand>convocar</PT-Word-Cand>
     <EN-Gloss>order, request, or command to come; "She was called into the director's office"; "Call the police!"</EN-Gloss>
     <EN-Words>call, send for</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>solicitar, requerer, comandar algo; "ela foi convocada a sala do diretor"; "chame a polícia!"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2813,11 +2813,11 @@
   <row>
     <BC>728</BC>
     <WN-3.0-Synset>n817680</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>proteção</PT-Words-Man>
     <PT-Word-Cand>proteção</PT-Word-Cand>
     <EN-Gloss>the activity of protecting someone or something; "the witnesses demanded police protection"</EN-Gloss>
     <EN-Words>protection</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de proteger alguém ou alguma coisa; "as testemunhas exigiram proteção policial"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>protección</SPA-Words-Sug>
     <Comments />
@@ -2825,11 +2825,11 @@
   <row>
     <BC>729</BC>
     <WN-3.0-Synset>v793580</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>convidar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>ask someone in a friendly way to do something</EN-Gloss>
     <EN-Words>bid, invite</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>perguntar a alguém de uma maneira amigável para fazer alguam coisa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2837,11 +2837,11 @@
   <row>
     <BC>730</BC>
     <WN-3.0-Synset>a803275</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>intenso, forte</PT-Words-Man>
     <PT-Word-Cand>intenso, intensivo</PT-Word-Cand>
     <EN-Gloss>extremely sharp or intense; "acute pain"; "felt acute annoyance"; "intense itching and burning"</EN-Gloss>
     <EN-Words>acute, intense</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>extremamente forte ou intenso; "dor intensa"; "tive um forte aborrecimento"; "um prurido e ardor intenso"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2849,11 +2849,11 @@
   <row>
     <BC>731</BC>
     <WN-3.0-Synset>v797430</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>recusar, rejeitar</PT-Words-Man>
     <PT-Word-Cand>recusar, rejeitar</PT-Word-Cand>
     <EN-Gloss>show unwillingness towards; "he declined to join the group on a hike"</EN-Gloss>
     <EN-Words>decline, refuse</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mostrar relutância em algo; "ele se recusou a se juntar ao grupo em uma caminhada"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2861,11 +2861,11 @@
   <row>
     <BC>732</BC>
     <WN-3.0-Synset>v797697</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>consentir, aceitar, acordar</PT-Words-Man>
     <PT-Word-Cand>consentir, anuir, estar de acordo</PT-Word-Cand>
     <EN-Gloss>give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution"</EN-Gloss>
     <EN-Words>accept, consent, go for</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dar uma resposta afirmativa à; responder favoravelmente a; "eu não posso aceitar seu convite"; "eu acordo com essa resolução"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>acordar, consentir</SPA-Words-Sug>
     <Comments />
@@ -2873,11 +2873,11 @@
   <row>
     <BC>733</BC>
     <WN-3.0-Synset>v800750</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tirar, desmarcar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>remove from a list; "Cross the name of the dead person off the list"</EN-Gloss>
     <EN-Words>cross off, cross out, mark, strike off, strike out</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover de uma lista; "tire o nome da pessoa morta da lista"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>borrar, tachar</SPA-Words-Sug>
     <Comments />
@@ -2885,11 +2885,11 @@
   <row>
     <BC>734</BC>
     <WN-3.0-Synset>v800930</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>descartar, deixar_de_lado</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>bar from attention or consideration; "She dismissed his advances"</EN-Gloss>
     <EN-Words>brush aside, brush off, discount, dismiss, disregard, ignore, push aside</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>excluir atenção ou consideração; "ela deixou de lado seus avanços"</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desasistir</SPA-Words-Sug>
     <Comments />
@@ -2897,12 +2897,12 @@
   <row>
     <BC>735</BC>
     <WN-3.0-Synset>v802318</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>permitir, deixar</PT-Words-Man>
     <PT-Word-Cand>consentir</PT-Word-Cand>
     <EN-Gloss>consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I
     cannot allow you to see your exam"</EN-Gloss>
     <EN-Words>allow, countenance, let, permit</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>consentir vom, dar permissão; "ela permitiu seu filho visitar seu ex-marido"; "eu não vou deixar que a polícia procure no porão"; "eu não posso deixar você ver seu exame"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>tolerar, permitir, aprobar</SPA-Words-Sug>
     <Comments />
@@ -2910,12 +2910,12 @@
   <row>
     <BC>736</BC>
     <WN-3.0-Synset>v803325</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>autorizar, permitir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>grant authorization or clearance for; "Clear the manuscript for publication"; "The rock star never authorized this slanderous
     biography"</EN-Gloss>
     <EN-Words>authorise, authorize, clear, pass</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>conceder autorização ou liberação para; "autorize o manuscrito para publicação"; "a estrela de roque nunca permitiu essa biografia caluniosa"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>autorizar, permitir</SPA-Words-Sug>
     <Comments />
@@ -2923,11 +2923,11 @@
   <row>
     <BC>737</BC>
     <WN-3.0-Synset>n829378</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cuidado, tutela</PT-Words-Man>
     <PT-Word-Cand>tutela</PT-Word-Cand>
     <EN-Gloss>attention and management implying responsibility for safety; "he is in the care of a bodyguard"</EN-Gloss>
     <EN-Words>care, charge, guardianship, tutelage</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atenção e gestão implicando responsabilidade pela segurança; "ele está sob os cuidados de um guarda-costas"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2935,12 +2935,12 @@
   <row>
     <BC>738</BC>
     <WN-3.0-Synset>v805376</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>concordar, acordar</PT-Words-Man>
     <PT-Word-Cand>valer</PT-Word-Cand>
     <EN-Gloss>be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life
     is sacred"; "Both philosophers concord on this point"</EN-Gloss>
     <EN-Words>agree, concord, concur, hold</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estar de acordo, concordar; "Nós concordamos com os termos do acordo"; "Não posso concordar com você!"; "eu acordo com aqueles que dizem que a vida é sagrada "; "Ambos os filósofos concordam quanto a este ponto "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>estar de acuerdo</SPA-Words-Sug>
     <Comments />
@@ -2948,11 +2948,11 @@
   <row>
     <BC>739</BC>
     <WN-3.0-Synset>n830257</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>uso</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of having on your person as a covering or adornment; "she bought it for everyday wear"</EN-Gloss>
     <EN-Words>wear, wearing</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de ter em alguém como uma cobertura ou adorno; "ela comprou para uso diário"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2960,11 +2960,11 @@
   <row>
     <BC>740</BC>
     <WN-3.0-Synset>v806049</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>conceder</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>be willing to concede; "I grant you this much"</EN-Gloss>
     <EN-Words>concede, grant, yield</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estar dispostos a concessão; "Eu lhe concedo tudo isso"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2972,12 +2972,12 @@
   <row>
     <BC>741</BC>
     <WN-3.0-Synset>n831191</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>respiração</PT-Words-Man>
     <PT-Word-Cand>respiração, Respiração, respiração</PT-Word-Cand>
     <EN-Gloss>the bodily process of inhalation and exhalation; the process of taking in oxygen from inhaled air and releasing carbon dioxide by
     exhalation</EN-Gloss>
     <EN-Words>breathing, external respiration, respiration, ventilation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o processo corporal de inalação e exalação, o processo de tomada de oxigênio do ar inspirado e liberando dióxido de carbono por exalação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>respiración, Respiración, Respiracion, respiración, respiracion</SPA-Words-Sug>
     <Comments />
@@ -2985,11 +2985,11 @@
   <row>
     <BC>742</BC>
     <WN-3.0-Synset>n838098</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ingestão</PT-Words-Man>
     <PT-Word-Cand>consumo, ingesta</PT-Word-Cand>
     <EN-Gloss>the process of taking food into the body through the mouth (as by eating)</EN-Gloss>
     <EN-Words>consumption, ingestion, intake, uptake</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o processo de alimentar o corpo atravez da boca (comendo)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Ingestion, ingestión, ingestión, ingesta, alimentación</SPA-Words-Sug>
     <Comments />
@@ -2997,11 +2997,11 @@
   <row>
     <BC>743</BC>
     <WN-3.0-Synset>v813978</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>discutir</PT-Words-Man>
     <PT-Word-Cand>discutir, falar</PT-Word-Cand>
     <EN-Gloss>speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget"</EN-Gloss>
     <EN-Words>discuss, hash out, talk over</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>falar com os outros sobre (algo); falar (algo) com mais em detalhe; ter uma discussão; "Nós discutimos o nosso orçamento familiar"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>debatir, entrar en detalles</SPA-Words-Sug>
     <Comments />
@@ -3009,11 +3009,11 @@
   <row>
     <BC>744</BC>
     <WN-3.0-Synset>v814850</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>refutar</PT-Words-Man>
     <PT-Word-Cand>refutar, contestar</PT-Word-Cand>
     <EN-Gloss>overthrow by argument, evidence, or proof; "The speaker refuted his opponent's arguments"</EN-Gloss>
     <EN-Words>rebut, refute</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>derrubada pelo argumento, evidência ou prova; "O orador refutou os argumentos do seu oponente"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desmentir, rebatir</SPA-Words-Sug>
     <Comments />
@@ -3021,11 +3021,11 @@
   <row>
     <BC>745</BC>
     <WN-3.0-Synset>v815686</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>responder</PT-Words-Man>
     <PT-Word-Cand>responder, repetir, corresponder</PT-Word-Cand>
     <EN-Gloss>react verbally; "She didn't want to answer"; "answer the question"; "We answered that we would accept the invitation"</EN-Gloss>
     <EN-Words>answer, reply, respond</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>reagir verbalmente; "Ela não queria responder"; "responda a pergunta"; "Nós respondemos que iríamos aceitar o convite"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>responder, contestar, replicar</SPA-Words-Sug>
     <Comments />
@@ -3033,11 +3033,11 @@
   <row>
     <BC>746</BC>
     <WN-3.0-Synset>v818553</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>confessar</PT-Words-Man>
     <PT-Word-Cand>confessar, professar</PT-Word-Cand>
     <EN-Gloss>admit (to a wrongdoing); "She confessed that she had taken the money"</EN-Gloss>
     <EN-Words>concede, confess, profess</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>admitir (a um delito); "Ela confessou que tinha pego o dinheiro"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>profesar</SPA-Words-Sug>
     <Comments />
@@ -3045,11 +3045,11 @@
   <row>
     <BC>747</BC>
     <WN-3.0-Synset>v818805</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>confessar</PT-Words-Man>
     <PT-Word-Cand>confessar</PT-Word-Cand>
     <EN-Gloss>confess to God in the presence of a priest, as in the Catholic faith</EN-Gloss>
     <EN-Words>confess</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>Confessar a Deus na presença de um sacerdote, como na fé católica</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3057,11 +3057,11 @@
   <row>
     <BC>748</BC>
     <WN-3.0-Synset>v818974</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>insistir</PT-Words-Man>
     <PT-Word-Cand>insistir</PT-Word-Cand>
     <EN-Gloss>be emphatic or resolute and refuse to budge; "I must insist!"</EN-Gloss>
     <EN-Words>insist, take a firm stand</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser enfático ou firme e se recusar a mudar; "Eu insisto!"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>insistir</SPA-Words-Sug>
     <Comments />
@@ -3069,11 +3069,11 @@
   <row>
     <BC>749</BC>
     <WN-3.0-Synset>n844254</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>sexo</PT-Words-Man>
     <PT-Word-Cand>sexo</PT-Word-Cand>
     <EN-Gloss>activities associated with sexual intercourse; "they had sex in the back seat"</EN-Gloss>
     <EN-Words>sex activity, sex, sexual activity, sexual practice</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividades associadas com o trato sexual; "eles tiveram relações sexuais no banco de trás"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>sexo</SPA-Words-Sug>
     <Comments />
@@ -3081,11 +3081,11 @@
   <row>
     <BC>750</BC>
     <WN-3.0-Synset>v822367</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>declarar, julgar</PT-Words-Man>
     <PT-Word-Cand>declarar, julgar</PT-Word-Cand>
     <EN-Gloss>declare to be; "She was declared incompetent"; "judge held that the defendant was innocent"</EN-Gloss>
     <EN-Words>adjudge, declare, hold</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>declarar ser; "Ela foi declarada incompetente"; "o juiz julgou o réu inocente"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>juzgar</SPA-Words-Sug>
     <Comments />
@@ -3093,11 +3093,11 @@
   <row>
     <BC>751</BC>
     <WN-3.0-Synset>v829107</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>instruir, ensinar</PT-Words-Man>
     <PT-Word-Cand>instruir, ensinar, lecionar</PT-Word-Cand>
     <EN-Gloss>impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat"</EN-Gloss>
     <EN-Words>instruct, learn, teach</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>transmitir habilidades ou conhecimentos para; "Eu ensinava francês"; "Ele me instruiu na construção do barco"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>enseñar, aleccionar</SPA-Words-Sug>
     <Comments />
@@ -3105,11 +3105,11 @@
   <row>
     <BC>752</BC>
     <WN-3.0-Synset>v830761</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>palestrar, falar</PT-Words-Man>
     <PT-Word-Cand>fazer uma preleção</PT-Word-Cand>
     <EN-Gloss>deliver a lecture or talk; "She will talk at Rutgers next week"; "Did you ever lecture at Harvard?"</EN-Gloss>
     <EN-Words>lecture, talk</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>proporcionar uma palestra ou fala; "Ela vai falar na Universidade Rutgers, na próxima semana"; "Alguma vez você palestrou em Harvard?"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3117,11 +3117,11 @@
   <row>
     <BC>753</BC>
     <WN-3.0-Synset>v831651</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>informar</PT-Words-Man>
     <PT-Word-Cand>comunicar, notificar, anunciar, advertir, informar, participar, noticiar, esclarecer</PT-Word-Cand>
     <EN-Gloss>impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights"</EN-Gloss>
     <EN-Words>inform</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>transmitir conhecimento de algum fato, estado, coisa ou evento; "Eu lhe informei de seus direitos"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>informar, comunicar, advertir, anunciar, avisar, enseñar, proclamar, reportar</SPA-Words-Sug>
     <Comments />
@@ -3129,12 +3129,12 @@
   <row>
     <BC>754</BC>
     <WN-3.0-Synset>v833702</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>treinar</PT-Words-Man>
     <PT-Word-Cand>instruir, treinar, adestrar</PT-Word-Cand>
     <EN-Gloss>teach and supervise (someone); act as a trainer or coach (to), as in sports; "He is training our Olympic team"; "She is coaching the
     crew"</EN-Gloss>
     <EN-Words>coach, train</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ensinar e supervisionar (alguém); agir como um treinador ou técnico, como nos esportes; "Ele está treinando nossa equipe olímpica", "Ela está treinando o tripulação "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3142,11 +3142,11 @@
   <row>
     <BC>755</BC>
     <WN-3.0-Synset>v834009</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enganar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>give false or misleading information to</EN-Gloss>
     <EN-Words>misinform, mislead</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fornecer informações falsas ou enganosas para</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>engañar, informar mal</SPA-Words-Sug>
     <Comments />
@@ -3154,11 +3154,11 @@
   <row>
     <BC>756</BC>
     <WN-3.0-Synset>v834259</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mentir</PT-Words-Man>
     <PT-Word-Cand>mentir</PT-Word-Cand>
     <EN-Gloss>tell an untruth; pretend with intent to deceive; "Don't lie to your parents"; "She lied when she told me she was only 29"</EN-Gloss>
     <EN-Words>lie</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dizer uma coisa que nao é verdade; fingir com intenção de enganar; "não minta para seus pais"; "Ela mentiu quando disse que tinha apenas 29"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3166,12 +3166,12 @@
   <row>
     <BC>757</BC>
     <WN-3.0-Synset>n859001</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reação, resposta</PT-Words-Man>
     <PT-Word-Cand>reação, reacção, resposta</PT-Word-Cand>
     <EN-Gloss>a bodily process occurring due to the effect of some antecedent stimulus or agent; "a bad reaction to the medicine"; "his responses
     have slowed with age"</EN-Gloss>
     <EN-Words>reaction, response</EN-Words>
-    <PT-Gloss />
+    <PT-Glos>um processo corporal que ocorre devido ao efeito de algum estímulo antecedente ou agente; "uma reação ruim ao medicamento", "suas respostas tem abrandado com a idade"</PT-Glos>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>reacción</SPA-Words-Sug>
     <Comments />
@@ -3179,11 +3179,11 @@
   <row>
     <BC>758</BC>
     <WN-3.0-Synset>v836705</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desmentir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>represent falsely; "This statement misrepresents my intentions"</EN-Gloss>
     <EN-Words>belie, misrepresent</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>representar falsamente; "Esta declaração desmente as minhas intenções"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3191,11 +3191,11 @@
   <row>
     <BC>759</BC>
     <WN-3.0-Synset>n868910</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cálculo</PT-Words-Man>
     <PT-Word-Cand>cálculos, cálculo, Computação, Computacao, computação, computação</PT-Word-Cand>
     <EN-Gloss>the procedure of calculating; determining something by mathematical or logical methods</EN-Gloss>
     <EN-Words>calculation, computation, computing</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o procedimento de calcular, determinando algo por métodos matemáticos ou lógicos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cálculo, cómputo, computación, calculo, conteo</SPA-Words-Sug>
     <Comments />
