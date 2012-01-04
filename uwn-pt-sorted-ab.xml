@@ -1878,11 +1878,11 @@
   <row>
     <BC>652</BC>
     <WN-3.0-Synset>n732746</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transgressão, delito</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>activity that transgresses moral or civil law; "he denied any wrongdoing"</EN-Gloss>
     <EN-Words>actus reus, misconduct, wrongdoing, wrongful conduct</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade que transgride a lei moral ou civil</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito</SPA-Words-Sug>
     <Comments />
@@ -1890,12 +1890,12 @@
   <row>
     <BC>653</BC>
     <WN-3.0-Synset>v713167</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>associar, conectar</PT-Words-Man>
     <PT-Word-Cand>associar, ligar, relacionar, conectar, vincular</PT-Word-Cand>
     <EN-Gloss>make a logical or causal connection; "I cannot connect these two pieces of evidence in my mind"; "colligate these facts"; "I cannot
     relate these events at all"</EN-Gloss>
     <EN-Words>associate, colligate, connect, link up, link, relate, tie in</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer uma conexão lógica ou causal</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>asociar, conectar, relacionar</SPA-Words-Sug>
     <Comments />
@@ -1903,11 +1903,11 @@
   <row>
     <BC>654</BC>
     <WN-3.0-Synset>v715074</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>concluir, finalizar, terminar, acabar</PT-Words-Man>
     <PT-Word-Cand>acabar, terminar, encerrar</PT-Word-Cand>
     <EN-Gloss>bring to a close; "The committee concluded the meeting"</EN-Gloss>
     <EN-Words>conclude</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer com que acabe</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>terminar, acabar, concluir</SPA-Words-Sug>
     <Comments />
@@ -1915,11 +1915,11 @@
   <row>
     <BC>655</BC>
     <WN-3.0-Synset>v715868</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>decretar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>decide with authority; "The King decreed that all firstborn males should be killed"</EN-Gloss>
     <EN-Words>decree, rule</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>decidir com autoridade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1927,11 +1927,11 @@
   <row>
     <BC>656</BC>
     <WN-3.0-Synset>n735936</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">mau_comportamento</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>improper or wicked or immoral behavior</EN-Gloss>
     <EN-Words>misbehavior, misbehaviour, misdeed</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>comportamento impróprio ou ruim ou imoral</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito, sinrazón, fechoría, trastada</SPA-Words-Sug>
     <Comments />
@@ -1939,11 +1939,11 @@
   <row>
     <BC>657</BC>
     <WN-3.0-Synset>n739270</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>negligência</PT-Words-Man>
     <PT-Word-Cand>incúria</PT-Word-Cand>
     <EN-Gloss>failure to act with the prudence that a reasonable person would exercise under the same circumstances</EN-Gloss>
     <EN-Words>carelessness, neglect, negligence, nonperformance</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>incapacidade de agir com a prudência que uma pessoa razoável iria  exercer nas mesmas circunstâncias</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>descuido, desidia, desamparo</SPA-Words-Sug>
     <Comments />
@@ -1951,11 +1951,11 @@
   <row>
     <BC>658</BC>
     <WN-3.0-Synset>v719734</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>antecipar</PT-Words-Man>
     <PT-Word-Cand>antecipar</PT-Word-Cand>
     <EN-Gloss>regard something as probable or likely; "The meteorologists are expecting rain for tomorrow"</EN-Gloss>
     <EN-Words>anticipate, expect</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>considerar algo como provável ou possível</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>anticiparse</SPA-Words-Sug>
     <Comments />
@@ -1963,12 +1963,12 @@
   <row>
     <BC>659</BC>
     <WN-3.0-Synset>v720063</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esperar, aguardar</PT-Words-Man>
     <PT-Word-Cand>esperar, aguardar, estar à espera de</PT-Word-Cand>
     <EN-Gloss>look forward to the probable occurrence of; "We were expecting a visit from our relatives"; "She is looking to a promotion"; "he is
     waiting to be drafted"</EN-Gloss>
     <EN-Words>await, expect, look, wait</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>esperar por uma provável acorrência de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>esperar, aguardar, transcurrir</SPA-Words-Sug>
     <Comments />
@@ -1976,11 +1976,11 @@
   <row>
     <BC>660</BC>
     <WN-3.0-Synset>v722232</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>focar, centrar</PT-Words-Man>
     <PT-Word-Cand>centrar</PT-Word-Cand>
     <EN-Gloss>direct one's attention on something; "Please focus on your studies and not on your hobbies"</EN-Gloss>
     <EN-Words>center, centre, concentrate, focus, pore, rivet</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>direcionar a atenção de alguém em alguam coisa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1988,12 +1988,12 @@
   <row>
     <BC>661</BC>
     <WN-3.0-Synset>n742645</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desperdício</PT-Words-Man>
     <PT-Word-Cand>desperdício, esbanjamento</PT-Word-Cand>
     <EN-Gloss>useless or profitless activity; using or expending or consuming thoughtlessly or carelessly; "if the effort brings no compensating gain
     it is a waste"; "mindless dissipation of natural resources"</EN-Gloss>
     <EN-Words>dissipation, waste, wastefulness</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade inútil ou improfícua; usar ou gastar ou consumir sem pensar ou sem cuidado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>derroche, disipación</SPA-Words-Sug>
     <Comments />
@@ -2001,12 +2001,12 @@
   <row>
     <BC>662</BC>
     <WN-3.0-Synset>v723545</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>admitir, levar_em_conta</PT-Words-Man>
     <PT-Word-Cand>prever</PT-Word-Cand>
     <EN-Gloss>allow or plan for a certain possibility; concede the truth or validity of something; "I allow for this possibility"; "The seamstress
     planned for 5% shrinkage after the first wash"</EN-Gloss>
     <EN-Words>allow, take into account</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>permitir ou planejar uma certa possibilidade; admitir a verdade ou validade de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>tener en cuenta, tomar en cuenta</SPA-Words-Sug>
     <Comments />
@@ -2014,12 +2014,12 @@
   <row>
     <BC>663</BC>
     <WN-3.0-Synset>n745005</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transgressão</PT-Words-Man>
     <PT-Word-Cand>crime, crimes</PT-Word-Cand>
     <EN-Gloss>the act of transgressing; the violation of a law or a duty or moral principle; "the boy was punished for the transgressions of his
     father"</EN-Gloss>
     <EN-Words>evildoing, transgression</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de transgredir; a violação de uma lei ou um dever ou princípio moral</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito, transgresión</SPA-Words-Sug>
     <Comments />
@@ -2027,11 +2027,11 @@
   <row>
     <BC>664</BC>
     <WN-3.0-Synset>n745637</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>maldade, imoralidade</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>morally objectionable behavior</EN-Gloss>
     <EN-Words>evil, immorality, iniquity, wickedness</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>comportamento moralmente ofensivo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito, inmoralidad, iniquidad</SPA-Words-Sug>
     <Comments />
@@ -2039,11 +2039,11 @@
   <row>
     <BC>665</BC>
     <WN-3.0-Synset>n746033</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atrocidade</PT-Words-Man>
     <PT-Word-Cand>atrocidade</PT-Word-Cand>
     <EN-Gloss>an act of extreme wickedness</EN-Gloss>
     <EN-Words>enormity</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um ato de extrema maldade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atrocidad</SPA-Words-Sug>
     <Comments />
@@ -2051,11 +2051,11 @@
   <row>
     <BC>666</BC>
     <WN-3.0-Synset>v726300</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atribuir</PT-Words-Man>
     <PT-Word-Cand>atribuir algo a alguém, imputar, atribuir</PT-Word-Cand>
     <EN-Gloss>attribute or credit to; "We attributed this quotation to Shakespeare"; "People impute great cleverness to cats"</EN-Gloss>
     <EN-Words>ascribe, assign, attribute, impute</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atribuir ou creditar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>achacar, imputar, adscribir, prohijar</SPA-Words-Sug>
     <Comments />
@@ -2063,11 +2063,11 @@
   <row>
     <BC>667</BC>
     <WN-3.0-Synset>n747029</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>imoralidade</PT-Words-Man>
     <PT-Word-Cand>vício</PT-Word-Cand>
     <EN-Gloss>a specific form of evildoing; "vice offends the moral standards of the community"</EN-Gloss>
     <EN-Words>vice</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma forma específica de maldade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>vicio</SPA-Words-Sug>
     <Comments />
@@ -2075,11 +2075,11 @@
   <row>
     <BC>668</BC>
     <WN-3.0-Synset>v728617</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>compreender, entender</PT-Words-Man>
     <PT-Word-Cand>comprender, entender</PT-Word-Cand>
     <EN-Gloss>be fully aware or cognizant of</EN-Gloss>
     <EN-Words>agnise, agnize, realise, realize, recognise, recognize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estar plenamente consciente ou ciente de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comprender, entender</SPA-Words-Sug>
     <Comments />
@@ -2087,11 +2087,11 @@
   <row>
     <BC>669</BC>
     <WN-3.0-Synset>n749574</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desonestidade</PT-Words-Man>
     <PT-Word-Cand>Desonestidade, desonestidade</PT-Word-Cand>
     <EN-Gloss>lack of honesty; acts of lying or cheating or stealing</EN-Gloss>
     <EN-Words>dishonesty, knavery</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>falta de honestidade; atos de mentir, roubar ou trapacear</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug>bribonada, deshonestidad</SPA-Words-Sug>
     <Comments />
@@ -2099,11 +2099,11 @@
   <row>
     <BC>670</BC>
     <WN-3.0-Synset>n749767</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>traição</PT-Words-Man>
     <PT-Word-Cand>traição</PT-Word-Cand>
     <EN-Gloss>an act of deliberate betrayal</EN-Gloss>
     <EN-Words>betrayal, perfidy, treachery, treason</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de trair deliberadamente</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug>traición, traicion</SPA-Words-Sug>
     <Comments />
@@ -2111,12 +2111,12 @@
   <row>
     <BC>671</BC>
     <WN-3.0-Synset>v730052</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mencionar, referir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>intend to refer to; "I'm thinking of good food when I talk about France"; "Yes, I meant you when I complained about people who
     gossip!"</EN-Gloss>
     <EN-Words>have in mind, mean, think of</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter em mente, se referir a</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2124,11 +2124,11 @@
   <row>
     <BC>672</BC>
     <WN-3.0-Synset>n751145</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>falsificação, adulteração</PT-Words-Man>
     <PT-Word-Cand>falsificação, contrafacção</PT-Word-Cand>
     <EN-Gloss>a willful perversion of facts</EN-Gloss>
     <EN-Words>falsification, misrepresentation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma corrupção intencional de fatos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>falsedad</SPA-Words-Sug>
     <Comments />
@@ -2136,11 +2136,11 @@
   <row>
     <BC>673</BC>
     <WN-3.0-Synset>n752431</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enganação, dissimulação</PT-Words-Man>
     <PT-Word-Cand>dissimulação, trapaça</PT-Word-Cand>
     <EN-Gloss>the act of deceiving</EN-Gloss>
     <EN-Words>deceit, deception, dissembling, dissimulation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de enganar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>engaño, disimulación</SPA-Words-Sug>
     <Comments />
@@ -2148,11 +2148,11 @@
   <row>
     <BC>674</BC>
     <WN-3.0-Synset>a740217</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fixo, inváriavel</PT-Words-Man>
     <PT-Word-Cand>fixo, corrigido</PT-Word-Cand>
     <EN-Gloss>(of a number) having a fixed and unchanging value</EN-Gloss>
     <EN-Words>fixed</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(de um número)ter um valor fixo e imutável</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>fijo</SPA-Words-Sug>
     <Comments />
@@ -2160,12 +2160,12 @@
   <row>
     <BC>675</BC>
     <WN-3.0-Synset>v735571</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>organizar</PT-Words-Man>
     <PT-Word-Cand>organizar</PT-Word-Cand>
     <EN-Gloss>arrange thoughts, ideas, temporal events; "arrange my schedule"; "set up one's life"; "I put these memories with those of bygone
     times"</EN-Gloss>
     <EN-Words>arrange, order, put, set up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>organizar pensamentos, idéias, eventos temporais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>construir</SPA-Words-Sug>
     <Comments />
@@ -2173,11 +2173,11 @@
   <row>
     <BC>676</BC>
     <WN-3.0-Synset>n756919</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>caimento, decadência</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a lapse into sin; a loss of innocence or of chastity; "a fall from virtue"</EN-Gloss>
     <EN-Words>fall</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um lapso no pecado; uma perda de inocência ou de castidade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2185,11 +2185,11 @@
   <row>
     <BC>677</BC>
     <WN-3.0-Synset>n757080</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pecado</PT-Words-Man>
     <PT-Word-Cand>pecado, pecado</PT-Word-Cand>
     <EN-Gloss>an act that is regarded by theologians as a transgression of God's will</EN-Gloss>
     <EN-Words>sin, sinning</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um ato que é considerado por teólogos como uma transgressão da vontade de Deus</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito, pecado, pecado</SPA-Words-Sug>
     <Comments />
@@ -2197,11 +2197,11 @@
   <row>
     <BC>678</BC>
     <WN-3.0-Synset>n757730</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pecado_capital</PT-Words-Man>
     <PT-Word-Cand>pecado mortal</PT-Word-Cand>
     <EN-Gloss>an unpardonable sin entailing a total loss of grace; "theologians list seven mortal sins"</EN-Gloss>
     <EN-Words>deadly sin, mortal sin</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pecado imperdoável que implica uma perda total de graça</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Pecado mortal</SPA-Words-Sug>
     <Comments />
@@ -2209,11 +2209,11 @@
   <row>
     <BC>679</BC>
     <WN-3.0-Synset>n758335</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>inveja</PT-Words-Man>
     <PT-Word-Cand>inveja</PT-Word-Cand>
     <EN-Gloss>spite and resentment at seeing the success of another (personified as one of the deadly sins)</EN-Gloss>
     <EN-Words>envy, invidia</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>despeito e ressentimento ao ver o sucesso do outro (personificado como um dos pecados capitais)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>envidia</SPA-Words-Sug>
     <Comments />
@@ -2221,11 +2221,11 @@
   <row>
     <BC>680</BC>
     <WN-3.0-Synset>v740577</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transmitir, comunicar</PT-Words-Man>
     <PT-Word-Cand>comunicar, participar, transmitir</PT-Word-Cand>
     <EN-Gloss>transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist"</EN-Gloss>
     <EN-Words>communicate, intercommunicate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>transmitir pensamentos ou sentimentos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>expresar, informar, comunicar</SPA-Words-Sug>
     <Comments />
@@ -2233,11 +2233,11 @@
   <row>
     <BC>681</BC>
     <WN-3.0-Synset>n766234</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>crime</PT-Words-Man>
     <PT-Word-Cand>contra-ordenações, delito, crimes</PT-Word-Cand>
     <EN-Gloss>(criminal law) an act punishable by law; usually considered an evil act; "a long record of crimes"</EN-Gloss>
     <EN-Words>crime, criminal offence, criminal offense, law-breaking, offence, offense</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(direito penal) um acto punível por lei; geralmente considerado um ato maligno</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito, infracción, contravención, delitos</SPA-Words-Sug>
     <Comments />
@@ -2245,11 +2245,11 @@
   <row>
     <BC>682</BC>
     <WN-3.0-Synset>v742320</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transmitir</PT-Words-Man>
     <PT-Word-Cand>comunicar, comunique-se</PT-Word-Cand>
     <EN-Gloss>transmit information ; "Please communicate this message to all employees"; "pass along the good news"</EN-Gloss>
     <EN-Words>communicate, pass along, pass on, pass, put across</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>transmitir informação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comunicar</SPA-Words-Sug>
     <Comments />
@@ -2257,11 +2257,11 @@
   <row>
     <BC>683</BC>
     <WN-3.0-Synset>n767826</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>assalto</PT-Words-Man>
     <PT-Word-Cand>assalto, atentado</PT-Word-Cand>
     <EN-Gloss>a threatened or attempted physical attack by someone who appears to be able to cause bodily harm if not stopped</EN-Gloss>
     <EN-Words>assault</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um ataque ou tentativa de ameaça física por alguém que parece ser capaz de provocar danos corporais se não for impedido</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>asalto, atentado, salteo</SPA-Words-Sug>
     <Comments />
@@ -2269,11 +2269,11 @@
   <row>
     <BC>684</BC>
     <WN-3.0-Synset>n768701</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man> crime, assassínio</PT-Words-Man>
     <PT-Word-Cand>Crimes, crime, crimes, felonia</PT-Word-Cand>
     <EN-Gloss>a serious crime (such as murder or arson)</EN-Gloss>
     <EN-Words>felony</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>crime sério(como assassinato ou incêndio culposo)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito, Delitos, delitos, felonía, felonia</SPA-Words-Sug>
     <Comments />
@@ -2281,11 +2281,11 @@
   <row>
     <BC>685</BC>
     <WN-3.0-Synset>n770270</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>infração</PT-Words-Man>
     <PT-Word-Cand>contra-ordenações, infração, infracção</PT-Word-Cand>
     <EN-Gloss>a crime less serious than a felony</EN-Gloss>
     <EN-Words>infraction, infringement, misdemeanor, misdemeanour, violation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um crime menos serio que um assassínio</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito, Falta, falta, contravención, infracción, delito menor</SPA-Words-Sug>
     <Comments />
@@ -2293,12 +2293,12 @@
   <row>
     <BC>686</BC>
     <WN-3.0-Synset>v746718</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mandar</PT-Words-Man>
     <PT-Word-Cand>mandar</PT-Word-Cand>
     <EN-Gloss>give instructions to or direct somebody to do something with authority; "I said to him to go home"; "She ordered him to do the
     shopping"; "The mother told the child to get dressed"</EN-Gloss>
     <EN-Words>enjoin, order, say, tell</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dar instruções a ou diretamente a alguém para fazer algo, com autoridade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2306,11 +2306,11 @@
   <row>
     <BC>687</BC>
     <WN-3.0-Synset>v749963</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>instruir</PT-Words-Man>
     <PT-Word-Cand>instruir</PT-Word-Cand>
     <EN-Gloss>give instructions or directions for some task; "She instructed the students to work on their pronunciation"</EN-Gloss>
     <EN-Words>instruct</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dar instruções ou direções para uma tarefa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>instruir, comisionar</SPA-Words-Sug>
     <Comments />
@@ -2318,12 +2318,12 @@
   <row>
     <BC>688</BC>
     <WN-3.0-Synset>v754942</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>exigir</PT-Words-Man>
     <PT-Word-Cand>pedir, exigir</PT-Word-Cand>
     <EN-Gloss>request urgently and forcefully; "The victim's family is demanding compensation"; "The boss demanded that he be fired immediately";
     "She demanded to see the manager"</EN-Gloss>
     <EN-Words>demand</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pedido com urgência e força</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>solicitar, pedir</SPA-Words-Sug>
     <Comments />
@@ -2331,12 +2331,12 @@
   <row>
     <BC>689</BC>
     <WN-3.0-Synset>v755745</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>requerer</PT-Words-Man>
     <PT-Word-Cand>esperar, pedir</PT-Word-Cand>
     <EN-Gloss>consider obligatory; request and expect; "We require our secretary to be on time"; "Aren't we asking too much of these children?"; "I
     expect my students to arrive in time for their lessons"</EN-Gloss>
     <EN-Words>ask, expect, require</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>considerar obrigatória; pedir e esperar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>requerir, precisar</SPA-Words-Sug>
     <Comments />
@@ -2344,12 +2344,12 @@
   <row>
     <BC>690</BC>
     <WN-3.0-Synset>v756076</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>custar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>take as an undesirable consequence of some event or state of affairs; "the accident claimed three lives"; "The hard work took its toll
     on her"</EN-Gloss>
     <EN-Words>claim, exact, take</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tomar como uma conseqüência indesejável de algum evento ou estado das coisas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>exigir</SPA-Words-Sug>
     <Comments />
@@ -2357,11 +2357,11 @@
   <row>
     <BC>691</BC>
     <WN-3.0-Synset>n780889</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>furto, roubo</PT-Words-Man>
     <PT-Word-Cand>roubo, furto, espoliação, Roubo, assalto</PT-Word-Cand>
     <EN-Gloss>the act of taking something from someone unlawfully; "the thieving is awful at Kennedy International"</EN-Gloss>
     <EN-Words>larceny, stealing, theft, thievery, thieving</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de tomar algo de alguém ilegalmente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Robos, robo, hurto, expoliación, robo, latrocinio</SPA-Words-Sug>
     <Comments />
@@ -2369,11 +2369,11 @@
   <row>
     <BC>692</BC>
     <WN-3.0-Synset>v757544</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>renunciar</PT-Words-Man>
     <PT-Word-Cand>renunciar</PT-Word-Cand>
     <EN-Gloss>cast off; "She renounced her husband"; "The parents repudiated their son"</EN-Gloss>
     <EN-Words>disown, renounce, repudiate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>abandonar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>abjurar, renunciar, rechazar, negar, rehusar</SPA-Words-Sug>
     <Comments />
@@ -2381,12 +2381,12 @@
   <row>
     <BC>693</BC>
     <WN-3.0-Synset>n786195</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esforço</PT-Words-Man>
     <PT-Word-Cand>teste, esforço, tentativa, testes, experiência</PT-Word-Cand>
     <EN-Gloss>earnest and conscientious activity intended to do or accomplish something; "made an effort to cover all the reading material"; "wished
     him luck in his endeavor"; "she gave it a good try"</EN-Gloss>
     <EN-Words>attempt, effort, endeavor, endeavour, try</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade séria e consciente intencionada a fazer ou realizar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>esfuerzo, tentativa, intento, deber, carnet</SPA-Words-Sug>
     <Comments />
@@ -2394,11 +2394,11 @@
   <row>
     <BC>694</BC>
     <WN-3.0-Synset>n786887</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tentativa</PT-Words-Man>
     <PT-Word-Cand>tentativa</PT-Word-Cand>
     <EN-Gloss>an attempt to get something; "they made a futile play for power"; "he made a bid to gain attention"</EN-Gloss>
     <EN-Words>bid, play</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma tentativa de conseguir alguma coisa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2406,11 +2406,11 @@
   <row>
     <BC>695</BC>
     <WN-3.0-Synset>n787061</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tentativa</PT-Words-Man>
     <PT-Word-Cand>teste, tentativa, prova</PT-Word-Cand>
     <EN-Gloss>a usually brief attempt; "he took a crack at it"; "I gave it a whirl"</EN-Gloss>
     <EN-Words>crack, fling, go, offer, pass, whirl</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma tentativa geralmente breve</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2418,11 +2418,11 @@
   <row>
     <BC>696</BC>
     <WN-3.0-Synset>v764032</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>firmar, concordar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>end a legal dispute by arriving at a settlement; "The two parties finally settled"</EN-Gloss>
     <EN-Words>settle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>encerrar uma disputa legal chegando a uma solução</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2430,11 +2430,11 @@
   <row>
     <BC>697</BC>
     <WN-3.0-Synset>n788473</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>chute, tacada</PT-Words-Man>
     <PT-Word-Cand>teste, prova</PT-Word-Cand>
     <EN-Gloss>informal words for any attempt or effort; "he gave it his best shot"; "he took a stab at forecasting"</EN-Gloss>
     <EN-Words>shot, stab</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>palavras informais para qualquer tentativa ou esforço</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2442,11 +2442,11 @@
   <row>
     <BC>698</BC>
     <WN-3.0-Synset>n788766</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esforço</PT-Words-Man>
     <PT-Word-Cand>esforço</PT-Word-Cand>
     <EN-Gloss>an effortful attempt to attain a goal</EN-Gloss>
     <EN-Words>nisus, pains, strain, striving</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma tentativa esforçada para atingir um objetivo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>esfuerzo</SPA-Words-Sug>
     <Comments />
@@ -2454,11 +2454,11 @@
   <row>
     <BC>699</BC>
     <WN-3.0-Synset>v764902</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>conciliar</PT-Words-Man>
     <PT-Word-Cand>conciliar</PT-Word-Cand>
     <EN-Gloss>come to terms; "After some discussion we finally made up"</EN-Gloss>
     <EN-Words>conciliate, make up, patch up, reconcile, settle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>chegar a um acordo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2466,12 +2466,12 @@
   <row>
     <BC>700</BC>
     <WN-3.0-Synset>n788973</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>luta, batalha</PT-Words-Man>
     <PT-Word-Cand>batalha, esforço, luta, combate</PT-Word-Cand>
     <EN-Gloss>an energetic attempt to achieve something; "getting through the crowd was a real struggle"; "he fought a battle for
     recognition"</EN-Gloss>
     <EN-Words>battle, struggle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma tentativa enérgica pra conseguir algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>esfuerzo, lucha, batalla</SPA-Words-Sug>
     <Comments />
@@ -2479,11 +2479,11 @@
   <row>
     <BC>701</BC>
     <WN-3.0-Synset>v765649</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>impelir</PT-Words-Man>
     <PT-Word-Cand>empurrar</PT-Word-Cand>
     <EN-Gloss>force or impel in an indicated direction; "I urged him to finish his studies"</EN-Gloss>
     <EN-Words>exhort, press, urge on, urge</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>forçar ou empurrar na direção indicada</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>exhortar</SPA-Words-Sug>
     <Comments />
@@ -2491,12 +2491,12 @@
   <row>
     <BC>702</BC>
     <WN-3.0-Synset>v766418</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>convencer, persuadir</PT-Words-Man>
     <PT-Word-Cand>convencer, persuadir</PT-Word-Cand>
     <EN-Gloss>cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm; "You can't persuade me to buy this ugly
     vase!"</EN-Gloss>
     <EN-Words>persuade</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer alguém a adotar uma determinada posição, crença, ou curso de ação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>persuadir, convencer</SPA-Words-Sug>
     <Comments />
@@ -2504,12 +2504,12 @@
   <row>
     <BC>703</BC>
     <WN-3.0-Synset>n791078</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>teste</PT-Words-Man>
     <PT-Word-Cand>teste, esforço, tentativa, ensaio</PT-Word-Cand>
     <EN-Gloss>the act of testing something; "in the experimental trials the amount of carbon was measured separately"; "he called each flip of the
     coin a new trial"</EN-Gloss>
     <EN-Words>run, test, trial</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de testar algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ensayo</SPA-Words-Sug>
     <Comments />
@@ -2517,12 +2517,12 @@
   <row>
     <BC>704</BC>
     <WN-3.0-Synset>v769553</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>convencer, persuadir</PT-Words-Man>
     <PT-Word-Cand>convencer, persuadir, debelar</PT-Word-Cand>
     <EN-Gloss>make (someone) agree, understand, or realize the truth or validity of something; "He had finally convinced several customers of the
     advantages of his product"</EN-Gloss>
     <EN-Words>convert, convince, win over</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer (alguém) concordar, entender ou perceber a verdade ou validade de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>persuadir, convencer</SPA-Words-Sug>
     <Comments />
@@ -2530,12 +2530,12 @@
   <row>
     <BC>705</BC>
     <WN-3.0-Synset>v770437</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>induzir</PT-Words-Man>
     <PT-Word-Cand>causar, incitar, fazer, induzir, provocar</PT-Word-Cand>
     <EN-Gloss>cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My
     wife made me buy a new sofa"</EN-Gloss>
     <EN-Words>cause, get, have, induce, make, stimulate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>induzir a fazer; fazer agir de uma forma específica</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>hacer, producir, efectuar, provocar, causar</SPA-Words-Sug>
     <Comments />
@@ -2543,11 +2543,11 @@
   <row>
     <BC>706</BC>
     <WN-3.0-Synset>v771341</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>encorajar</PT-Words-Man>
     <PT-Word-Cand>alentar</PT-Word-Cand>
     <EN-Gloss>spur on; "His financial success encouraged him to look for a wife"</EN-Gloss>
     <EN-Words>encourage</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estimular a</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2555,11 +2555,11 @@
   <row>
     <BC>707</BC>
     <WN-3.0-Synset>v771490</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>deixar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>actively cause something to happen; "I let it be known that I was not interested"</EN-Gloss>
     <EN-Words>let</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ativamente fazer com que algo aconteça</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2567,23 +2567,23 @@
   <row>
     <BC>708</BC>
     <WN-3.0-Synset>n795720</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>projeto</PT-Words-Man>
     <PT-Word-Cand>trabalho, projeto, tarefa, lida</PT-Word-Cand>
     <EN-Gloss>any piece of work that is undertaken or attempted; "he prepared for great undertakings"</EN-Gloss>
     <EN-Words>labor, project, task, undertaking</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer parte do trabalho que é empreendido ou realizado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>deber, tarea, quehacer</SPA-Words-Sug>
-    <Comments />
+    <Comments>não sei se traduzi corretamente esse Gloss para portugues</Comments>
   </row>
   <row>
     <BC>709</BC>
     <WN-3.0-Synset>n796315</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aventura</PT-Words-Man>
     <PT-Word-Cand>aventura, peripécia</PT-Word-Cand>
     <EN-Gloss>a wild and exciting undertaking (not necessarily lawful)</EN-Gloss>
     <EN-Words>adventure, dangerous undertaking, escapade, risky venture</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um empreendimento selvagem e excitante (não necessariamente legal)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>aventura, andanza, escapada</SPA-Words-Sug>
     <Comments />
@@ -2591,12 +2591,12 @@
   <row>
     <BC>710</BC>
     <WN-3.0-Synset>v772967</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>apresentar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>bring forward and present to the mind; "We presented the arguments to him"; "We cannot represent this knowledge to our formal
     reason"</EN-Gloss>
     <EN-Words>lay out, present, represent</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>trazer e apresentar para a mente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2608,19 +2608,19 @@
     <PT-Word-Cand />
     <EN-Gloss>a project of personal concern to someone; "this project is his baby"</EN-Gloss>
     <EN-Words>baby</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um projeto de interesse pessoal a alguém</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>achei que esse synset não faz o menor sentido, o Gloss é mt abrangente para a palavra que está nele</Comments>
   </row>
   <row>
     <BC>712</BC>
     <WN-3.0-Synset>n797878</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">empreendimento_de_risco</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>any venturesome undertaking especially one with an uncertain outcome</EN-Gloss>
     <EN-Words>venture</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer empreendimento ousado especialmente um com um resultado incerto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2628,13 +2628,13 @@
   <row>
     <BC>713</BC>
     <WN-3.0-Synset>n798245</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>causa, campanha</PT-Words-Man>
     <PT-Word-Cand>movimento, campanha</PT-Word-Cand>
     <EN-Gloss>a series of actions advancing a principle or tending toward a particular end; "he supported populist campaigns"; "they worked in the
     cause of world peace"; "the team was ready for a drive toward the pennant"; "the movement to end slavery"; "contributed to the war
     effort"</EN-Gloss>
     <EN-Words>campaign, cause, crusade, drive, effort, movement</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma série de ações avançando um princípio ou tendendo para um fim particular</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2642,11 +2642,11 @@
   <row>
     <BC>714</BC>
     <WN-3.0-Synset>v776059</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>opor</PT-Words-Man>
     <PT-Word-Cand>contradizer</PT-Word-Cand>
     <EN-Gloss>be resistant to; "The board opposed his motion"</EN-Gloss>
     <EN-Words>contradict, controvert, oppose</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser resistente à</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>contradecir</SPA-Words-Sug>
     <Comments />
@@ -2654,11 +2654,11 @@
   <row>
     <BC>715</BC>
     <WN-3.0-Synset>v778275</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>interromper, parar</PT-Words-Man>
     <PT-Word-Cand>interromper</PT-Word-Cand>
     <EN-Gloss>make a break in; "We interrupt the program for the following messages"</EN-Gloss>
     <EN-Words>break up, cut off, disrupt, interrupt</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer uma pausa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2666,12 +2666,12 @@
   <row>
     <BC>716</BC>
     <WN-3.0-Synset>n802238</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>risco</PT-Words-Man>
     <PT-Word-Cand>perigo, risco, riscos</PT-Word-Cand>
     <EN-Gloss>a venture undertaken without regard to possible loss or injury; "he saw the rewards but not the risks of crime"; "there was a danger he
     would do the wrong thing"</EN-Gloss>
     <EN-Words>danger, peril, risk</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um risco empreendido sem levar em conta possíveis perdas ou danos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>riesgo, peligro, riesgos</SPA-Words-Sug>
     <Comments />
@@ -2679,11 +2679,11 @@
   <row>
     <BC>717</BC>
     <WN-3.0-Synset>n803617</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>controle</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the activity of managing or exerting control over something; "the control of the mob by the police was admirable"</EN-Gloss>
     <EN-Words>control</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de manejar ou exercer controle sobre algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2691,11 +2691,11 @@
   <row>
     <BC>718</BC>
     <WN-3.0-Synset>n808182</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>limitação, restrição</PT-Words-Man>
     <PT-Word-Cand>limitação, restrição</PT-Word-Cand>
     <EN-Gloss>an act of limiting or restricting (as by regulation)</EN-Gloss>
     <EN-Words>limitation, restriction</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de limitar ou restringir (por regulação)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2703,11 +2703,11 @@
   <row>
     <BC>719</BC>
     <WN-3.0-Synset>v784342</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>perguntar</PT-Words-Man>
     <PT-Word-Cand>perguntar</PT-Word-Cand>
     <EN-Gloss>inquire about; "I asked about their special today"; "He had to ask directions several times"</EN-Gloss>
     <EN-Words>ask, enquire, inquire</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>questionar sobre</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>informarse, inquirir</SPA-Words-Sug>
     <Comments />
@@ -2715,11 +2715,11 @@
   <row>
     <BC>720</BC>
     <WN-3.0-Synset>n809465</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>possessão</PT-Words-Man>
     <PT-Word-Cand>Propriedade Privada, propriedade privada, posse</PT-Word-Cand>
     <EN-Gloss>the act of having and controlling property</EN-Gloss>
     <EN-Words>ownership, possession</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de ter propriedade e controle</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2727,12 +2727,12 @@
   <row>
     <BC>721</BC>
     <WN-3.0-Synset>v785962</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>investigar</PT-Words-Man>
     <PT-Word-Cand>investigar, pesquisar, interrogar, questionar</PT-Word-Cand>
     <EN-Gloss>conduct an inquiry or investigation of; "The district attorney's office investigated reports of possible irregularities"; "inquire into
     the disappearance of the rich old lady"</EN-Gloss>
     <EN-Words>enquire, inquire, investigate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>Realizar um inquérito ou investigação sobre</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>investigar, indagar, interrogar</SPA-Words-Sug>
     <Comments />
@@ -2740,11 +2740,11 @@
   <row>
     <BC>722</BC>
     <WN-3.0-Synset>v789138</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pesquisar, analizar</PT-Words-Man>
     <PT-Word-Cand>investigar, pesquisar, buscar, procurar, explorar, examinar, escavar</PT-Word-Cand>
     <EN-Gloss>investigate scientifically; "Let's investigate the syntax of Chinese"</EN-Gloss>
     <EN-Words>investigate, look into</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>investigar cientificamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>analizar, investigar, indagar, examinar, revisar, registrar</SPA-Words-Sug>
     <Comments />
@@ -2752,12 +2752,12 @@
   <row>
     <BC>723</BC>
     <WN-3.0-Synset>v789448</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>telefonar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>get or try to get into communication (with someone) by telephone; "I tried to call you all night"; "Take two aspirin and call me in the
     morning"</EN-Gloss>
     <EN-Words>call up, call, phone, ring, telephone</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>obter ou tentar entrar em comunicação (com alguém) por telefone</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>telefonear, llamar por teléfono, hablar por teléfono, llamar</SPA-Words-Sug>
     <Comments />
@@ -2765,7 +2765,7 @@
   <row>
     <BC>724</BC>
     <WN-3.0-Synset>v790703</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true"/>
     <PT-Word-Cand />
     <EN-Gloss>communicate over long distances, as via the telephone or e-mail</EN-Gloss>
     <EN-Words>telecommunicate</EN-Words>
@@ -2777,11 +2777,11 @@
   <row>
     <BC>725</BC>
     <WN-3.0-Synset>n815320</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>orientação</PT-Words-Man>
     <PT-Word-Cand>governo, guida</PT-Word-Cand>
     <EN-Gloss>the act of setting and holding a course; "a new council was installed under the direction of the king"</EN-Gloss>
     <EN-Words>direction, guidance, steering</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato de estabelecer e manter um curso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2789,11 +2789,11 @@
   <row>
     <BC>726</BC>
     <WN-3.0-Synset>n815644</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>alvo, mira</PT-Words-Man>
     <PT-Word-Cand>terem vista</PT-Word-Cand>
     <EN-Gloss>the action of directing something at an object; "he took aim and fired"</EN-Gloss>
     <EN-Words>aim</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>direcionamento de alguma coisa em um objeto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
