@@ -11,34 +11,36 @@
   traduzidos para potuguês. Há caso em que até o EN-Gloss é muito
   parecido.
 
-      <row>
-        <BC>258</BC>
-        <WN-3.0-Synset>v236999</WN-3.0-Synset>
-        <PT-Words-Man>ferver</PT-Words-Man>
-        <PT-Word-Cand />
-        <EN-Gloss>cook until very little liquid is left; "The cook
+
+    <row>
+      <BC>258</BC>
+      <WN-3.0-Synset>v236999</WN-3.0-Synset>
+      <PT-Words-Man>ferver</PT-Words-Man>
+      <PT-Word-Cand />
+      <EN-Gloss>cook until very little liquid is left; "The cook
         reduced the sauce by boiling it for a long time"</EN-Gloss>
-        <EN-Words>boil down, concentrate, reduce</EN-Words>
-        <PT-Gloss>cozinhar até restar muito pouco de líquido</PT-Gloss>
-        <PT-Gloss-Sug />
-        <SPA-Words-Sug />
-        <Comments />
-      </row>
+      <EN-Words>boil down, concentrate, reduce</EN-Words>
+      <PT-Gloss>cozinhar até restar muito pouco de líquido</PT-Gloss>
+      <PT-Gloss-Sug />
+      <SPA-Words-Sug />
+      <Comments />
+    </row>
       
-      <row>
-        <BC>259</BC>
-        <WN-3.0-Synset>v237259</WN-3.0-Synset>
-        <PT-Words-Man>ferver</PT-Words-Man> 
-        <PT-Word-Cand>diminuir</PT-Word-Cand>
-        <EN-Gloss>be cooked until very little liquid is left; "The
+    <row>
+      <BC>259</BC>
+      <WN-3.0-Synset>v237259</WN-3.0-Synset>
+      <PT-Words-Man>ferver</PT-Words-Man> 
+      <PT-Word-Cand>diminuir</PT-Word-Cand>
+      <EN-Gloss>be cooked until very little liquid is left; "The
         sauce should reduce to one cup"</EN-Gloss>
         <EN-Words>boil down, concentrate, decoct, reduce</EN-Words>
-        <PT-Gloss>ser cozinhado até que muito pouco de líquido que 
+      <PT-Gloss>ser cozinhado até que muito pouco de líquido que 
 	reste</PT-Gloss>
-        <PT-Gloss-Sug />
-        <SPA-Words-Sug>mermar, disminuir</SPA-Words-Sug>
-        <Comments /> 
-      </row>
+      <PT-Gloss-Sug />
+      <SPA-Words-Sug>mermar, disminuir</SPA-Words-Sug>
+      <Comments /> 
+    </row>
+    
       
 Existem outros casos também como os synsets(394 e 395), os
 synsets(136, 226 e 227) e os synsets(242 e 243).
@@ -62,6 +64,7 @@ synsets(136, 226 e 227) e os synsets(242 e 243).
   todos vão ser relacionados de uma forma. Um exemplo é o synset 24
   abaixo.
 
+
     <BC>24</BC>
      <WN-3.0-Synset>n20827</WN-3.0-Synset>
      <PT-Words-Man>matéria, átomo, substância</PT-Words-Man>
@@ -76,6 +79,7 @@ synsets(136, 226 e 227) e os synsets(242 e 243).
      <PT-Gloss-Sug />
      <Spa-Words-Sug>materia</Spa-Words-Sug>
     <Comments />
+  
   
 Nesse caso por exemplo é importante verificar o EN-words, porque
 apenas pelo Gloss seria impossível identificar uma palavra, afinal
