@@ -1,3 +1,4 @@
+
 # COMENTÁRIOS
 
 - Um problema na tradução de synsets em inglês para synsets em
@@ -5,30 +6,35 @@
   significado e as vezes certas palavras em inglês tem mais
   significados do que em Português.
 
-- Outro problema é que algumas vezes synsets ,que tem EN-Words muito
-  parecidos ou até iguais em inglês, parecem redundantes quando
-  traduzidos para potuguês.  Há caso em que até o EN-Gloss é muito
+- Outro problema é que algumas vezes synsets que tem EN-Words muito
+  parecidos ou até iguais em inglês parecem redundantes quando
+  traduzidos para potuguês. Há caso em que até o EN-Gloss é muito
   parecido.
 
-     <BC>258</BC>
+      <row>
+        <BC>258</BC>
         <WN-3.0-Synset>v236999</WN-3.0-Synset>
         <PT-Words-Man>ferver</PT-Words-Man>
         <PT-Word-Cand />
-        <EN-Gloss>cook until very little liquid is left; "The cook reduced the sauce by boiling it for a long time"</EN-Gloss>
+        <EN-Gloss>cook until very little liquid is left; "The cook
+        reduced the sauce by boiling it for a long time"</EN-Gloss>
         <EN-Words>boil down, concentrate, reduce</EN-Words>
         <PT-Gloss>cozinhar até restar muito pouco de líquido</PT-Gloss>
         <PT-Gloss-Sug />
         <SPA-Words-Sug />
         <Comments />
       </row>
+      
       <row>
         <BC>259</BC>
         <WN-3.0-Synset>v237259</WN-3.0-Synset>
         <PT-Words-Man>ferver</PT-Words-Man> 
         <PT-Word-Cand>diminuir</PT-Word-Cand>
-        <EN-Gloss>be cooked until very little liquid is left; "The sauce should reduce to one cup"</EN-Gloss>
+        <EN-Gloss>be cooked until very little liquid is left; "The
+        sauce should reduce to one cup"</EN-Gloss>
         <EN-Words>boil down, concentrate, decoct, reduce</EN-Words>
-        <PT-Gloss>ser cozinhado até que muito pouco de líquido que reste</PT-Gloss>
+        <PT-Gloss>ser cozinhado até que muito pouco de líquido que 
+	reste</PT-Gloss>
         <PT-Gloss-Sug />
         <SPA-Words-Sug>mermar, disminuir</SPA-Words-Sug>
         <Comments /> 
@@ -39,7 +45,7 @@ synsets(136, 226 e 227) e os synsets(242 e 243).
 
 - O fato de estamos primeiro pegando um sentido e depois tentando
   encaixar palavras nesse sentido pode acabar criando redundância em
-  alguns casos, isso porque eu não sou especialista em potuguês e não
+  alguns casos, isso porque eu não sou especialista em português e não
   sei a melhor palavra ou a mais apropriada que se encaixa com cada
   Gloss especificamente. É mais garantido quando apartir da palavra se
   acha um significado para tal, mas esse método não funciona no nosso
@@ -57,14 +63,18 @@ synsets(136, 226 e 227) e os synsets(242 e 243).
   abaixo.
 
     <BC>24</BC>
-    <WN-3.0-Synset>n20827</WN-3.0-Synset>
-    <PT-Words-Man>matéria, átomo, substância</PT-Words-Man>
-    <PT-Words-Cand>substância</PT-Words-Cand>
-    <EN-Gloss>that which has mass and occupies space; "physicists study both the nature of matter and the forces which govern it"</EN-Gloss>
-    <EN-Words>matter</EN-Words>
-    <PT-Gloss> tudo aquilo que têm massa e ocupa espaço; "os físicos estudam tanto a natureza da matéria quanto as forças que a governam"</PT-Gloss>
-    <PT-Gloss-Sug />
-    <Spa-Words-Sug>materia</Spa-Words-Sug>
+     <WN-3.0-Synset>n20827</WN-3.0-Synset>
+     <PT-Words-Man>matéria, átomo, substância</PT-Words-Man>
+     <PT-Words-Cand>substância</PT-Words-Cand>
+     <EN-Gloss>that which has mass and occupies space; "physicists
+     study both the nature of matter and the forces which 
+     govern it"</EN-Gloss>
+     <EN-Words>matter</EN-Words>
+     <PT-Gloss> tudo aquilo que têm massa e ocupa espaço; "os físicos
+     estudam tanto a natureza da matéria quanto 
+     as forças que a governam"</PT-Gloss>
+     <PT-Gloss-Sug />
+     <Spa-Words-Sug>materia</Spa-Words-Sug>
     <Comments />
   
 Nesse caso por exemplo é importante verificar o EN-words, porque

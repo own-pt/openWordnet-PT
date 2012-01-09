@@ -1,5 +1,5 @@
 
-# WordNet-BR
+# Open-WordNet-PT
 
 ## About the files
 
@@ -67,7 +67,6 @@ Additional considerations for Step 2:
   lexicalized expressions that would appear in a dictionary, then use
   the following syntax: <PT-Words-Man Lexicalized="false">mover
   reflexivamente</PT-Words-Man>
-  
   
 It might be a good idea to have a WordNet browser open as well
 when doing the annotation, so that you can check hyponyms/hypernyms
