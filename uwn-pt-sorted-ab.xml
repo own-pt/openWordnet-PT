@@ -5293,19 +5293,19 @@
     <PT-Word-Cand>serviço</PT-Word-Cand>
     <EN-Gloss>a service conducted in a house of worship; "don't be late for church"</EN-Gloss>
     <EN-Words>church service, church</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um serviço realizado em uma casa de culto; "não se atrase para a igreja"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não entendi esse synset a definição do Gloss não nada a ver com o exemplo que é dado nele</Comments>
   </row>
   <row>
     <BC>930</BC>
     <WN-3.0-Synset>n1033184</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>liturgia</PT-Words-Man>
     <PT-Word-Cand>liturgia</PT-Word-Cand>
     <EN-Gloss>a rite or body of rites prescribed for public worship</EN-Gloss>
     <EN-Words>liturgy</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um rito ou conjunto de ritos prescrito para adoração pública</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>liturgia</SPA-Words-Sug>
     <Comments />
@@ -5313,13 +5313,13 @@
   <row>
     <BC>931</BC>
     <WN-3.0-Synset>n1034925</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>sacramento</PT-Words-Man>
     <PT-Word-Cand>sacramento, Sacramentos, sacramento</PT-Word-Cand>
     <EN-Gloss>a formal religious ceremony conferring a specific grace on those who receive it; the two Protestant ceremonies are baptism and the
     Lord's Supper; in the Roman Catholic Church and the Eastern Orthodox Church there are seven traditional rites accepted as instituted by Jesus:
     baptism and confirmation and Holy Eucharist and penance and holy orders and matrimony and extreme unction</EN-Gloss>
     <EN-Words>sacrament</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma cerimônia religiosa formal que confere uma graça específica sobre aqueles que a recebem; as duas cerimônias protestantes são o Batismo e a Eucaristia; na Igreja Católica Romana e a Igreja Ortodoxa Oriental há sete ritos tradicionais aceitos como instituídos por Jesus: Batismo, Confirmação (ou Crisma), Eucaristia, Reconciliação (ou Penitência), Unção dos enfermos, Ordem e Matrimônio.</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>sacramento, Sacramento, Sacramentos católicos, sacramento</SPA-Words-Sug>
     <Comments />
@@ -5327,12 +5327,12 @@
   <row>
     <BC>932</BC>
     <WN-3.0-Synset>v1009240</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>falar, dizer</PT-Words-Man>
     <PT-Word-Cand>dizer, manifestar, declinar, asseverar</PT-Word-Cand>
     <EN-Gloss>express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your
     name"</EN-Gloss>
     <EN-Words>say, state, tell</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>expressar em palavras: "Ele disse que queria se casar com ela"; "me diga o que está incomodando"; "fale de sua opinião"; "diga seu nome "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>manifestar, decir</SPA-Words-Sug>
     <Comments />
@@ -5340,11 +5340,11 @@
   <row>
     <BC>933</BC>
     <WN-3.0-Synset>n1036996</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>casamento</PT-Words-Man>
     <PT-Word-Cand>casamento, boda, Casamento, casamento</PT-Word-Cand>
     <EN-Gloss>the act of marrying; the nuptial ceremony; "their marriage was conducted in the chapel"</EN-Gloss>
     <EN-Words>marriage ceremony, marriage, wedding</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de casar; a cerimônia nupcial; "o casamento foi realizado na capela"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>matrimonio, Matrimonio, matrimonio, boda, casamiento, casorio, nupcias, esponsales</SPA-Words-Sug>
     <Comments />
@@ -5352,12 +5352,12 @@
   <row>
     <BC>934</BC>
     <WN-3.0-Synset>n1037819</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>batismo</PT-Words-Man>
     <PT-Word-Cand>batismo, baptismo, Baptismo, batismo</PT-Word-Cand>
     <EN-Gloss>a Christian sacrament signifying spiritual cleansing and rebirth; "most churches baptize infants but some insist on adult
     baptism"</EN-Gloss>
     <EN-Words>baptism</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um sacramento cristão significando purificação e renascimento espiritual; "a maioria das igrejas batiza crianças, mas algumas insistem no batismo em adultos"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>bautizo, bautismo, bautismo</SPA-Words-Sug>
     <Comments />
@@ -5365,11 +5365,11 @@
   <row>
     <BC>935</BC>
     <WN-3.0-Synset>v1011031</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>jurar</PT-Words-Man>
     <PT-Word-Cand>afirmar, declarar, assegurar</PT-Word-Cand>
     <EN-Gloss>to declare or affirm solemnly and formally as true; "Before God I swear I am innocent"</EN-Gloss>
     <EN-Words>affirm, assert, aver, avow, swan, swear, verify</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>declarar ou afirmar solenemente e formalmente como verdade; "Diante de Deus eu juro que sou inocente"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atestar, jurar, testimoniar, certificar, garantizar, afirmar, aseverar</SPA-Words-Sug>
     <Comments />
@@ -5377,11 +5377,11 @@
   <row>
     <BC>936</BC>
     <WN-3.0-Synset>v1011725</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>afirmar</PT-Words-Man>
     <PT-Word-Cand>afirmar</PT-Word-Cand>
     <EN-Gloss>say yes to</EN-Gloss>
     <EN-Words>affirm</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dizer sim para alguma coisa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5389,11 +5389,11 @@
   <row>
     <BC>937</BC>
     <WN-3.0-Synset>n1039925</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>santificação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a religious ceremony in which something is made holy</EN-Gloss>
     <EN-Words>sanctification</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cerimônia religiosa na qual alguém se torna santo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>santificación</SPA-Words-Sug>
     <Comments />
@@ -5401,11 +5401,11 @@
   <row>
     <BC>938</BC>
     <WN-3.0-Synset>v1013040</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>depor</PT-Words-Man>
     <PT-Word-Cand>depor</PT-Word-Cand>
     <EN-Gloss>make a deposition; declare under oath</EN-Gloss>
     <EN-Words>depone, depose, swear</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer uma declaração; declarar sob juramento</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atestar, jurar, atestiguar, testimoniar, testificar, deponer, garantizar, certificar</SPA-Words-Sug>
     <Comments />
@@ -5413,12 +5413,12 @@
   <row>
     <BC>939</BC>
     <WN-3.0-Synset>n1040646</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>consagração</PT-Words-Man>
     <PT-Word-Cand>consagração, consagração</PT-Word-Cand>
     <EN-Gloss>(religion) sanctification of something by setting it apart (usually with religious rites) as dedicated to God; "the Cardinal attended
     the consecration of the church"</EN-Gloss>
     <EN-Words>consecration</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(religião) santificação de algo, definindo-o à parte (geralmente com os ritos religiosos) como dedicado a Deus; "o Cardeal participou da consagração da igreja "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Consagracion, consagración, consagración</SPA-Words-Sug>
     <Comments />
@@ -5426,11 +5426,11 @@
   <row>
     <BC>940</BC>
     <WN-3.0-Synset>v1013367</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enfatizar</PT-Words-Man>
     <PT-Word-Cand>sublinhar, acentuar, enfatizar</PT-Word-Cand>
     <EN-Gloss>to stress, single out as important; "Dr. Jones emphasizes exercise in addition to a change in diet"</EN-Gloss>
     <EN-Words>accent, accentuate, emphasise, emphasize, punctuate, stress</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sublinhar, destacar a importância; "Dr. Pereira enfatiza o exercício físico além de uma mudança na dieta"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>subrayar, acentuar, enfatizar, puntuar</SPA-Words-Sug>
     <Comments />
@@ -5438,11 +5438,11 @@
   <row>
     <BC>941</BC>
     <WN-3.0-Synset>n1042242</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>missa</PT-Words-Man>
     <PT-Word-Cand>missa</PT-Word-Cand>
     <EN-Gloss>(Roman Catholic Church and Protestant Churches) the celebration of the Eucharist</EN-Gloss>
     <EN-Words>Mass</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(Igreja Católica Romana e as Igrejas protestantes) a celebração da Eucaristia</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>misa</SPA-Words-Sug>
     <Comments />
@@ -5450,11 +5450,11 @@
   <row>
     <BC>942</BC>
     <WN-3.0-Synset>v1015244</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>provar, atestar</PT-Words-Man>
     <PT-Word-Cand>provar, atestar, testemunhar, mostrar, certificar</PT-Word-Cand>
     <EN-Gloss>provide evidence for; "The blood test showed that he was the father"; "Her behavior testified to her incompetence"</EN-Gloss>
     <EN-Words>bear witness, evidence, prove, show, testify</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fornecer evidências para; "O exame de sangue provou que ele era o pai"; "Seu comportamento atestou sua incompetência"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atestiguar, designar, evidenciar</SPA-Words-Sug>
     <Comments />
@@ -5462,11 +5462,11 @@
   <row>
     <BC>943</BC>
     <WN-3.0-Synset>v1016778</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>sustentar, manter</PT-Words-Man>
     <PT-Word-Cand>afirmar</PT-Word-Cand>
     <EN-Gloss>state categorically</EN-Gloss>
     <EN-Words>assert, asseverate, maintain</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>afirmar categoricamente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>aseverar, hacer valer</SPA-Words-Sug>
     <Comments />
@@ -5474,11 +5474,11 @@
   <row>
     <BC>944</BC>
     <WN-3.0-Synset>v1018352</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reivindicar</PT-Words-Man>
     <PT-Word-Cand>reivindicar</PT-Word-Cand>
     <EN-Gloss>ask for legally or make a legal claim to, as of debts, for example; "They claimed on the maximum allowable amount"</EN-Gloss>
     <EN-Words>claim</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pedir legalmente ou fazer uma reclamação legal sobre algo, como de dívidas; "Eles reivindicaram sobre o valor máximo permitido"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5486,11 +5486,11 @@
   <row>
     <BC>945</BC>
     <WN-3.0-Synset>v1020356</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>registrar</PT-Words-Man>
     <PT-Word-Cand>escrever nota sobre, tomar nota de</PT-Word-Cand>
     <EN-Gloss>put down in writing; of texts, musical compositions, etc.</EN-Gloss>
     <EN-Words>get down, put down, set down, write down</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>colocar por escrito; textos, composições musicais, etc</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>anotar</SPA-Words-Sug>
     <Comments />
@@ -5498,11 +5498,11 @@
   <row>
     <BC>946</BC>
     <WN-3.0-Synset>v1020934</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>anotar</PT-Words-Man>
     <PT-Word-Cand>anotar</PT-Word-Cand>
     <EN-Gloss>make a written note of; "she noted everything the teacher said that morning"</EN-Gloss>
     <EN-Words>note, take down</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer uma nota escrita; " ela anotou tudo o que o professor disse de manhã"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5510,11 +5510,11 @@
   <row>
     <BC>947</BC>
     <WN-3.0-Synset>n1048912</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ocultação</PT-Words-Man>
     <PT-Word-Cand>ocultação</PT-Word-Cand>
     <EN-Gloss>the activity of keeping something secret</EN-Gloss>
     <EN-Words>concealing, concealment, hiding</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de manter algo secreto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ocultamiento</SPA-Words-Sug>
     <Comments />
@@ -5522,11 +5522,11 @@
   <row>
     <BC>948</BC>
     <WN-3.0-Synset>n1049266</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>camuflagem</PT-Words-Man>
     <PT-Word-Cand>camuflagem, disfarce</PT-Word-Cand>
     <EN-Gloss>the act of concealing the identity of something by modifying its appearance; "he is a master of disguise"</EN-Gloss>
     <EN-Words>camouflage, disguise</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de ocultar a identidade de algo, modificando sua aparência; "ele é um mestre do disfarce"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>camuflaje</SPA-Words-Sug>
     <Comments />
@@ -5534,11 +5534,11 @@
   <row>
     <BC>949</BC>
     <WN-3.0-Synset>v1021629</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>arranjar, providenciar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make arrangements for; "Can you arrange a meeting with the President?"</EN-Gloss>
     <EN-Words>arrange, fix up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tomar providências para algo; "Você pode arranjar uma reunião com o presidente?"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5546,11 +5546,11 @@
   <row>
     <BC>950</BC>
     <WN-3.0-Synset>n1051331</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>posicionamento, colocação</PT-Words-Man>
     <PT-Word-Cand>posição, localização, colocação, posicionamento</PT-Word-Cand>
     <EN-Gloss>the act of putting something in a certain place</EN-Gloss>
     <EN-Words>emplacement, locating, location, placement, position, positioning</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de colocar algo em um determinado lugar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>emplazamiento, colocación, posicionamiento, puesta</SPA-Words-Sug>
     <Comments />
@@ -5558,11 +5558,11 @@
   <row>
     <BC>951</BC>
     <WN-3.0-Synset>v1025246</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>levantar, apresentar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>put forward for consideration or discussion; "raise the question of promotions"; "bring up an unpleasant topic"</EN-Gloss>
     <EN-Words>bring up, raise</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>botar em análise ou discussão; "levantar a questão de promoções"; "apresentar um assunto desagradável"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5570,11 +5570,11 @@
   <row>
     <BC>952</BC>
     <WN-3.0-Synset>v1025785</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desenterrar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>mention something unpleasant from the past; "Drag up old stories"</EN-Gloss>
     <EN-Words>drag up, dredge up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mencionar algo desagradável ​​no passado; "desenterrar velhas histórias"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>retraer, reprochar</SPA-Words-Sug>
     <Comments />
@@ -5582,12 +5582,12 @@
   <row>
     <BC>953</BC>
     <WN-3.0-Synset>n1053617</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>permanência</PT-Words-Man>
     <PT-Word-Cand>interrupção</PT-Word-Cand>
     <EN-Gloss>continuing or remaining in a place or state; "they had a nice stay in Paris"; "a lengthy hospital stay"; "a four-month stay in
     bankruptcy court"</EN-Gloss>
     <EN-Words>stay</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de continuar ou permanecer em um lugar ou estado; "eles tiveram uma agradável permanência em Paris"; "um hospital longa permanência"; "uma permanência de quatro meses no tribunal de falências"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>stage, estay</SPA-Words-Sug>
     <Comments />
@@ -5595,11 +5595,11 @@
   <row>
     <BC>954</BC>
     <WN-3.0-Synset>n1053920</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>habitação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of dwelling in a place</EN-Gloss>
     <EN-Words>abidance, residence, residency</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de habitar em um lugar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5607,11 +5607,11 @@
   <row>
     <BC>955</BC>
     <WN-3.0-Synset>v1028079</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>batizar</PT-Words-Man>
     <PT-Word-Cand>batizar, baptizar, denominar, nomear</PT-Word-Cand>
     <EN-Gloss>administer baptism to; "The parents had the child baptized"</EN-Gloss>
     <EN-Words>baptise, baptize, christen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>administrar o batismo; "Os pais da criança batizada"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>bautizar</SPA-Words-Sug>
     <Comments />
@@ -5619,12 +5619,12 @@
   <row>
     <BC>956</BC>
     <WN-3.0-Synset>v1028748</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>nomear, chamar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>assign a specified (usually proper) proper name to; "They named their son David"; "The new school was named after the famous Civil
     Rights leader"</EN-Gloss>
     <EN-Words>call, name</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atribuir um nome específico (geralmente adequado); "Eles nomearam seu filho de Ronaldo"; "A nova escola foi nomeado após o famoso líder do Direito Cívil "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>bautizar</SPA-Words-Sug>
     <Comments />
@@ -5632,11 +5632,11 @@
   <row>
     <BC>957</BC>
     <WN-3.0-Synset>n1057200</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fornecimento, abastecimento</PT-Words-Man>
     <PT-Word-Cand>abastecimento, fornecimento, provisão, aprovisionamento</PT-Word-Cand>
     <EN-Gloss>the activity of supplying or providing something</EN-Gloss>
     <EN-Words>provision, supply, supplying</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de suprir ou provir algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>abastecimiento, suministro, provisión</SPA-Words-Sug>
     <Comments />
@@ -5644,11 +5644,11 @@
   <row>
     <BC>958</BC>
     <WN-3.0-Synset>v1029852</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>rotular</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>assign a label to; designate with a label; "These students were labelled `learning disabled'"</EN-Gloss>
     <EN-Words>label</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atribuir uma classificação; designar com um rótulo; "Esses alunos foram rotulados de -dificuldade de aprendizagem- "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5656,11 +5656,11 @@
   <row>
     <BC>959</BC>
     <WN-3.0-Synset>v1030132</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>denominar, chamar</PT-Words-Man>
     <PT-Word-Cand>denominar</PT-Word-Cand>
     <EN-Gloss>assign a name or title to</EN-Gloss>
     <EN-Words>denominate, designate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atribuir um nome ou título</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>denominar</SPA-Words-Sug>
     <Comments />
@@ -5668,12 +5668,12 @@
   <row>
     <BC>960</BC>
     <WN-3.0-Synset>v1031256</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enviar, mandar</PT-Words-Man>
     <PT-Word-Cand>enviar, remeter</PT-Word-Cand>
     <EN-Gloss>cause to be directed or transmitted to another place; "send me your latest results"; "I'll mail you the paper when it's
     written"</EN-Gloss>
     <EN-Words>mail, post, send</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causa de ser dirigido ou transmitido para outro lugar; "envie-me os últimos resultados"; "Eu vou enviar-lhe o papel quando estiver escrito "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5681,12 +5681,12 @@
   <row>
     <BC>961</BC>
     <WN-3.0-Synset>v1033527</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tratar, falar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>act on verbally or in some form of artistic expression; "This book deals with incest"; "The course covered all of Western
     Civilization"; "The new book treats the history of China"</EN-Gloss>
     <EN-Words>address, cover, deal, handle, plow, treat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>agir verbalmente ou em alguma forma de expressão artística; "Este livro trata de incesto"; "O curso fala de todas as civilizações ocidentais"; "O novo livro trata da história da China"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5694,11 +5694,11 @@
   <row>
     <BC>962</BC>
     <WN-3.0-Synset>n1062583</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ociosidade</PT-Words-Man>
     <PT-Word-Cand>ociosidade, inatividade</PT-Word-Cand>
     <EN-Gloss>being inactive; being less active</EN-Gloss>
     <EN-Words>inactivity</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser inativo; ser menos ativo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>inactividad, ociosidad</SPA-Words-Sug>
     <Comments />
@@ -5706,11 +5706,11 @@
   <row>
     <BC>963</BC>
     <WN-3.0-Synset>n1062817</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pausa, intervalo</PT-Words-Man>
     <PT-Word-Cand>pausa, suspensão</PT-Word-Cand>
     <EN-Gloss>temporary inactivity</EN-Gloss>
     <EN-Words>pause</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>temporariamente inativo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>descanso, pausa</SPA-Words-Sug>
     <Comments />
@@ -5718,11 +5718,11 @@
   <row>
     <BC>964</BC>
     <WN-3.0-Synset>v1036804</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tagarelar</PT-Words-Man>
     <PT-Word-Cand>charlar</PT-Word-Cand>
     <EN-Gloss>speak (about unimportant matters) rapidly and incessantly</EN-Gloss>
     <EN-Words>blab, blabber, chatter, clack, gabble, gibber, maunder, palaver, piffle, prate, prattle, tattle, tittle-tattle, twaddle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>falar de forma rápida e incessantemente (normalmente sobre assuntos sem importância)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cotillear, chismorrear, charlar, parlotear, badajear</SPA-Words-Sug>
     <Comments />
@@ -5730,11 +5730,11 @@
   <row>
     <BC>965</BC>
     <WN-3.0-Synset>n1066163</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>adiar, retardar</PT-Words-Man>
     <PT-Word-Cand>atraso, demora</PT-Word-Cand>
     <EN-Gloss>the act of delaying; inactivity resulting in something being put off until a later time</EN-Gloss>
     <EN-Words>delay, holdup</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de atrasar; inatividade resultando em algo que está sendo adiado para um momento posterior</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>retraso, retardo, rezago</SPA-Words-Sug>
     <Comments />
@@ -5742,12 +5742,12 @@
   <row>
     <BC>966</BC>
     <WN-3.0-Synset>v1038666</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>papear, bater_papo</PT-Words-Man>
     <PT-Word-Cand>bater papo</PT-Word-Cand>
     <EN-Gloss>talk socially without exchanging too much information; "the men were sitting in the cafe and shooting the breeze"</EN-Gloss>
     <EN-Words>chaffer, chat, chatter, chew the fat, chit-chat, chitchat, claver, confab, confabulate, gossip, jaw, natter, shoot the breeze,
     visit</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>falar socialmente sem trocar muita informação; "os homens estavam sentados no café batendo papo"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>parlar, garlar, chatear, platicar</SPA-Words-Sug>
     <Comments />
@@ -5755,11 +5755,11 @@
   <row>
     <BC>967</BC>
     <WN-3.0-Synset>n1068773</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>abstinência</PT-Words-Man>
     <PT-Word-Cand>abstinência, abstinência</PT-Word-Cand>
     <EN-Gloss>act or practice of refraining from indulging an appetite</EN-Gloss>
     <EN-Words>abstinence</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ato ou prática de se abster de satisfazer um apetite</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>abstinencia</SPA-Words-Sug>
     <Comments />
@@ -5767,11 +5767,11 @@
   <row>
     <BC>968</BC>
     <WN-3.0-Synset>n1069980</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>jejum</PT-Words-Man>
     <PT-Word-Cand>jejum, jejum</PT-Word-Cand>
     <EN-Gloss>abstaining from food</EN-Gloss>
     <EN-Words>fast, fasting</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>se abster da comida</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ayuno, ayuno</SPA-Words-Sug>
     <Comments />
@@ -5779,11 +5779,11 @@
   <row>
     <BC>969</BC>
     <WN-3.0-Synset>v1043887</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>apitar, sibilar</PT-Words-Man>
     <PT-Word-Cand>silvar</PT-Word-Cand>
     <EN-Gloss>make a whining, ringing, or whistling sound; "the kettle was singing"; "the bullet sang past his ear"</EN-Gloss>
     <EN-Words>sing, whistle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um gemido, zunido ou som de assobio; "a chaleira estava cantando"; "a bala sibilou do lado de sua orelha"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>silbar, pitar</SPA-Words-Sug>
     <Comments />
@@ -5791,11 +5791,11 @@
   <row>
     <BC>970</BC>
     <WN-3.0-Synset>v1044114</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>murmurar</PT-Words-Man>
     <PT-Word-Cand>murmurar</PT-Word-Cand>
     <EN-Gloss>speak softly or indistinctly; "She murmured softly to the baby in her arms"</EN-Gloss>
     <EN-Words>murmur</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>falar baixinho ou indistintamente; "Ela murmurou baixinho para o bebê nos braços"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>musitar, susurrar</SPA-Words-Sug>
     <Comments />
@@ -5803,11 +5803,11 @@
   <row>
     <BC>971</BC>
     <WN-3.0-Synset>v1044533</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>balbuciar, murmurar</PT-Words-Man>
     <PT-Word-Cand>murmurar</PT-Word-Cand>
     <EN-Gloss>talk indistinctly; usually in a low voice</EN-Gloss>
     <EN-Words>maunder, mumble, mussitate, mutter</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>falar indistintamente; geralmente em voz baixa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mascullar, susurrar, mascujar</SPA-Words-Sug>
     <Comments />
@@ -5815,11 +5815,11 @@
   <row>
     <BC>972</BC>
     <WN-3.0-Synset>n1073995</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>interferência, impedimento</PT-Words-Man>
     <PT-Word-Cand>interferência</PT-Word-Cand>
     <EN-Gloss>the act of hindering or obstructing or impeding</EN-Gloss>
     <EN-Words>hinderance, hindrance, interference</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de impedir ou obstruir</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>interferencia</SPA-Words-Sug>
     <Comments />
@@ -5827,11 +5827,11 @@
   <row>
     <BC>973</BC>
     <WN-3.0-Synset>v1046059</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>rugir</PT-Words-Man>
     <PT-Word-Cand>mugir</PT-Word-Cand>
     <EN-Gloss>make a loud noise, as of wind, water, or vehicles; "The wind was howling in the trees"; "The water roared down the chute"</EN-Gloss>
     <EN-Words>howl, roar</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um barulho alto, como de vento, água ou veículos; "O vento estava rugindo nas árvores"; "A água rugiu pela calha"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5839,11 +5839,11 @@
   <row>
     <BC>974</BC>
     <WN-3.0-Synset>n1074498</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>obstrução</PT-Words-Man>
     <PT-Word-Cand>obstrução, obstáculo, obstrução</PT-Word-Cand>
     <EN-Gloss>the act of obstructing; "obstruction of justice"</EN-Gloss>
     <EN-Words>obstruction</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de obstruir; "obstrução da justiça"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5851,11 +5851,11 @@
   <row>
     <BC>975</BC>
     <WN-3.0-Synset>v1047596</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>bradar, vociferar</PT-Words-Man>
     <PT-Word-Cand>vociferar, ladrar, latir</PT-Word-Cand>
     <EN-Gloss>speak in an unfriendly tone; "She barked into the dictaphone"</EN-Gloss>
     <EN-Words>bark</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>falar em um tom hostil; "Ela bradou para o ditafone"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5863,11 +5863,11 @@
   <row>
     <BC>976</BC>
     <WN-3.0-Synset>v1047745</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>latir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make barking sounds; "The dogs barked at the stranger"</EN-Gloss>
     <EN-Words>bark</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer sons de latido; "Os cachorros latiram para o estrangeiro"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5875,12 +5875,12 @@
   <row>
     <BC>977</BC>
     <WN-3.0-Synset>n1076046</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>paralização</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the act of stopping something; "the third baseman made some remarkable stops"; "his stoppage of the flow resulted in a
     flood"</EN-Gloss>
     <EN-Words>stop, stoppage</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de parar alguma coisa; "jogador de beisebol fez algumas paralizações notáveis"; "a paralisação do fluxo resultou em uma inundação "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5888,7 +5888,7 @@
   <row>
     <BC>978</BC>
     <WN-3.0-Synset>v1050896</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>sing or play with trills, alternating with the half note above or below</EN-Gloss>
     <EN-Words>quaver, trill, warble</EN-Words>
@@ -5900,11 +5900,11 @@
   <row>
     <BC>979</BC>
     <WN-3.0-Synset>v1051956</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>gritar, rugir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>talk in a noisy, excited, or declamatory manner</EN-Gloss>
     <EN-Words>jabber, mouth off, rabbit on, rant, rave, spout</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>falar de uma forma barulhenta, animada ou declamatória</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>charlar, delirar</SPA-Words-Sug>
     <Comments />
