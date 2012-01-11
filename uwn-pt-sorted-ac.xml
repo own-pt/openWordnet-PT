@@ -3,12 +3,12 @@
   <row>
     <BC>999</BC>
     <WN-3.0-Synset>n1097292</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mercado</PT-Words-Man>
     <PT-Word-Cand>mercado, Mercado, mercado</PT-Word-Cand>
     <EN-Gloss>the world of commercial activity where goods and services are bought and sold; "without competition there would be no market"; "they
     were driven from the marketplace"</EN-Gloss>
     <EN-Words>market place, market, marketplace</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o universo da atividade comercial onde bens e serviços são comprados e vendidos; "sem competição não haveria mercado"; "eles foram expulsos do mercado "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Mercados, mercado, mercado</SPA-Words-Sug>
     <Comments />
@@ -16,11 +16,11 @@
   <row>
     <BC>1000</BC>
     <WN-3.0-Synset>n1098698</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>finança</PT-Words-Man>
     <PT-Word-Cand>finanças</PT-Word-Cand>
     <EN-Gloss>the commercial activity of providing funds and capital</EN-Gloss>
     <EN-Words>finance</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade comercial de fornecimento de fundos e capital</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Hacienda, finanza</SPA-Words-Sug>
     <Comments />
@@ -28,11 +28,11 @@
   <row>
     <BC>1001</BC>
     <WN-3.0-Synset>n1099436</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>investimento</PT-Words-Man>
     <PT-Word-Cand>Investimento, investimento</PT-Word-Cand>
     <EN-Gloss>the act of investing; laying out money or capital in an enterprise with the expectation of profit</EN-Gloss>
     <EN-Words>investing, investment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de investir; dispor o dinheiro ou capital de uma empresa com uma expectativa de lucro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Inversión, Inversion, inversión, inversión</SPA-Words-Sug>
     <Comments />
@@ -40,11 +40,11 @@
   <row>
     <BC>1002</BC>
     <WN-3.0-Synset>v1072262</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>competir</PT-Words-Man>
     <PT-Word-Cand>competir, contender, rivalizar, concorrer</PT-Word-Cand>
     <EN-Gloss>compete for something; engage in a contest; measure oneself against others</EN-Gloss>
     <EN-Words>compete, contend, vie</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>competir por alguma coisa; se envolver em uma competição; medir-se em relação aos outros</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>rivalizar, contender, competer, competir</SPA-Words-Sug>
     <Comments />
@@ -52,12 +52,12 @@
   <row>
     <BC>1003</BC>
     <WN-3.0-Synset>v1072949</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>jogar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>participate in games or sport; "We played hockey all afternoon"; "play cards"; "Pele played for the Brazilian teams in many important
     matches"</EN-Gloss>
     <EN-Words>play</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>participar de jogos ou desportos; "Nós jogamos hockey durante toda a tarde"; "jogar cartas"; "Pelé jogou para o time brasileiro em muitos jogos importantes "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -65,11 +65,11 @@
   <row>
     <BC>1004</BC>
     <WN-3.0-Synset>n1105259</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transporte, expedição</PT-Words-Man>
     <PT-Word-Cand>transporte, transporte (tráfego)</PT-Word-Cand>
     <EN-Gloss>the commercial enterprise of moving goods and materials</EN-Gloss>
     <EN-Words>shipping, transport, transportation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um empreendimento comercial de mover bens e materiais</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>trasporte</SPA-Words-Sug>
     <Comments />
@@ -77,12 +77,13 @@
   <row>
     <BC>1005</BC>
     <WN-3.0-Synset>n1106808</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transação</PT-Words-Man>
     <PT-Word-Cand>transacção, transação</PT-Word-Cand>
     <EN-Gloss>the act of transacting within or between groups (as carrying on commercial activities); "no transactions are possible without him"; "he
     has always been honest is his dealings with me"</EN-Gloss>
     <EN-Words>dealing, dealings, transaction</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de transigir com ou entre grupos (exercendo actividades comerciais); "nenhuma transação é possível sem ele"; "ele
+     sempre foi honesto em suas transações comigo "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comercio, transacción</SPA-Words-Sug>
     <Comments />
@@ -90,11 +91,11 @@
   <row>
     <BC>1006</BC>
     <WN-3.0-Synset>v1082454</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>capturar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>be the catcher; "Who is catching?"</EN-Gloss>
     <EN-Words>catch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser o apanhador; "Quem está capturando?"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -102,11 +103,11 @@
   <row>
     <BC>1007</BC>
     <WN-3.0-Synset>v1083044</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desistir, abandonar</PT-Words-Man>
     <PT-Word-Cand>abandonar</PT-Word-Cand>
     <EN-Gloss>give up in the face of defeat of lacking hope; admit defeat; "In the second round, the challenger gave up"</EN-Gloss>
     <EN-Words>chuck up the sponge, drop by the wayside, drop out, fall by the wayside, give up, quit, throw in the towel, throw in</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>desistir na cara da derrota de falta de esperança; admitir a derrota; "No segundo round, o desafiante desistiu"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>parar, tirar la toalla</SPA-Words-Sug>
     <Comments />
@@ -114,11 +115,11 @@
   <row>
     <BC>1008</BC>
     <WN-3.0-Synset>n1113068</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>venda</PT-Words-Man>
     <PT-Word-Cand>venda, marketing</PT-Word-Cand>
     <EN-Gloss>the exchange of goods for an agreed sum of money</EN-Gloss>
     <EN-Words>marketing, merchandising, selling</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a troca de bens por um valor acordado de dinheiro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comercialización, marketing, distribución, mercadotécnia, mercadotecnia</SPA-Words-Sug>
     <Comments />
@@ -126,11 +127,11 @@
   <row>
     <BC>1009</BC>
     <WN-3.0-Synset>n1115162</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>marketing, venda</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the activity of persuading someone to buy; "it was a hard sell"</EN-Gloss>
     <EN-Words>sell</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de convencer alguém a comprar; "foi uma venda difícil"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -138,11 +139,11 @@
   <row>
     <BC>1010</BC>
     <WN-3.0-Synset>n1117541</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>venda</PT-Words-Man>
     <PT-Word-Cand>venda</PT-Word-Cand>
     <EN-Gloss>the general activity of selling; "they tried to boost sales"; "laws limit the sale of handguns"</EN-Gloss>
     <EN-Words>sale</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade geral de vender; "eles tentaram impulsionar as vendas"; "leis limitaram a venda de armas de fogo"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>venta de saldos</SPA-Words-Sug>
     <Comments />
@@ -150,12 +151,12 @@
   <row>
     <BC>1011</BC>
     <WN-3.0-Synset>n1117723</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>promoção</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>an occasion (usually brief) for buying at specially reduced prices; "they held a sale to reduce their inventory"; "I got some great
     bargains at their annual sale"</EN-Gloss>
     <EN-Words>cut-rate sale, sale, sales event</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma ocasião para comprar a preços especialmente reduzidos (geralmente breve); "eles realizaram uma promoção para reduzir seus estoques"; "eu ganhei ótimas promoções na venda anual deles "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -163,11 +164,11 @@
   <row>
     <BC>1012</BC>
     <WN-3.0-Synset>v1088923</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>situar</PT-Words-Man>
     <PT-Word-Cand>colocar, situar, pôr, enviar</PT-Word-Cand>
     <EN-Gloss>assign to a station</EN-Gloss>
     <EN-Words>place, post, send, station</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>chegar em um estação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -175,11 +176,11 @@
   <row>
     <BC>1013</BC>
     <WN-3.0-Synset>a1059400</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fixa, fixado, fixada</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>securely placed or fastened or set; "a fixed piece of wood"; "a fixed resistor"</EN-Gloss>
     <EN-Words>fixed</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>colocado com segurança, fixado ou preso ; "uma peça fixa de madeira"; "um resistor fixo"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>fijo</SPA-Words-Sug>
     <Comments />

@@ -5912,11 +5912,11 @@
   <row>
     <BC>980</BC>
     <WN-3.0-Synset>n1080366</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">ação_em_grupo</PT-Words-Man>
     <PT-Word-Cand>acção de grupo</PT-Word-Cand>
     <EN-Gloss>action taken by a group of people</EN-Gloss>
     <EN-Words>group action</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ação tomada por um grupo de pessoas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5924,11 +5924,11 @@
   <row>
     <BC>981</BC>
     <WN-3.0-Synset>n1083077</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>distribuição</PT-Words-Man>
     <PT-Word-Cand>atribuição, distribução, distribuição</PT-Word-Cand>
     <EN-Gloss>the act of distributing or spreading or apportioning</EN-Gloss>
     <EN-Words>distribution</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de distribuir ou difundir ou dividir</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5936,12 +5936,12 @@
   <row>
     <BC>982</BC>
     <WN-3.0-Synset>n1083645</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>repartição, divisão</PT-Words-Man>
     <PT-Word-Cand>atribuição</PT-Word-Cand>
     <EN-Gloss>the act of distributing by allotting or apportioning; distribution according to a plan; "the apportionment of seats in the House of
     Representatives is based on the relative population of each state"</EN-Gloss>
     <EN-Words>allocation, allotment, apportioning, apportionment, assignation, parceling, parcelling</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de distribuir pela atribuição ou repartição; distribuição de acordo com um plano; "a repartição dos assentos na Câmara dos Representantes é com base na população relativa de cada estado "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>asignación, parcelación, adjudicación, repartición, prorrateo, reparto</SPA-Words-Sug>
     <Comments />
@@ -5949,11 +5949,11 @@
   <row>
     <BC>983</BC>
     <WN-3.0-Synset>v1055829</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cantarolar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>sing with closed lips; "She hummed a melody"</EN-Gloss>
     <EN-Words>hum</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cantar com os lábios cerrados; "Ela cantarolou uma melodia"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5961,23 +5961,23 @@
   <row>
     <BC>984</BC>
     <WN-3.0-Synset>v1055978</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>pronounce with a roll, of the phoneme /r/; "She rolls her r's"</EN-Gloss>
     <EN-Words>roll</EN-Words>
     <PT-Gloss />
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>acredito que esse synset não possui representante na lingua portuguesa</Comments>
   </row>
   <row>
     <BC>985</BC>
     <WN-3.0-Synset>n1085098</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>parte, parcela</PT-Words-Man>
     <PT-Word-Cand>atribuição</PT-Word-Cand>
     <EN-Gloss>the allotment of some amount by dividing something; "death gets more than its share of attention from theologians"</EN-Gloss>
     <EN-Words>parcel, portion, share</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a distribuição de uma certa quantia, dividindo alguma coisa; "a morte é mais do que parte da atenção dos teólogos"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5985,11 +5985,11 @@
   <row>
     <BC>986</BC>
     <WN-3.0-Synset>n1085793</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>partilha, partição</PT-Words-Man>
     <PT-Word-Cand>partilha, compartilhamento</PT-Word-Cand>
     <EN-Gloss>a distribution in shares</EN-Gloss>
     <EN-Words>share-out, sharing</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma distribuição em partes</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>compartir</SPA-Words-Sug>
     <Comments />
@@ -5997,11 +5997,11 @@
   <row>
     <BC>987</BC>
     <WN-3.0-Synset>n1086081</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>doação</PT-Words-Man>
     <PT-Word-Cand>presente, presente, doação, mimo</PT-Word-Cand>
     <EN-Gloss>the act of giving</EN-Gloss>
     <EN-Words>gift, giving</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de dar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>regalo, regalo, donación, aportación, obsequio</SPA-Words-Sug>
     <Comments />
@@ -6009,11 +6009,11 @@
   <row>
     <BC>988</BC>
     <WN-3.0-Synset>v1058224</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>crepitar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make a crushing noise; "his shoes were crunching on the gravel"</EN-Gloss>
     <EN-Words>crackle, crunch, scranch, scraunch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um barulho de esmagamento; "seus sapatos estavam crepitando no cascalho"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -6021,11 +6021,11 @@
   <row>
     <BC>989</BC>
     <WN-3.0-Synset>v1059564</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ignorar, desconsiderar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>refuse to acknowledge; "She cut him dead at the meeting"</EN-Gloss>
     <EN-Words>cut, disregard, ignore, snub</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>se recusar a reconhecer; "Ela ignorou sua morte na reunião"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -6033,11 +6033,11 @@
   <row>
     <BC>990</BC>
     <WN-3.0-Synset>v1059743</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>relinchar</PT-Words-Man> 
     <PT-Word-Cand>relinchar, rinchar</PT-Word-Cand>
     <EN-Gloss>make a characteristic sound, of a horse</EN-Gloss>
     <EN-Words>neigh, nicker, whicker, whinny</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um som característico, de um cavalo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>gritar, relinchar</SPA-Words-Sug>
     <Comments />
@@ -6045,11 +6045,11 @@
   <row>
     <BC>991</BC>
     <WN-3.0-Synset>v1061017</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transmitir</PT-Words-Man>
     <PT-Word-Cand>transmitir</PT-Word-Cand>
     <EN-Gloss>serve as a means for expressing something; "The painting of Mary carries motherly love"; "His voice carried a lot of anger"</EN-Gloss>
     <EN-Words>carry, convey, express</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>servir como um meio para expressar algo; "A pintura de Maria transmiti amor materno"; "Sua voz transmitia muita de raiva"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comunicar</SPA-Words-Sug>
     <Comments />
@@ -6057,11 +6057,11 @@
   <row>
     <BC>992</BC>
     <WN-3.0-Synset>n1090446</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>comércio</PT-Words-Man>
     <PT-Word-Cand>comércio, transacção comercial, comércio (economia)</PT-Word-Cand>
     <EN-Gloss>transactions (sales and purchases) having the objective of supplying commodities (goods and services)</EN-Gloss>
     <EN-Words>commerce, commercialism, mercantilism</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>transações (compras e vendas) que tem o objetivo de ofertar produtos (bens e serviços)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comercialismo, comercio, espíritu comercial, mercantilismo</SPA-Words-Sug>
     <Comments />
@@ -6069,11 +6069,11 @@
   <row>
     <BC>993</BC>
     <WN-3.0-Synset>v1063695</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>solicitar, requerer</PT-Words-Man>
     <PT-Word-Cand>pedir, convidar</PT-Word-Cand>
     <EN-Gloss>request the participation or presence of; "The organizers invite submissions of papers for the conference"</EN-Gloss>
     <EN-Words>call for, invite</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pedir a participação ou presença de alguma coisa; "Os organizadores solicitam submissões de artigos para a conferência"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>pedir, solicitar</SPA-Words-Sug>
     <Comments />
@@ -6081,11 +6081,11 @@
   <row>
     <BC>994</BC>
     <WN-3.0-Synset>v1063930</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>compartilhar</PT-Words-Man>
     <PT-Word-Cand>compartilhar</PT-Word-Cand>
     <EN-Gloss>communicate; "I'd like to share this idea with you"</EN-Gloss>
     <EN-Words>share</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>transmitir; "Eu gostaria de compartilhar esta idéia com você"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -6093,12 +6093,12 @@
   <row>
     <BC>995</BC>
     <WN-3.0-Synset>n1094725</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>negócio, comércio</PT-Words-Man>
     <PT-Word-Cand>comércio, negócio</PT-Word-Cand>
     <EN-Gloss>the activity of providing goods and services involving financial and commercial and industrial aspects; "computers are now widely used
     in business"</EN-Gloss>
     <EN-Words>business enterprise, business, commercial enterprise</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de fornecer bens e serviços que envolvam aspectos financeiros, comerciais e industriais; "computadores são hoje amplamente utilizadas no mundo dos negócios "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comercio</SPA-Words-Sug>
     <Comments />
@@ -6106,11 +6106,11 @@
   <row>
     <BC>996</BC>
     <WN-3.0-Synset>n1095753</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">atividade_comercial</PT-Words-Man>
     <PT-Word-Cand>actividades empresariais, actividades comerciais, actividades económicas</PT-Word-Cand>
     <EN-Gloss>activity undertaken as part of a commercial enterprise</EN-Gloss>
     <EN-Words>business activity, commercial activity</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade realizada como parte de uma iniciativa comercial</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>actividad empresarial, actividad económica</SPA-Words-Sug>
     <Comments />
@@ -6118,23 +6118,23 @@
   <row>
     <BC>997</BC>
     <WN-3.0-Synset>n1096245</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>negócio</PT-Words-Man>
     <PT-Word-Cand>comércio, negócio</PT-Word-Cand>
     <EN-Gloss>the volume of commercial activity; "business is good today"; "show me where the business was today"</EN-Gloss>
     <EN-Words>business</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o volume da actividade comercial; "o negócio está bom hoje"; "mostre-me onde o negócio esteve hoje"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comercio</SPA-Words-Sug>
-    <Comments />
+    <Comments>não sei se traduzi esse synset corretamente fiquei meio na duvida que a tradução de "business" nesse caso poderia ser outra que nao "negócio"</Comments>
   </row>
   <row>
     <BC>998</BC>
     <WN-3.0-Synset>n1096454</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>negociação, transação</PT-Words-Man>
     <PT-Word-Cand>Mecenas, mecenato</PT-Word-Cand>
     <EN-Gloss>the business given to a commercial establishment by its customers; "even before noon there was a considerable patronage"</EN-Gloss>
     <EN-Words>patronage, trade</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um negócio dado a um estabelecimento comercial por seus clientes; "mesmo antes do meio dia houve uma considerável negociação"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Mecenas, mecenazgo</SPA-Words-Sug>
     <Comments />
