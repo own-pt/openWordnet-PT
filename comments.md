@@ -91,8 +91,8 @@ que seria bom botar também junto dos synstes algumas relaçoes
 semânticas como de hiperônimo, hipônimo e meronímia para termos uma
 noção de em qual nível de profundidade está a palavra desejada.
 
-- Em alguns casos o synset simplismente não possui um correspondente
-  adequado para a lingua portuguesa nesses casos oque ocorreria com
+- Em alguns casos o synset simplesmente não possui um correspondente
+  adequado para a lingua portuguesa nesses casos o que ocorreria com
   eles na nova wordnet que estamos fazendo, porque muito provavelmente
   esses synsets tem alguma relação com um outro synset, como ficaria
   essa relação? e seria um problema apenas tirar esses synsets da

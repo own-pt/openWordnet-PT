@@ -101,8 +101,8 @@
   <row>
     <BC>9</BC>
     <WN-3.0-Synset>v9147</WN-3.0-Synset>
-<PT-Words-Man lexicalGap="True">mudar, depenar, desplumar, trocar</PT-Words-Man>    
-<PT-Words-Man></PT-Words-Man>
+    <PT-Words-Man lexicalGap="True">mudar, depenar, desplumar, trocar</PT-Words-Man>    
+    <PT-Words-Man></PT-Words-Man>
     <PT-Words-Cand />
     <EN-Gloss>cast off hair, skin, horn, or feathers; "our dog sheds every Spring"</EN-Gloss>
     <EN-Words>exuviate, molt, moult, shed, slough</EN-Words>
@@ -113,14 +113,14 @@
     que o Gloss diz respeito a mudança de característica física (tanto
     animal quanto de homen), estou em duvida quanto aos PT-Words-Man,
     por favor corrija se estiver errado.</Comments>
-    <Comments by="vcvp">Rafael esse synset nao
-    'e necessario, ele nao existe em Portugues, eu acho.em ingles eles
-    teem verbos pra mudar de pele,de pelo</Comments>
+    <Comments by="vcvp">Rafael esse synset não é necessário, ele não 
+    existe em português, eu acho. Em ingles eles teem verbos pra mudar
+    de pele/pelo.</Comments>
   </row>
   <row>
     <BC>10</BC>
     <WN-3.0-Synset>v10054</WN-3.0-Synset>
-<PT-Words-Man lexicalGap="True">mover_reflexivamente, mover_involuntariamente</PT-Words-Man>
+    <PT-Words-Man lexicalGap="True">mover_reflexivamente, mover_involuntariamente</PT-Words-Man>
     <PT-Words-Man></PT-Words-Man>
     <PT-Words-Cand />
     <EN-Gloss>move in an uncontrolled manner</EN-Gloss>
@@ -133,8 +133,8 @@
   <row>
     <BC>11</BC>
     <WN-3.0-Synset>v10241</WN-3.0-Synset>    
-<PT-Words-Man lexicalGap="True">mover_reflexivamente, mover_involuntariamente</PT-Words-Man>
-<PT-Words-Man>agir_involuntariamente, agir_reflexivamente</PT-Words-Man>
+    <PT-Words-Man lexicalGap="True">mover_reflexivamente, mover_involuntariamente</PT-Words-Man>
+    <PT-Words-Man>agir_involuntariamente, agir_reflexivamente</PT-Words-Man>
     <PT-Words-Cand />
     <EN-Gloss>act in an uncontrolled manner</EN-Gloss>
     <EN-Words>act involuntarily, act reflexively</EN-Words>
@@ -148,12 +148,18 @@
     <WN-3.0-Synset>v10435</WN-3.0-Synset>
     <PT-Words-Man >agir, atuar, comportar-se, parecer, fazer_papel</PT-Words-Man>
     <PT-Words-Cand>actuar, atuar</PT-Words-Cand>
-    <EN-Gloss>behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people"</EN-Gloss>
+    <EN-Gloss>behave in a certain manner; show a certain behavior;
+    conduct or comport oneself; "You should act like an adult"; "Don't
+    behave like a fool"; "What makes her do this way?"; "The dog acts
+    ferocious, but he is really afraid of people"</EN-Gloss>
     <EN-Words>act, behave, do</EN-Words>
-    <PT-Gloss >agir de uma certa forma;  comportar-se ou conduzir-se; "você deveria agir como adulto"; "não se comporte como um tolo"; "o que faz ela agir dessa maneira?"; "o cachorro parece feroz, mas ele realmente tem medo de pessoas"</PT-Gloss>
+    <PT-Gloss >agir de uma certa forma; comportar-se ou conduzir-se;
+    "você deveria agir como adulto"; "não se comporte como um tolo";
+    "o que faz ela agir dessa maneira?"; "o cachorro parece feroz, mas
+    ele realmente tem medo de pessoas"</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug>construir</Spa-Words-Sug>
-    <Comments by="vcvp">construir? nao faz sentido</Comments>
+    <Comments by="vcvp">construir? não faz sentido</Comments>
   </row>
   <row>
     <BC>13</BC>
@@ -172,12 +178,17 @@
     <WN-3.0-Synset>v12613</WN-3.0-Synset>
     <PT-Words-Man> paralizar</PT-Words-Man>
     <PT-Words-Cand />
-    <EN-Gloss>suddenly behave coldly and formally; "She froze when she saw her ex-husband"</EN-Gloss>
+    <EN-Gloss>suddenly behave coldly and formally; "She froze when she
+    saw her ex-husband"</EN-Gloss>
     <EN-Words>freeze</EN-Words>
-    <PT-Gloss> agir repentinamente de forma fria e formal; "ela paralizou quando viu seu ex-marido"</PT-Gloss>
+    <PT-Gloss>agir repentinamente de forma fria e formal; "ela
+    paralizou quando viu seu ex-marido"</PT-Gloss>
     <PT-Gloss-Sug />
     <Spa-Words-Sug />
-    <Comments by="vcvp">acho que esse esta' estranho, dizemos 'o seu sorriso congelou' mas paralizou na frase do gloss 'e mais ficar sem ação, do que realmente agir de uma maneira fria. enfim estou mantendo.</Comments>
+    <Comments by="vcvp">acho que esse esta' estranho, dizemos "o seu
+    sorriso congelou" mas paralizou na frase do gloss é mais ficar
+    sem ação, do que realmente agir de uma maneira fria. enfim estou
+    mantendo.</Comments>
   </row>
   <row>
     <BC>15</BC>
