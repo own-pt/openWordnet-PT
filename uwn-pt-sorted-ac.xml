@@ -201,11 +201,11 @@
   <row>
     <BC>1015</BC>
     <WN-3.0-Synset>n1120448</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pagamento</PT-Words-Man>
     <PT-Word-Cand>pagamento</PT-Word-Cand>
     <EN-Gloss>the act of paying money</EN-Gloss>
     <EN-Words>defrayal, defrayment, payment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de pagar em dinheiro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>paga, pago</SPA-Words-Sug>
     <Comments />
@@ -213,12 +213,12 @@
   <row>
     <BC>1016</BC>
     <WN-3.0-Synset>v1092366</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>combater, lutar</PT-Words-Man>
     <PT-Word-Cand>combater, lutar, opor, lutar contra</PT-Word-Cand>
     <EN-Gloss>battle or contend against in or as if in a battle; "The Kurds are combating Iraqi troops in Northern Iraq"; "We must combat the
     prejudices against other races"; "they battled over the budget"</EN-Gloss>
     <EN-Words>battle, combat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>lutar ou brigar contra algo ou como em uma batalha; "Os curdos estão combatendo as tropas iraquianas no norte do Iraque"</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug>combatir, batallar</SPA-Words-Sug>
     <Comments />
@@ -226,11 +226,11 @@
   <row>
     <BC>1017</BC>
     <WN-3.0-Synset>v1093172</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>guerrear</PT-Words-Man>
     <PT-Word-Cand>lutar</PT-Word-Cand>
     <EN-Gloss>make or wage war</EN-Gloss>
     <EN-Words>war</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer ou promover uma guerra</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>guerrear</SPA-Words-Sug>
     <Comments />
@@ -238,11 +238,11 @@
   <row>
     <BC>1018</BC>
     <WN-3.0-Synset>n1123095</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>migração</PT-Words-Man>
     <PT-Word-Cand>imigração</PT-Word-Cand>
     <EN-Gloss>the movement of persons from one country or locality to another</EN-Gloss>
     <EN-Words>migration</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o movimento de pessoas de um país ou localidade para outra</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>emigración, migración</SPA-Words-Sug>
     <Comments />
@@ -250,24 +250,24 @@
   <row>
     <BC>1019</BC>
     <WN-3.0-Synset>n1123598</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalgap="true" />
     <PT-Word-Cand>controlo social</PT-Word-Cand>
     <EN-Gloss>control exerted (actively or passively) by group action</EN-Gloss>
     <EN-Words>social control</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>controle exercido por ação do grupo (ativo ou passivo)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>control social</SPA-Words-Sug>
-    <Comments />
+    <Comments>para mim esses synset não possui representante na lingua portuguesa</Comments>
   </row>
   <row>
     <BC>1020</BC>
     <WN-3.0-Synset>v1095218</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>servir, exercer</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>do duty or hold offices; serve in a specific function; "He served as head of the department for three years"; "She served in Congress
     for two terms"</EN-Gloss>
     <EN-Words>serve</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cumprir as obrigações ou ocupar um cargo; servir em uma função especifica; "ele serviu como chefe do departamento por três anos"; "ela exerceu em um congresso por dois mandatos "</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -275,11 +275,11 @@
   <row>
     <BC>1021</BC>
     <WN-3.0-Synset>v1096497</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>funcionar</PT-Words-Man>
     <PT-Word-Cand>funcionar</PT-Word-Cand>
     <EN-Gloss>perform duties attached to a particular office or place or function; "His wife officiated as his private secretary"</EN-Gloss>
     <EN-Words>function, officiate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>realizar deveres ligados a um serviço, lugar ou função particular; "sua mulher funciona como sua secretária particular"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -287,11 +287,11 @@
   <row>
     <BC>1022</BC>
     <WN-3.0-Synset>n1125693</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>legislação</PT-Words-Man>
     <PT-Word-Cand>legislação, Ordenamento jurídico</PT-Word-Cand>
     <EN-Gloss>the act of making or enacting laws</EN-Gloss>
     <EN-Words>lawmaking, legislating, legislation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de fazer ou decretar leis</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>legislación, Ordenamiento Jurídico, Ordenamiento Juridico, Ordenamiento juridico, ordenamiento jurídico</SPA-Words-Sug>
     <Comments />
@@ -299,12 +299,12 @@
   <row>
     <BC>1023</BC>
     <WN-3.0-Synset>n1129920</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>responsabilidade, dever</PT-Words-Man>
     <PT-Word-Cand>responsabilidade, obrigação, dever</PT-Word-Cand>
     <EN-Gloss>the social force that binds you to the courses of action demanded by that force; "we must instill a sense of duty in our children";
     "every right implies a responsibility; every opportunity, an obligation; every possession, a duty"- John D.Rockefeller Jr</EN-Gloss>
     <EN-Words>duty, obligation, responsibility</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a força social liga as pessoas  aos cursos de ação demandadas por essa força; "nós temos que introduzir um senso de dever em nossas crianças"; "todo dever implica uma responsabilidade; toda oportunidade, uma obrigação; toda possessão, um dever (John D.Rockefeller Jr)"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -312,12 +312,12 @@
   <row>
     <BC>1024</BC>
     <WN-3.0-Synset>n1133281</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>administração, gestão</PT-Words-Man>
     <PT-Word-Cand>administração, gestão, manuseio, gerenciamento</PT-Word-Cand>
     <EN-Gloss>the act of managing something; "he was given overall management of the program"; "is the direction of the economy a function of
     government?"</EN-Gloss>
     <EN-Words>direction, management</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de administrar alguma coisa; "foi-lhe dada a gestão global do programa"; "a admistração da economia é uma função do governo? "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>junta directiva</SPA-Words-Sug>
     <Comments />
@@ -325,12 +325,12 @@
   <row>
     <BC>1025</BC>
     <WN-3.0-Synset>n1134861</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tratamento</PT-Words-Man>
     <PT-Word-Cand>tratamento</PT-Word-Cand>
     <EN-Gloss>the management of someone or something; "the handling of prisoners"; "the treatment of water sewage"; "the right to equal treatment in
     the criminal justice system"</EN-Gloss>
     <EN-Words>handling, treatment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o manejo de alguém ou alguma coisa; "tratamento de prisioneiros"; "o tratamento de esgoto de água"; "o direito à igualdade de tratamento no sistema de justiça criminal "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -338,12 +338,12 @@
   <row>
     <BC>1026</BC>
     <WN-3.0-Synset>a1114658</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>magnânimo, generoso, grande_coração</PT-Words-Man>
     <PT-Word-Cand>brioso, magnânimo</PT-Word-Cand>
     <EN-Gloss>generous and understanding and tolerant; "a heart big enough to hold no grudges"; "that's very big of you to be so forgiving"; "a large
     and generous spirit"; "a large heart"; "magnanimous toward his enemies"</EN-Gloss>
     <EN-Words>big, large, magnanimous</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>generoso, compreensivo e tolerante; " um coração grande o suficiente para não conter nenhum rancor"; "isso é muito magnânimo da sua parte ser tão indulgente"; "um grande de espírito generoso "; " coração grande "; " generoso para com os seus inimigos "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>magnánimo, garboso</SPA-Words-Sug>
     <Comments />
@@ -351,11 +351,11 @@
   <row>
     <BC>1027</BC>
     <WN-3.0-Synset>n1135952</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>administração, gestão, gerenciamento</PT-Words-Man>
     <PT-Word-Cand>administração, gestão, administração do sistema, ministração</PT-Word-Cand>
     <EN-Gloss>a method of tending to or managing the affairs of a some group of people (especially the group's business affairs)</EN-Gloss>
     <EN-Words>administration, disposal</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um método de cuidar ou administrar os negócios de um grupo de algumas das pessoas (especialmente assuntos de negócio do grupo)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>administración, gestión, gerencia, intendencia</SPA-Words-Sug>
     <Comments />
@@ -363,11 +363,11 @@
   <row>
     <BC>1028</BC>
     <WN-3.0-Synset>n1138670</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>autorização</PT-Words-Man>
     <PT-Word-Cand>autorização, autorização, autorizações</PT-Word-Cand>
     <EN-Gloss>the act of conferring legality or sanction or formal warrant</EN-Gloss>
     <EN-Words>authorisation, authorization, empowerment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de conferir legalidade, sanção ou garantia formal</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>autorización, Autorizacion, autorización, empoderamiento</SPA-Words-Sug>
     <Comments />
@@ -375,11 +375,11 @@
   <row>
     <BC>1029</BC>
     <WN-3.0-Synset>n1140471</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>delegação</PT-Words-Man>
     <PT-Word-Cand>comissão, mandato</PT-Word-Cand>
     <EN-Gloss>the act of granting authority to undertake certain functions</EN-Gloss>
     <EN-Words>commission, commissioning</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de conceder  autoridade para desempenhar certas funções</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -387,11 +387,11 @@
   <row>
     <BC>1030</BC>
     <WN-3.0-Synset>n1143040</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>preparação</PT-Words-Man>
     <PT-Word-Cand>preparação, preparativo</PT-Word-Cand>
     <EN-Gloss>the activity of putting or setting in order in advance of some act or purpose; "preparations for the ceremony had begun"</EN-Gloss>
     <EN-Words>preparation, readying</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de colocar ou botar em ordem antecipadamente a algum ato ou propósito; "a preparação para a cerimônia havia começado"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -399,11 +399,11 @@
   <row>
     <BC>1031</BC>
     <WN-3.0-Synset>v1116585</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>resistir</PT-Words-Man>
     <PT-Word-Cand>resistir</PT-Word-Cand>
     <EN-Gloss>stand up or offer resistance to somebody or something</EN-Gloss>
     <EN-Words>hold out, resist, stand firm, withstand</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>oferecer resistência para alguém ou alguma coisa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>resistir</SPA-Words-Sug>
     <Comments />
@@ -411,12 +411,12 @@
   <row>
     <BC>1032</BC>
     <WN-3.0-Synset>v1119169</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atacar</PT-Words-Man>
     <PT-Word-Cand>atacar, assaltar, agredir</PT-Word-Cand>
     <EN-Gloss>launch an attack or assault on; begin hostilities or start warfare with; "Hitler attacked Poland on September 1, 1939 and started World
     War II"; "Serbian forces assailed Bosnian towns all week"</EN-Gloss>
     <EN-Words>assail, attack</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>lançar um ataque ou assalto em algo ou alguém; destribuir hostilidades ou iniciar uma guerra com; " Hitler atacou a Polônia em 1 de setembro de 1939 e começou a Segunda Guerra Mundial "; " as forças sérvias atacavam as cidades bósnias toda a semana "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>asaltar, atacar</SPA-Words-Sug>
     <Comments />
@@ -424,24 +424,24 @@
   <row>
     <BC>1033</BC>
     <WN-3.0-Synset>v1126051</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>emboscar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>attack by storm; attack suddenly</EN-Gloss>
     <EN-Words>storm, surprise</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atacar repentinamente; atacar de surpresa</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não sei se traduzir corretamente, talvez não exista um representante em portugues para esse synset</Comments>
   </row>
   <row>
     <BC>1034</BC>
     <WN-3.0-Synset>v1126360</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>invadir, ocupar</PT-Words-Man>
     <PT-Word-Cand>infestar, invadir</PT-Word-Cand>
     <EN-Gloss>march aggressively into another's territory by military force for the purposes of conquest and occupation; "Hitler invaded Poland on
     September 1, 1939"</EN-Gloss>
     <EN-Words>invade, occupy</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>marchar agressivamente na direção de outro território utilizando de força militar para efeitos de conquista e ocupação; "Hitler invadiu a Polônia em 01 de setembro de 1939 "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>invadir</SPA-Words-Sug>
     <Comments />
@@ -449,11 +449,11 @@
   <row>
     <BC>1035</BC>
     <WN-3.0-Synset>v1127411</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cercar, sitiar</PT-Words-Man>
     <PT-Word-Cand>assediar, sitiar</PT-Word-Cand>
     <EN-Gloss>surround so as to force to give up; "The Turks besieged Vienna"</EN-Gloss>
     <EN-Words>beleaguer, besiege, circumvent, hem in, surround</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cercar de modo a forçar uma desistência; "Os turcos cercaram Viena"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>asediar, sitiar</SPA-Words-Sug>
     <Comments />
@@ -461,11 +461,11 @@
   <row>
     <BC>1036</BC>
     <WN-3.0-Synset>v1127795</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>defender</PT-Words-Man>
     <PT-Word-Cand>evitar, defender, resistir</PT-Word-Cand>
     <EN-Gloss>be on the defensive; act against an attack</EN-Gloss>
     <EN-Words>defend</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estar na defensiva; agir comtra um ataque</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>evitar, defender</SPA-Words-Sug>
     <Comments />
@@ -473,11 +473,11 @@
   <row>
     <BC>1037</BC>
     <WN-3.0-Synset>v1128193</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>proteger, defender</PT-Words-Man>
     <PT-Word-Cand>defender, proteger, resguardar, salvar, respaldar</PT-Word-Cand>
     <EN-Gloss>shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain"</EN-Gloss>
     <EN-Words>protect</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>defender do perigo, lesão, destruição ou dano;  "Weatherbeater protege o telhado da chuva"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>proteger, defender, amparar, vigilar, resguardar, guarecer, patrocinar</SPA-Words-Sug>
     <Comments />
@@ -485,11 +485,11 @@
   <row>
     <BC>1038</BC>
     <WN-3.0-Synset>n1160342</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>punição, penalização</PT-Words-Man>
     <PT-Word-Cand>castigo, punição, Punição, Punições, sanção</PT-Word-Cand>
     <EN-Gloss>the act of punishing</EN-Gloss>
     <EN-Words>penalisation, penalization, penalty, punishment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de punir</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Penas, pena, penalización, castigo</SPA-Words-Sug>
     <Comments />
@@ -497,12 +497,12 @@
   <row>
     <BC>1039</BC>
     <WN-3.0-Synset>n1166258</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>troca, câmbio</PT-Words-Man>
     <PT-Word-Cand>intercâmbio</PT-Word-Cand>
     <EN-Gloss>the act of changing one thing for another thing; "Adam was promised immortality in exchange for his disobedience"; "there was an
     interchange of prisoners"</EN-Gloss>
     <EN-Words>exchange, interchange</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de mudar uma coisa por outra; "Adão foi prometido a imortalidade em troca de sua desobediência"; "houve um câmbio de prisioneiros "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -510,11 +510,11 @@
   <row>
     <BC>1040</BC>
     <WN-3.0-Synset>v1137138</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atirar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>hit with a missile from a weapon</EN-Gloss>
     <EN-Words>hit, pip, shoot</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atingir com um projétil de uma arma</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -522,23 +522,23 @@
   <row>
     <BC>1041</BC>
     <WN-3.0-Synset>v1138523</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>play games for money</EN-Gloss>
     <EN-Words>gamble</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>jogar por dinheiro</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>jugar</SPA-Words-Sug>
-    <Comments />
+    <Comments> na minha opnião não existe nenhuma palavra em potugues que represente "jogar por dinheiro", assim especifico</Comments>
   </row>
   <row>
     <BC>1042</BC>
     <WN-3.0-Synset>n1168369</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ação direta</PT-Words-Man>
     <PT-Word-Cand>Ação Direta, ação direta</PT-Word-Cand>
     <EN-Gloss>a protest action by labor or minority groups to obtain their demands</EN-Gloss>
     <EN-Words>direct action</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma ação de protesto por grupos de minoria ou de trabalho para obter suas reivindicações</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Accion directa, acción directa, acción directa</SPA-Words-Sug>
     <Comments />
@@ -546,11 +546,11 @@
   <row>
     <BC>1043</BC>
     <WN-3.0-Synset>n1169317</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>resistência</PT-Words-Man>
     <PT-Word-Cand>resistência, resistência (biologia)</PT-Word-Cand>
     <EN-Gloss>group action in opposition to those in power</EN-Gloss>
     <EN-Words>resistance</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ação de grupo em oposição a aqueles que estão no poder</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>resistencia</SPA-Words-Sug>
     <Comments />
@@ -558,12 +558,12 @@
   <row>
     <BC>1044</BC>
     <WN-3.0-Synset>n1169744</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>oposição, confronto</PT-Words-Man>
     <PT-Word-Cand>oposição</PT-Word-Cand>
     <EN-Gloss>the act of hostile groups opposing each other; "the government was not ready for a confrontation with the unions"; "the invaders
     encountered stiff opposition"</EN-Gloss>
     <EN-Words>confrontation, opposition</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de grupos hostis opostos entre si; "o governo não estava preparado para uma oposição dos sindicatos", "os invasores encontraram forte oposição "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>confrontación</SPA-Words-Sug>
     <Comments />
@@ -571,12 +571,12 @@
   <row>
     <BC>1045</BC>
     <WN-3.0-Synset>n1170962</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>luta, disputa, combate</PT-Words-Man>
     <PT-Word-Cand>batalha, combate, luta, peleja, pugna</PT-Word-Cand>
     <EN-Gloss>the act of fighting; any contest or struggle; "a fight broke out at the hockey game"; "there was fighting in the streets"; "the unhappy
     couple got into a terrible scrap"</EN-Gloss>
     <EN-Words>combat, fight, fighting, scrap</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de lutar; qualquer disputa ou luta; "a briga aconteceu no jogo de hóquei"; "houve combates nas ruas"; "o infeliz casal entrou em uma terrível disputa"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>batalla, combate, lucha, riña, brega, chacota, rebatiña</SPA-Words-Sug>
     <Comments />
@@ -584,11 +584,11 @@
   <row>
     <BC>1046</BC>
     <WN-3.0-Synset>n1173038</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>porrada</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a powerful stroke with the fist or a weapon; "a blow on the head"</EN-Gloss>
     <EN-Words>blow</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um poderoso golpe com o punho ou uma arma; "uma porrada na cabeça"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>aporreo</SPA-Words-Sug>
     <Comments />
@@ -596,11 +596,11 @@
   <row>
     <BC>1047</BC>
     <WN-3.0-Synset>n1177033</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>protesto</PT-Words-Man>
     <PT-Word-Cand>Protestos, protesto, objeção, objecção</PT-Word-Cand>
     <EN-Gloss>the act of protesting; a public (often organized) manifestation of dissent</EN-Gloss>
     <EN-Words>dissent, objection, protest</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de protestar; uma manifestação públicas de dissidência (muitas vezes organizada)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Manifestaciones y protestas, disentimiento, objeción</SPA-Words-Sug>
     <Comments />
@@ -608,24 +608,24 @@
   <row>
     <BC>1048</BC>
     <WN-3.0-Synset>v1149327</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>alinhar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>place troops or weapons in battle formation</EN-Gloss>
     <EN-Words>deploy</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>alocar tropas ou armas em formação de batalha</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>botei alinhar nesse synset porque achei q se encaixa, mas talvez não exista uma palavra em potugues para esse synset, oq vcs acham?</Comments>
   </row>
   <row>
     <BC>1049</BC>
     <WN-3.0-Synset>v1149470</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>jogar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>put (a card or piece) into play during a game, or act strategically as if in a card game; "He is playing his cards close to his chest";
     "The Democrats still have some cards to play before they will concede the electoral victory"</EN-Gloss>
     <EN-Words>play</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>introduzir (uma carta ou uma peça) em jogo durante um jogo, ou agir estrategicamente como se estivesse em um jogo de cartas; "Ele está jogando suas cartas perto do peito"; "Os democratas ainda tem algumas cartas para jogar antes que eles concedam a vitória eleitoral"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -633,12 +633,12 @@
   <row>
     <BC>1050</BC>
     <WN-3.0-Synset>v1150559</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>direcionar, dirigir, apontar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>intend (something) to move towards a certain goal; "He aimed his fists towards his opponent's face"; "criticism directed at her
     superior"; "direct your anger towards others, not towards yourself"</EN-Gloss>
     <EN-Words>aim, direct, place, point, target</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter a intenção ir em direção a um determinado objetivo; "Ele apontou seus punhos na direção da face de seu adversário"; "críticas dirigidas ao seu superior "; " direcione sua raiva para os outros, não para si mesmo "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -646,12 +646,12 @@
   <row>
     <BC>1051</BC>
     <WN-3.0-Synset>n1181475</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">devido_processo_legal</PT-Words-Man>
     <PT-Word-Cand>Devido Processo Legal, devido processo legal</PT-Word-Cand>
     <EN-Gloss>(law) the administration of justice according to established rules and principles; based on the principle that a person cannot be
     deprived of life or liberty or property without appropriate legal procedures and safeguards</EN-Gloss>
     <EN-Words>due process of law, due process</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(lei) a administração da justiça de acordo com regras e os princípios estabelecidos; baseado no princípio de que uma pessoa não pode ser privada da vida, liberdade ou propriedade sem procedimentos legais adequados e as garantias</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>debido proceso</SPA-Words-Sug>
     <Comments />
@@ -659,11 +659,11 @@
   <row>
     <BC>1052</BC>
     <WN-3.0-Synset>n1184814</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">procedimento_legal</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>(law) the institution of a sequence of steps by which legal judgments are invoked</EN-Gloss>
     <EN-Words>legal proceeding, proceeding, proceedings</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(lei) a instituição de uma seqüência de passos pelos quais decisões judiciais são invocados</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>procedimiento</SPA-Words-Sug>
     <Comments />
@@ -671,23 +671,23 @@
   <row>
     <BC>1053</BC>
     <WN-3.0-Synset>n1185981</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>revogação</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a judgment by a higher court that the judgment of a lower court was incorrect and should be set aside</EN-Gloss>
     <EN-Words>reversal</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um julgamento de um tribunal superior que o julgamento do tribunal inferior estava incorreta e deveria ser anulado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não sei se traduzi corretamente, não entendo muito de procedimentos juridicos</Comments>
   </row>
   <row>
     <BC>1054</BC>
     <WN-3.0-Synset>v1155687</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>apostar, jogar</PT-Words-Man>
     <PT-Word-Cand>apostar</PT-Word-Cand>
     <EN-Gloss>stake on the outcome of an issue; "I bet $100 on that new horse"; "She played all her money on the dark horse"</EN-Gloss>
     <EN-Words>bet, play, wager</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>delimitar o resultado de uma questão; "Aposto cem reais no cavalo novo"; "Ela jogou todo o seu dinheiro no cavalo escuro"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>apostar</SPA-Words-Sug>
     <Comments />
@@ -695,11 +695,11 @@
   <row>
     <BC>1055</BC>
     <WN-3.0-Synset>v1156834</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>consumir, tomar</PT-Words-Man>
     <PT-Word-Cand>comer, ingerir, beber, consumir</PT-Word-Cand>
     <EN-Gloss>serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee"</EN-Gloss>
     <EN-Words>consume, have, ingest, take in, take</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fornecer a si mesmo, ou consumir regularmente; "Tome outro prato de sopa de galinha!"; "Eu não consumo açúcar no meu café</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ingerir, comer</SPA-Words-Sug>
     <Comments />
@@ -707,11 +707,11 @@
   <row>
     <BC>1056</BC>
     <WN-3.0-Synset>n1187810</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>julgamento, sentença</PT-Words-Man>
     <PT-Word-Cand>sentença, julgamentos (sentenças), julgamento</PT-Word-Cand>
     <EN-Gloss>(law) the determination by a court of competent jurisdiction on matters submitted to it</EN-Gloss>
     <EN-Words>judgement, judgment, judicial decision</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(lei) a determinação por um tribunal com uma jurisdição competente em assuntos que lhe são submetidos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>sentencia, juicio (sentencia), decisión, juicio</SPA-Words-Sug>
     <Comments />
@@ -719,12 +719,12 @@
   <row>
     <BC>1057</BC>
     <WN-3.0-Synset>v1157517</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>consumir, gastar</PT-Words-Man>
     <PT-Word-Cand>esgotar, diminuir, consumir, minguar, gastar, exaurir, puir, safar</PT-Word-Cand>
     <EN-Gloss>use up (resources or materials); "this car consumes a lot of gas"; "We exhausted our savings"; "They run through 20 bottles of wine a
     week"</EN-Gloss>
     <EN-Words>consume, deplete, eat up, eat, exhaust, run through, use up, wipe out</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>utilizar (recursos ou materiais); "este carro consome uma grande quantidade de gás"; "Nós gastamos nossas economias"; "Eles consomem até 20 garrafas de vinho por semana "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>consumir, agotar</SPA-Words-Sug>
     <Comments />
@@ -732,23 +732,23 @@
   <row>
     <BC>1058</BC>
     <WN-3.0-Synset>v1158181</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esbanjar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>spend extravagantly; "waste not, want not"</EN-Gloss>
     <EN-Words>consume, squander, ware, waste</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>gastar com extravagância</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não soube traduzir o exemplo do EN-Gloss</Comments>
   </row>
   <row>
     <BC>1059</BC>
     <WN-3.0-Synset>v1158572</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>gastar, esgotar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>use up, consume fully; "The legislature expended its time on school questions"</EN-Gloss>
     <EN-Words>expend, use</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>esgotar, consumir totalmente; "O Legislativo gastou seu tempo em questões de escola"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -756,11 +756,11 @@
   <row>
     <BC>1060</BC>
     <WN-3.0-Synset>v1161087</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desperdiçar, perder</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>use inefficiently or inappropriately; "waste heat"; "waste a joke on an unappreciative audience"</EN-Gloss>
     <EN-Words>waste</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uso ineficiente ou inadequado; "perder calor"; "desperdiçar uma piada em um público insatisfeito"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -768,12 +768,12 @@
   <row>
     <BC>1061</BC>
     <WN-3.0-Synset>v1162754</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>explorar, aproveitar</PT-Words-Man>
     <PT-Word-Cand>explorar, ser profícuo, aproveitar</PT-Word-Cand>
     <EN-Gloss>use or manipulate to one's advantage; "He exploit the new taxation system"; "She knows how to work the system"; "he works his parents
     for sympathy"</EN-Gloss>
     <EN-Words>exploit, work</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>usar ou manipular em proveito próprio; "Ele explorou o novo sistema de tributação"; "Ela sabe como aproveitar o sistema"; "ele explora seus pais com simpatia "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -781,11 +781,11 @@
   <row>
     <BC>1062</BC>
     <WN-3.0-Synset>v1163620</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escavar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>get from the earth by excavation; "mine ores and metals"</EN-Gloss>
     <EN-Words>mine</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>obter da terra pela escavação; "escave minérios e metais"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -793,11 +793,11 @@
   <row>
     <BC>1063</BC>
     <WN-3.0-Synset>v1164273</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>explorar</PT-Words-Man>
     <PT-Word-Cand>explorar</PT-Word-Cand>
     <EN-Gloss>draw from; make good use of; "we must exploit the resources we are given wisely"</EN-Gloss>
     <EN-Words>exploit, tap</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tirar proveito, fazer bom uso; "devemos explorar os recursos que são dados com sabedoria"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -805,11 +805,11 @@
   <row>
     <BC>1064</BC>
     <WN-3.0-Synset>v1165043</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>usar, consumir</PT-Words-Man>
     <PT-Word-Cand>utilizar, com recurso a</PT-Word-Cand>
     <EN-Gloss>take or consume (regularly or habitually); "She uses drugs rarely"</EN-Gloss>
     <EN-Words>habituate, use</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tomar ou consumir (regularmente ou habitualmente); "Ela usa drogas raramente"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -817,11 +817,11 @@
   <row>
     <BC>1065</BC>
     <WN-3.0-Synset>v1166093</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>empregar, exercer</PT-Words-Man>
     <PT-Word-Cand>exercer, esforçar</PT-Word-Cand>
     <EN-Gloss>put to use; "exert one's power or influence"</EN-Gloss>
     <EN-Words>exercise, exert</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>colocar em uso; "empregar um poder ou influência em alguém"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>utilizar</SPA-Words-Sug>
     <Comments />
@@ -829,12 +829,12 @@
   <row>
     <BC>1066</BC>
     <WN-3.0-Synset>v1166351</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>comer</PT-Words-Man>
     <PT-Word-Cand>comer</PT-Word-Cand>
     <EN-Gloss>eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept
     your invitation"</EN-Gloss>
     <EN-Words>eat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>comer uma refeição; ter uma refeição; "Nós não comemos até dez horas porque haviam tantos telefonemas"; "Eu não comi ainda, então eu aceito seu convite de bom grado "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comer</SPA-Words-Sug>
     <Comments />
@@ -842,11 +842,11 @@
   <row>
     <BC>1067</BC>
     <WN-3.0-Synset>v1168468</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>comer</PT-Words-Man>
     <PT-Word-Cand>comer</PT-Word-Cand>
     <EN-Gloss>take in solid food; "She was eating a banana"; "What did you eat for dinner last night?"</EN-Gloss>
     <EN-Words>eat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ingerir comida sólida; "ela estava comendo uma banana"; "oque você comeu de jantar noite passada"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comer</SPA-Words-Sug>
     <Comments />
@@ -854,12 +854,12 @@
   <row>
     <BC>1068</BC>
     <WN-3.0-Synset>v1169704</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>chupar, sugar</PT-Words-Man>
     <PT-Word-Cand>sugar</PT-Word-Cand>
     <EN-Gloss>draw into the mouth by creating a practical vacuum in the mouth; "suck the poison from the place where the snake bit"; "suck on a
     straw"; "the baby sucked on the mother's breast"</EN-Gloss>
     <EN-Words>suck</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>puxar para a boca criando um vácuo prático na boca; "sugar o veneno do lugar onde a cobra mordeu"; "chupar em um canudo "; " o bebê chupava o seio da mãe "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>chupar</SPA-Words-Sug>
     <Comments />
@@ -867,11 +867,11 @@
   <row>
     <BC>1069</BC>
     <WN-3.0-Synset>v1170052</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>beber, tomar</PT-Words-Man>
     <PT-Word-Cand>tomar, beber</PT-Word-Cand>
     <EN-Gloss>take in liquids; "The patient must drink several liters each day"; "The children like to drink soda"</EN-Gloss>
     <EN-Words>drink, imbibe</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tomar líquidos; "O paciente deve beber vários litros por dia"; "As crianças gostam de beber soda"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>beber</SPA-Words-Sug>
     <Comments />
@@ -879,11 +879,11 @@
   <row>
     <BC>1070</BC>
     <WN-3.0-Synset>v1170687</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>sorver</PT-Words-Man>
     <PT-Word-Cand>sorver, Gole</PT-Word-Cand>
     <EN-Gloss>drink in sips; "She was sipping her tea"</EN-Gloss>
     <EN-Words>sip</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>beber em pequenos goles; "Ela estava sorvendo seu chá"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>sorber</SPA-Words-Sug>
     <Comments />
@@ -891,11 +891,11 @@
   <row>
     <BC>1071</BC>
     <WN-3.0-Synset>v1171183</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>beber, tomar</PT-Words-Man>
     <PT-Word-Cand>beber, tomar</PT-Word-Cand>
     <EN-Gloss>consume alcohol; "We were up drinking all night"</EN-Gloss>
     <EN-Words>booze, drink, fuddle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>consumir álcool; "Estávamos bebendo a noite toda"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>beber, tomar</SPA-Words-Sug>
     <Comments />
@@ -903,11 +903,11 @@
   <row>
     <BC>1072</BC>
     <WN-3.0-Synset>n1202904</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cooperação, colaboração</PT-Words-Man>
     <PT-Word-Cand>cooperação, cooperação, colaboração</PT-Word-Cand>
     <EN-Gloss>joint operation or action; "their cooperation with us was essential for the success of our mission"</EN-Gloss>
     <EN-Words>cooperation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>operação ou ação conjunta; "sua cooperação com agente foi essencial para o sucesso da nossa missão"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cooperación, Cooperacion, cooperación, colaboración</SPA-Words-Sug>
     <Comments />
@@ -915,12 +915,12 @@
   <row>
     <BC>1073</BC>
     <WN-3.0-Synset>v1174294</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mordiscar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>eat intermittently; take small bites of; "He pieced at the sandwich all morning"; "She never eats a full meal--she just
     nibbles"</EN-Gloss>
     <EN-Words>nibble, pick, piece</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>comer de forma intermitente; fazer pequenas mordidas em algo; "Ele mordiscou o sanduíche durante toda a manhã"; "Ela nunca come uma refeição completa, ela só mordisca "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -928,12 +928,12 @@
   <row>
     <BC>1074</BC>
     <WN-3.0-Synset>n1207609</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ajuda, assistência, auxílio</PT-Words-Man>
     <PT-Word-Cand>ajuda, assistência, ajudante, auxílio, comando ajuda, auxilio</PT-Word-Cand>
     <EN-Gloss>the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose; "he gave me an assist with the
     housework"; "could not walk without assistance"; "rescue party went to their aid"; "offered his help in unloading"</EN-Gloss>
     <EN-Words>aid, assist, assistance, help</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de contribuir para a realização de uma necessidade ou ajuda de um esforço ou propósito; "ele me deu uma assistência com o trabalho doméstico "; " não podia andar sem ajuda "; " grupo de resgate foi ao seu auxílio"; " ofereceu sua ajuda na descarga "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ayuda, auxilio, asistencia, ayudante, apoyo, acorro, socorro, pasante</SPA-Words-Sug>
     <Comments />
@@ -941,11 +941,11 @@
   <row>
     <BC>1075</BC>
     <WN-3.0-Synset>n1208460</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>physical assistance; "give me a hand with the chores"</EN-Gloss>
     <EN-Words>hand, helping hand</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>assistência física; "me dê uma mão com as tarefas"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mano auxiliar</SPA-Words-Sug>
     <Comments />
@@ -953,11 +953,11 @@
   <row>
     <BC>1076</BC>
     <WN-3.0-Synset>n1209220</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ajuda, socorro</PT-Words-Man>
     <PT-Word-Cand>ajuda, ajudante, socorro</PT-Word-Cand>
     <EN-Gloss>assistance in time of difficulty; "the contributions provided some relief for the victims"</EN-Gloss>
     <EN-Words>ministration, relief, succor, succour</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>assistência em tempo de dificuldade; "a ajuda proporcionou algum alívio para as vítimas"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>auxilio, ayuda, ayudante, acorro, socorro</SPA-Words-Sug>
     <Comments />
@@ -965,11 +965,11 @@
   <row>
     <BC>1077</BC>
     <WN-3.0-Synset>n1209487</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>the act of giving temporary assistance</EN-Gloss>
     <EN-Words>lift</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de dar assistência temporária</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -977,11 +977,11 @@
   <row>
     <BC>1078</BC>
     <WN-3.0-Synset>v1179865</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>comer, alimentar-se</PT-Words-Man>
     <PT-Word-Cand>comer</PT-Word-Cand>
     <EN-Gloss>take in food; used of animals only; "This dog doesn't eat certain kinds of meat"; "What do whales eat?"</EN-Gloss>
     <EN-Words>eat, feed</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ingerir comida; usado só por animais; "esse cachorro não se alimenta com certos tipos de carne"; "oque as baleias comem?"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -989,11 +989,11 @@
   <row>
     <BC>1079</BC>
     <WN-3.0-Synset>v1180206</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>alimentar</PT-Words-Man>
     <PT-Word-Cand>alimentar</PT-Word-Cand>
     <EN-Gloss>serve as food for; be the food for; "This dish feeds six"</EN-Gloss>
     <EN-Words>feed</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>serve de alimento para; ser o alimento para; "Este prato alimenta seis"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1001,12 +1001,12 @@
   <row>
     <BC>1080</BC>
     <WN-3.0-Synset>v1180351</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>servir, dar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>provide (usually but not necessarily food); "We serve meals for the homeless"; "She dished out the soup at 8 P.M."; "The entertainers
     served up a lively show"</EN-Gloss>
     <EN-Words>dish out, dish up, dish, serve up, serve</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fornecer (normalmente comida, mas não necessariamente); "nós servimos refeições para os sem-teto"; "ela serviu a sopa ás 8 P.M."; "os artitas deram um show ao vivo"</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1014,11 +1014,11 @@
   <row>
     <BC>1081</BC>
     <WN-3.0-Synset>n1211667</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>consolação</PT-Words-Man>
     <PT-Word-Cand>consolo, consolação</PT-Word-Cand>
     <EN-Gloss>the act of consoling; giving relief in affliction; "his presence was a consolation to her"</EN-Gloss>
     <EN-Words>comfort, consolation, solace</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de consolar; dando alívio a aflição; "sua presença era uma consolação para ela"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>consuelo, consolación</SPA-Words-Sug>
     <Comments />
@@ -1026,11 +1026,11 @@
   <row>
     <BC>1082</BC>
     <WN-3.0-Synset>v1181166</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>alimentar, suprir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>feed into; supply; "Her success feeds her vanity"</EN-Gloss>
     <EN-Words>feed</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>alimentar; suprir; "Seu sucesso alimenta sua vaidade"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1038,12 +1038,12 @@
   <row>
     <BC>1083</BC>
     <WN-3.0-Synset>n1212519</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>apoio, suporte</PT-Words-Man>
     <PT-Word-Cand>ajuda</PT-Word-Cand>
     <EN-Gloss>aiding the cause or policy or interests of; "the president no longer has the support of his own party"; "they developed a scheme of
     mutual support"</EN-Gloss>
     <EN-Words>support</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ajuda a causa,  política ou os interesses de alguém ou algo; "o presidente não tem mais o apoio de seu próprio partido"; "eles desenvolveram um esquema de apoio mútuo "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ayuda</SPA-Words-Sug>
     <Comments />
@@ -1051,11 +1051,11 @@
   <row>
     <BC>1084</BC>
     <WN-3.0-Synset>v1181295</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ajudar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>help to some food; help with food or drink; "I served him three times, and after that he helped himself"</EN-Gloss>
     <EN-Words>help, serve</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ajudar com alimento; ajudar com alimentos ou bebidas; "Eu servi ele três vezes, e depois disso  ele se ajudou"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1063,12 +1063,12 @@
   <row>
     <BC>1085</BC>
     <WN-3.0-Synset>n1212882</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>adesão, aderência</PT-Words-Man>
     <PT-Word-Cand>adesão, aderência</PT-Word-Cand>
     <EN-Gloss>faithful support for a cause or political party or religion; "attachment to a formal agenda"; "adherence to a fat-free diet"; "the
     adhesion of Seville was decisive"</EN-Gloss>
     <EN-Words>adherence, adhesion, attachment</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fiel apoio a uma causa, partido político ou religião; "aderência a uma agenda formal"; " adesão a uma dieta sem gordura"; "a adesão de Sevilha foi decisiva "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1076,11 +1076,11 @@
   <row>
     <BC>1086</BC>
     <WN-3.0-Synset>n1213886</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>proteção</PT-Words-Man>
     <PT-Word-Cand>aval</PT-Word-Cand>
     <EN-Gloss>the act of providing approval and support; "his vigorous backing of the conservatives got him in trouble with progressives"</EN-Gloss>
     <EN-Words>backing, backup, championship, patronage</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de conceder aprovação e suporte; "sua vigorosa proteção aos conservadores o deixou com problemas com os progressistas"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>copia de respaldo, copia de seguridad</SPA-Words-Sug>
     <Comments />
@@ -1088,11 +1088,11 @@
   <row>
     <BC>1087</BC>
     <WN-3.0-Synset>v1182709</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fornecer, servir</PT-Words-Man>
     <PT-Word-Cand>fornecer, abastecer, satisfazer, dar, entregar</PT-Word-Cand>
     <EN-Gloss>give what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests"</EN-Gloss>
     <EN-Words>cater, ply, provide, supply</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>dar o que é desejado ou necessário, especialmente  apoio, alimento ou sustento; "A dona da casa serviu o almoço para todos os convidados"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>suministrar, proveer, oferta, cateraje, pertrechar</SPA-Words-Sug>
     <Comments />
@@ -1100,11 +1100,11 @@
   <row>
     <BC>1088</BC>
     <WN-3.0-Synset>n1214863</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>auspício, cuidado</PT-Words-Man>
     <PT-Word-Cand>auspício, égide</PT-Word-Cand>
     <EN-Gloss>kindly endorsement and guidance; "the tournament was held under the auspices of the city council"</EN-Gloss>
     <EN-Words>aegis, auspices, protection</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>aval e orientação compreensiva; "o torneio foi realizado sob os auspícios do conselho da cidade"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>protección, auspicio, égida</SPA-Words-Sug>
     <Comments />
@@ -1112,11 +1112,11 @@
   <row>
     <BC>1089</BC>
     <WN-3.0-Synset>n1215168</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>endosso</PT-Words-Man>
     <PT-Word-Cand>apoio, respaldo</PT-Word-Cand>
     <EN-Gloss>the act of endorsing; "a star athlete can make a lot of money from endorsements"</EN-Gloss>
     <EN-Words>endorsement, indorsement</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de endossar; "um atleta pode fazer um monte de dinheiro de endossos"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1124,11 +1124,11 @@
   <row>
     <BC>1090</BC>
     <WN-3.0-Synset>v1183573</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>satifazer, suprir</PT-Words-Man>
     <PT-Word-Cand>acalmar, cumprir</PT-Word-Cand>
     <EN-Gloss>fill or meet a want or need</EN-Gloss>
     <EN-Words>fill, fulfil, fulfill, meet, satisfy</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>preencher ou satisfazer um desejo ou uma necessidade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>satisfacer</SPA-Words-Sug>
     <Comments />
@@ -1136,12 +1136,12 @@
   <row>
     <BC>1091</BC>
     <WN-3.0-Synset>n1215902</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>amparo, suporte</PT-Words-Man>
     <PT-Word-Cand>ajuda</PT-Word-Cand>
     <EN-Gloss>the activity of providing for or maintaining by supplying with money or necessities; "his support kept the family together"; "they gave
     him emotional support during difficult times"</EN-Gloss>
     <EN-Words>support</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de prover ou manter, fornecendo com dinheiro ou necessidades; "seu suporte manteve a família unida"; "eles deram-lhe amparo emocional em momentos difíceis "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1149,12 +1149,12 @@
   <row>
     <BC>1092</BC>
     <WN-3.0-Synset>a1190683</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pesado, forte</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>unusually great in degree or quantity or number; "heavy taxes"; "a heavy fine"; "heavy casualties"; "heavy losses"; "heavy rain";
     "heavy traffic"</EN-Gloss>
     <EN-Words>heavy</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>incomumente grande em grau, quantidade ou número; "pesados ​​impostos"; "multa pesada"; "baixas pesadas"; " perdas pesadas"; "chuva forte"; "tráfego pesado"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>proceloso</SPA-Words-Sug>
     <Comments />
@@ -1162,12 +1162,12 @@
   <row>
     <BC>1093</BC>
     <WN-3.0-Synset>v1184625</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>sustentar, manter</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>supply with necessities and support; "She alone sustained her family"; "The money will sustain our good cause"; "There's little to earn
     and many to keep"</EN-Gloss>
     <EN-Words>keep, maintain, sustain</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>abastecer com necessidades e apoio; "Ela sozinha sustenta sua família"; "O dinheiro vai sustentar a nossa boa causa"; "Há pouco a ganhar e muitos para manter"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1175,11 +1175,11 @@
   <row>
     <BC>1094</BC>
     <WN-3.0-Synset>a1191780</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>forte</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>marked by intense physical force; "a big wind"</EN-Gloss>
     <EN-Words>big</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>marcado pela intensa força física; "um vento forte"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1187,11 +1187,11 @@
   <row>
     <BC>1095</BC>
     <WN-3.0-Synset>n1217499</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>representação</PT-Words-Man>
     <PT-Word-Cand>representação oficial</PT-Word-Cand>
     <EN-Gloss>the act of representing; standing in for someone or some group and speaking with authority in their behalf</EN-Gloss>
     <EN-Words>representation</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de representar; ficar de pé para alguém ou algum grupo falando com autoridade em seu favor</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1199,11 +1199,11 @@
   <row>
     <BC>1096</BC>
     <WN-3.0-Synset>v1188485</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desejar, querer</PT-Words-Man>
     <PT-Word-Cand>querer, desejar, almejar</PT-Word-Cand>
     <EN-Gloss>have a craving, appetite, or great desire for</EN-Gloss>
     <EN-Words>crave, hunger, lust, starve, thirst</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter um desejo, apetite ou muito vontade</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>anhelar</SPA-Words-Sug>
     <Comments />
@@ -1211,11 +1211,11 @@
   <row>
     <BC>1097</BC>
     <WN-3.0-Synset>v1188725</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>requerer, precisar, necessitar</PT-Words-Man>
     <PT-Word-Cand>querer, precisar, requerer, ter necessidade de, ter precisão de</PT-Word-Cand>
     <EN-Gloss>have need of; "This piano wants the attention of a competent tuner"</EN-Gloss>
     <EN-Words>need, require, want</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter necessidade de alguma coisa; "Este piano requer a atenção de um sintonizador competente"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>querer, necesitar, quiero</SPA-Words-Sug>
     <Comments />
@@ -1223,11 +1223,11 @@
   <row>
     <BC>1098</BC>
     <WN-3.0-Synset>v1189113</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>necessitar, precisar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>have or feel a need for; "always needing friends and money"</EN-Gloss>
     <EN-Words>need</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter ou sentir uma necessidade por algo; "sempre precisando de amigos e dinheiro"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1235,11 +1235,11 @@
   <row>
     <BC>1099</BC>
     <WN-3.0-Synset>n1220984</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>comportamento, conduta</PT-Words-Man>
     <PT-Word-Cand>comportamento, procedimento, postura, conduta</PT-Word-Cand>
     <EN-Gloss>manner of acting or controlling yourself</EN-Gloss>
     <EN-Words>behavior, behaviour, conduct, doings</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>maneira de agir ou controlar a si mesmo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>comportamiento, acción, pauta, comporte</SPA-Words-Sug>
     <Comments />
