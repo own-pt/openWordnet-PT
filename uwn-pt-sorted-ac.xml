@@ -2158,12 +2158,12 @@
   <row>
     <BC>1175</BC>
     <WN-3.0-Synset>v1278427</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>dobrar, enrugar</PT-Words-Man>
     <PT-Word-Cand>franzir</PT-Word-Cand>
     <EN-Gloss>make wrinkles or creases on a smooth surface; make a pressed, folded or wrinkled line in; "The dress got wrinkled"; "crease the paper
     like this to make a crane"</EN-Gloss>
     <EN-Words>crease, crinkle, crisp, ruckle, scrunch up, scrunch, wrinkle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer rugas ou dobras em uma superfície lisa; fazer de um plano aperatado, dobrado ou amassado; "O vestido ficou enrugado"; "amasse o papel desse jeito para fazer um sifão "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2171,11 +2171,11 @@
   <row>
     <BC>1176</BC>
     <WN-3.0-Synset>n1316949</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true"/>
     <PT-Word-Cand />
     <EN-Gloss>an animal trained for and used for heavy labor</EN-Gloss>
     <EN-Words>work animal</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um animal treinado e utilizado para trabalho pesado</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2183,11 +2183,11 @@
   <row>
     <BC>1177</BC>
     <WN-3.0-Synset>n1317089</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">animal_de_carga</PT-Words-Man>
     <PT-Word-Cand>burro de carga</PT-Word-Cand>
     <EN-Gloss>an animal such as a donkey or ox or elephant used for transporting loads or doing other heavy work</EN-Gloss>
     <EN-Words>beast of burden, jument</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um animal usado para transportar cargas ou fazer outro tipo de trabalho pesado, como um burro, boi ou elefante</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>animal de tiro, animal de carga</SPA-Words-Sug>
     <Comments />
@@ -2195,11 +2195,11 @@
   <row>
     <BC>1178</BC>
     <WN-3.0-Synset>n1317391</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">burro_de_carga</PT-Words-Man>
     <PT-Word-Cand>Besta de carga</PT-Word-Cand>
     <EN-Gloss>an animal (such as a mule or burro or horse) used to carry loads</EN-Gloss>
     <EN-Words>pack animal, sumpter</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um animal (como uma mula, burro ou cavalo) utilizado para transportar cargas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cabalgadura</SPA-Words-Sug>
     <Comments />
@@ -2207,11 +2207,11 @@
   <row>
     <BC>1179</BC>
     <WN-3.0-Synset>n1317541</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>animal_doméstico</PT-Words-Man>
     <PT-Word-Cand>animais domesticados, animal de estimação, animal domesticado, animais de estimação</PT-Word-Cand>
     <EN-Gloss>any of various animals that have been tamed and made fit for a human environment</EN-Gloss>
     <EN-Words>domestic animal, domesticated animal</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer um dos vários animais que foram domesticados e se ajustaram a um ambiente humano</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>animal doméstico, animal domesticado</SPA-Words-Sug>
     <Comments />
@@ -2219,11 +2219,11 @@
   <row>
     <BC>1180</BC>
     <WN-3.0-Synset>v1283208</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cobrir, embrulhar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>arrange or fold as a cover or protection; "wrap the baby before taking her out"; "Wrap the present"</EN-Gloss>
     <EN-Words>wrap up, wrap</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>arranjar ou envolver como uma cobertura ou proteção; "cubra o bebê antes de levá-lo para fora"; "Embrulhe o presente"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>envolver</SPA-Words-Sug>
     <Comments />
@@ -2231,11 +2231,11 @@
   <row>
     <BC>1181</BC>
     <WN-3.0-Synset>v1284461</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desatar</PT-Words-Man>
     <PT-Word-Cand>desatar</PT-Word-Cand>
     <EN-Gloss>undo the ties of; "They untied the prisoner"</EN-Gloss>
     <EN-Words>unbrace, unlace, untie</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>desfazer os laços de algo; "eles desataram o prisioneiro"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desenlazar, desanudar</SPA-Words-Sug>
     <Comments />
@@ -2243,11 +2243,11 @@
   <row>
     <BC>1182</BC>
     <WN-3.0-Synset>v1285440</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atar, amarrar</PT-Words-Man>
     <PT-Word-Cand>atar, engatar</PT-Word-Cand>
     <EN-Gloss>fasten or secure with a rope, string, or cord; "They tied their victim to the chair"</EN-Gloss>
     <EN-Words>bind, tie</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>prender ou fixar com uma corda ou cabo; "Eles amarraram a vítima na cadeira"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
