@@ -1514,13 +1514,12 @@
   <row>
     <BC>1122</BC>
     <WN-3.0-Synset>v1205696</WN-3.0-Synset>
-    <PT-Words-Man>encostar, tocar</PT-Words-Man>
+    <PT-Words-Man>tocar, encostar</PT-Words-Man>
     <PT-Word-Cand>confrontar</PT-Word-Cand>
     <EN-Gloss>be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the
     metal cover"; "The surfaces contact at this point"</EN-Gloss>
     <EN-Words>adjoin, contact, meet, touch</EN-Words>
-    <PT-Gloss>estar em contato físico direto com; fazer contato (físico); "Os dois edifícios se tocaram"; "Suas mãos tocaram"; "O fio não deve encostar na
-     tampa de metal "</PT-Gloss>
+    <PT-Gloss>ter contato físico direto com algo; fazer contato (físico); "os dois prédios se tocaram"; "suas mãos se tocaram"; "O fio não deve encostar o tampa de metal "; " As superfícies se encostaram neste momento "</PT-Gloss> 
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1533,7 +1532,7 @@
     <EN-Gloss>the act of sharing in the activities of a group; "the teacher tried to increase his students' engagement in class
     activities"</EN-Gloss>
     <EN-Words>engagement, involution, involvement, participation</EN-Words>
-    <PT-Gloss>o ato de compartilhar as atividades de um grupo; "o professor tentou aumentar a participação de seus alunos nas atividades em sala de aula "</PT-Gloss>
+    <PT-Gloss>o ato de participar das atividades de um grupo; "a professora tentou aumentar a participação de seus alunos em sala"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>participación, participacion, envolvimiento</SPA-Words-Sug>
     <Comments />
@@ -1541,11 +1540,11 @@
   <row>
     <BC>1124</BC>
     <WN-3.0-Synset>v1207951</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cobrir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>form a cover over; "The grass covered the grave"</EN-Gloss>
     <EN-Words>cover, spread over</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>formar uma cobertura sobre alguma coisa; "A grama cobriu o túmulo"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1553,12 +1552,12 @@
   <row>
     <BC>1125</BC>
     <WN-3.0-Synset>v1209135</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atingir, afetar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>affect or afflict suddenly, usually adversely; "We were hit by really bad weather"; "He was stricken with cancer when he was still a
     teenager"; "The earthquake struck at midnight"</EN-Gloss>
     <EN-Words>hit, strike</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>afetar ou afligir de repente, geralmente negativamente; "Fomos atingidos por um tempo muito ruim"; "Ele foi afetado com câncer quando ele ainda era um adolescente"; "O terremoto atingiu à meia-noite "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1566,11 +1565,11 @@
   <row>
     <BC>1126</BC>
     <WN-3.0-Synset>n1242962</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">greve_de_fome</PT-Words-Man>
     <PT-Word-Cand>greve de fome</PT-Word-Cand>
     <EN-Gloss>a voluntary fast undertaken as a means of protest</EN-Gloss>
     <EN-Words>hunger strike</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um jejum voluntário realizado como forma de protesto</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>huelga de hambre, huelga de hambre</SPA-Words-Sug>
     <Comments />
@@ -1578,11 +1577,11 @@
   <row>
     <BC>1127</BC>
     <WN-3.0-Synset>v1209953</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>manusear</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>feel or handle with the fingers; "finger the binding of the book"</EN-Gloss>
     <EN-Words>finger, thumb</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sentir ou segurar com os dedos; "manuseie a encadernação do livro"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>dedo</SPA-Words-Sug>
     <Comments />
@@ -1590,12 +1589,12 @@
   <row>
     <BC>1128</BC>
     <WN-3.0-Synset>n1243674</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>greve</PT-Words-Man>
     <PT-Word-Cand>greve</PT-Word-Cand>
     <EN-Gloss>a group's refusal to work in protest against low pay or bad work conditions; "the strike lasted more than a month before it was
     settled"</EN-Gloss>
     <EN-Words>strike, work stoppage</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>rejeição para trabalhar, por parte de um grupo, em protesto contra baixos salários ou condições de trabalho ruins; "a greve durou mais de um mês antes de ter sido resolvida"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>huelga</SPA-Words-Sug>
     <Comments />
@@ -1603,11 +1602,11 @@
   <row>
     <BC>1129</BC>
     <WN-3.0-Synset>v1210737</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>manusear, tocar</PT-Words-Man>
     <PT-Word-Cand>tocar</PT-Word-Cand>
     <EN-Gloss>touch, lift, or hold with the hands; "Don't handle the merchandise"</EN-Gloss>
     <EN-Words>handle, palm</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tocar, erguer ou segurar com as mãos; "Não manuseie a mercadoria"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>tocar, agarrar con la palma, mover con la palma</SPA-Words-Sug>
     <Comments />
@@ -1615,11 +1614,11 @@
   <row>
     <BC>1130</BC>
     <WN-3.0-Synset>v1211699</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>manipular, manejar, manusear</PT-Words-Man>
     <PT-Word-Cand>manipular, manejar</PT-Word-Cand>
     <EN-Gloss>hold something in one's hands and move it</EN-Gloss>
     <EN-Words>manipulate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>segurar alguma coisa em mãos e movê-la</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1627,12 +1626,12 @@
   <row>
     <BC>1131</BC>
     <WN-3.0-Synset>v1212230</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>passar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>pass over, across, or through; "He ran his eyes over her body"; "She ran her fingers along the carved figurine"; "He drew her hair
     through his fingers"</EN-Gloss>
     <EN-Words>draw, guide, pass, run</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>passar por cima, do lado ou através de algo; "Ele passou os olhos no corpo dela"; "Ela passou os dedos ao longo da estatueta esculpida"; "Ele passou seu cabelo por entre os dedos "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1640,12 +1639,12 @@
   <row>
     <BC>1132</BC>
     <WN-3.0-Synset>v1212572</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>agarrar, segurar, pegar</PT-Words-Man>
     <PT-Word-Cand>prender, esconder, segurar, capturar, engatar/unir, agarrar com força</PT-Word-Cand>
     <EN-Gloss>take hold of; grab; "The sales clerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child
     by the arm"; "Birds of prey often seize small mammals"</EN-Gloss>
     <EN-Words>clutch, prehend, seize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>manter segurado; agarrar; "O balconista rapidamente segurou o dinheiro do balcão"; "Ela agarrou sua bolsa"; "A mãe agarrou seu filho pelo braço "; " Aves de rapina muitas vezes pegam pequenos mamíferos "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atrapar, coger, capturar, agarrar, apresar, agarrarse</SPA-Words-Sug>
     <Comments />
@@ -1653,11 +1652,11 @@
   <row>
     <BC>1133</BC>
     <WN-3.0-Synset>v1213614</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>capturar, pegar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>take or capture by force; "The terrorists seized the politicians"; "The rebels threaten to seize civilian hostages"</EN-Gloss>
     <EN-Words>seize</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pegar ou capturar utilizando força; "Os terroristas capturaram os políticos"; "Os rebeldes ameaçam pegar reféns civis"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atrapar</SPA-Words-Sug>
     <Comments />
@@ -1665,11 +1664,11 @@
   <row>
     <BC>1134</BC>
     <WN-3.0-Synset>v1214265</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pegar</PT-Words-Man>
     <PT-Word-Cand>tomar</PT-Word-Cand>
     <EN-Gloss>get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please"</EN-Gloss>
     <EN-Words>get hold of, take</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pegar com as mãos, tomar (fisicamente); "pegue um cookie!"; "Você pode pegar esta bolsa, por favor"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atrapar</SPA-Words-Sug>
     <Comments />
@@ -1677,11 +1676,11 @@
   <row>
     <BC>1135</BC>
     <WN-3.0-Synset>v1215137</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>prender, apreender</PT-Words-Man>
     <PT-Word-Cand>capturar</PT-Word-Cand>
     <EN-Gloss>take into custody; "the police nabbed the suspected criminals"</EN-Gloss>
     <EN-Words>apprehend, arrest, collar, cop, nab, nail, pick up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>pegar em custódia; "A polícia prendeu os suspeitos de crimes"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atrapar, apresar, capturar, aprehender, agazapar</SPA-Words-Sug>
     <Comments />
@@ -1689,11 +1688,11 @@
   <row>
     <BC>1136</BC>
     <WN-3.0-Synset>v1215421</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>capturar, pegar</PT-Words-Man>
     <PT-Word-Cand>capturar</PT-Word-Cand>
     <EN-Gloss>succeed in catching or seizing, especially after a chase; "We finally got the suspect"; "Did you catch the thief?"</EN-Gloss>
     <EN-Words>capture, catch, get</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sucesso na captura ou apreensão, especialmente depois de uma perseguição; "Nós finalmente pegamos o suspeito"; "Você capturou o ladrão?"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atrapar, apresar</SPA-Words-Sug>
     <Comments />
@@ -1701,12 +1700,12 @@
   <row>
     <BC>1137</BC>
     <WN-3.0-Synset>v1220885</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>aderir, colar</PT-Words-Man> 
     <PT-Word-Cand />
     <EN-Gloss>come or be in close contact with; stick or hold together and resist separation; "The dress clings to her body"; "The label stuck to the
     box"; "The sushi rice grains cohere"</EN-Gloss>
     <EN-Words>adhere, cleave, cling, cohere, stick</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar ou estar em contacto estreito; colar ou ficar junto e resistir a separação; "O vestido adere ao seu corpo"; "A etiqueta colou na caixa "; "Os grãos de arroz do sushi se aderem"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1714,11 +1713,11 @@
   <row>
     <BC>1138</BC>
     <WN-3.0-Synset>v1222645</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>girar</PT-Words-Man>
     <PT-Word-Cand>torcer</PT-Word-Cand>
     <EN-Gloss>turn in the opposite direction; "twist one's head"</EN-Gloss>
     <EN-Words>twist</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>virar no sentido contrário; "girar a cabeça de alguém"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>torcer</SPA-Words-Sug>
     <Comments />
@@ -1726,11 +1725,11 @@
   <row>
     <BC>1139</BC>
     <WN-3.0-Synset>v1223616</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enrolar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>twist or roll into coils or ringlets; "curl my hair, please"</EN-Gloss>
     <EN-Words>curl, wave</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>torcer ou enrolar em bobinas ou cachos; "enrole meu cabelo, por favor"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1738,11 +1737,11 @@
   <row>
     <BC>1140</BC>
     <WN-3.0-Synset>n1256417</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>liderança</PT-Words-Man>
     <PT-Word-Cand>liderança</PT-Word-Cand>
     <EN-Gloss>the activity of leading; "his leadership inspired the team"</EN-Gloss>
     <EN-Words>leadership, leading</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a atividade de liderar; "sua liderança inspirou a equipe"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>liderato</SPA-Words-Sug>
     <Comments />
@@ -1750,11 +1749,11 @@
   <row>
     <BC>1141</BC>
     <WN-3.0-Synset>v1224001</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>agarrar</PT-Words-Man>
     <PT-Word-Cand>agarrar, pegar</PT-Word-Cand>
     <EN-Gloss>hold fast or firmly; "He gripped the steering wheel"</EN-Gloss>
     <EN-Words>grip</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>segurar rente ou firmemente; "Ele agarrou o volante"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atrapar, agarrar</SPA-Words-Sug>
     <Comments />
@@ -1762,11 +1761,11 @@
   <row>
     <BC>1142</BC>
     <WN-3.0-Synset>v1224415</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>manejar</PT-Words-Man>
     <PT-Word-Cand>empunhar, esgrimir</PT-Word-Cand>
     <EN-Gloss>handle effectively; "The burglar wielded an axe"; "The young violinist didn't manage her bow very well"</EN-Gloss>
     <EN-Words>handle, manage, wield</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>manusear de forma eficaz; "O ladrão manejava um machado"; "O jovem violinista não maneja seu arco muito bem"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ejercer, empuñar</SPA-Words-Sug>
     <Comments />
@@ -1774,11 +1773,11 @@
   <row>
     <BC>1143</BC>
     <WN-3.0-Synset>v1224744</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>controlar, operar</PT-Words-Man>
     <PT-Word-Cand>operar</PT-Word-Cand>
     <EN-Gloss>handle and cause to function; "do not operate machinery after imbibing alcohol"; "control the lever"</EN-Gloss>
     <EN-Words>control, operate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>controlar e causar o funcionamento; "não operar máquinas após consumir álcool"; "controle a alavanca"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1786,11 +1785,11 @@
   <row>
     <BC>1144</BC>
     <WN-3.0-Synset>v1225970</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>afagar</PT-Words-Man>
     <PT-Word-Cand>acariciar</PT-Word-Cand>
     <EN-Gloss>touch lightly and repeatedly, as with brushing motions; "He stroked his long beard"</EN-Gloss>
     <EN-Words>stroke</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tocar levemente e repetidamente, como se estivesse escovando; "Ele afagou sua longa barba"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>acariciar</SPA-Words-Sug>
     <Comments />
@@ -1798,11 +1797,11 @@
   <row>
     <BC>1145</BC>
     <WN-3.0-Synset>v1226215</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>acariciar, afagar</PT-Words-Man>
     <PT-Word-Cand>acariciar, afagar, mimosear</PT-Word-Cand>
     <EN-Gloss>touch or stroke lightly in a loving or endearing manner; "He caressed her face"; "They fondled in the back seat of the taxi"</EN-Gloss>
     <EN-Words>caress, fondle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tocar ou afagar levemente de uma maneira amorosa ou carinhosa; "Ele acariciou seu rosto"; "Eles se acariciaram no banco de trás do táxi"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>acariciar, mimar</SPA-Words-Sug>
     <Comments />
@@ -1810,11 +1809,11 @@
   <row>
     <BC>1146</BC>
     <WN-3.0-Synset>n1260556</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man> gracejo, galhofa</PT-Words-Man>
     <PT-Word-Cand>entretenimento, divertimento</PT-Word-Cand>
     <EN-Gloss>violent and excited activity; "she asked for money and then the fun began"; "they began to fight like fun"</EN-Gloss>
     <EN-Words>fun</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade impetuosa e animada; "ela pediu dinheiro e logo em seguida o gracejo começou"; "eles começaram a lutar por galhofa"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>diversión</SPA-Words-Sug>
     <Comments />
@@ -1822,11 +1821,11 @@
   <row>
     <BC>1147</BC>
     <WN-3.0-Synset>v1227675</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>penetrar, perfurar</PT-Words-Man>
     <PT-Word-Cand>penetrar, aprofundar, introduzir-se</PT-Word-Cand>
     <EN-Gloss>pass into or through, often by overcoming resistance; "The bullet penetrated her chest"</EN-Gloss>
     <EN-Words>penetrate, perforate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>passar por dentro ou através de algo,  muitas vezes superando uma resistência; "A bala penetrou seu peito"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>penetrar</SPA-Words-Sug>
     <Comments />
@@ -1834,11 +1833,11 @@
   <row>
     <BC>1148</BC>
     <WN-3.0-Synset>v1229976</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>bater</PT-Words-Man>
     <PT-Word-Cand>empurrar</PT-Word-Cand>
     <EN-Gloss>poke or thrust abruptly; "he jabbed his finger into her ribs"</EN-Gloss>
     <EN-Words>dig, jab, poke, prod, stab</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>empurrar ou encostar abruptamente; "ele bateu o dedo em suas costelas"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1846,11 +1845,11 @@
   <row>
     <BC>1149</BC>
     <WN-3.0-Synset>n1264050</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>consulta</PT-Words-Man>
     <PT-Word-Cand>consulta, consultadoria</PT-Word-Cand>
     <EN-Gloss>the act of referring or consulting; "reference to an encyclopedia produced the answer"</EN-Gloss>
     <EN-Words>consultation, reference</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o ato de se referir ou de consultar; "a consulta a uma enciclopédia gerou a resposta"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>consulta</SPA-Words-Sug>
     <Comments />
@@ -1858,12 +1857,12 @@
   <row>
     <BC>1150</BC>
     <WN-3.0-Synset>n1264447</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desabafo</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>activity that frees or expresses creative energy or emotion; "she had no other outlet for her feelings"; "he gave vent to his
     anger"</EN-Gloss>
     <EN-Words>outlet, release, vent</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>atividade que libera ou expressa energia criativa ou emoção; "ela não tinha outro desabafo para os seus sentimentos"; "ele deu desabafo à sua raiva "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1871,11 +1870,11 @@
   <row>
     <BC>1151</BC>
     <WN-3.0-Synset>v1233027</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">dar_um_tapa</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>hit lightly; "pat him on the shoulder"</EN-Gloss>
     <EN-Words>dab, pat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>bater levemente; "de um tapa no ombro dele"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1883,11 +1882,11 @@
   <row>
     <BC>1152</BC>
     <WN-3.0-Synset>v1235355</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>trabalhar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make uniform; "knead dough"; "work the clay until it is soft"</EN-Gloss>
     <EN-Words>knead, work</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar uniforme; "trabalhe o barro até que esteja macio"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>amasar</SPA-Words-Sug>
     <Comments />
@@ -1895,11 +1894,11 @@
   <row>
     <BC>1153</BC>
     <WN-3.0-Synset>v1236164</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>colidir, bater</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>hit against; come into sudden contact with; "The car hit a tree"; "He struck the table with his elbow"</EN-Gloss>
     <EN-Words>collide with, hit, impinge on, run into, strike</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>bater em algo; entrar em contato súbito com alguma coisa; "O carro colidiu com uma árvore"; "Ele bateu na mesa com o cotovelo"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>golpear</SPA-Words-Sug>
     <Comments />
@@ -1907,11 +1906,11 @@
   <row>
     <BC>1154</BC>
     <WN-3.0-Synset>v1239619</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>colidir, chocar</PT-Words-Man>
     <PT-Word-Cand>chocar, percutir</PT-Word-Cand>
     <EN-Gloss>knock against with force or violence; "My car bumped into the tree"</EN-Gloss>
     <EN-Words>bump, knock</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>bater contra algo, com força ou violência; "Meu carro colidiu com a árvore"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>golpear, topar</SPA-Words-Sug>
     <Comments />
@@ -1919,11 +1918,11 @@
   <row>
     <BC>1155</BC>
     <WN-3.0-Synset>v1240720</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>roçar, raspar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>touch lightly and briefly; "He brushed the wall lightly"</EN-Gloss>
     <EN-Words>brush</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tocar levemente e brevemente; "Ele roçou levemente na parede" </PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1931,11 +1930,11 @@
   <row>
     <BC>1156</BC>
     <WN-3.0-Synset>v1242832</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>bater</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>close violently; "He slammed the door shut"</EN-Gloss>
     <EN-Words>bang, slam</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fechar algo violentamente: "Ele bateu a porta"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1943,11 +1942,11 @@
   <row>
     <BC>1157</BC>
     <WN-3.0-Synset>v1243148</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tirar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>move or pull so as to cover or uncover something; "draw the shades"; "draw the curtains"</EN-Gloss>
     <EN-Words>draw</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover ou puxar de forma a cobrir ou descobrir alguma coisa; "tirar as máscaras"; "tirar as cortinas"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1955,23 +1954,23 @@
   <row>
     <BC>1158</BC>
     <WN-3.0-Synset>v1243982</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escovar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>clean with a brush; "She brushed the suit before hanging it back into the closet"</EN-Gloss>
     <EN-Words>brush</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>limpar com uma escova; "Ela escovou o terno antes de pendurá-lo de volta no armário"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
   </row>
   <row>
     <BC>1159</BC>
-    <WN-3.0-Synset>v1244692</WN-3.0-Synset>
-    <PT-Words-Man />
+    <WN-3.0-Synset>v1244692</WN-3.0-Synset> 
+    <PT-Words-Man>procurar</PT-Words-Man>
     <PT-Word-Cand>procurar</PT-Word-Cand>
     <EN-Gloss>search (as the bottom of a body of water) for something valuable or lost</EN-Gloss>
     <EN-Words>drag, dredge</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>procurar (como se no fundo de um corpo de água) por alguma coisa valiosa ou perdida</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -1979,11 +1978,11 @@
   <row>
     <BC>1160</BC>
     <WN-3.0-Synset>v1245637</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>polir</PT-Words-Man>
     <PT-Word-Cand>polir</PT-Word-Cand>
     <EN-Gloss>make (a surface) shine; "shine the silver, please"; "polish my shoes"</EN-Gloss>
     <EN-Words>polish, shine, smooth, smoothen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar brilhoso (uma superfície); "pule a prata, por favor"; "poli meus sapatos"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>bruñir, acicalar</SPA-Words-Sug>
     <Comments />
@@ -1991,11 +1990,11 @@
   <row>
     <BC>1161</BC>
     <WN-3.0-Synset>v1249724</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esfregar</PT-Words-Man>
     <PT-Word-Cand>esfregar</PT-Word-Cand>
     <EN-Gloss>move over something with pressure; "rub my hands"; "rub oil into her skin"</EN-Gloss>
     <EN-Words>rub</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>passar algo com pressão; "esfreguei minhas mãos"; "esfregue óleo em sua pele"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>friccionar</SPA-Words-Sug>
     <Comments />
@@ -2003,11 +2002,11 @@
   <row>
     <BC>1162</BC>
     <WN-3.0-Synset>v1250908</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>arranhar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>cause friction; "my sweater scratches"</EN-Gloss>
     <EN-Words>chafe, fray, fret, rub, scratch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causar atrito; "minha camisola arranha"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>arañar</SPA-Words-Sug>
     <Comments />
@@ -2015,11 +2014,11 @@
   <row>
     <BC>1163</BC>
     <WN-3.0-Synset>v1252971</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>alisar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make smooth or smoother, as if by rubbing; "smooth the surface of the wood"</EN-Gloss>
     <EN-Words>smooth, smoothen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tornar algo liso ou mais suave, como se estivesse esfregando; "alise a superfície da madeira"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>abrillantar, lustrar, pulir</SPA-Words-Sug>
     <Comments />
@@ -2027,11 +2026,11 @@
   <row>
     <BC>1164</BC>
     <WN-3.0-Synset>v1254692</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>amputar</PT-Words-Man>
     <PT-Word-Cand>amputar</PT-Word-Cand>
     <EN-Gloss>remove surgically; "amputate limbs"</EN-Gloss>
     <EN-Words>amputate, cut off</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover cirurgicamente; "amputar membros"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>amputar, mochar, cercenar</SPA-Words-Sug>
     <Comments />
@@ -2039,11 +2038,11 @@
   <row>
     <BC>1165</BC>
     <WN-3.0-Synset>v1256374</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>forjar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>form metals with a swage</EN-Gloss>
     <EN-Words>swage, upset</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>formar metais com um molde</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2051,11 +2050,11 @@
   <row>
     <BC>1166</BC>
     <WN-3.0-Synset>v1258302</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>derrubar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>cause to fall by or as if by delivering a blow; "strike down a tree"; "Lightning struck down the hikers"</EN-Gloss>
     <EN-Words>cut down, drop, fell, strike down</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causar a queda, através da aplicação de um golpe; "derrubar uma árvore"; "o raio derrubou os caminhantes"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>talar</SPA-Words-Sug>
     <Comments />
@@ -2063,11 +2062,11 @@
   <row>
     <BC>1167</BC>
     <WN-3.0-Synset>v1259458</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>lascar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>break a small piece off from; "chip the glass"; "chip a tooth"</EN-Gloss>
     <EN-Words>break off, chip, cut off, knap</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>quebrar um pequeno pedaço de algo; "lascei o vidro"; "lascei o dente"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2075,11 +2074,11 @@
   <row>
     <BC>1168</BC>
     <WN-3.0-Synset>v1259691</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>quebrar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>break off (a piece from a whole); "Her tooth chipped"</EN-Gloss>
     <EN-Words>break away, break off, chip off, chip, come off</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>romper (um pedaço de um todo); "Seu dente quebrou"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2087,11 +2086,11 @@
   <row>
     <BC>1169</BC>
     <WN-3.0-Synset>v1264283</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>revestir, cobrir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate"</EN-Gloss>
     <EN-Words>coat, surface</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>botar um revestimento em algo; cobrir uma superfície; cobrir com uma superfície; "revestir o bolo com chocolate"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2099,11 +2098,11 @@
   <row>
     <BC>1170</BC>
     <WN-3.0-Synset>v1269702</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>caiar</PT-Words-Man>
     <PT-Word-Cand>sayyid</PT-Word-Cand>
     <EN-Gloss>cover with whitewash; "whitewash walls"</EN-Gloss>
     <EN-Words>whitewash</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cobrir com cal; "paredes de cal"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>sayyid, encalar, emblanquecer</SPA-Words-Sug>
     <Comments />
@@ -2111,11 +2110,11 @@
   <row>
     <BC>1171</BC>
     <WN-3.0-Synset>a1278080</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>distinto, notável</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>(used of persons) standing above others in character or attainment or reputation; "our distinguished professor"</EN-Gloss>
     <EN-Words>distinguished</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(usado para pessoas) estar acima de outros em conceito de caráter, realização ou reputação; "nosso distinto professor"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>distinguido, distinguida, señalado</SPA-Words-Sug>
     <Comments />
@@ -2123,11 +2122,11 @@
   <row>
     <BC>1172</BC>
     <WN-3.0-Synset>v1271189</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>revestir</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>cover the front or surface of; "The building was faced with beautiful stones"</EN-Gloss>
     <EN-Words>face</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cobrir a frente ou superfície de algo; "O prédio foi revestido com bonitas pedras"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2135,23 +2134,23 @@
   <row>
     <BC>1173</BC>
     <WN-3.0-Synset>v1277649</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true"/>
     <PT-Word-Cand />
     <EN-Gloss>cut a furrow into a columns</EN-Gloss>
     <EN-Words>chamfer, chase, furrow</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cortar um sulco em colunas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não sei se o gloss se define apenas para um verbo especifico em ingles que significa fazer sulco APENAS em colunas, se for não existe uma palavra em portugues que seja tão específica</Comments>
   </row>
   <row>
     <BC>1174</BC>
     <WN-3.0-Synset>v1277784</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enrugar, dobrar</PT-Words-Man>
     <PT-Word-Cand>sulcar</PT-Word-Cand>
     <EN-Gloss>make wrinkled or creased; "furrow one's brow"</EN-Gloss>
     <EN-Words>crease, furrow, wrinkle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer rugas ou dobras; "enrugar a testa"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
