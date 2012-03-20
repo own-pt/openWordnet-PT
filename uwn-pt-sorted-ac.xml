@@ -2255,11 +2255,11 @@
   <row>
     <BC>1183</BC>
     <WN-3.0-Synset>n1320872</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fêmea</PT-Words-Man>
     <PT-Word-Cand>Fêmea, fêmea</PT-Word-Cand>
     <EN-Gloss>an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)</EN-Gloss>
     <EN-Words>female</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um animal que produz gametas (óvulos) que podem ser fecundados por gametas masculinos (espermatozóides)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>hembra, hembra</SPA-Words-Sug>
     <Comments />
@@ -2267,23 +2267,23 @@
   <row>
     <BC>1184</BC>
     <WN-3.0-Synset>n1321123</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="false" />
     <PT-Word-Cand />
     <EN-Gloss>female of certain aquatic animals e.g. octopus or lobster</EN-Gloss>
     <EN-Words>hen</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>feminino de certos animais aquáticos como por exemplo, polvo e lagosta</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>nao tenho certeza absoluta mas acho que não existe um nome especifico para feminino de polvo ou lagosta</Comments>
   </row>
   <row>
     <BC>1185</BC>
     <WN-3.0-Synset>n1321230</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>macho</PT-Words-Man>
     <PT-Word-Cand>macho</PT-Word-Cand>
     <EN-Gloss>an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)</EN-Gloss>
     <EN-Words>male</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um animal que produz gametas (espermatozóides) que podem fertilizar gametas femininos (óvulos)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Macho, masculino, morterete</SPA-Words-Sug>
     <Comments />
@@ -2291,11 +2291,11 @@
   <row>
     <BC>1186</BC>
     <WN-3.0-Synset>n1321579</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cria, prole</PT-Words-Man>
     <PT-Word-Cand>criança</PT-Word-Cand>
     <EN-Gloss>any immature animal</EN-Gloss>
     <EN-Words>offspring, young</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer animal imaturo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2303,11 +2303,11 @@
   <row>
     <BC>1187</BC>
     <WN-3.0-Synset>n1321854</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>any immature mammal</EN-Gloss>
     <EN-Words>young mammal</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer mamífero imaturos</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2315,11 +2315,11 @@
   <row>
     <BC>1188</BC>
     <WN-3.0-Synset>v1286913</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>amarrar, atar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>secure with or as if with ropes; "tie down the prisoners"; "tie up the old newspapers and bring them to the recycling shed"</EN-Gloss>
     <EN-Words>bind, tie down, tie up, truss</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>prender com ou como se tivesse cordas; "amarre os prisioneiros"; "ate os jornais velhos e traga eles  para a  oficina de reciclagem"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2327,14 +2327,14 @@
   <row>
     <BC>1189</BC>
     <WN-3.0-Synset>n1322343</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>young of any of various canines such as a dog or wolf</EN-Gloss>
     <EN-Words>pup, whelp</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cria de qualquer animal canino, como cão ou lobo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cachorro</SPA-Words-Sug>
-    <Comments />
+    <Comments>não existe uma palavra correspondente a "pup" em portugues, no caso seria "filhote de cachorro" e "filhote de lobo", um nome para cada especie</Comments> 
   </row>
   <row>
     <BC>1190</BC>
