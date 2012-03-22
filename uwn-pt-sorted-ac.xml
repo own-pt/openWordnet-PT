@@ -2323,7 +2323,7 @@
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
-  </row>
+  </row> 
   <row>
     <BC>1189</BC>
     <WN-3.0-Synset>n1322343</WN-3.0-Synset>
@@ -2339,24 +2339,24 @@
   <row>
     <BC>1190</BC>
     <WN-3.0-Synset>n1324610</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man LegalizeGap="true" >herbívoro</PT-Words-Man>
     <PT-Word-Cand>herbívoro, Herbívoro, herbívoros</PT-Word-Cand>
     <EN-Gloss>any animal that feeds chiefly on grass and other plants; "horses are herbivores"; "the sauropod dinosaurs were apparently
     herbivores"</EN-Gloss>
     <EN-Words>herbivore</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer animal que se alimenta principalmente de grama e outros vegetais; "cavalos são herbívoros"; "os dinossauros saurópodes eram aparentemente herbívoros "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Herbivoro, herbívoro, herbívoros, herbívoro</SPA-Words-Sug>
-    <Comments />
+    <Comments>o gloss se encaixa perfeitamento com a palavra "herbívoro", o gloss em ingles se encaixa no grupo dos substantivos, mas em potugues "herbívoro" é um adjetivo.</Comments>
   </row>
   <row>
     <BC>1191</BC>
     <WN-3.0-Synset>n1325417</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>chifre</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>one of the bony outgrowths on the heads of certain ungulates</EN-Gloss>
     <EN-Words>horn</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>uma das protuberâncias ósseas nas cabeças de certos ungulados</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2364,11 +2364,11 @@
   <row>
     <BC>1192</BC>
     <WN-3.0-Synset>v1290422</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>grudar, juntar</PT-Words-Man>
     <PT-Word-Cand>colar, juntar</PT-Word-Cand>
     <EN-Gloss>become attached; "The spider's thread attached to the window sill"</EN-Gloss>
     <EN-Words>attach</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ficar  grudado; "fio da aranha grudou no peitoril da janela"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2376,11 +2376,11 @@
   <row>
     <BC>1193</BC>
     <WN-3.0-Synset>n1326015</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>crista</PT-Words-Man>
     <PT-Word-Cand>crista</PT-Word-Cand>
     <EN-Gloss>a showy growth of e.g. feathers or skin on the head of a bird or other animal</EN-Gloss>
     <EN-Words>crest</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o desenvolvimento vistoso de por exemplo penas ou pele sobre a cabeça de um pássaro ou de outro animal</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2388,11 +2388,11 @@
   <row>
     <BC>1194</BC>
     <WN-3.0-Synset>n1326291</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>microrganismo</PT-Words-Man>
     <PT-Word-Cand>microrganismos, Micróbio, Microbio, germe, microorganismo</PT-Word-Cand>
     <EN-Gloss>any organism of microscopic size</EN-Gloss>
     <EN-Words>micro-organism, microorganism</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer organismo de tamanho microscópico</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>microorganismo, microorganismos, germen</SPA-Words-Sug>
     <Comments />
@@ -2400,11 +2400,11 @@
   <row>
     <BC>1195</BC>
     <WN-3.0-Synset>v1291069</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>unir, juntar</PT-Words-Man>
     <PT-Word-Cand>unir, acoplar, reunir</PT-Word-Cand>
     <EN-Gloss>make contact or come together; "The two roads join here"</EN-Gloss>
     <EN-Words>conjoin, join</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer contato ou se juntar; "As duas estradas se juntam aqui"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2412,11 +2412,11 @@
   <row>
     <BC>1196</BC>
     <WN-3.0-Synset>v1295275</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>juntar, unir, acoplar</PT-Words-Man>
     <PT-Word-Cand>reunir, juntar, acoplar</PT-Word-Cand>
     <EN-Gloss>cause to become joined or linked; "join these two parts so that they fit together"</EN-Gloss>
     <EN-Words>bring together, join</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer com que algo se junte ou vincule; "junte essas duas partes para que elas se encaixem"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2424,11 +2424,11 @@
   <row>
     <BC>1197</BC>
     <WN-3.0-Synset>v1296462</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>anexar, juntar, unir</PT-Words-Man>
     <PT-Word-Cand>anexar, juntar, amarrar</PT-Word-Cand>
     <EN-Gloss>cause to be attached</EN-Gloss>
     <EN-Words>attach</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causar uma ligação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2436,11 +2436,11 @@
   <row>
     <BC>1198</BC>
     <WN-3.0-Synset>v1297401</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>etiquetar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>attach a ring to the foot of, in order to identify; "ring birds"; "band the geese to observe their migratory patterns"</EN-Gloss>
     <EN-Words>band, ring</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>anexar uma argola ao pé de algo, com o objetivo de identificar; "etiquete os Pássaros"; "etiquete os gansos para observar seus padrões migratórios"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>anillar</SPA-Words-Sug>
     <Comments />
@@ -2448,11 +2448,11 @@
   <row>
     <BC>1199</BC>
     <WN-3.0-Synset>v1299268</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cortar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>remove by or as if by cutting; "cut off the ear"; "lop off the dead branch"</EN-Gloss>
     <EN-Words>chop off, cut off, lop off</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover algo cortando ou como se estivesse; "corte a orelha"; "corte o galho morto"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2460,11 +2460,11 @@
   <row>
     <BC>1200</BC>
     <WN-3.0-Synset>v1299758</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>descolar, separar</PT-Words-Man>
     <PT-Word-Cand>separar, apartar, decolar</PT-Word-Cand>
     <EN-Gloss>come to be detached; "His retina detached and he had to be rushed into surgery"</EN-Gloss>
     <EN-Words>come away, come off, detach</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>vir ser separado: "Sua retina descolou e ele teve que ser levado às pressas para a cirurgia"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>separar, desunir</SPA-Words-Sug>
     <Comments />
@@ -2472,11 +2472,11 @@
   <row>
     <BC>1201</BC>
     <WN-3.0-Synset>v1300040</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cair</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>come off; "This button had fallen off"</EN-Gloss>
     <EN-Words>fall off</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sair; "Este botão tinha caído"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
