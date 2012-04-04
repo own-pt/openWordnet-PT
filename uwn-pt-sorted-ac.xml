@@ -2307,7 +2307,7 @@
     <PT-Word-Cand />
     <EN-Gloss>any immature mammal</EN-Gloss>
     <EN-Words>young mammal</EN-Words>
-    <PT-Gloss>qualquer mamífero imaturos</PT-Gloss>
+    <PT-Gloss>qualquer mamífero imaturo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2484,11 +2484,11 @@
   <row>
     <BC>1202</BC>
     <WN-3.0-Synset>v1300144</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>amarrar, atar</PT-Words-Man>
     <PT-Word-Cand>atar</PT-Word-Cand>
     <EN-Gloss>tie or fasten into a knot; "knot the shoelaces"</EN-Gloss>
     <EN-Words>knot</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fixar ou prender com um nó; "amarre os atacadores"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2496,13 +2496,13 @@
   <row>
     <BC>1203</BC>
     <WN-3.0-Synset>v1301410</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>reter, confinar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>to close within bounds, limit or hold back from movement; "This holds the local until the express passengers change trains"; "About a
     dozen animals were held inside the stockade"; "The illegal immigrants were held at a detention center"; "The terrorists held the journalists for
     ransom"</EN-Gloss>
     <EN-Words>confine, hold, restrain</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>botar algo dentro de limites, limitar ou delimitar o movimento: "Isto retém o local até que os passageiros do expresso mudem de trens"; "Cerca de um dúzia animais foram confinados no interior da paliçada ";" Os imigrantes ilegais foram retidos em um centro de detenção ";" Os terroristas reteram os jornalistas para resgate "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2510,23 +2510,23 @@
   <row>
     <BC>1204</BC>
     <WN-3.0-Synset>v1303242</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>amarrar, atar</PT-Words-Man>
     <PT-Word-Cand>sujeitar</PT-Word-Cand>
     <EN-Gloss>make fast; tie or secure, with or as if with a rope; "The Chinese would bind the feet of their women"</EN-Gloss>
     <EN-Words>bind</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>vincular ou segurar, com ou como se com uma corda; "Os chineses deveriam amarrar os pés de suas mulheres"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não entendi esse "make fast" no inicio do EN-Gloss, para mim não fez sentido</Comments>
   </row>
   <row>
     <BC>1205</BC>
     <WN-3.0-Synset>v1303547</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>atar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>wrap around with something so as to cover or enclose</EN-Gloss>
     <EN-Words>bandage, bind</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>envolver com algo de modo a cobrir ou cercar</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2534,11 +2534,11 @@
   <row>
     <BC>1206</BC>
     <WN-3.0-Synset>v1307142</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>nivelar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make level or straight; "level the ground"</EN-Gloss>
     <EN-Words>even out, even, flush, level</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>criar nível ou aplanar; "nivele o chão"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2546,11 +2546,11 @@
   <row>
     <BC>1207</BC>
     <WN-3.0-Synset>v1308160</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>roçar</PT-Words-Man>
     <PT-Word-Cand>rapar, rascar, coçar</PT-Word-Cand>
     <EN-Gloss>scratch repeatedly; "The cat scraped at the armchair"</EN-Gloss>
     <EN-Words>grate, scrape</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>esfregar repetidas vezes; "O gato roçou na poltrona"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>rascar</SPA-Words-Sug>
     <Comments />
@@ -2558,11 +2558,11 @@
   <row>
     <BC>1208</BC>
     <WN-3.0-Synset>v1309143</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>raspar</PT-Words-Man>
     <PT-Word-Cand>arranhar, rascar-se</PT-Word-Cand>
     <EN-Gloss>cut the surface of; wear away the surface of</EN-Gloss>
     <EN-Words>scrape, scratch up, scratch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>cortar ou desgastar a superfície de algo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>rascar</SPA-Words-Sug>
     <Comments />
@@ -2570,11 +2570,11 @@
   <row>
     <BC>1209</BC>
     <WN-3.0-Synset>v1309701</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cavar</PT-Words-Man>
     <PT-Word-Cand>cavar, escavar</PT-Word-Cand>
     <EN-Gloss>turn up, loosen, or remove earth; "Dig we must"; "turn over the soil for aeration"</EN-Gloss>
     <EN-Words>cut into, delve, dig, turn over</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>soltar ou remover terra; "nós devemos cavar"; "cave a terra para aeração"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>decentar, encentar</SPA-Words-Sug>
     <Comments />
@@ -2582,11 +2582,11 @@
   <row>
     <BC>1210</BC>
     <WN-3.0-Synset>v1310660</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escavar</PT-Words-Man>
     <PT-Word-Cand>escavar</PT-Word-Cand>
     <EN-Gloss>remove the inner part or the core of; "the mining company wants to excavate the hillside"</EN-Gloss>
     <EN-Words>dig, excavate, hollow</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>remover a parte interna ou o núcleo de algo;  " a mineradora quer escavar a encosta"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>excavar, vaciar, zanjar</SPA-Words-Sug>
     <Comments />
