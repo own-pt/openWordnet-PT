@@ -2753,23 +2753,23 @@
   <row>
     <BC>1224</BC>
     <WN-3.0-Synset>v1340439</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>prender, fixar</PT-Words-Man>
     <PT-Word-Cand>prender</PT-Word-Cand>
     <EN-Gloss>cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man"</EN-Gloss>
     <EN-Words>fasten, fix, secure</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer com que algo esteja firmemente fixado; "prenda a trava na a porta"; "ela fixou seu olhar sobre o homem"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atar, liar, unir, abrochar</SPA-Words-Sug>
-    <Comments />
+    <Comments>acho q nao traduzi o primeiro exemplo do PT-GLOSS corretamente</Comments>
   </row>
   <row>
     <BC>1225</BC>
     <WN-3.0-Synset>v1345109</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fechar</PT-Words-Man>
     <PT-Word-Cand>fechar</PT-Word-Cand>
     <EN-Gloss>move so that an opening or passage is obstructed; make shut; "Close the door"; "shut the window"</EN-Gloss>
     <EN-Words>close, shut</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover-se de modo que uma abertura ou passagem seja obstruída; fazer com que algo se feche; "Feche a porta"; "feche a janela"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cerrar</SPA-Words-Sug>
     <Comments />
@@ -2777,11 +2777,11 @@
   <row>
     <BC>1226</BC>
     <WN-3.0-Synset>v1346003</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>abrir</PT-Words-Man>
     <PT-Word-Cand>abrir</PT-Word-Cand>
     <EN-Gloss>cause to open or to become open; "Mary opened the car door"</EN-Gloss>
     <EN-Words>open up, open</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causar a abertura ou fazer com que se torne aberto; "Maria abriu a porta do carro"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2789,11 +2789,11 @@
   <row>
     <BC>1227</BC>
     <WN-3.0-Synset>v1346804</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>abrir</PT-Words-Man>
     <PT-Word-Cand>abrir</PT-Word-Cand>
     <EN-Gloss>become open; "The door opened"</EN-Gloss>
     <EN-Words>open up, open</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>se abrir; "A porta se abriu"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>abrir, destapar</SPA-Words-Sug>
     <Comments />
@@ -2801,11 +2801,11 @@
   <row>
     <BC>1228</BC>
     <WN-3.0-Synset>v1346978</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>fechar</PT-Words-Man>
     <PT-Word-Cand>fechar</PT-Word-Cand>
     <EN-Gloss>become closed; "The windows closed with a loud bang"</EN-Gloss>
     <EN-Words>close, shut</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>se tornar fechado; "As janelas se fecharam com um grande estrondo"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>fenecer, cerrar</SPA-Words-Sug>
     <Comments />
@@ -2813,24 +2813,24 @@
   <row>
     <BC>1229</BC>
     <WN-3.0-Synset>v1348174</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>trancar</PT-Words-Man>
     <PT-Word-Cand>fechar, cerrar</PT-Word-Cand>
     <EN-Gloss>fasten with a lock; "lock the bike to the fence"</EN-Gloss>
     <EN-Words>lock</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>prender com um cadeado; "tranque a moto na cerca"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>candar</SPA-Words-Sug>
-    <Comments />
+    <Comments>nao tenho certeza se "trancar" se aplica a esse GLOSS, talvez ele seja especifico demais</Comments> 
   </row>
   <row>
     <BC>1230</BC>
     <WN-3.0-Synset>n1384687</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>comensalismo</PT-Words-Man>
     <PT-Word-Cand>parasita, parasitas</PT-Word-Cand>
     <EN-Gloss>an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or
     killing the host</EN-Gloss>
     <EN-Words>parasite</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um animal ou planta que vive em ou com um anfitrião (um outro animal ou vegetal); ele obtém sua nutrição através do anfitrião sem beneficiar ou prejudicar o anfitrião</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>parásitos, parásito, parasito</SPA-Words-Sug>
     <Comments />
@@ -2838,11 +2838,11 @@
   <row>
     <BC>1231</BC>
     <WN-3.0-Synset>n1385527</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>hospedeiro, anfitrião</PT-Words-Man>
     <PT-Word-Cand>hospedeiro</PT-Word-Cand>
     <EN-Gloss>an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association</EN-Gloss>
     <EN-Words>host</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>um animal ou planta que alimenta e suporta um parasita; tal não se beneficia e muitas vezes é prejudicado pela associação</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Huesped, huésped, hospedador</SPA-Words-Sug>
     <Comments />
@@ -2850,11 +2850,11 @@
   <row>
     <BC>1232</BC>
     <WN-3.0-Synset>n1387065</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>prototista, protoctista</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>any of the unicellular protists</EN-Gloss>
     <EN-Words>protoctist</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer um dos protistas unicelulares</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -2862,11 +2862,11 @@
   <row>
     <BC>1233</BC>
     <WN-3.0-Synset>v1352528</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desaparafusar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>loosen something by unscrewing it; "unscrew the outlet plate"</EN-Gloss>
     <EN-Words>unscrew</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>soltar algo tirando o parafuso; "desparafuse a placa de saída"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desatornillar, desenroscar, descollar, escurrirse, destornillar</SPA-Words-Sug>
     <Comments />
@@ -2874,11 +2874,11 @@
   <row>
     <BC>1234</BC>
     <WN-3.0-Synset>n1389507</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>protozoário</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>any of diverse minute acellular or unicellular organisms usually nonphotosynthetic</EN-Gloss>
     <EN-Words>protozoan, protozoon</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer uma dos diversos  organismos unicelulares ou acelulares geralmente não fotossintetizantes</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>protozoarios, protozoo</SPA-Words-Sug>
     <Comments />
@@ -2886,11 +2886,11 @@
   <row>
     <BC>1235</BC>
     <WN-3.0-Synset>v1356038</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desconectar</PT-Words-Man>
     <PT-Word-Cand>desligar</PT-Word-Cand>
     <EN-Gloss>make disconnected, disjoin or unfasten</EN-Gloss>
     <EN-Words>disconnect</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer com que algo fique desconectado ou desprendido</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desenchufar, desconectar</SPA-Words-Sug>
     <Comments />
