@@ -15,11 +15,11 @@
   <row>
     <BC>1502</BC>
     <WN-3.0-Synset>v1871979</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>empurrar, forçar</PT-Words-Man>
     <PT-Word-Cand>empurrar</PT-Word-Cand>
     <EN-Gloss>move with force, "He pushed the table into a corner"</EN-Gloss>
     <EN-Words>force, push</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover com força; "Ele empurrou a mesa para um canto"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>empujar</SPA-Words-Sug>
     <Comments />
@@ -36,18 +36,20 @@
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>1504</BC>
     <WN-3.0-Synset>v1875295</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>balançar, sacudir</PT-Words-Man>
     <PT-Word-Cand>balançar, ninar</PT-Word-Cand>
     <EN-Gloss>move back and forth or sideways; "the ship was rocking"; "the tall building swayed"; "She rocked back and forth on her feet"</EN-Gloss>
     <EN-Words>rock, shake, sway</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover para frente e para traz ou para os lados; "o navio estava balançando"; "o prédio alto balançava"; "Ela balançava para frente e para traz sobre seus pés"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>balancear</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1505</BC>
     <WN-3.0-Synset>n1902877</WN-3.0-Synset>
@@ -72,18 +74,20 @@
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>1507</BC>
     <WN-3.0-Synset>n1904182</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>carapaça, concha</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the hard largely calcareous covering of a mollusc or a brachiopod</EN-Gloss>
     <EN-Words>shell</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>o revestimetno duro e em grande parte calcário de um molusco ou brachiopoda</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>concha</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1508</BC>
     <WN-3.0-Synset>n1905661</WN-3.0-Synset>
@@ -6094,6 +6098,7 @@
     <SPA-Words-Sug>aguardar, esperar</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>2000</BC>
     <WN-3.0-Synset>v2641035</WN-3.0-Synset>
@@ -6106,14 +6111,15 @@
     <SPA-Words-Sug>pausar, hacer una pausa</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>2001</BC>
     <WN-3.0-Synset>v2641463</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esperar, reter, aguardar</PT-Words-Man>
     <PT-Word-Cand>esperar, Reter</PT-Word-Cand>
     <EN-Gloss>wait before acting; "the scientists held off announcing their results until they repeated the experiment"</EN-Gloss>
     <EN-Words>hold back, hold off, wait</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>esperar antes de agir; "os cientístas esperaram para anunciar seus resultados até que eles repetissem o experimento"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>esperar</SPA-Words-Sug>
     <Comments />
