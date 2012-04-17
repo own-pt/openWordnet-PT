@@ -6062,6 +6062,7 @@
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>1996</BC>
     <WN-3.0-Synset>v2634265</WN-3.0-Synset>
@@ -6074,26 +6075,28 @@
     <SPA-Words-Sug>seguirse, resultar</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1997</BC>
     <WN-3.0-Synset>v2634567</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>resultar, derivar</PT-Words-Man>
     <PT-Word-Cand>resultar</PT-Word-Cand>
     <EN-Gloss>be the result of</EN-Gloss>
     <EN-Words>be due, flow from</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ser o resultado de</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>derivar</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1999</BC>
     <WN-3.0-Synset>v2637938</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>esperar, aguardar</PT-Words-Man>
     <PT-Word-Cand>esperar</PT-Word-Cand>
     <EN-Gloss>stay in one place and anticipate or expect something; "I had to wait on line for an hour to get the tickets"</EN-Gloss>
     <EN-Words>wait</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>estar em um lugar e antecipar ou esperar alguma coisa; "Eu tive que esperar na fila por uma hora para pegar os ingressos"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>aguardar, esperar</SPA-Words-Sug>
     <Comments />
