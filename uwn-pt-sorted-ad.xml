@@ -5976,18 +5976,20 @@
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>1989</BC>
     <WN-3.0-Synset>v2628961</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>custar</PT-Words-Man>
     <PT-Word-Cand>custar, demandar</PT-Word-Cand>
     <EN-Gloss>require to lose, suffer, or sacrifice; "This mistake cost him his job"</EN-Gloss>
     <EN-Words>cost</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>requere a perda, sofrimento ou sacrifício; "Este erro custou o emprego dele."</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>1990</BC>
     <WN-3.0-Synset>v2629535</WN-3.0-Synset>
@@ -6001,14 +6003,15 @@
     <SPA-Words-Sug>englobar</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1991</BC>
     <WN-3.0-Synset>v2630189</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ter, caracterizar-se por</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>have as a feature; "This restaurant features the most famous chefs in France"</EN-Gloss>
     <EN-Words>feature, have</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter como uma característica; "O restaurante tem os mais famosos chefs na França."</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -6016,11 +6019,11 @@
   <row>
     <BC>1992</BC>
     <WN-3.0-Synset>v2632167</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>possuir, ter</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>have as an attribute, knowledge, or skill; "he possesses great knowledge about the Middle East"</EN-Gloss>
     <EN-Words>possess</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>ter como um atributo, conhecimento ou habilidade; "Ele possui grande conhecimento sobre o Oriente Médio."</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
