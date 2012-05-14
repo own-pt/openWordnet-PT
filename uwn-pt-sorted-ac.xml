@@ -3140,11 +3140,11 @@
   <row>
     <BC>1257</BC>
     <WN-3.0-Synset>v1393996</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>varrer</PT-Words-Man>
     <PT-Word-Cand>varrer</PT-Word-Cand>
     <EN-Gloss>clean by sweeping; "Please sweep the floor"</EN-Gloss>
     <EN-Words>sweep</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>limpar varrendo; "Por favor, varre o chão"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3152,11 +3152,11 @@
   <row>
     <BC>1258</BC>
     <WN-3.0-Synset>v1394464</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ranger</PT-Words-Man>
     <PT-Word-Cand>moer</PT-Word-Cand>
     <EN-Gloss>make a grating or grinding sound by rubbing together; "grate one's teeth in anger"</EN-Gloss>
     <EN-Words>grate, grind</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um som de raspagem ou de triturar, pelo atrito; "ranger os dentes de raiva"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3164,23 +3164,23 @@
   <row>
     <BC>1259</BC>
     <WN-3.0-Synset>v1398919</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">bater_repetidamente</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>hit repeatedly; "beat on the door"; "beat the table with his shoe"</EN-Gloss>
     <EN-Words>beat</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>bater repetidamente; "bater na porta"; "bater na mesa com o sapato"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>não achei nenhuma palavra em portugues q corresponda a esse EN-Words, só uma palavra composta.</Comments>
   </row>
   <row>
     <BC>1260</BC>
     <WN-3.0-Synset>v1400044</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>bater,golpear</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>deal a blow to, either with the hand or with an instrument; "He hit her hard in the face"</EN-Gloss>
     <EN-Words>hit</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>direcionar um golpe a algo, seja com a mão ou com um instrumento; "Ele bateu forte na cara dela"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>golpear</SPA-Words-Sug>
     <Comments />
@@ -3188,11 +3188,11 @@
   <row>
     <BC>1261</BC>
     <WN-3.0-Synset>v1405044</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>bater</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>cause to move by striking; "hit a ball"</EN-Gloss>
     <EN-Words>hit</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causar o movimento através de uma pancada; "bater numa bola"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3200,12 +3200,12 @@
   <row>
     <BC>1262</BC>
     <WN-3.0-Synset>a1415219</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pequeno,pequena,modesto,modesta</PT-Words-Man>
     <PT-Word-Cand>pequeno</PT-Word-Cand>
     <EN-Gloss>limited in size or scope; "a small business"; "a newspaper with a modest circulation"; "small-scale plans"; "a pocket-size
     country"</EN-Gloss>
     <EN-Words>minor, modest, pocket-size, pocket-sized, small, small-scale</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>limitado em tamanho ou âmbito; "um pequeno negócio"; "um jornal com uma modesta circulação"; "pequenos planos"; "um país pequeno"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3213,12 +3213,12 @@
   <row>
     <BC>1263</BC>
     <WN-3.0-Synset>v1410223</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>bater, golpear</PT-Words-Man>
     <PT-Word-Cand>bater</PT-Word-Cand>
     <EN-Gloss>deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck the child"; "the opponent refused to strike"; "The boxer
     struck the attacker dead"</EN-Gloss>
     <EN-Words>strike</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>desferir um golpe forte com a mão, punho ou arma; "O professor bateu na criança"; "o oponente se recusou a bater"; "O boxiador golpeou o agressor morto "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>golpear</SPA-Words-Sug>
     <Comments />
