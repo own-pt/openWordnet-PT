@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rows>
+
   <row>
     <BC>1501</BC>
     <WN-3.0-Synset>v1870275</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>escorregar, resvalar, derrapar, patinar</PT-Words-Man>
     <PT-Word-Cand>escorregar, resvalar</PT-Word-Cand>
     <EN-Gloss>move obliquely or sideways, usually in an uncontrolled manner; "the wheels skidded against the sidewalk"</EN-Gloss>
     <EN-Words>skid, slew, slide, slip, slue</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover-se obliquamente ou lateralmente, usualmente de forma descontrolada; "as rodas escorregavam da calçada"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>1502</BC>
     <WN-3.0-Synset>v1871979</WN-3.0-Synset>
@@ -112,18 +114,20 @@
     <SPA-Words-Sug>latir</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1510</BC>
     <WN-3.0-Synset>v1880113</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pulsar</PT-Words-Man>
     <PT-Word-Cand>bater, pulsar</PT-Word-Cand>
     <EN-Gloss>move rhythmically; "Her heart was beating fast"</EN-Gloss>
     <EN-Words>beat, pound, thump</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover-se de forma rítmica; "seu coração pulsava rapidamente"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>1511</BC>
     <WN-3.0-Synset>v1881180</WN-3.0-Synset>
@@ -176,18 +180,20 @@
     <SPA-Words-Sug>gatear, arrastrarse, reptar, rampar</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1515</BC>
     <WN-3.0-Synset>v1886488</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>deslizar, escorregar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>to pass or move unobtrusively or smoothly; "They slid through the wicket in the big gate"</EN-Gloss>
     <EN-Words>slide, slither</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>passar ou mover discretamente ou facilmente; "Eles deslizaram através da portinhola do grande portão"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>deslizarse</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1516</BC>
     <WN-3.0-Synset>v1887020</WN-3.0-Synset>
