@@ -3277,12 +3277,12 @@
   <row>
     <BC>1268</BC>
     <WN-3.0-Synset>v1429953</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cruzar, hibridizar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>breed animals or plants using parents of different races and varieties; "cross a horse and a donkey"; "Mendel tried crossbreeding";
     "these species do not interbreed"</EN-Gloss>
     <EN-Words>cross, crossbreed, hybridise, hybridize, interbreed</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>produzir animais ou plantas utilizando parentes de diferentes raças e variedades; "cruzar um cavalo e um burro"; "Mendel tentou hibridar"; "Essas espécies não se cruzam"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3290,11 +3290,11 @@
   <row>
     <BC>1269</BC>
     <WN-3.0-Synset>n1466257</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cordados</PT-Words-Man>
     <PT-Word-Cand>Cordados, cordados, cordados</PT-Word-Cand>
     <EN-Gloss>any animal of the phylum Chordata having a notochord or spinal column</EN-Gloss>
     <EN-Words>chordate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>qualquer animal do filo Chordata possuindo uma notocorda ou coluna vertebral</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Chordata, chordata, cordados</SPA-Words-Sug>
     <Comments />
@@ -3302,35 +3302,35 @@
   <row>
     <BC>1270</BC>
     <WN-3.0-Synset>v1431987</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man Lexicalized="false">fazer_cócegas, cocegar</PT-Words-Man>
     <PT-Word-Cand>fazer cócegas, c%C3%B3cega</PT-Word-Cand>
     <EN-Gloss>touch or stroke lightly; "The grass tickled her calves"</EN-Gloss>
     <EN-Words>tickle</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>tocar ou afagar levemente; "A grama fez cócegas em seus pés"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cosquillear, hacer cosquillas</SPA-Words-Sug>
-    <Comments />
+    <Comments>nao sei se "cocegar" é realmente um verbo</Comments>
   </row>
   <row>
     <BC>1271</BC>
     <WN-3.0-Synset>v1432601</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>carregar</PT-Words-Man>
     <PT-Word-Cand>trazer</PT-Word-Cand>
     <EN-Gloss>move while holding up or supporting; "Bear gifts"; "bear a heavy load"; "bear news"; "bearing orders"</EN-Gloss>
     <EN-Words>bear</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover-se enquanto segura ou apoia algo; "carregar presentes"; "carregar uma carga pesada"; "carregar notícias";</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>o ultimo exemplo do EN-Gloss eu nao soube traduzir por isso nao botei no PT-Gloss</Comments>
   </row>
   <row>
     <BC>1272</BC>
     <WN-3.0-Synset>a1442826</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>curta,curto,breve</PT-Words-Man>
     <PT-Word-Cand>curto</PT-Word-Cand>
     <EN-Gloss>of short duration or distance; "a brief stay in the country"</EN-Gloss>
     <EN-Words>brief</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>alguma coisa de pequena duração ou distância; "uma breve estadia no país"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3338,11 +3338,11 @@
   <row>
     <BC>1273</BC>
     <WN-3.0-Synset>v1435380</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transmitir</PT-Words-Man>
     <PT-Word-Cand>trazer, enviar, canalizar, transmitir, conduzir, guiar</PT-Word-Cand>
     <EN-Gloss>send from one person or place to another; "transmit a message"</EN-Gloss>
     <EN-Words>channel, channelise, channelize, transfer, transmit, transport</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>enviar de uma pessoa ou lugar para outro; "transmitir uma mensagem"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
