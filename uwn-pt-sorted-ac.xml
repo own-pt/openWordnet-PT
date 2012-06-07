@@ -247,18 +247,20 @@
     <SPA-Words-Sug>emigración, migración</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>1019</BC>
     <WN-3.0-Synset>n1123598</WN-3.0-Synset>
-    <PT-Words-Man Lexicalgap="true" />
+    <PT-Words-Man>controle_social</PT-Words-Man>
     <PT-Word-Cand>controlo social</PT-Word-Cand>
     <EN-Gloss>control exerted (actively or passively) by group action</EN-Gloss>
     <EN-Words>social control</EN-Words>
-    <PT-Gloss>controle exercido por ação do grupo (ativo ou passivo)</PT-Gloss>
+    <PT-Gloss>controle exercido (de forma ativa ou passiva) por uma ação de um grupo</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>control social</SPA-Words-Sug>
     <Comments>para mim esses synset não possui representante na lingua portuguesa</Comments>
   </row>
+
   <row>
     <BC>1020</BC>
     <WN-3.0-Synset>v1095218</WN-3.0-Synset>
@@ -534,7 +536,7 @@
   <row>
     <BC>1042</BC>
     <WN-3.0-Synset>n1168369</WN-3.0-Synset>
-    <PT-Words-Man>ação direta</PT-Words-Man>
+    <PT-Words-Man>protesto, ação_direta</PT-Words-Man>
     <PT-Word-Cand>Ação Direta, ação direta</PT-Word-Cand>
     <EN-Gloss>a protest action by labor or minority groups to obtain their demands</EN-Gloss>
     <EN-Words>direct action</EN-Words>
@@ -1809,11 +1811,11 @@
   <row>
     <BC>1146</BC>
     <WN-3.0-Synset>n1260556</WN-3.0-Synset>
-    <PT-Words-Man> gracejo, galhofa</PT-Words-Man>
+    <PT-Words-Man>diversão, galhofa, divertimento</PT-Words-Man>
     <PT-Word-Cand>entretenimento, divertimento</PT-Word-Cand>
     <EN-Gloss>violent and excited activity; "she asked for money and then the fun began"; "they began to fight like fun"</EN-Gloss>
     <EN-Words>fun</EN-Words>
-    <PT-Gloss>atividade impetuosa e animada; "ela pediu dinheiro e logo em seguida o gracejo começou"; "eles começaram a lutar por galhofa"</PT-Gloss>
+    <PT-Gloss>atividade violenta e animada; "ela pediu dinheiro e logo em seguida a festa começou"; "eles começaram a lutar por diversão"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>diversión</SPA-Words-Sug>
     <Comments />
@@ -3449,11 +3451,11 @@
   <row>
     <BC>1282</BC>
     <WN-3.0-Synset>v1445932</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>morder</PT-Words-Man>
     <PT-Word-Cand>morder, dar dentadas, rilhar</PT-Word-Cand>
     <EN-Gloss>to grip, cut off, or tear with or as if with the teeth or jaws; "Gunny invariably tried to bite her"</EN-Gloss>
     <EN-Words>bite, seize with teeth</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>apertar, cortar ou rasgas com ou como se fosse com os dentes maxilas;  "Gunny invariavelmente tentava morder ela"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>morder</SPA-Words-Sug>
     <Comments />
@@ -3667,11 +3669,11 @@
   <row>
     <BC>1300</BC>
     <WN-3.0-Synset>n1503061</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ave, pássaro</PT-Words-Man>
     <PT-Word-Cand>ave, Aves, aves, pássaro, aves (taxonomia)</PT-Word-Cand>
     <EN-Gloss>warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings</EN-Gloss>
     <EN-Words>bird</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>animal vertebrado de sangue quente, ovípadro caracterizado por ter o corpo coberto de penas e os membros dianteiros modificados como asas</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ave, aves, aves, pájaro</SPA-Words-Sug>
     <Comments />
@@ -3799,11 +3801,11 @@
   <row>
     <BC>1310</BC>
     <WN-3.0-Synset>v1487311</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>carregar</PT-Words-Man>
     <PT-Word-Cand>carregar, pôr carga em</PT-Word-Cand>
     <EN-Gloss>weight down with a load</EN-Gloss>
     <EN-Words>burden, burthen, weight down, weight</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>carregar com uma carga</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -4030,12 +4032,12 @@
   <row>
     <BC>1329</BC>
     <WN-3.0-Synset>v1525666</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>funcionar, operar</PT-Words-Man>
     <PT-Word-Cand>trabalhar, operar, estar em exercício, exercer funções</PT-Word-Cand>
     <EN-Gloss>perform as expected when applied; "The washing machine won't go unless it's plugged in"; "Does this old car still run well?"; "This old
     radio doesn't work anymore"</EN-Gloss>
     <EN-Words>function, go, operate, run, work</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>executar como esperado quando aplicado; "A máquina de lavar não irá trabalhar a menos que seja ligada"; "Este caro velho ainda funciona bem?"; "Este rádio antigo não funciona mais"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>trabajar, operar</SPA-Words-Sug>
     <Comments />
@@ -5630,11 +5632,11 @@
   <row>
     <BC>1461</BC>
     <WN-3.0-Synset>v1805523</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>sentir_falta, sentir_saudade</PT-Words-Man>
     <PT-Word-Cand>sentir falta</PT-Word-Cand>
     <EN-Gloss>feel or suffer from the lack of; "He misses his mother"</EN-Gloss>
     <EN-Words>miss</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sentir ou sofrer com a falta de; "Ele sente falta da mãe"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -5811,11 +5813,11 @@
   <row>
     <BC>1477</BC>
     <WN-3.0-Synset>v1825237</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>querer, desejar, ansiar, cobiçar</PT-Words-Man>
     <PT-Word-Cand>querer, desejar, procurar, ter vontade de</PT-Word-Cand>
     <EN-Gloss>feel or have a desire for; want strongly; "I want to go home now"; "I want my own room"</EN-Gloss>
     <EN-Words>desire, want</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>sentir ou ter desejo por; querer fortemente; "Eu quero ir para cada agora"; "Eu quero meu próprio quarto"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>desear</SPA-Words-Sug>
     <Comments />
@@ -5847,11 +5849,11 @@
   <row>
     <BC>1480</BC>
     <WN-3.0-Synset>v1828405</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>desejar, ansiar</PT-Words-Man>
     <PT-Word-Cand>desejar, ter saudades de</PT-Word-Cand>
     <EN-Gloss>desire strongly or persistently</EN-Gloss>
     <EN-Words>hanker, long, yearn</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>desejar fortemente ou persistentemente</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>ansiar</SPA-Words-Sug>
     <Comments />
