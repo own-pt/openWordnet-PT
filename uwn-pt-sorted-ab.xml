@@ -588,11 +588,11 @@
   <row>
     <BC>548</BC>
     <WN-3.0-Synset>n609236</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man>pintura</PT-Words-Man>
     <PT-Word-Cand>empresas de pintura</PT-Word-Cand>
     <EN-Gloss>the occupation of a house painter; "house painting was the only craft he knew"</EN-Gloss>
     <EN-Words>house painting, painting</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>a ocupação de um pintor de casas; "pintar casas foi a única habilidade que ele sabia"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>empresa de pintura</SPA-Words-Sug>
     <Comments />
@@ -2269,11 +2269,11 @@
   <row>
     <BC>684</BC>
     <WN-3.0-Synset>n768701</WN-3.0-Synset>
-    <PT-Words-Man> crime, assassínio</PT-Words-Man>
+    <PT-Words-Man>crime, violação</PT-Words-Man>
     <PT-Word-Cand>Crimes, crime, crimes, felonia</PT-Word-Cand>
     <EN-Gloss>a serious crime (such as murder or arson)</EN-Gloss>
     <EN-Words>felony</EN-Words>
-    <PT-Gloss>crime sério(como assassinato ou incêndio culposo)</PT-Gloss>
+    <PT-Gloss>um crime sério (como assassinar ou incendiar)</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>delito, Delitos, delitos, felonía, felonia</SPA-Words-Sug>
     <Comments />
@@ -2786,10 +2786,11 @@
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>726</BC>
     <WN-3.0-Synset>n815644</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true"/>
+    <PT-Words-Man>apontar, visar</PT-Words-Man>
     <PT-Word-Cand>terem vista</PT-Word-Cand>
     <EN-Gloss>the action of directing something at an object; "he took aim and fired"</EN-Gloss>
     <EN-Words>aim</EN-Words>
@@ -2798,6 +2799,7 @@
     <SPA-Words-Sug />
     <Comments>posso estar errado mas acho que não existe um correspondente em portugues para esse Gloss</Comments>
   </row>
+
   <row>
     <BC>727</BC>
     <WN-3.0-Synset>v792471</WN-3.0-Synset>
@@ -4095,19 +4097,21 @@
     <SPA-Words-Sug />
     <Comments />
   </row>
+
   <row>
     <BC>833</BC>
     <WN-3.0-Synset>v921300</WN-3.0-Synset>
-    <PT-Words-Man>indicar, apontarm sinalizar</PT-Words-Man>
+    <PT-Words-Man>indicar, sugerir, sinalizar, evidenciar, denotar</PT-Words-Man>
     <PT-Word-Cand>indicar</PT-Word-Cand>
     <EN-Gloss>be a signal for or a symptom of; "These symptoms indicate a serious illness"; "Her behavior points to a severe neurosis"; "The economic
     indicators signal that the euro is undervalued"</EN-Gloss>
     <EN-Words>bespeak, betoken, indicate, point, signal</EN-Words>
-    <PT-Gloss>mostrar um sinal para ou um sintoma de; "Estes sintomas indicam uma doença grave"; "Seu comportamento aponta para uma neurose grave"; "Os indicadores econômicos sinalizam que o euro está desvalorizado "</PT-Gloss>
+    <PT-Gloss>ser um sinal para algo ou um sintoma de algo; "Estes sintomas indicam uma doença grave"; "Seu comportamento aponta para uma neurose grave"; "Os indicadores econômicos sinalizam que o euro está desvalorizado"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>presagiar</SPA-Words-Sug>
     <Comments />
   </row>
+
   <row>
     <BC>834</BC>
     <WN-3.0-Synset>n948206</WN-3.0-Synset>
