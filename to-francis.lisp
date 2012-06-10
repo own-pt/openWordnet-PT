@@ -70,9 +70,11 @@
 	 (the-slot 'words-man))
     (if (equal "" (slot-value synset 'words-man))
 	(setf the-slot 'words-sug))
-    (dolist (w (cl-ppcre:split "\\s*,\\s*" (slot-value synset the-slot)))
+    (dolist (w (cl-ppcre:split "\\s*(,|;)\\s*" (string-trim '(#\Space #\Tab) (slot-value synset the-slot))))
       (csv-parser:write-csv-line stream (list (format nil "~a-~a" id-offset id-pos) "lemma" w the-slot)))))
-	      
+
+
+;; using the parser and csv formatter
   
 (let ((my (make-instance 'sax-handler)))
   (cxml:parse #P"/Users/arademaker/work/WordNet-BR/uwn-pt-sorted-ah.xml" my)
@@ -85,9 +87,11 @@
 
 (setf csv-parser:*field-separator* #\Tab)
 
-(let ((my (make-instance 'sax-handler)))
-  (cxml:parse #P"/Users/arademaker/work/WordNet-BR/uwn-pt-sorted-aa.xml" my)
-  (with-open-file (out #P"output.csv" :direction :output :if-exists :supersede)
-    (mapcar (lambda (s) (synset-format s out)) (slot-value my 'synsets))))
+(with-open-file (out #P"output.csv" :direction :output :if-exists :supersede)
+  (dolist (file (directory #P"/Users/arademaker/work/WordNet-BR/uwn-*.xml"))
+    (let ((my (make-instance 'sax-handler)))
+      (cxml:parse file my)
+      (mapcar (lambda (s) (synset-format s out)) (slot-value my 'synsets)))))
 
- 
+
+
