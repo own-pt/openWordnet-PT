@@ -121,7 +121,6 @@
     <BC>10</BC>
     <WN-3.0-Synset>v10054</WN-3.0-Synset>
     <PT-Words-Man lexicalGap="True">mover_reflexivamente, mover_involuntariamente</PT-Words-Man>
-    <PT-Words-Man></PT-Words-Man>
     <PT-Words-Cand />
     <EN-Gloss>move in an uncontrolled manner</EN-Gloss>
     <EN-Words>move involuntarily, move reflexively</EN-Words>
@@ -5977,7 +5976,7 @@
   <row>
     <BC>491</BC>
     <WN-3.0-Synset>n494768</WN-3.0-Synset>
-    <PT-Words-Ma>póquer</PT-Words-Ma>
+    <PT-Words-Man>póquer</PT-Words-Man>
     <PT-Word-Cand>Póquer, Pôquer, Poquêr, Poquer, pôquer, pôquer, póquer</PT-Word-Cand>
     <EN-Gloss>any of various card games in which players bet that they hold the highest-ranking hand</EN-Gloss>
     <EN-Words>poker game, poker</EN-Words>

@@ -76,22 +76,21 @@
 
 ;; using the parser and csv formatter
   
-(let ((my (make-instance 'sax-handler)))
-  (cxml:parse #P"/Users/arademaker/work/WordNet-BR/uwn-pt-sorted-ah.xml" my)
-  (mapcar (lambda (s) 
-	    (list (slot-value s 'id)  
-		  (slot-value s 'words-man)
-		  (slot-value s 'words-sug)))
-	  (slot-value my 'synsets)))
+;; (let ((my (make-instance 'sax-handler)))
+;;   (cxml:parse #P"/Users/arademaker/work/WordNet-BR/uwn-pt-sorted-ah.xml" my)
+;;   (mapcar (lambda (s) 
+;; 	    (list (slot-value s 'id)  
+;; 		  (slot-value s 'words-man)
+;; 		  (slot-value s 'words-sug)))
+;; 	  (slot-value my 'synsets)))
 
 
 (setf csv-parser:*field-separator* #\Tab)
 
-(with-open-file (out #P"output.csv" :direction :output :if-exists :supersede)
+(with-open-file (out #P"wn-data-por.tab" :direction :output :if-exists :supersede)
+  (write-line "# OpenWN-PT	por	https://github.com/arademaker/wordnet-br	CC by SA 3.0" out)
   (dolist (file (directory #P"/Users/arademaker/work/WordNet-BR/uwn-*.xml"))
     (let ((my (make-instance 'sax-handler)))
       (cxml:parse file my)
       (mapcar (lambda (s) (synset-format s out)) (slot-value my 'synsets)))))
-
-
 
