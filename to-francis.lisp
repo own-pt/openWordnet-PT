@@ -17,7 +17,7 @@
 			 ("PT-Gloss-Sug"  . gloss-sug)
 			 ("EN-Gloss"      . gloss-en)
 			 ("EN-Words"      . words-en)
-			 ("Spa-Words-Sug" . words-sp)))
+			 ("SPA-Words-Sug" . words-sp)))
 
 (defclass synset ()
   ((id :initform nil)

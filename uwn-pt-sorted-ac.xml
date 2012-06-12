@@ -524,7 +524,7 @@
   <row>
     <BC>1041</BC>
     <WN-3.0-Synset>v1138523</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>play games for money</EN-Gloss>
     <EN-Words>gamble</EN-Words>
@@ -648,7 +648,7 @@
   <row>
     <BC>1051</BC>
     <WN-3.0-Synset>n1181475</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">devido_processo_legal</PT-Words-Man>
+    <PT-Words-Man>devido_processo_legal</PT-Words-Man>
     <PT-Word-Cand>Devido Processo Legal, devido processo legal</PT-Word-Cand>
     <EN-Gloss>(law) the administration of justice according to established rules and principles; based on the principle that a person cannot be
     deprived of life or liberty or property without appropriate legal procedures and safeguards</EN-Gloss>
@@ -661,7 +661,7 @@
   <row>
     <BC>1052</BC>
     <WN-3.0-Synset>n1184814</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">procedimento_legal</PT-Words-Man>
+    <PT-Words-Man>procedimento_legal</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>(law) the institution of a sequence of steps by which legal judgments are invoked</EN-Gloss>
     <EN-Words>legal proceeding, proceeding, proceedings</EN-Words>
@@ -943,7 +943,7 @@
   <row>
     <BC>1075</BC>
     <WN-3.0-Synset>n1208460</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>physical assistance; "give me a hand with the chores"</EN-Gloss>
     <EN-Words>hand, helping hand</EN-Words>
@@ -967,7 +967,7 @@
   <row>
     <BC>1077</BC>
     <WN-3.0-Synset>n1209487</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>the act of giving temporary assistance</EN-Gloss>
     <EN-Words>lift</EN-Words>
@@ -1567,7 +1567,7 @@
   <row>
     <BC>1126</BC>
     <WN-3.0-Synset>n1242962</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">greve_de_fome</PT-Words-Man>
+    <PT-Words-Man>greve_de_fome</PT-Words-Man>
     <PT-Word-Cand>greve de fome</PT-Word-Cand>
     <EN-Gloss>a voluntary fast undertaken as a means of protest</EN-Gloss>
     <EN-Words>hunger strike</EN-Words>
@@ -1872,7 +1872,7 @@
   <row>
     <BC>1151</BC>
     <WN-3.0-Synset>v1233027</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">dar_um_tapa</PT-Words-Man>
+    <PT-Words-Man>dar_um_tapa</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>hit lightly; "pat him on the shoulder"</EN-Gloss>
     <EN-Words>dab, pat</EN-Words>
@@ -2136,7 +2136,7 @@
   <row>
     <BC>1173</BC>
     <WN-3.0-Synset>v1277649</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true"/>
+    <PT-Words-Man lexicalGap="true"/>
     <PT-Word-Cand />
     <EN-Gloss>cut a furrow into a columns</EN-Gloss>
     <EN-Words>chamfer, chase, furrow</EN-Words>
@@ -2173,7 +2173,7 @@
   <row>
     <BC>1176</BC>
     <WN-3.0-Synset>n1316949</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true"/>
+    <PT-Words-Man lexicalGap="true"/>
     <PT-Word-Cand />
     <EN-Gloss>an animal trained for and used for heavy labor</EN-Gloss>
     <EN-Words>work animal</EN-Words>
@@ -2185,7 +2185,7 @@
   <row>
     <BC>1177</BC>
     <WN-3.0-Synset>n1317089</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">animal_de_carga</PT-Words-Man>
+    <PT-Words-Man>animal_de_carga</PT-Words-Man>
     <PT-Word-Cand>burro de carga</PT-Word-Cand>
     <EN-Gloss>an animal such as a donkey or ox or elephant used for transporting loads or doing other heavy work</EN-Gloss>
     <EN-Words>beast of burden, jument</EN-Words>
@@ -2197,7 +2197,7 @@
   <row>
     <BC>1178</BC>
     <WN-3.0-Synset>n1317391</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">burro_de_carga</PT-Words-Man>
+    <PT-Words-Man>burro_de_carga</PT-Words-Man>
     <PT-Word-Cand>Besta de carga</PT-Word-Cand>
     <EN-Gloss>an animal (such as a mule or burro or horse) used to carry loads</EN-Gloss>
     <EN-Words>pack animal, sumpter</EN-Words>
@@ -2269,7 +2269,7 @@
   <row>
     <BC>1184</BC>
     <WN-3.0-Synset>n1321123</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="false" />
+    <PT-Words-Man />
     <PT-Word-Cand />
     <EN-Gloss>female of certain aquatic animals e.g. octopus or lobster</EN-Gloss>
     <EN-Words>hen</EN-Words>
@@ -2305,7 +2305,7 @@
   <row>
     <BC>1187</BC>
     <WN-3.0-Synset>n1321854</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>any immature mammal</EN-Gloss>
     <EN-Words>young mammal</EN-Words>
@@ -2329,7 +2329,7 @@
   <row>
     <BC>1189</BC>
     <WN-3.0-Synset>n1322343</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>young of any of various canines such as a dog or wolf</EN-Gloss>
     <EN-Words>pup, whelp</EN-Words>
@@ -2341,7 +2341,7 @@
   <row>
     <BC>1190</BC>
     <WN-3.0-Synset>n1324610</WN-3.0-Synset>
-    <PT-Words-Man LegalizeGap="true" >herbívoro</PT-Words-Man>
+    <PT-Words-Man lexicalGap="true" >herbívoro</PT-Words-Man>
     <PT-Word-Cand>herbívoro, Herbívoro, herbívoros</PT-Word-Cand>
     <EN-Gloss>any animal that feeds chiefly on grass and other plants; "horses are herbivores"; "the sauropod dinosaurs were apparently
     herbivores"</EN-Gloss>
@@ -3166,7 +3166,7 @@
   <row>
     <BC>1259</BC>
     <WN-3.0-Synset>v1398919</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">bater_repetidamente</PT-Words-Man>
+    <PT-Words-Man>bater_repetidamente</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>hit repeatedly; "beat on the door"; "beat the table with his shoe"</EN-Gloss>
     <EN-Words>beat</EN-Words>
@@ -3304,8 +3304,8 @@
   <row>
     <BC>1270</BC>
     <WN-3.0-Synset>v1431987</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">fazer_cócegas, cocegar</PT-Words-Man>
-    <PT-Word-Cand>fazer cócegas, c%C3%B3cega</PT-Word-Cand>
+    <PT-Words-Man>fazer_cócegas, cocegar</PT-Words-Man>
+    <PT-Word-Cand>fazer cócegas, cócega</PT-Word-Cand>
     <EN-Gloss>touch or stroke lightly; "The grass tickled her calves"</EN-Gloss>
     <EN-Words>tickle</EN-Words>
     <PT-Gloss>tocar ou afagar levemente; "A grama fez cócegas em seus pés"</PT-Gloss>

@@ -661,7 +661,7 @@
   <row>
     <BC>554</BC>
     <WN-3.0-Synset>a608421</WN-3.0-Synset>
-    <PT-Words-Man Lexicalize="false">não_convencional</PT-Words-Man>
+    <PT-Words-Man>não_convencional</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>not conventional or conformist; "unconventional life styles"</EN-Gloss>
     <EN-Words>unconventional</EN-Words>
@@ -673,7 +673,7 @@
   <row>
     <BC>555</BC>
     <WN-3.0-Synset>n614730</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>the activity of writing by hand; "handwriting can be slow and painful for one with arthritis"</EN-Gloss>
     <EN-Words>handwriting</EN-Words>
@@ -735,7 +735,7 @@
   <row>
     <BC>560</BC>
     <WN-3.0-Synset>n620752</WN-3.0-Synset>
-    <PT-Words-Man>mão_de_obra</PT-Words-Man>
+    <PT-Words-Man>mão-de-obra</PT-Words-Man>
     <PT-Word-Cand>trabalho</PT-Word-Cand>
     <EN-Gloss>productive work (especially physical work done for wages); "his labor did not require a great deal of skill"</EN-Gloss>
     <EN-Words>labor, labour, toil</EN-Words>
@@ -1029,14 +1029,14 @@
   <row>
     <BC>584</BC>
     <WN-3.0-Synset>v626428</WN-3.0-Synset>
-    <PT-Words-Man>proclamar</PT-Words-Man>
+    <PT-Words-Man lexicalGap="true">proclamar</PT-Words-Man>
     <PT-Word-Cand>ler</PT-Word-Cand>
     <EN-Gloss>look at, interpret, and say out loud something that is written or printed; "The King will read the proclamation at noon"</EN-Gloss>
     <EN-Words>read</EN-Words>
     <PT-Gloss>olhar, interpretar, e dizer em voz alta algo que está escrito ou impresso</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>leer</SPA-Words-Sug>
-    <Comments>talvez "proclamar" não seja uma opção nesse synset, mas ai se nao for acho que nao existe uma palavra corresponte a esse Gloss (LexicalGap="true")</Comments>
+    <Comments>talvez "proclamar" não seja uma opção nesse synset, mas ai se nao for acho que nao existe uma palavra corresponte a esse Gloss</Comments>
   </row>
   <row>
     <BC>585</BC>
@@ -1065,7 +1065,7 @@
   <row>
     <BC>587</BC>
     <WN-3.0-Synset>n644366</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>boarding and inspecting a ship on the high seas; "right of search"</EN-Gloss>
     <EN-Words>search</EN-Words>
@@ -1166,7 +1166,7 @@
   <row>
     <BC>595</BC>
     <WN-3.0-Synset>n652069</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">visita_de_inspeção</PT-Words-Man>
+    <PT-Words-Man>visita_de_inspeção</PT-Words-Man>
     <PT-Word-Cand>visita, visitação</PT-Word-Cand>
     <EN-Gloss>an official visit for inspection or supervision; "the commissioner made visitations to all the precinct stations"; "the recent
     visitation of the bishop to his diocese"</EN-Gloss>
@@ -1216,7 +1216,7 @@
   <row>
     <BC>599</BC>
     <WN-3.0-Synset>n657604</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">cuidados_médicos</PT-Words-Man>
+    <PT-Words-Man>cuidados_médicos</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>professional treatment for illness or injury</EN-Gloss>
     <EN-Words>medical aid, medical care</EN-Words>
@@ -1754,7 +1754,7 @@
   <row>
     <BC>642</BC>
     <WN-3.0-Synset>n721141</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>an informal term for a person's role; "he took off his politician's hat and talked frankly"</EN-Gloss>
     <EN-Words>hat</EN-Words>
@@ -1927,7 +1927,7 @@
   <row>
     <BC>656</BC>
     <WN-3.0-Synset>n735936</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">mau_comportamento</PT-Words-Man>
+    <PT-Words-Man>mau_comportamento</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>improper or wicked or immoral behavior</EN-Gloss>
     <EN-Words>misbehavior, misbehaviour, misdeed</EN-Words>
@@ -2616,7 +2616,7 @@
   <row>
     <BC>712</BC>
     <WN-3.0-Synset>n797878</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">empreendimento_de_risco</PT-Words-Man>
+    <PT-Words-Man>empreendimento_de_risco</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>any venturesome undertaking especially one with an uncertain outcome</EN-Gloss>
     <EN-Words>venture</EN-Words>
@@ -2765,7 +2765,7 @@
   <row>
     <BC>724</BC>
     <WN-3.0-Synset>v790703</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true"/>
+    <PT-Words-Man lexicalGap="true"/>
     <PT-Word-Cand />
     <EN-Gloss>communicate over long distances, as via the telephone or e-mail</EN-Gloss>
     <EN-Words>telecommunicate</EN-Words>
@@ -3173,7 +3173,7 @@
     <EN-Gloss>a bodily process occurring due to the effect of some antecedent stimulus or agent; "a bad reaction to the medicine"; "his responses
     have slowed with age"</EN-Gloss>
     <EN-Words>reaction, response</EN-Words>
-    <PT-Glos>um processo corporal que ocorre devido ao efeito de algum estímulo antecedente ou agente; "uma reação ruim ao medicamento", "suas respostas tem abrandado com a idade"</PT-Glos>
+    <PT-Gloss>um processo corporal que ocorre devido ao efeito de algum estímulo antecedente ou agente; "uma reação ruim ao medicamento", "suas respostas tem abrandado com a idade"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>reacción</SPA-Words-Sug>
     <Comments />
@@ -3293,7 +3293,7 @@
   <row>
     <BC>767</BC>
     <WN-3.0-Synset>n876737</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">atividade_sensorial</PT-Words-Man>  
+    <PT-Words-Man>atividade_sensorial</PT-Words-Man>  
     <PT-Word-Cand />
     <EN-Gloss>activity intended to achieve a particular sensory result</EN-Gloss>
     <EN-Words>sensory activity</EN-Words>
@@ -3623,7 +3623,7 @@
   <row>
     <BC>794</BC>
     <WN-3.0-Synset>n908909</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true"/>
+    <PT-Words-Man lexicalGap="true"/>
     <PT-Word-Cand />
     <EN-Gloss>the act of creating something that is different from the materials that went into it</EN-Gloss>
     <EN-Words>creating from raw materials</EN-Words>
@@ -3856,7 +3856,7 @@
   <row>
     <BC>813</BC>
     <WN-3.0-Synset>v898434</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>express or signify by nodding; "He nodded his approval"</EN-Gloss>
     <EN-Words>nod</EN-Words>
@@ -3904,7 +3904,7 @@
   <row>
     <BC>817</BC>
     <WN-3.0-Synset>n927261</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>the act of creating something by thinking</EN-Gloss>
     <EN-Words>creating by mental acts</EN-Words>
@@ -4453,7 +4453,7 @@
   <row>
     <BC>860</BC>
     <WN-3.0-Synset>v941346</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>utter or tell; "not breathe a word"</EN-Gloss>
     <EN-Words>breathe</EN-Words>
@@ -5209,7 +5209,7 @@
   <row>
     <BC>922</BC>
     <WN-3.0-Synset>n1028082</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">cerimônia_religiosa</PT-Words-Man>
+    <PT-Words-Man>cerimônia_religiosa</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>a ceremony having religious meaning</EN-Gloss>
     <EN-Words>religious ceremony, religious ritual</EN-Words>
@@ -5281,7 +5281,7 @@
   <row>
     <BC>928</BC>
     <WN-3.0-Synset>n1032040</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand>serviço</PT-Word-Cand>
     <EN-Gloss>the act of public worship following prescribed rules; "the Sunday service"</EN-Gloss>
     <EN-Words>divine service, religious service, service</EN-Words>
@@ -5892,7 +5892,7 @@
   <row>
     <BC>978</BC>
     <WN-3.0-Synset>v1050896</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>sing or play with trills, alternating with the half note above or below</EN-Gloss>
     <EN-Words>quaver, trill, warble</EN-Words>
@@ -5916,7 +5916,7 @@
   <row>
     <BC>980</BC>
     <WN-3.0-Synset>n1080366</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">ação_em_grupo</PT-Words-Man>
+    <PT-Words-Man>ação_em_grupo</PT-Words-Man>
     <PT-Word-Cand>acção de grupo</PT-Word-Cand>
     <EN-Gloss>action taken by a group of people</EN-Gloss>
     <EN-Words>group action</EN-Words>
@@ -5965,7 +5965,7 @@
   <row>
     <BC>984</BC>
     <WN-3.0-Synset>v1055978</WN-3.0-Synset>
-    <PT-Words-Man LexicalGap="true" />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand />
     <EN-Gloss>pronounce with a roll, of the phoneme /r/; "She rolls her r's"</EN-Gloss>
     <EN-Words>roll</EN-Words>
@@ -6110,7 +6110,7 @@
   <row>
     <BC>996</BC>
     <WN-3.0-Synset>n1095753</WN-3.0-Synset>
-    <PT-Words-Man Lexicalized="false">atividade_comercial</PT-Words-Man>
+    <PT-Words-Man>atividade_comercial</PT-Words-Man>
     <PT-Word-Cand>actividades empresariais, actividades comerciais, actividades económicas</PT-Word-Cand>
     <EN-Gloss>activity undertaken as part of a commercial enterprise</EN-Gloss>
     <EN-Words>business activity, commercial activity</EN-Words>

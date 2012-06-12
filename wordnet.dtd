@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!ELEMENT rows (row*)>
+
+<!ELEMENT row (
+	  BC, WN-3.0-Synset, PT-Words-Man, PT-Word-Cand, 
+	  EN-Gloss, EN-Words, PT-Gloss, PT-Gloss-Sug, SPA-Words-Sug, Comments*) >
+
+<!ELEMENT BC (#PCDATA)>
+<!ELEMENT WN-3.0-Synset (#PCDATA)>
+<!ELEMENT PT-Words-Cand (#PCDATA)>
+<!ELEMENT PT-Word-Cand (#PCDATA)>
+<!ELEMENT EN-Gloss (#PCDATA)>
+<!ELEMENT EN-Words (#PCDATA)>
+<!ELEMENT PT-Gloss-Sug (#PCDATA)>
+<!ELEMENT PT-Gloss (#PCDATA)>
+<!ELEMENT Spa-Words-Sug (#PCDATA)>
+<!ELEMENT SPA-Words-Sug (#PCDATA)>
+
+<!ELEMENT PT-Words-Man (#PCDATA)>
+<!ATTLIST PT-Words-Man 
+	  lexicalGap CDATA #IMPLIED>
+
+<!ELEMENT Comments (#PCDATA)>
+<!ATTLIST Comments
+	  by CDATA #IMPLIED>
+

@@ -105,3 +105,25 @@ rel="dct:source">github.com</a>.
 
 Take a look in the file LICENSE. 
 
+
+## Converting to Open Universal Wordnet format
+
+grep -v \" wn-data-por.tab > wn-data-por-1.tab
+awk -F \t 'BEGIN {OFS = "\t" } NR > 1 { print $1, $2, $3 } NR == 1 { print }' wn-data-por-1.tab > wn-data-por-2.tab
+sort wn-data-por-2.tab | uniq > wn-data-por-3.tab 
+sed 's/_/ /g' wn-data-por-3.tab > wn-data-por-4.tab
+
+## DTD
+
+Para usar o DTD executar no prompt:
+
+$ xmllint --noout --dtdvalid wordnet.dtd uwn-pt-sorted-aa.xml
+
+Apos resolver problemas problemas atuais com esta versao do DTD,
+modificar o DTD conforme cada item abaixo e corrigir os XML a partir
+dos novos erros de validacao que irao surgir.
+
+- Remover as variacoes de PT-Words-Cand e PT-Word-Cand 
+- Remover variacoes de Spa-Words-Sug e SPA-Words-Sug 
+- Remover variacoes nos atributos do PT-Words-Man 
+
