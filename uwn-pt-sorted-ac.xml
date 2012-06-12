@@ -3353,7 +3353,7 @@
     <BC>1274</BC>
     <WN-3.0-Synset>n1471682</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>vertebrados, Vertebrados, vertebrados</PT-Word-Cand>
+    <PT-Word-Cand>vertebrados</PT-Word-Cand>
     <EN-Gloss>animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or
     cranium</EN-Gloss>
     <EN-Words>craniate, vertebrate</EN-Words>
@@ -4434,7 +4434,7 @@
     <BC>1363</BC>
     <WN-3.0-Synset>n1627424</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Anfíbios, Anfibios, anfíbios, anfíbios</PT-Word-Cand>
+    <PT-Word-Cand> Anfibios, anfíbios</PT-Word-Cand>
     <EN-Gloss>cold-blooded vertebrate typically living on land but breeding in water; aquatic larvae undergo metamorphosis into adult form</EN-Gloss>
     <EN-Words>amphibian</EN-Words>
     <PT-Gloss />
@@ -5158,7 +5158,7 @@
     <BC>1422</BC>
     <WN-3.0-Synset>n1767661</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Artrópodes, Artropode, artrópode, artrópodes</PT-Word-Cand>
+    <PT-Word-Cand> Artropode, artrópode, artrópodes</PT-Word-Cand>
     <EN-Gloss>invertebrate having jointed limbs and a segmented body with an exoskeleton made of chitin</EN-Gloss>
     <EN-Words>arthropod</EN-Words>
     <PT-Gloss />
@@ -5170,7 +5170,7 @@
     <BC>1423</BC>
     <WN-3.0-Synset>n1769347</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>aracnídeo, Aracnídeo, Aracnídeos, Aracnideos, aracnídeos</PT-Word-Cand>
+    <PT-Word-Cand>aracnídeo,  Aracnideos, aracnídeos</PT-Word-Cand>
     <EN-Gloss>air-breathing arthropods characterized by simple eyes and four pairs of legs</EN-Gloss>
     <EN-Words>arachnid, arachnoid</EN-Words>
     <PT-Gloss />
@@ -5886,7 +5886,7 @@
     <BC>1483</BC>
     <WN-3.0-Synset>n1861778</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>mamífero, Mamiferos, mamíferos, mamíferos</PT-Word-Cand>
+    <PT-Word-Cand>mamífero, mamíferos</PT-Word-Cand>
     <EN-Gloss>any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of
     monotremes and nourished with milk</EN-Gloss>
     <EN-Words>mammal, mammalian</EN-Words>
