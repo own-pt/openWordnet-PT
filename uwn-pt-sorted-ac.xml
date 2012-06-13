@@ -3350,14 +3350,26 @@
     <Comments />
   </row>
   <row>
+    <BC>1273</BC>
+    <WN-3.0-Synset>v1435380</WN-3.0-Synset>
+    <PT-Words-Man>transmitir</PT-Words-Man>
+    <PT-Word-Cand>trazer, enviar, canalizar, transmitir, conduzir, guiar</PT-Word-Cand>
+    <EN-Gloss>send from one person or place to another; "transmit a message"</EN-Gloss>
+    <EN-Words>channel, channelise, channelize, transfer, transmit, transport</EN-Words>
+    <PT-Gloss>enviar de uma pessoa ou lugar para outro; "transmitir uma mensagem"</PT-Gloss>
+    <PT-Gloss-Sug />
+    <SPA-Words-Sug />
+    <Comments />
+  </row>
+  <row>
     <BC>1274</BC>
     <WN-3.0-Synset>n1471682</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>vertebrado</PT-Words-Man>
     <PT-Word-Cand>vertebrados</PT-Word-Cand>
     <EN-Gloss>animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or
     cranium</EN-Gloss>
     <EN-Words>craniate, vertebrate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>animais com estrutura ósseo ou esqueleto cartilaginoso, com uma coluna vertebral e um cérebro grande incluso em um crânio</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Vertebrata, vertebrado, vertebrados</SPA-Words-Sug>
     <Comments />
@@ -3365,24 +3377,24 @@
   <row>
     <BC>1275</BC>
     <WN-3.0-Synset>v1437254</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>enviar, remeter</PT-Words-Man>
     <PT-Word-Cand>enviar, remeter</PT-Word-Cand>
     <EN-Gloss>to cause or order to be taken, directed, or transmitted to another place; "He had sent the dispatches downtown to the proper people and
     had slept"</EN-Gloss>
     <EN-Words>send out, send</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>causar ou fazer com que algo seja dirigido ou transmitido para outro lugar;</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>n soube traduzir o exemplo do EN-Gloss po isso n botei nada q referencie isso no PT-Gloss</Comments>
   </row>
   <row>
     <BC>1276</BC>
     <WN-3.0-Synset>n1473806</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>vertebrado_aquático</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>animal living wholly or chiefly in or on water</EN-Gloss>
     <EN-Words>aquatic vertebrate</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>animal que vive totalmente ou principalmente na ou sobre a água</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3390,11 +3402,11 @@
   <row>
     <BC>1277</BC>
     <WN-3.0-Synset>v1438304</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>entregar, remeter</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>bring to a destination, make a delivery; "our local super market delivers"</EN-Gloss>
     <EN-Words>deliver</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>levar a um destino, fazer uma entrega; "o nosso supermercado local entrega"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3402,11 +3414,11 @@
   <row>
     <BC>1278</BC>
     <WN-3.0-Synset>v1439190</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>segurar, agarrar</PT-Words-Man>
     <PT-Word-Cand>agarrar</PT-Word-Cand>
     <EN-Gloss>take hold of so as to seize or restrain or stop the motion of; "Catch the ball!"; "Grab the elevator door!"</EN-Gloss>
     <EN-Words>catch, grab, take hold of</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>segurar de forma a prender, restringir, interromper o movimento de algo; "agarra a bola!"; "Pegue a porta do elevador"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>atrapar, detener, agarrar, apresar, arrestar</SPA-Words-Sug>
     <Comments />
@@ -3414,11 +3426,11 @@
   <row>
     <BC>1279</BC>
     <WN-3.0-Synset>v1441100</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>perfurar, furar</PT-Words-Man>
     <PT-Word-Cand>furar</PT-Word-Cand>
     <EN-Gloss>make a hole into; "The needle pierced her flesh"</EN-Gloss>
     <EN-Words>pierce</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um buraco em algo; "A agulha perfurou sua carne"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>pinchar, perforar, horadar</SPA-Words-Sug>
     <Comments />
@@ -3426,11 +3438,11 @@
   <row>
     <BC>1280</BC>
     <WN-3.0-Synset>v1442779</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>perfurar, atravessar,furar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>make a hole into or between, as for ease of separation; "perforate the sheets of paper"</EN-Gloss>
     <EN-Words>perforate, punch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um furo dentro ou entre alguma coisa, para facilitar a separação; "perfure as folhas de papel"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3438,12 +3450,12 @@
   <row>
     <BC>1281</BC>
     <WN-3.0-Synset>v1443021</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>perfurar, furar</PT-Words-Man>
     <PT-Word-Cand>cortar, perfurar, brocar</PT-Word-Cand>
     <EN-Gloss>make a hole, especially with a pointed power or hand tool; "don't drill here, there's a gas pipe"; "drill a hole into the wall"; "drill
     for oil"; "carpenter bees are boring holes into the wall"</EN-Gloss>
     <EN-Words>bore, drill</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer um buraco, especialmente com uma ferramenta manual; "não perfure aqui, há um cano de gás"; "furar a parede"; "perfure para o óleo ";" os cupins furam buracos na parede "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>barrenar, taladrar</SPA-Words-Sug>
     <Comments />
@@ -3463,11 +3475,11 @@
   <row>
     <BC>1283</BC>
     <WN-3.0-Synset>v1446901</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>agitar, mexer, brandir</PT-Words-Man>
     <PT-Word-Cand>agitar, bater, mexer, brandir</PT-Word-Cand>
     <EN-Gloss>move or swing back and forth; "She waved her gun"</EN-Gloss>
     <EN-Words>brandish, flourish, wave</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover ou balançar para trás e para frente; "Ela agitou sua arma"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>cabecear, esgrimir</SPA-Words-Sug>
     <Comments />
@@ -3475,11 +3487,11 @@
   <row>
     <BC>1284</BC>
     <WN-3.0-Synset>v1447257</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pressionar</PT-Words-Man>
     <PT-Word-Cand>espremer, pressionar, premir</PT-Word-Cand>
     <EN-Gloss>exert pressure or force to or upon; "He pressed down on the boards"; "press your thumb on this spot"</EN-Gloss>
     <EN-Words>press</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>exercer pressão ou força sobre; "Ele pressionou as placas"; "pressione o polegar sobre este ponto"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>prensar, presionar</SPA-Words-Sug>
     <Comments />
@@ -3487,11 +3499,11 @@
   <row>
     <BC>1285</BC>
     <WN-3.0-Synset>a1455732</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>baixo, baixa, mansa, manso</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>(of a voice) faint; "a little voice"; "a still small voice"</EN-Gloss>
     <EN-Words>little, small</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>(de uma voz) fraco; "uma voz baixa", "uma voz mansa e delicada"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>débil</SPA-Words-Sug>
     <Comments />
