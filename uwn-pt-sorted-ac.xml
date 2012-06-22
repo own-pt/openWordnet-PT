@@ -3350,18 +3350,6 @@
     <Comments />
   </row>
   <row>
-    <BC>1273</BC>
-    <WN-3.0-Synset>v1435380</WN-3.0-Synset>
-    <PT-Words-Man>transmitir</PT-Words-Man>
-    <PT-Word-Cand>trazer, enviar, canalizar, transmitir, conduzir, guiar</PT-Word-Cand>
-    <EN-Gloss>send from one person or place to another; "transmit a message"</EN-Gloss>
-    <EN-Words>channel, channelise, channelize, transfer, transmit, transport</EN-Words>
-    <PT-Gloss>enviar de uma pessoa ou lugar para outro; "transmitir uma mensagem"</PT-Gloss>
-    <PT-Gloss-Sug />
-    <SPA-Words-Sug />
-    <Comments />
-  </row>
-  <row>
     <BC>1274</BC>
     <WN-3.0-Synset>n1471682</WN-3.0-Synset>
     <PT-Words-Man>vertebrado</PT-Words-Man>
@@ -3503,7 +3491,7 @@
     <PT-Word-Cand />
     <EN-Gloss>(of a voice) faint; "a little voice"; "a still small voice"</EN-Gloss>
     <EN-Words>little, small</EN-Words>
-    <PT-Gloss>(de uma voz) fraco; "uma voz baixa", "uma voz mansa e delicada"</PT-Gloss>
+    <PT-Gloss>(voz) fraco, fraca; "uma voz baixa", "uma voz mansa e delicada"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>débil</SPA-Words-Sug>
     <Comments />
@@ -3511,11 +3499,11 @@
   <row>
     <BC>1286</BC>
     <WN-3.0-Synset>v1448100</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>puxar</PT-Words-Man>
     <PT-Word-Cand>tirar</PT-Word-Cand>
     <EN-Gloss>cause to move by pulling; "draw a wagon"; "pull a sled"</EN-Gloss>
     <EN-Words>draw, force, pull</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>fazer com que algo se mova, puxando; "puxar uma carroça"; "puxar um trenó"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3523,11 +3511,11 @@
   <row>
     <BC>1287</BC>
     <WN-3.0-Synset>v1448778</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>puxar_bruscamente</PT-Words-Man>
     <PT-Word-Cand>tirar, puxar</PT-Word-Cand>
     <EN-Gloss>move or pull with a sudden motion</EN-Gloss>
     <EN-Words>twitch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>mover ou puxar com um movimento brusco</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3535,12 +3523,12 @@
   <row>
     <BC>1288</BC>
     <WN-3.0-Synset>v1449974</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>transportar, carregar</PT-Words-Man>
     <PT-Word-Cand>transportar, carregar, trazer, levar</PT-Word-Cand>
     <EN-Gloss>move while supporting, either in a vehicle or in one's hands or on one's body; "You must carry your camping gear"; "carry the suitcases
     to the car"; "This train is carrying nuclear waste"; "These pipes carry waste water into the river"</EN-Gloss>
     <EN-Words>carry, transport</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>movimentar-se segurando algo, tanto em um  veículo quanto com as mãos ou em um corpo; "Você tem que carregar seu equipamento de camping"; "carregue as malas para o carro ";" Este trem está transportando resíduos nucleares ";" Esses canos transportam águas residuais para o rio "</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>llevar</SPA-Words-Sug>
     <Comments />
@@ -3548,23 +3536,23 @@
   <row>
     <BC>1289</BC>
     <WN-3.0-Synset>v1451842</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man lexicalGap="true" />
     <PT-Word-Cand>voar</PT-Word-Cand>
     <EN-Gloss>transport by aeroplane; "We fly flowers from the Caribbean to North America"</EN-Gloss>
     <EN-Words>fly</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>transportar por avião; "Nós transportamos flores do Caribe à América do Norte"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
-    <Comments />
+    <Comments>acho que não existe uma palavra especifica para transporte aereo em portugues</Comments>
   </row>
   <row>
     <BC>1290</BC>
     <WN-3.0-Synset>v1453433</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>arrastar</PT-Words-Man>
     <PT-Word-Cand>arrastar</PT-Word-Cand>
     <EN-Gloss>pull, as against a resistance; "He dragged the big suitcase behind him"; "These worries were dragging at him"</EN-Gloss>
     <EN-Words>drag</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>puxar, contra uma resistência; "Ele arrastou a mala grande atrás dele"; "Estas preocupações foram arrastando ele"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>arrastrar</SPA-Words-Sug>
     <Comments />
@@ -3572,11 +3560,11 @@
   <row>
     <BC>1291</BC>
     <WN-3.0-Synset>v1456771</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>espremer, apertar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>squeeze tightly between the fingers; "He pinched her behind"; "She squeezed the bottle"</EN-Gloss>
     <EN-Words>nip, pinch, squeeze, tweet, twinge, twitch</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>apertar firmemente entre os dedos; "Ele apertou ela por atrás"; "Ela espremeu a garrafa"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>pellizcar</SPA-Words-Sug>
     <Comments />
@@ -3584,12 +3572,12 @@
   <row>
     <BC>1292</BC>
     <WN-3.0-Synset>a1391351</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>pequeno, pequena</PT-Words-Man> 
     <PT-Word-Cand>pequeno, miúdo</PT-Word-Cand>
     <EN-Gloss>limited or below average in number or quantity or magnitude or extent; "a little dining room"; "a little house"; "a small car"; "a
     little (or small) group"</EN-Gloss>
     <EN-Words>little, small</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>limitada ou abaixo da média em número, quantidade, magnitude ou extensão; "uma pequena sala de jantar"; "uma casa pequena"; "um carro pequeno"; "um pequeno grupo"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3597,11 +3585,11 @@
   <row>
     <BC>1293</BC>
     <WN-3.0-Synset>v1461328</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>combinar, misturar</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>combine so as to form a whole; mix; "compound the ingredients"</EN-Gloss>
     <EN-Words>combine, compound</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>combinar, de modo a formar um todo; mistura; "combinar os ingredientes"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
     <Comments />
@@ -3609,11 +3597,11 @@
   <row>
     <BC>1294</BC>
     <WN-3.0-Synset>v1462005</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>misturar</PT-Words-Man>
     <PT-Word-Cand>misturar, unificar, amalgamar</PT-Word-Cand>
     <EN-Gloss>to bring or combine together or with something else; "resourcefully he mingled music and dance"</EN-Gloss>
     <EN-Words>amalgamate, commix, mingle, mix, unify</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>combinar entre si ou com alguma outra coisa; "recursivamente ele misturava música e dança"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mezclar, amalgamar, combinar, unificar</SPA-Words-Sug>
     <Comments />
@@ -3621,11 +3609,11 @@
   <row>
     <BC>1295</BC>
     <WN-3.0-Synset>v1462468</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>misturar, mesclar</PT-Words-Man>
     <PT-Word-Cand>misturar, mesclar</PT-Word-Cand>
     <EN-Gloss>combine into one; "blend the nuts and raisins together"; "he blends in with the crowd"; "We don't intermingle much"</EN-Gloss>
     <EN-Words>blend, immingle, intermingle, intermix</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>combinar em um só; "misturar as nozes e passas junto"; "ele se mescla com a multidão"; "Nós não nos misturamos muito"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>mezclar, entremezclar, combinar, entreverar</SPA-Words-Sug>
     <Comments />
@@ -3633,11 +3621,11 @@
   <row>
     <BC>1296</BC>
     <WN-3.0-Synset>v1463963</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>dispor, arranjar</PT-Words-Man>
     <PT-Word-Cand>colocar, dispor</PT-Word-Cand>
     <EN-Gloss>put into a proper or systematic order; "arrange the books on the shelves in chronological order"</EN-Gloss>
     <EN-Words>arrange, set up</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>colocar em uma ordem adequada ou sistemática; "organizar os livros nas prateleiras em ordem cronológica"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>colocar, disponer</SPA-Words-Sug>
     <Comments />
