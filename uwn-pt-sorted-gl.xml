@@ -612,7 +612,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n6788262</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>HTML, Html, html, &lt;HTML&gt;, elemento raiz, HTML</PT-Word-Cand>
+    <PT-Word-Cand>HTML, &lt;HTML&gt;, elemento raiz</PT-Word-Cand>
     <EN-Gloss>a set of tags and rules (conforming to SGML) for using them in developing hypertext documents</EN-Gloss>
     <EN-Words>HTML, hypertext mark-up language, hypertext markup language</EN-Words>
     <PT-Gloss />
