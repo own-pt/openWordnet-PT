@@ -1,0 +1,12 @@
+#+title: Confere Duplicada de palavras em Synsets
+#+author: Alexandre Rademaker
+
+#+begin_src R
+data <- read.table("wn-data-por.tab", sep = "\t", header = FALSE, stringsAsFactors = FALSE, quote = "")
+data$upper <- toupper(data$V3)
+temp <- data[duplicated(data[,c(1,5)]),]
+temp
+#+end_src
+
+#+RESULTS:
+
