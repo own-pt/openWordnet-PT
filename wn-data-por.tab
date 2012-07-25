@@ -16064,14 +16064,9 @@
 01024968-n	lemma	"Procedimento Operacional Padrão"
 01024968-n	lemma	"Procedimento operacional padrão"
 10249270-n	lemma	legislador
-10248377-n	lemma	"TESTEMUNHAS DE JEOVÁ"
 10248377-n	lemma	"Testemunhas de Jeóva"
 10248377-n	lemma	"Testemunhas de Jeová"
 10248377-n	lemma	"Testemunhas de Jeova"
-10248377-n	lemma	"Testemunhas de jeóva"
-10248377-n	lemma	"Testemunhas de jeová"
-10248377-n	lemma	"Testemunhas de jeova"
-10248377-n	lemma	testemunhadeJeová
 01024811-n	lemma	"procedimento operativo"
 10248091-n	lemma	Latinistas
 10247358-n	lemma	garota
@@ -18055,13 +18050,12 @@
 10877015-n	lemma	"William Byrd"
 10876798-n	lemma	"Richard Byrd"
 10876798-n	lemma	"Richard byrd"
-10875910-n	lemma	"George W Bush"
+10875910-n	lemma	Bush
+10875910-n	lemma	"George Bush"
 10875910-n	lemma	"George W. Bush"
-10875910-n	lemma	"George W.Bush"
-10875910-n	lemma	"George w bush"
-10875910-n	lemma	"George w. bush"
-10875910-n	lemma	"George w.bush"
-10875910-n	lemma	"George W. Bush"
+10875910-n	lemma	"George Walker Bush"
+10875910-n	lemma	"Presidente Bush"
+10875910-n	lemma	"Presidente George W. Bush"
 10875681-n	lemma	"Vannevar Bush"
 10875681-n	lemma	"Vannevar bush"
 10875468-n	lemma	"George H. W. Bush"
@@ -18352,12 +18346,8 @@
 10837567-n	lemma	"Bernard Baruch"
 10837258-n	lemma	"Béla Bartók"
 10837258-n	lemma	"Béla Bartok"
-10837258-n	lemma	"Béla bartók"
-10837258-n	lemma	"Béla bartok"
 10837258-n	lemma	"Bela Bartók"
 10837258-n	lemma	"Bela Bartok"
-10837258-n	lemma	"Bela bartók"
-10837258-n	lemma	"Bela bartok"
 10836555-n	lemma	"Frédéric Auguste Bartholdi"
 10836555-n	lemma	"Frédéric auguste bartholdi"
 10836308-n	lemma	"Karl Barth"
@@ -18421,12 +18411,8 @@
 10827873-n	lemma	"Clement Attlee"
 10827873-n	lemma	"Clement attlee"
 10827678-n	lemma	"Átila o Huno"
-10827678-n	lemma	"Átila o huno"
 10827678-n	lemma	Átila
-10827678-n	lemma	"o Huno"
-10827678-n	lemma	Átila
-10827678-n	lemma	"o huno"
-10827678-n	lemma	Átila
+10827678-n	lemma	"Flagelo dos Deuses"
 10827513-n	lemma	"Athelstane de Inglaterra"
 10827513-n	lemma	"Athelstane de inglaterra"
 10826352-n	lemma	"Fred Astaire"
@@ -18929,12 +18915,8 @@
 10934410-n	lemma	"Charles dickens"
 10933929-n	lemma	"Diana de Poitiers"
 10933929-n	lemma	"Diana de poitiers"
-10933658-n	lemma	Diana
-10933658-n	lemma	"Princesa de Gales"
-10933658-n	lemma	Diana
-10933658-n	lemma	"princesa de Gales"
-10933658-n	lemma	Diana
-10933658-n	lemma	"princesa de gales"
+10933658-n	lemma	"Lady Diana Frances Spencer"
+10933658-n	lemma	"Princesa Diana"
 10933449-n	lemma	"Serguei Diaguilev"
 10933266-n	lemma	"Melvil Dewey"
 10933266-n	lemma	"Melvil dewey"
@@ -30861,11 +30843,8 @@
 14652954-n	lemma	rubídio
 14652954-n	lemma	Rubidio
 14652954-n	lemma	rubídio
-14652824-n	lemma	Roentgénio
-14652824-n	lemma	Roentgênio
 14652824-n	lemma	roentgênio
 14652824-n	lemma	roentgénio
-14652824-n	lemma	roentgênio
 14652623-n	lemma	ródio
 14652623-n	lemma	Rodio
 14652623-n	lemma	ródio
@@ -30926,10 +30905,6 @@
 14647235-n	lemma	nitrogénio
 14647235-n	lemma	nitrogênio
 14647235-n	lemma	azoto
-14647235-n	lemma	Azoto
-14647235-n	lemma	Nitrogênio
-14647235-n	lemma	Nitrogenio
-14647235-n	lemma	nitrogénio
 14646942-n	lemma	nióbio
 14646942-n	lemma	Niobio
 14646942-n	lemma	nióbio
@@ -32623,10 +32598,6 @@
 14961896-n	lemma	Nicromo
 14961722-n	lemma	folha
 14961375-n	lemma	Sarin
-14960090-n	lemma	"Gás Natural"
-14960090-n	lemma	"Gás natural"
-14960090-n	lemma	"Gas natural"
-14960090-n	lemma	"gás natural"
 14960090-n	lemma	"gás natural"
 14959939-n	lemma	palha
 14959939-n	lemma	colmo
@@ -33083,11 +33054,7 @@
 15192008-n	lemma	"Sábado Santo"
 15192008-n	lemma	"Sábado Santo"
 15192008-n	lemma	"Sábado de Aleluia"
-15191827-n	lemma	"Sexta Feira Santa"
-15191827-n	lemma	"Sexta feira santa"
-15191827-n	lemma	"Sexta-Feira Santa"
 15191827-n	lemma	"Sexta-feira Santa"
-15191827-n	lemma	"Sexta-feira santa"
 15191661-n	lemma	"Domingo de Ramos"
 15191661-n	lemma	"Domingo de ramos"
 00151914-n	lemma	redescoberta
@@ -33139,11 +33106,6 @@
 15182569-n	lemma	"19 de Janeiro"
 15182569-n	lemma	"19 de janeiro"
 15182319-n	lemma	"Ano Novo"
-15182319-n	lemma	"Ano novo"
-15182319-n	lemma	Ano-Novo
-15182319-n	lemma	Ano-novo
-15182319-n	lemma	"Ano Novo"
-15182319-n	lemma	ano-bom
 15182189-n	lemma	"ano novo"
 15182053-n	lemma	"Véspera de Ano Novo"
 15182053-n	lemma	"Véspera de Ano-Novo"
@@ -33218,17 +33180,8 @@
 15164570-n	lemma	sábado
 15164570-n	lemma	Sabado
 15164570-n	lemma	sábado
-15164463-n	lemma	Sexta-Feira
-15164463-n	lemma	Sexta-feira
 15164463-n	lemma	sexta-feira
-15164463-n	lemma	Sexta-feira
-15164354-n	lemma	Quinta-Feira
 15164354-n	lemma	quinta-feira
-15164354-n	lemma	Quinta-feira
-15164354-n	lemma	quinta-feira
-15164233-n	lemma	Quarta-Feira
-15164233-n	lemma	quarta-feira
-15164233-n	lemma	Quarta-feira
 15164233-n	lemma	quarta-feira
 15164105-n	lemma	terça-feira
 15163979-n	lemma	segunda-feira
@@ -33343,12 +33296,9 @@
 15128997-n	lemma	Proterozóico
 15128997-n	lemma	Proterozoico
 15128711-n	lemma	"Pré Cambriano"
-15128711-n	lemma	"Pré cambriano"
 15128711-n	lemma	Pré-Câmbrico
-15128711-n	lemma	Pré-Cambriano
 15128711-n	lemma	Pré-cambriano
 15128711-n	lemma	Precambriano
-15128711-n	lemma	pré-cambriano
 15128549-n	lemma	Cambriano
 15128363-n	lemma	Ordoviciano
 15128200-n	lemma	Siluriano
@@ -33720,19 +33670,13 @@
 15210870-n	lemma	Março
 15210870-n	lemma	março
 15210870-n	lemma	março
-15210486-n	lemma	Fevereiro
-15210486-n	lemma	fevereiro
-15210486-n	lemma	Fevereiro
 15210486-n	lemma	fevereiro
 01521014-n	lemma	Rheidae
 15210045-n	lemma	Janeiro
 15210045-n	lemma	janeiro
 15210045-n	lemma	Janeiro
-15207556-n	lemma	"Lua Cheia"
-15207556-n	lemma	"Lua cheia"
-15207556-n	lemma	"Lua cheia"
-15207556-n	lemma	plenilúnio
 15207556-n	lemma	"lua cheia"
+15207556-n	lemma	plenilúnio
 15206943-n	lemma	"lua nova"
 15206943-n	lemma	"Lua nova"
 15206744-n	lemma	fase
@@ -35481,13 +35425,10 @@
 00213482-n	lemma	extradição
 02134589-n	lemma	Viverrinae
 02134240-n	lemma	urso-beiçudo
-02134084-n	lemma	"urso polar"
-02134084-n	lemma	"Urso Polar"
-02134084-n	lemma	"Urso polar"
-02134084-n	lemma	Urso-Polar
+02134084-n	lemma	"Thalarctos maritimus"
+02134084-n	lemma	"Ursus Maritimus"
 02134084-n	lemma	urso-polar
 02134084-n	lemma	urso-branco
-02134084-n	lemma	urso-polar
 02133704-n	lemma	Urso-negro-asiático
 02133704-n	lemma	urso-lua
 02133704-n	lemma	urso-negro-asiático
@@ -35742,11 +35683,7 @@
 02236241-n	lemma	louva-a-deus
 02236241-n	lemma	cavalinho-de-deus
 02236044-n	lemma	"Louva a Deus"
-02236044-n	lemma	"Louva a deus"
-02236044-n	lemma	Louva-a-Deus
 02236044-n	lemma	Louva-a-deus
-02236044-n	lemma	louva-a-deus
-02236044-n	lemma	louva-a-deus
 02236044-n	lemma	mantídeo
 02235465-n	lemma	Cryptocercus
 02234848-n	lemma	baratinha
@@ -42067,12 +42004,8 @@
 04053508-n	lemma	Telemetro
 04053508-n	lemma	telêmetro
 04052757-n	lemma	"memória RAM"
-04052757-n	lemma	"memória viva"
-04052757-n	lemma	"Memória RAM"
-04052757-n	lemma	"Memória Ram"
-04052757-n	lemma	"Memória ram"
-04052757-n	lemma	"Memoria RAM"
-04052757-n	lemma	"Memoria ram"
+04052757-n	lemma	"Memória de acesso aleatório"
+04052757-n	lemma	"Memória de Leitura e Escrita"
 04052442-n	lemma	granja
 04052442-n	lemma	fazenda
 04052442-n	lemma	bensderaiz
@@ -45020,12 +44953,8 @@
 04993413-n	lemma	salinidade
 00499263-n	lemma	"tênis de mesa"
 00499263-n	lemma	"Ténis de Mesa"
-00499263-n	lemma	"Ténis de mesa"
 00499263-n	lemma	Ténis-de-mesa
-00499263-n	lemma	"Tênis de Mesa"
-00499263-n	lemma	"Tênis de mesa"
 00499263-n	lemma	"Tenis de mesa"
-00499263-n	lemma	"tênis de mesa"
 00499263-n	lemma	pingue-pongue
 04992570-n	lemma	espechiaria
 04991879-n	lemma	cadência
@@ -46043,11 +45972,7 @@
 05401951-n	lemma	"corrente sangüínea"
 05401951-n	lemma	"corrente sangüinea"
 05401753-n	lemma	"sangue coagulado"
-05401587-n	lemma	"Factor RH"
 05401587-n	lemma	"Factor Rh"
-05401587-n	lemma	"Factor rh"
-05401587-n	lemma	"Fator RH"
-05401587-n	lemma	"Fator rh"
 05401587-n	lemma	"fator Rh"
 05399627-n	lemma	"Líquido amniótico"
 05399627-n	lemma	"fluido amniótico"
@@ -48501,11 +48426,7 @@
 06110823-n	lemma	termoquímica
 06110426-n	lemma	Lamarquismo
 06110091-n	lemma	Darwinismo
-06108643-n	lemma	"Teoria Da Informação"
 06108643-n	lemma	"Teoria da Informação"
-06108643-n	lemma	"Teoria da informação"
-06108643-n	lemma	"teoria da informação"
-06108643-n	lemma	"teoria da informação"
 06108079-n	lemma	"Princípio da incerteza de Heisenberg"
 06108079-n	lemma	"Princípio da incerteza de heisenberg"
 06107436-n	lemma	supersimetria
@@ -49656,11 +49577,6 @@
 06279939-n	lemma	smiley
 06279326-n	lemma	e-mail
 06279326-n	lemma	"correio electrónico"
-06279326-n	lemma	"Correio eletrônico"
-06279326-n	lemma	E-Mail
-06279326-n	lemma	Email
-06279326-n	lemma	e-mail
-06279326-n	lemma	"correio eletrônico"
 06279326-n	lemma	email
 06278830-n	lemma	"comunicação de dados"
 06278662-n	lemma	"comunicação electrónica"
@@ -50927,10 +50843,6 @@
 06540527-n	lemma	"toque de recolher"
 06540527-n	lemma	"toque de recolher"
 00653958-n	lemma	recontagem
-06539178-n	lemma	"Direito Penal"
-06539178-n	lemma	"Direito penal"
-06539178-n	lemma	"direito penal"
-06539178-n	lemma	"Direito penal"
 06539178-n	lemma	"direito criminal"
 06539178-n	lemma	"direito penal"
 06537951-n	lemma	estatuto
@@ -51129,11 +51041,7 @@
 06666486-n	lemma	"TCP IP"
 06666486-n	lemma	TCP/IP
 06666486-n	lemma	TCPIP
-06666486-n	lemma	"Tcp ip"
-06666486-n	lemma	Tcp/ip
-06666486-n	lemma	Tcpip
 06666486-n	lemma	"Protocolo de Controle de Transmissão/Protocolo de Interconexão"
-06666486-n	lemma	TCP/IP
 06666030-n	lemma	MIDI
 00666600-n	lemma	artrodese
 06665847-n	lemma	HTTP
@@ -52705,12 +52613,8 @@
 06964901-n	lemma	"Lingua francesa"
 06964901-n	lemma	"língua francesa"
 06964247-n	lemma	italiano
-06964247-n	lemma	"Língua Italiana"
-06964247-n	lemma	"Língua italiana"
-06964247-n	lemma	"Lingua Italiana"
 06964247-n	lemma	"Lingua italiana"
 06964247-n	lemma	"língua italiana"
-06964247-n	lemma	Italiano
 06964247-n	lemma	italiana
 06963951-n	lemma	"línguas românicas"
 06963951-n	lemma	românica
@@ -52798,13 +52702,9 @@
 06955087-n	lemma	faroês
 06955087-n	lemma	feroês
 06955087-n	lemma	feroico
-06954925-n	lemma	"Língua Sueca"
-06954925-n	lemma	"Língua sueca"
 06954925-n	lemma	"língua sueca"
 06954925-n	lemma	sueco
-06954925-n	lemma	"língua sueca"
 06954925-n	lemma	"linguagem sueca"
-06954925-n	lemma	Sueco
 06954768-n	lemma	"novo norueguês"
 06954768-n	lemma	"novo norueguês"
 06954768-n	lemma	nynorsk
@@ -56505,12 +56405,8 @@
 08096027-n	lemma	Islamismo
 08096027-n	lemma	"fundamentalismo islâmico"
 08095647-n	lemma	Islão
-08095647-n	lemma	islã
 08095647-n	lemma	islamismo
-08095647-n	lemma	islão
 08095647-n	lemma	Islã
-08095647-n	lemma	islame
-08095647-n	lemma	Islão
 08095647-n	lemma	Islame
 08095647-n	lemma	maometismo
 08094262-n	lemma	Sinédrio
@@ -56876,17 +56772,7 @@
 08174398-n	lemma	NATO
 00817394-n	lemma	"Navegação estimada"
 08173515-n	lemma	"União Européia"
-08173515-n	lemma	"União Europeia"
-08173515-n	lemma	"União européia"
-08173515-n	lemma	"União europeia"
-08173515-n	lemma	"Uniao europeia"
-08173515-n	lemma	"União Europeia"
-08173515-n	lemma	"União Européia"
-08173289-n	lemma	"América Do Sul"
 08173289-n	lemma	"América do Sul"
-08173289-n	lemma	"América do sul"
-08173289-n	lemma	"America do sul"
-08173289-n	lemma	"Transportes da América do Sul"
 08173165-n	lemma	"América Central"
 08172877-n	lemma	Asia
 08172695-n	lemma	Europa
@@ -57251,13 +57137,12 @@
 08269257-n	lemma	"matriz identidade"
 08268962-n	lemma	"matriz diagonal"
 08268636-n	lemma	"Diagonal de uma matriz"
-00826789-n	lemma	"Tai Chi Chuan"
-00826789-n	lemma	"Tai Chi chuan"
-00826789-n	lemma	"Tai chi Chuan"
-00826789-n	lemma	"Tai chi chuan"
-00826789-n	lemma	"Taichi Chuan"
-00826789-n	lemma	"Taichi chuan"
-00826789-n	lemma	Taichichuan
+00826789-n	lemma	"t'ai chi chuan"
+00826789-n	lemma	"t'ai chi"
+00826789-n	lemma	"tai chi chuan"
+00826789-n	lemma	"tai chi"
+00826789-n	lemma	taichi
+00826789-n	lemma	taichichuan
 08267640-n	lemma	Matrizes
 08267640-n	lemma	matriz
 08267640-n	lemma	"matriz mitocondrial"
@@ -57281,13 +57166,7 @@
 08262937-n	lemma	"Partido da Proibição"
 08260691-n	lemma	Kuomintang
 08260220-n	lemma	Gironda
-00825951-n	lemma	"Jiu Jitsu"
-00825951-n	lemma	"Jiu jitsu"
-00825951-n	lemma	Jiu-Jítsu
-00825951-n	lemma	Jiu-Jitsu
-00825951-n	lemma	Jiu-jítsu
-00825951-n	lemma	Jiu-jitsu
-00825951-n	lemma	Jiujitsu
+00825951-n	lemma	jiu-jítsu
 00825951-n	lemma	jiu-jitsu
 08259318-n	lemma	"Partido Democrata-Republicano"
 00825773-n	lemma	judô
@@ -57932,11 +57811,7 @@
 08454818-n	lemma	"Lei Marcial"
 08454818-n	lemma	"lei marcial"
 08454191-n	lemma	"Direito Marítimo"
-08454191-n	lemma	"Direito marítimo"
-08454191-n	lemma	"direito marítimo"
 08454191-n	lemma	"Direito do mar"
-08454191-n	lemma	"direito marítimo"
-08454191-n	lemma	"direito do mar"
 08454003-n	lemma	"Direito internacional"
 08453722-n	lemma	"Common Law"
 08453722-n	lemma	Common-law
@@ -59215,12 +59090,8 @@
 08776687-n	lemma	Equador
 08776687-n	lemma	Equador
 08776435-n	lemma	"Timor Leste"
-08776435-n	lemma	"Timor leste"
-08776435-n	lemma	Timor-Leste
-08776435-n	lemma	Timor-leste
 08776435-n	lemma	Timor-Leste
 08776435-n	lemma	"República Democrática de Timor-Leste"
-08776435-n	lemma	"Timor Leste"
 08776320-n	lemma	Turíngia
 08776320-n	lemma	Turíngia
 00877625-n	lemma	olhadela
@@ -59660,13 +59531,9 @@
 08731423-n	lemma	Macau
 08731423-n	lemma	Macau
 08731148-n	lemma	"Hong Kong"
-08731148-n	lemma	"Hong kong"
 08731148-n	lemma	Hong-Kong
-08731148-n	lemma	Hong-kong
 08731148-n	lemma	Hongkong
-08731148-n	lemma	"Hong Kong"
 08731148-n	lemma	"Hong Kong - Região Administrativa Especial da China"
-08731148-n	lemma	"Hong Kong"
 08731148-n	lemma	"Região Admin. Especial da China"
 08731057-n	lemma	Taichung
 08731057-n	lemma	Taichung
@@ -60147,12 +60014,7 @@
 08860001-n	lemma	Erin
 08859173-n	lemma	Irlanda
 08858942-n	lemma	Grã-Bretanha
-08858942-n	lemma	"Grã - Bretanha"
-08858942-n	lemma	"Grã - bretanha"
 08858942-n	lemma	"Grã Bretanha"
-08858942-n	lemma	"Grã bretanha"
-08858942-n	lemma	Grã-Bretanha
-08858942-n	lemma	Grã-bretanha
 00885858-n	lemma	"ensino básico"
 08858529-n	lemma	"África Oriental Britânica"
 08858248-n	lemma	"Ilhas Britânicas"
@@ -60287,10 +60149,6 @@
 08844279-n	lemma	"Nova Guiné"
 08844108-n	lemma	"Nova Caledónia"
 08844108-n	lemma	"Nova Caledônia"
-08844108-n	lemma	"Nova caledónia"
-08844108-n	lemma	"Nova caledônia"
-08844108-n	lemma	"Nova Caledônia"
-08844108-n	lemma	"Nova Caledónia"
 08843958-n	lemma	"Nova Bretanha"
 08843735-n	lemma	Guadalcanal
 08843735-n	lemma	Guadalcanal
@@ -60765,14 +60623,9 @@
 08992508-n	lemma	"São Marino"
 08992508-n	lemma	"San Marino"
 08992508-n	lemma	"Cidade de São Marinho"
+08992181-n	lemma	"República de São Marino"
 08992181-n	lemma	"São Marinho"
-08992181-n	lemma	"São Marinho"
-08992181-n	lemma	"São marinho"
-08992181-n	lemma	"San Marino"
-08992181-n	lemma	"San marino"
 08992181-n	lemma	"São Marino"
-08992181-n	lemma	"San Marino"
-08992181-n	lemma	"Cidade de São Marinho"
 08992067-n	lemma	"Pago Pago"
 08992067-n	lemma	"Pago pago"
 08991878-n	lemma	"Samoa Americana"
@@ -61121,19 +60974,11 @@
 08955951-n	lemma	Seul
 08955951-n	lemma	Seúl
 08955951-n	lemma	Seul
+08955626-n	lemma	"República da Coreia"
 08955626-n	lemma	"Coreia do Sul"
-08955626-n	lemma	"Coréia do Sul"
-08955626-n	lemma	"Coréia do Sul"
-08955626-n	lemma	"Coréia do sul"
-08955626-n	lemma	"Coreia do Sul"
-08955626-n	lemma	"Coreia do sul"
 08955397-n	lemma	Pyongyang
 08955082-n	lemma	"Coreia do Norte"
-08955082-n	lemma	"Coréia do Norte"
-08955082-n	lemma	"Coréia do norte"
-08955082-n	lemma	"Coreia do Norte"
-08955082-n	lemma	"Coreia do norte"
-08955082-n	lemma	"Coréia do Norte"
+08955082-n	lemma	"República Democrática Popular da Coreia"
 08954611-n	lemma	Coréia
 08954611-n	lemma	Coreia
 08954611-n	lemma	Coréia
@@ -62298,11 +62143,7 @@
 09139698-n	lemma	"Rapid City"
 09139698-n	lemma	"Rapid city"
 09138935-n	lemma	"Dacota do Sul"
-09138935-n	lemma	"Dacota do sul"
 09138935-n	lemma	"Dakota do Sul"
-09138935-n	lemma	"Dakota do sul"
-09138935-n	lemma	"Dakota do Sul"
-09138935-n	lemma	"Dacota do Sul"
 09138538-n	lemma	Charleston
 09138538-n	lemma	Charleston
 09138239-n	lemma	"Carolina do Sul"
@@ -62354,11 +62195,7 @@
 00912960-n	lemma	produção
 00912960-n	lemma	"actividades de produção"
 09129442-n	lemma	"Dacota do Norte"
-09129442-n	lemma	"Dacota do norte"
 09129442-n	lemma	"Dakota do Norte"
-09129442-n	lemma	"Dakota do norte"
-09129442-n	lemma	"Dakota do Norte"
-09129442-n	lemma	"Dacota do Norte"
 09128372-n	lemma	Carlota
 00912822-n	lemma	"construção naval"
 00912822-n	lemma	"construção naval"
@@ -63163,11 +63000,6 @@
 09362666-n	lemma	"Canal de moçambique"
 09362050-n	lemma	"Monte Elbert"
 09361816-n	lemma	"Monte Carmelo"
-09361816-n	lemma	"Monte Carmelo"
-09361816-n	lemma	Israel
-09361816-n	lemma	"Monte carmelo"
-09361816-n	lemma	"Monte carmelo"
-09361816-n	lemma	israel
 09361517-n	lemma	encosta
 09360122-n	lemma	cume
 09360122-n	lemma	cimo
@@ -63200,13 +63032,9 @@
 09355623-n	lemma	asteroide
 09354984-n	lemma	"Via Láctea"
 09354984-n	lemma	"Via Lactea"
-09354984-n	lemma	"Via láctea"
 09354984-n	lemma	"Via lactéa"
-09354984-n	lemma	"Via lactea"
 09354984-n	lemma	Via-Láctea
-09354984-n	lemma	Via-láctea
 09354984-n	lemma	ViaLáctea
-09354984-n	lemma	"Via Láctea"
 09354780-n	lemma	"Rio Milk"
 09354283-n	lemma	"dorsal meso-atlântica"
 09354142-n	lemma	"Constelação de Microscopium"
@@ -63464,10 +63292,6 @@
 09315624-n	lemma	"Mar da Irlanda"
 09315624-n	lemma	"Mar da irlanda"
 09315624-n	lemma	"mar da Irlanda"
-09315455-n	lemma	"Mar Jónico"
-09315455-n	lemma	"Mar Jônico"
-09315455-n	lemma	"Mar jónico"
-09315455-n	lemma	"Mar jônico"
 09315455-n	lemma	"Mar Jónico"
 09315455-n	lemma	"Mar Jônico"
 09315159-n	lemma	iões
@@ -64005,10 +63829,6 @@
 09406793-n	lemma	escolho
 09406793-n	lemma	recive
 09406551-n	lemma	"Mar Vermelho"
-09406551-n	lemma	"Mar Vermelho"
-09406551-n	lemma	"Mar vermelho"
-09406551-n	lemma	"mar Vermelho"
-09406551-n	lemma	"mar Vermelho"
 09406368-n	lemma	"Estrela vermelha gigante"
 09406368-n	lemma	"Gigantes do tipo K"
 09406198-n	lemma	"Anã vermelha"
@@ -64277,13 +64097,9 @@
 09539640-n	lemma	Rafael
 09539640-n	lemma	Rafael
 09539517-n	lemma	Miguel
-09539517-n	lemma	Miguel
 09539517-n	lemma	Arcanjo
-09539517-n	lemma	Miguel
-09539517-n	lemma	arcanjo
 09539517-n	lemma	Michael
 09539517-n	lemma	Maicol
-09539517-n	lemma	Miguel
 09539394-n	lemma	Gabriel
 09539394-n	lemma	Gabriel
 09539183-n	lemma	arcanjo
