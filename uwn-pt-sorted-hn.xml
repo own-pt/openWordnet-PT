@@ -333,7 +333,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n929432</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>programação orientada à objetos, orientação à objetos</PT-Words-Man>
     <PT-Word-Cand>Orientação a Objeto, Orientação a Objetos, Orientação a objeto, Programação orientada a objetos, orientação a
     objetos</PT-Word-Cand>
     <EN-Gloss>creating a program that can use and support objects</EN-Gloss>
@@ -456,9 +456,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n9295790</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Baía de Guantánamo, Baía de Guantanamo, Baía de guantánamo, Baia de Guantánamo, Baia de guantánamo, Baia de
-    Guantánamo</PT-Word-Cand>
+    <PT-Words-Man>Baía de Guantánamo</PT-Words-Man>
+    <PT-Word-Cand>Baía de Guantánamo, Baía de Guantanamo, Baía de guantánamo, Baia de Guantánamo, Baia de guantánamo, Baia de Guantánamo</PT-Word-Cand>
     <EN-Gloss>an inlet of the Caribbean Sea; a United States naval station was established on the bay in 1903</EN-Gloss>
     <EN-Words>Guantanamo Bay</EN-Words>
     <PT-Gloss />
@@ -4513,9 +4512,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n9357080</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Descontinuidade de Mohorovičić, Descontinuidade de Mohorovicic, Descontinuidade de mohorovičić, Descontinuidade de
-    mohorovicic</PT-Word-Cand>
+    <PT-Words-Man>Descontinuidade de Mohorovicic</PT-Words-Man>
+    <PT-Word-Cand>Descontinuidade de Mohorovicic</PT-Word-Cand>
     <EN-Gloss>the boundary between the Earth's crust and the underlying mantle; "the Mohorovicic discontinuity averages 5 miles down under oceans and
     20 miles down under continents"</EN-Gloss>
     <EN-Words>Moho, Mohorovicic discontinuity</EN-Words>

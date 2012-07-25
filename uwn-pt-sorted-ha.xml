@@ -671,9 +671,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8010191</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Alcoólicos Anónimos, Alcoólicos Anônimos, Alcoólicos anónimos, Alcoólicos anônimos, Alcoolicos Anonimos, Alcoólicos
-    Anónimos</PT-Word-Cand>
+    <PT-Words-Man>AA, Alcoólicos Anônimos</PT-Words-Man>
+    <PT-Word-Cand>Alcoólicos Anónimos, Alcoólicos Anônimos, Alcoólicos anónimos, Alcoólicos anônimos, Alcoolicos Anonimos, Alcoólicos Anónimos</PT-Word-Cand>
     <EN-Gloss>an international organization that provides a support group for persons trying to overcome alcoholism</EN-Gloss>
     <EN-Words>AA, Alcoholics Anonymous</EN-Words>
     <PT-Gloss />
@@ -1991,7 +1990,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8038379</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Frente Popular para a Libertação da Palestina, FPLP</PT-Words-Man>
     <PT-Word-Cand>Frente Popular para a Libertação da Palestina, Frente popular para a libertação da Palestina, Frente popular para a libertação da
     palestina</PT-Word-Cand>
     <EN-Gloss>a terrorist group of limited popularity formed in 1967 after the Six-Day War; combined Marxist-Leninist ideology with Palestinian
@@ -2006,8 +2005,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8038748</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Frente Popular para a Libertação da Palestina - Comando Geral, Frente popular para a libertação da Palestina - Comando Geral,
-    Frente popular para a libertação da palestina - comando geral</PT-Word-Cand>
+    <PT-Word-Cand>Frente Popular para a Libertação da Palestina - Comando Geral</PT-Word-Cand>
     <EN-Gloss>a Marxist-Leninist terrorist organization that conducted several attacks in western Europe</EN-Gloss>
     <EN-Words>PFLP-GC, Popular Front for the Liberation of Palestine-General Command</EN-Words>
     <PT-Gloss />
@@ -2331,11 +2329,9 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8045681</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Movimento Revolucionário Túpac Amaru, Movimento Revolucionário Tupac Amaru, Movimento revolucionário túpac amaru, Movimento
-    revolucionário tupac amaru</PT-Word-Cand>
-    <EN-Gloss>a Marxist-Leninist terrorist organization in Peru; was formed in 1983 to overthrow the Peruvian government and replace it with a
-    Marxist regime; has connections with the ELN in Bolivia</EN-Gloss>
+    <PT-Words-Man>Movimento Revolucionário Tupac Amaru</PT-Words-Man>
+    <PT-Word-Cand>Movimento Revolucionário Túpac Amaru, Movimento Revolucionário Tupac Amaru, Movimento revolucionário túpac amaru, Movimento revolucionário tupac amaru</PT-Word-Cand>
+    <EN-Gloss>a Marxist-Leninist terrorist organization in Peru; was formed in 1983 to overthrow the Peruvian government and replace it with a Marxist regime; has connections with the ELN in Bolivia</EN-Gloss>
     <EN-Words>MRTA, Movimiento Revolucionario Tupac Anaru, Tupac Amaru Revolutionary Movement</EN-Words>
     <PT-Gloss />
     <PT-Gloss-Sug />
@@ -4766,9 +4762,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8083599</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Igreja Católica Romana, Igreja Católica, Igreja católica Romana, Igreja católica romana, Igreja católica, Igreja
-    catolica</PT-Word-Cand>
+    <PT-Words-Man>Igreja Católica, Igreja Católica Romana</PT-Words-Man>
+    <PT-Word-Cand>Igreja Católica Romana, Igreja Católica, Igreja católica Romana, Igreja católica romana, Igreja católica, Igreja catolica</PT-Word-Cand>
     <EN-Gloss>the Christian Church based in the Vatican and presided over by a pope and an episcopal hierarchy</EN-Gloss>
     <EN-Words>Church of Rome, Roman Catholic Church, Roman Catholic, Roman Church, Western Church</EN-Words>
     <PT-Gloss />

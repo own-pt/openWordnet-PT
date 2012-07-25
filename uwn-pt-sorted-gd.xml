@@ -5689,9 +5689,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6128024</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Engenharia Eletrónica, Engenharia Eletrônica, Engenharia elétrica, Engenharia eletrónica, Engenharia eletrônica, engenharia
-    electrotécnica</PT-Word-Cand>
+    <PT-Words-Man>engenharia eletrônica, engenharia elétrica</PT-Words-Man>
+    <PT-Word-Cand>Engenharia Eletrónica, Engenharia Eletrônica, Engenharia elétrica, Engenharia eletrónica, Engenharia eletrônica, engenharia electrotécnica</PT-Word-Cand>
     <EN-Gloss>the branch of engineering science that studies the uses of electricity and the equipment for power generation and distribution and the
     control of machines and communication</EN-Gloss>
     <EN-Words>EE, electrical engineering</EN-Words>

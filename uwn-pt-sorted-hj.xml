@@ -1827,8 +1827,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8952856</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Ilhas Féroe, Ilhas Feroé, Ilhas Feroe, Ilhas féroe, Ilhas feroé, Ilhas feroe, Ilhas Faroë, Ilhas Feroé, Faroé, Ilhas Faroé, Ilhas
-    Faroe</PT-Word-Cand>
+    <PT-Word-Cand>Ilhas Féroe, Ilhas Feroé, Ilhas Feroe, Faroé, Ilhas Faroé, Ilhas Faroe</PT-Word-Cand>
     <EN-Gloss>a self-governing colony that is a possession of Denmark in the Faroe Islands</EN-Gloss>
     <EN-Words>Faeroe Islands, Faeroes, Faroe Islands, Faroes</EN-Words>
     <PT-Gloss />
@@ -4143,11 +4142,9 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8987423</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>São Cristóvão e Neves, São Cristóvão e Névis, São Cristóvão e Nevis, São Cristovão e Nevis, São cristóvão e névis, São cristóvão e
-    nevis, São cristovão e nevis, São Cristovão e Nevis, Saint Kitts e Nevis</PT-Word-Cand>
-    <EN-Gloss>a country on several of the Leeward Islands; located to the east southeast of Puerto Rico; achieved independence from the United
-    Kingdom in 1983</EN-Gloss>
+    <PT-Words-Man/>
+    <PT-Word-Cand>São Cristóvão e Neves, São Cristóvão e Nevis, Saint Kitts e Nevis</PT-Word-Cand>
+    <EN-Gloss>a country on several of the Leeward Islands; located to the east southeast of Puerto Rico; achieved independence from the United Kingdom in 1983</EN-Gloss>
     <EN-Words>Federation of Saint Kitts and Nevis, Saint Christopher-Nevis, Saint Kitts and Nevis, St. Christopher-Nevis, St. Kitts and
     Nevis</EN-Words>
     <PT-Gloss />
@@ -5178,11 +5175,9 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n9003284</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>União das Repúblicas Socialistas Soviéticas, URSS, União das Repúblicas Socialistas Soviéticas, União das repúblicas socialistas
-    soviéticas, União Soviética</PT-Word-Cand>
-    <EN-Gloss>a former communist country in eastern Europe and northern Asia; established in 1922; included Russia and 14 other soviet socialist
-    republics (Ukraine and Byelorussia and others); officially dissolved 31 December 1991</EN-Gloss>
+    <PT-Words-Man>União das Repúblicas Socialistas Soviéticas, URSS, Rússia</PT-Words-Man>
+    <PT-Word-Cand>União das Repúblicas Socialistas Soviéticas, URSS, União das Repúblicas Socialistas Soviéticas, União das repúblicas socialistas soviéticas, União Soviética</PT-Word-Cand>
+    <EN-Gloss>a former communist country in eastern Europe and northern Asia; established in 1922; included Russia and 14 other soviet socialist republics (Ukraine and Byelorussia and others); officially dissolved 31 December 1991</EN-Gloss>
     <EN-Words>Russia, Soviet Union, USSR, Union of Soviet Socialist Republics</EN-Words>
     <PT-Gloss />
     <PT-Gloss-Sug>A União das Repúblicas Socialistas Soviéticas (em russo: Союз Советских Социалистических Республик - CCCP, transl. Soyuz Sovetskikh

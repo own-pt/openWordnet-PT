@@ -5490,10 +5490,8 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8295138</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Comunidade de Estados Independentes, Comunidade de estados independentes, Comunidade dos Estados Independentes, Comunidade dos
-    estados independentes, CEI, Comunidade de Estados Independentes, Comunidade dos Estados Independentes</PT-Word-Cand>
-    <EN-Gloss>an alliance made up of states that had been Soviet Socialist Republics in the Soviet Union prior to its dissolution in Dec
-    1991</EN-Gloss>
+    <PT-Word-Cand>Comunidade de Estados Independentes, Comunidade dos Estados Independentes, CEI</PT-Word-Cand>
+    <EN-Gloss>an alliance made up of states that had been Soviet Socialist Republics in the Soviet Union prior to its dissolution in Dec 1991</EN-Gloss>
     <EN-Words>CIS, Commonwealth of Independent States</EN-Words>
     <PT-Gloss />
     <PT-Gloss-Sug />
@@ -5789,9 +5787,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8300190</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Organização das Nações Unidas para a Agricultura e a Alimentação, Organização das nações unidas para a agricultura e a
-    alimentação</PT-Word-Cand>
+    <PT-Words-Man>Organização das Nações Unidas para a Agricultura e Alimentação, FAO</PT-Words-Man>
+    <PT-Word-Cand>Organização das Nações Unidas para a Agricultura e a Alimentação, Organização das nações unidas para a agricultura e a alimentação</PT-Word-Cand>
     <EN-Gloss>the United Nations agency concerned with the international organization of food and agriculture</EN-Gloss>
     <EN-Words>FAO, Food and Agriculture Organization of the United Nations, Food and Agriculture Organization</EN-Words>
     <PT-Gloss />
@@ -5916,9 +5913,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8301871</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Fundo Monetário Internacional, Fundo Monetário Internacional, Fundo Monetário internacional, Fundo monetário internacional, Fundo
-    monetario internacional, FMI</PT-Word-Cand>
+    <PT-Words-Man>FMI, Fundo Monetário Internacional</PT-Words-Man>
+    <PT-Word-Cand>Fundo Monetário Internacional, Fundo Monetário Internacional, Fundo Monetário internacional, Fundo monetário internacional, Fundo monetario internacional, FMI</PT-Word-Cand>
     <EN-Gloss>a United Nations agency to promote trade by increasing the exchange stability of the major currencies</EN-Gloss>
     <EN-Words>IMF, International Monetary Fund</EN-Words>
     <PT-Gloss />
@@ -5929,7 +5925,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8302052</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>UNESCO, Organização das Nações Unidas para a Educação, Ciência e Cultura</PT-Words-Man>
     <PT-Word-Cand>UNESCO, Organização das Nações Unidas para a Educação, a Ciência e a Cultura, Organização das nações unidas para a educação, a
     ciência e a cultura, UNESCO</PT-Word-Cand>
     <EN-Gloss>an agency of the United Nations that promotes education and communication and the arts</EN-Gloss>
@@ -5966,9 +5962,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8302724</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>OMS, Organização Mundial de Saúde, Organização Mundial da Saúde, Organização mundial da Saúde, Organização mundial da
-    saúde</PT-Word-Cand>
+    <PT-Words-Man>OMS, Organização Mundial da Saúde</PT-Words-Man>
+    <PT-Word-Cand>OMS, Organização Mundial de Saúde, Organização Mundial da Saúde, Organização mundial da Saúde, Organização mundial da saúde</PT-Word-Cand>
     <EN-Gloss>a United Nations agency to coordinate international health activities and to help governments improve health services</EN-Gloss>
     <EN-Words>WHO, World Health Organization</EN-Words>
     <PT-Gloss />

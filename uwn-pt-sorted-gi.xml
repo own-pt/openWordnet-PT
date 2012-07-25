@@ -3493,9 +3493,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6567865</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Software gratuíto, Software gratuito, freeware, programa distribuído de forma gratuita, mas mantendo o código
-    fechado</PT-Word-Cand>
+    <PT-Words-Man>software gratuíto</PT-Words-Man>
+    <PT-Word-Cand>Software gratuíto, Software gratuito, freeware, programa distribuído de forma gratuita, mas mantendo o código fechado</PT-Word-Cand>
     <EN-Gloss>software that is provided without charge</EN-Gloss>
     <EN-Words>freeware</EN-Words>
     <PT-Gloss />
@@ -3518,9 +3517,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6568134</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Sistema Operativo, sistema operativo, sistema operativo, sistema operacional, sistema de exploração, sistema de
-    operação</PT-Word-Cand>
+    <PT-Words-Man>sistema operacional</PT-Words-Man>
+    <PT-Word-Cand>Sistema Operativo, sistema operativo, sistema operativo, sistema operacional, sistema de exploração, sistema de operação</PT-Word-Cand>
     <EN-Gloss>(computer science) software that controls the execution of computer programs and may provide various services</EN-Gloss>
     <EN-Words>OS, operating system</EN-Words>
     <PT-Gloss />
@@ -3580,7 +3578,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6568855</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Linux</PT-Words-Man>
     <PT-Word-Cand>LINUX, Linux, Sistema operacional semelhante ao UNIX sendo originalmente desenvolvido por Linus Torvalds a partir de 1991, vem se
     evoluindo graças à cooperação de vários volutários e empresas através da Internet., Linux, desde então</PT-Word-Cand>
     <EN-Gloss>an open-source version of the UNIX operating system</EN-Gloss>
@@ -4044,9 +4042,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6575681</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Interface Gráfica do Utilizador, Interface gráfica do utilizador, relação de usuário gráfica, graphical user
-    interface</PT-Word-Cand>
+    <PT-Words-Man>interface de usuário gráfica</PT-Words-Man>
+    <PT-Word-Cand>Interface Gráfica do Utilizador, Interface gráfica do utilizador, relação de usuário gráfica, graphical user interface</PT-Word-Cand>
     <EN-Gloss>a user interface based on graphics (icons and pictures and menus) instead of text; uses a mouse as well as a keyboard as an input
     device</EN-Gloss>
     <EN-Words>GUI, graphical user interface</EN-Words>
@@ -4952,9 +4949,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6588785</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>DBMS, Dbms, SGBDs, Sistema de Gerenciamento de Banco de Dados, Sistema de Gerenciamento de Banco de dados, Sistema de gerenciamento
-    de banco de dados</PT-Word-Cand>
+    <PT-Words-Man>sistema gerenciador de banco de dados, sistema de gerenciamento de banco de dados, SGBD</PT-Words-Man>
+    <PT-Word-Cand>DBMS, Dbms, SGBDs, Sistema de Gerenciamento de Banco de dados, Sistema de gerenciamento de banco de dados</PT-Word-Cand>
     <EN-Gloss>a software system that facilitates the creation and maintenance and use of an electronic database</EN-Gloss>
     <EN-Words>DBMS, database management system</EN-Words>
     <PT-Gloss />
