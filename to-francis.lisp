@@ -73,10 +73,13 @@
     (if (equal "" (slot-value synset 'words-man))
 	(setf the-slot 'words-sug))
     (dolist (w (cl-ppcre:split "\\s*(,|;)\\s*" (string-trim '(#\Space #\Tab) (slot-value synset the-slot))))
-      (csv-parser:write-csv-line stream (list (format nil "~a-~a" id-offset id-pos) 
+      (let ((reg (list (format nil "~a-~a" id-offset id-pos) 
 					      "lemma" 
-					      w 
-					      (if *EXTRA* the-slot))))))
+					      w)))
+	(if *EXTRA* 
+	    (append reg (list the-slot)))
+	(csv-parser:write-csv-line stream reg)))))
+
 
 ;; using the parser and csv formatter
   
@@ -98,3 +101,5 @@
       (cxml:parse file my)
       (mapcar (lambda (s) (synset-format s out)) (slot-value my 'synsets)))))
 
+
+(exit)

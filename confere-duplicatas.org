@@ -4,7 +4,7 @@
 #+begin_src R
 data <- read.table("wn-data-por.tab", sep = "\t", header = FALSE, stringsAsFactors = FALSE, quote = "")
 data$upper <- toupper(data$V3)
-temp <- data[duplicated(data[,c(1,5)]),]
+temp <- data[duplicated(data[,c(1,4)]),]
 tabela1 <- as.data.frame(table(temp[,1]))
 tabela1[order(tabela1$Freq),]
 #+end_src
@@ -9084,13 +9084,3 @@ tabela1[order(tabela1$Freq),]
 | 10837258-n | 4 |
 | 10875910-n | 4 |
 | 10933658-n | 4 |
-| 10944902-n | 4 |
-| 10994308-n | 4 |
-| 11045353-n | 4 |
-| 11128394-n | 4 |
-| 11161412-n | 4 |
-| 11345181-n | 4 |
-| 14392639-n | 4 |
-| 15163979-n | 4 |
-| 15164105-n | 4 |
-
