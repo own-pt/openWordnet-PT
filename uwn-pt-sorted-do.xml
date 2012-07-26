@@ -1054,8 +1054,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n14100494</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Doença De Creutzfeldt-Jakob, Doença de Creutzfeldt-Jakob, Doença de creutzfeldt-jakob, Mortes por doença de Creutzfeldt-Jakob,
-    doença de Creutzfeldt-Jakob</PT-Word-Cand>
+    <PT-Word-Cand> Doença de Creutzfeldt-Jakob, Mortes por doença de Creutzfeldt-Jakob</PT-Word-Cand>
     <EN-Gloss>rare (usually fatal) brain disease (usually in middle age) caused by an unidentified slow virus; characterized by progressive dementia
     and gradual loss of muscle control</EN-Gloss>
     <EN-Words>CJD, Creutzfeldt-Jakob disease, Jakob-Creutzfeldt disease</EN-Words>
@@ -2657,7 +2656,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n14122813</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Influenza_A_H1N1, Gripe_Suína</PT-Words-Man>
     <PT-Word-Cand>gripe suína, Gripe Suína, Gripe Suina, Gripe suina, gripe suína</PT-Word-Cand>
     <EN-Gloss>an acute and highly contagious respiratory disease of swine caused by the orthomyxovirus thought to be the same virus that caused the
     1918 influenza pandemic</EN-Gloss>
@@ -2978,8 +2977,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n14127782</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>AIDS, Síndrome da Imunodeficiência Adquirida, Síndrome da imuno-deficiência adquirida, Síndrome da imunodeficiência adquirida,
-    SIDA, síndrome da imunodeficiência adquirida, aids</PT-Word-Cand>
+    <PT-Word-Cand>AIDS, Síndrome da Imunodeficiência Adquirida, Síndrome da imuno-deficiência adquirida, SIDA</PT-Word-Cand>
     <EN-Gloss>a serious (often fatal) disease of the immune system transmitted through blood products especially by sexual contact or contaminated
     needles</EN-Gloss>
     <EN-Words>AIDS, acquired immune deficiency syndrome</EN-Words>
@@ -5051,7 +5049,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n14159623</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Síndrome de Down, Síndrome de down, Sindrome de down, síndrome de Down, síndrome de Down</PT-Word-Cand>
+    <PT-Word-Cand>Síndrome de Down, Sindrome de down</PT-Word-Cand>
     <EN-Gloss>a congenital disorder caused by having an extra 21st chromosome; results in a flat face and short stature and mental
     retardation</EN-Gloss>
     <EN-Words>Down syndrome, Down's syndrome, mongolianism, mongolism, trisomy 21</EN-Words>
