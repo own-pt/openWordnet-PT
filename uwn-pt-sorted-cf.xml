@@ -1411,7 +1411,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n10927270</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Daniel Dëfoe, Daniel Deföe, Daniel Defoe, Daniel dëfoe, Daniel deföe, Daniel defoe</PT-Word-Cand>
+    <PT-Word-Cand>Daniel Dëfoe, Daniel Deföe, Daniel Defoe</PT-Word-Cand>
     <EN-Gloss>English writer remembered particularly for his novel about Robinson Crusoe (1660-1731)</EN-Gloss>
     <EN-Words>Daniel Defoe, Defoe</EN-Words>
     <PT-Gloss />
@@ -1690,7 +1690,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n10930913</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>De_Niro, Robert_De_Niro</PT-Words-Man>
     <PT-Word-Cand>Robert De Niro, Robert DeNiro, Robert de Niro, Robert de niro, Robert deniro</PT-Word-Cand>
     <EN-Gloss>United States film actor who frequently plays tough characters (born 1943)</EN-Gloss>
     <EN-Words>De Niro, Robert De Niro</EN-Words>
@@ -2668,7 +2668,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n10945263</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Daphné du Maurier, Daphné du maurier, Daphne Du Maurier, Daphne du Maurier, Daphne du maurier</PT-Word-Cand>
+    <PT-Word-Cand>Daphné du Maurier, Daphne du Maurier</PT-Word-Cand>
     <EN-Gloss>English writer of melodramatic novels (1907-1989)</EN-Gloss>
     <EN-Words>Dame Daphne du Maurier, Daphne du Maurier, du Maurier</EN-Words>
     <PT-Gloss />
@@ -2740,7 +2740,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n10945977</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Albrecht Dürer, Albrecht Durër, Albrecht Durer, Albrecht dürer, Albrecht durër, Albrecht durer</PT-Word-Cand>
+    <PT-Word-Cand>Albrecht Dürer, Albrecht Durer, Albrecht durër</PT-Word-Cand>
     <EN-Gloss>a leading German painter and engraver of the Renaissance (1471-1528)</EN-Gloss>
     <EN-Words>Albrecht Durer, Durer</EN-Words>
     <PT-Gloss />
@@ -3135,7 +3135,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n10952143</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Eduardo o Confessor, Eduardo o confessor, Eduardo, o Confessor, Eduardo, o confessor</PT-Word-Cand>
+    <PT-Word-Cand>Eduardo o Confessor, Eduardo, o Confessor</PT-Word-Cand>
     <EN-Gloss>son of Ethelred the Unready; King of England from 1042 to 1066; he founded Westminster Abbey where he was eventually buried
     (1003-1066)</EN-Gloss>
     <EN-Words>Edward the Confessor, Saint Edward the Confessor, St. Edward the Confessor</EN-Words>
@@ -3148,7 +3148,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n10952421</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Eduardo o Velho, Eduardo o velho, Eduardo, o Velho, Eduardo, o velho</PT-Word-Cand>
+    <PT-Word-Cand>Eduardo o Velho, Eduardo, o Velho</PT-Word-Cand>
     <EN-Gloss>king of Wessex whose military success against the Danes made it possible for his son Athelstan to become the first king of all England
     (870-924)</EN-Gloss>
     <EN-Words>Edward the Elder</EN-Words>
@@ -3161,7 +3161,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n10952629</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Eduardo o Mártir, Eduardo o mártir, Eduardo, o Mártir, Eduardo, o mártir</PT-Word-Cand>
+    <PT-Word-Cand>Eduardo o Mártir, Eduardo, o Mártir</PT-Word-Cand>
     <EN-Gloss>King of England who was a son of Edgar; he was challenged for the throne by supporters of his half-brother Ethelred II who eventually
     murdered him (963-978)</EN-Gloss>
     <EN-Words>Edward the Martyr, Saint Edward the Martyr, St. Edward the Martyr</EN-Words>
@@ -4293,7 +4293,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n10969799</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Pièrre De Fermat, Pièrre de Fermat, Pièrre de fermat, Pierre de Fermat, Pierre de fermat</PT-Word-Cand>
+    <PT-Word-Cand> Pièrre de Fermat, Pierre de Fermat</PT-Word-Cand>
     <EN-Gloss>French mathematician who founded number theory; contributed (with Pascal) to the theory of probability (1601-1665)</EN-Gloss>
     <EN-Words>Fermat, Pierre de Fermat</EN-Words>
     <PT-Gloss />
@@ -4522,8 +4522,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n10972825</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Alexander Fleming, Alexander Fleming,, Alexander fleming, Alexander fleming,</PT-Word-Cand>
+    <PT-Words-Man>Alexander Fleming, Fleming, Sir Alexander Fleming</PT-Words-Man>
+    <PT-Word-Cand>Alexander Fleming, Alexander Fleming, Alexander fleming, Alexander fleming,</PT-Word-Cand>
     <EN-Gloss>Scottish bacteriologist who discovered penicillin (1881-1955)</EN-Gloss>
     <EN-Words>Alexander Fleming, Fleming, Sir Alexander Fleming</EN-Words>
     <PT-Gloss />
