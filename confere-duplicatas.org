@@ -2,11 +2,22 @@
 #+author: Alexandre Rademaker
 #+PROPERTY: session *R*
 
-#+begin_src R
+#+begin_src R :results table
 data <- read.table("wn-data-por.tab", sep = "\t", header = FALSE, stringsAsFactors = FALSE, quote = "")
 data$upper <- toupper(data$V3)
 temp <- data[duplicated(data[,c(1,4)]),]
 tabela1 <- as.data.frame(table(temp[,1]))
+table(sapply(strsplit(data$V1, "-"), "[", 2))
+#+end_src
+
+#+RESULTS:
+| a |  7422 |
+| n | 55951 |
+| r |  1726 |
+| v |  7155 |
+
+
+#+begin_src R :results table
 table(tabela1$Freq)
 #+end_src
 
@@ -14,7 +25,7 @@ table(tabela1$Freq)
 | 1 | 7502 |
 | 2 | 1359 |
 
-#+begin_src R 
+#+begin_src R : results table
 tabela1[order(tabela1$Freq),]
 #+end_src
 
