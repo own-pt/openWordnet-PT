@@ -365,7 +365,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n2992529</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>telefone_celular, telemóvel</PT-Words-Man>
     <PT-Word-Cand>telemóvel, telefone celular, celular, Telefone Celular, Telemóvel, Telemovel, telefone celular, telefone móvel</PT-Word-Cand>
     <EN-Gloss>a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range
     transmitter/receiver</EN-Gloss>
@@ -512,9 +512,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n2995345</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>Unidade Central de Processamento, Processador, Unidade Central de Processamento, Unidade central de processamento,
-    processador</PT-Word-Cand>
+    <PT-Words-Man>Unidade_Central_de_Processamento, CPU, processador</PT-Words-Man>
+    <PT-Word-Cand>Unidade Central de Processamento, Processador, Unidade Central de Processamento, Unidade central de processamento, processador</PT-Word-Cand>
     <EN-Gloss>(computer science) the part of a computer (a microprocessor chip) that does most of the data processing; "the CPU and the memory form
     the central part of a computer to which the peripherals are attached"</EN-Gloss>
     <EN-Words>C.P.U., CPU, central processing unit, central processor, mainframe, processor</EN-Words>

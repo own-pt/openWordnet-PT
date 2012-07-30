@@ -874,7 +874,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8735705</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>América_Central</PT-Words-Man>
     <PT-Word-Cand>América Central, América Central, América central, America Central, America central</PT-Word-Cand>
     <EN-Gloss>the isthmus joining North America and South America; extends from the southern border of Mexico to the northern border of
     Colombia</EN-Gloss>
@@ -887,7 +887,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8736107</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Costa_Rica</PT-Words-Man>
     <PT-Word-Cand>Costa Rica, Costa Rica, Costa rica, Costa-Rica, Costa-rica</PT-Word-Cand>
     <EN-Gloss>a republic in Central America; one of the most politically stable countries in Latin America</EN-Gloss>
     <EN-Words>Costa Rica, Republic of Costa Rica</EN-Words>
@@ -2013,7 +2013,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8752021</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>República_Dominicana</PT-Words-Man>
     <PT-Word-Cand>República Dominicana, República Dominicana, República dominicana, Republica Dominicana, Republica dominicana</PT-Word-Cand>
     <EN-Gloss>a republic in the West Indies; located on the eastern two-thirds of the island of Hispaniola</EN-Gloss>
     <EN-Words>Dominican Republic</EN-Words>
@@ -2136,7 +2136,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8754238</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Kingston</PT-Words-Man>
     <PT-Word-Cand>Kingston, Kingston, Jamaica, Kingston, jamaica</PT-Word-Cand>
     <EN-Gloss>capital and largest city of Jamaica</EN-Gloss>
     <EN-Words>Jamaican capital, Kingston, capital of Jamaica</EN-Words>
@@ -3097,7 +3097,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8769329</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Baixa_Saxônia, Baixa_Saxónia, Baixo_Saxe</PT-Words-Man>
     <PT-Word-Cand>Baixa Saxônia, Baixa Saxónia, Baixa Saxônia, Baixa saxônia, Baixa-Saxônia, Baixa-saxônia</PT-Word-Cand>
     <EN-Gloss>a state in northwestern Germany</EN-Gloss>
     <EN-Words>Lower Saxony</EN-Words>
@@ -3720,7 +3720,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8778401</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Adis Abeba</PT-Words-Man>
     <PT-Word-Cand>Adis Abeba, Adis abeba, Adis-Abeba, Adis-abeba, Ababa, Adis Abeba</PT-Word-Cand>
     <EN-Gloss>the capital of Ethiopia and the country's largest city; located in central Ethiopia</EN-Gloss>
     <EN-Words>Addis Ababa, New Flower, capital of Ethiopia</EN-Words>
@@ -4714,7 +4714,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8794366</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Faixa_de_Gaza</PT-Words-Man>
     <PT-Word-Cand>Faixa de Gaza, Faixa de gaza, Faixa de Gaza, faixa de Gaza</PT-Word-Cand>
     <EN-Gloss>a coastal region at the southeastern corner of the Mediterranean bordering Israel and Egypt; "he is a Palestinian from Gaza"</EN-Gloss>
     <EN-Words>Gaza Strip, Gaza</EN-Words>
@@ -4953,7 +4953,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8797840</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Tel Aviv, Tel Aviv, Tel aviv, Tel-Aviv, Tel-aviv</PT-Word-Cand>
+    <PT-Word-Cand>Tel Aviv, Tel-Aviv</PT-Word-Cand>
     <EN-Gloss>the largest city and financial center of Israel; located in western Israel on the Mediterranean</EN-Gloss>
     <EN-Words>Tel Aviv, Tel Aviv-Jaffa, Tel Aviv-Yalo</EN-Words>
     <PT-Gloss />
@@ -6197,8 +6197,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8817630</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Bósnia e Herzegóvina, Bósnia e Herzegovina, Bósnia e herzegóvina, Bósnia e herzegovina, Bósnia-Herzegovina, Bósnia e Herzegovina,
-    Bósnia-Herzegóvina, Bósnia</PT-Word-Cand>
+    <PT-Word-Cand>Bósnia e Herzegóvina, Bósnia e Herzegovina, Bósnia-Herzegovina, Bósnia-Herzegóvina, Bósnia</PT-Word-Cand>
     <EN-Gloss>a mountainous republic of south-central Europe; formerly part of the Ottoman Empire and then a part of Yugoslavia; voted for
     independence in 1992 but the mostly Serbian army of Yugoslavia refused to accept the vote and began ethnic cleansing in order to rid Bosnia of
     its Croats and Muslims</EN-Gloss>

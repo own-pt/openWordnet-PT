@@ -510,7 +510,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8934174</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Champs Elysees, Champs Élysées, Champs élysées, Champs elysees, Champs-Elysees, Champs-Élysées, Champs-élysées</PT-Word-Cand>
+    <PT-Word-Cand>Champs Elysees, Champs Élysées, Champs-Elysees, Champs-Élysées</PT-Word-Cand>
     <EN-Gloss>a major avenue in Paris famous for elegant shops and cafes</EN-Gloss>
     <EN-Words>Champs Elysees</EN-Words>
     <PT-Gloss />
@@ -995,7 +995,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8940936</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Baixa_Normandia</PT-Words-Man>
     <PT-Word-Cand>Baixa-Normandia, Baixa Normandia, Baixa normandia, Baixa-Normandia, Baixa-normandia</PT-Word-Cand>
     <EN-Gloss>a division of Normandy</EN-Gloss>
     <EN-Words>Basse-Normandie, Lower-Normandy</EN-Words>
@@ -1654,7 +1654,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8950407</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>A Haia, Haia, Haia, aHaia, a Haia, A Haia</PT-Word-Cand>
+    <PT-Word-Cand>A Haia, Haia, aHaia</PT-Word-Cand>
     <EN-Gloss>the site of the royal residence and the de facto capital in the western part of the Netherlands; seat of the International Court of
     Justice</EN-Gloss>
     <EN-Words>'s Gravenhage, Den Haag, The Hague</EN-Words>
@@ -2873,7 +2873,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8968125</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Principado_de_Mônaco, Mônaco</PT-Words-Man>
     <PT-Word-Cand>Mónaco, Mónaco-Ville, Mónaco-ville, Mônaco-Ville, Mônaco-ville, Monaco-Ville, Monaco-ville</PT-Word-Cand>
     <EN-Gloss>the capital of Monaco</EN-Gloss>
     <EN-Words>Monaco-Ville</EN-Words>
@@ -3076,7 +3076,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8970833</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Saara_Ocidental, Sahara_Ocidental</PT-Words-Man>
     <PT-Word-Cand>Saará Ocidental, Saará ocidental, Saara Ocidental, Saara ocidental, Sara Ocidental, Saara Ocidental</PT-Word-Cand>
     <EN-Gloss>an area in northwestern Africa with rich phosphate deposits; under Moroccan control since 1992</EN-Gloss>
     <EN-Words>Spanish Sahara, Western Sahara</EN-Words>
@@ -3175,7 +3175,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8972521</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Nova_Zelândia</PT-Words-Man>
     <PT-Word-Cand>Nova Zelândia, Nova Zelandia, Nova zelândia, Nova zelandia, Nova Zelândia</PT-Word-Cand>
     <EN-Gloss>an independent country within the British Commonwealth; achieved independence from the United Kingdom in 1907; known for sheep and
     spectacular scenery</EN-Gloss>
@@ -4254,8 +4254,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8989031</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>São Vicente e Granadinas, São vicente e granadinas, Sao Vicente e Granadinas, Sao vicente e granadinas, São Vicente e Granadinas,
-    The main pump fixing screws with the correct strength class</PT-Word-Cand>
+    <PT-Word-Cand>São Vicente e Granadinas, Sao Vicente e Granadinas </PT-Word-Cand>
     <EN-Gloss>an island country in the central Windward Islands; achieved independence from the United Kingdom in 1979</EN-Gloss>
     <EN-Words>Saint Vincent and the Grenadines, St. Vincent and the Grenadines</EN-Words>
     <PT-Gloss />
@@ -4558,7 +4557,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8993288</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Arábia_Saudita</PT-Words-Man>
     <PT-Word-Cand>Arábia Saudita, Arábia Saudita, Arábia saudita, Arabia Saudita, Arabia saudita, ArábiaSaudita</PT-Word-Cand>
     <EN-Gloss>an absolute monarchy occupying most of the Arabian Peninsula in southwest Asia; vast oil reserves dominate the economy</EN-Gloss>
     <EN-Words>Kingdom of Saudi Arabia, Saudi Arabia</EN-Words>
@@ -4853,7 +4852,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8997976</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Ilhas Salomão</PT-Words-Man>
     <PT-Word-Cand>Ilhas Salomão, Ilhas Salomao, Ilhas salomão, Ilhas salomao, Ilhas Salomão</PT-Word-Cand>
     <EN-Gloss>the northernmost islands are part of Papua New Guinea; the remainder form an independent state within the British
     Commonwealth</EN-Gloss>
@@ -4953,7 +4952,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8999482</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>África_do_Sul, República_da_África_do_Sul</PT-Words-Man>
     <PT-Word-Cand>África do Sul, Africa do Sul, Africa do sul, África do Sul, África do sul, África Meridional, África Austral</PT-Word-Cand>
     <EN-Gloss>a republic at the southernmost part of Africa; achieved independence from the United Kingdom in 1910; first European settlers were
     Dutch (known as Boers)</EN-Gloss>
