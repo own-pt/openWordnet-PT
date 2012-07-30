@@ -393,7 +393,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8618831</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Perélio, Periélio, periélio, perélio, periélio</PT-Word-Cand>
+    <PT-Word-Cand>Perélio, Periélio</PT-Word-Cand>
     <EN-Gloss>periapsis in solar orbit; the point in the orbit of a planet or comet where it is nearest to the sun</EN-Gloss>
     <EN-Words>perihelion</EN-Words>
     <PT-Gloss />
@@ -2360,7 +2360,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n8652717</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Pólo Sul, Pólo sul, Polo Sul, Polo sul, Pólo Sul</PT-Word-Cand>
+    <PT-Word-Cand>Pólo Sul, Polo Sul</PT-Word-Cand>
     <EN-Gloss>the southernmost point of the Earth's axis</EN-Gloss>
     <EN-Words>South Pole</EN-Words>
     <PT-Gloss />
@@ -5282,7 +5282,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8709704</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>Antígua_e_Barbuda, Reino_das_Ilhas_de_Antígua_e_Barbuda</PT-Words-Man>
     <PT-Word-Cand>Antígua e Barbuda, Antígua e barbuda, Antigua e Barbuda, Antigua e barbuda, Antígua e Barbuda</PT-Word-Cand>
     <EN-Gloss>a country in the northern Leeward Islands</EN-Gloss>
     <EN-Words>Antigua and Barbuda</EN-Words>
@@ -5396,7 +5396,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8711143</WN-3.0-Synset>
-    <PT-Words-Man>Ilha Bouvet</PT-Words-Man>
+    <PT-Words-Man>Ilha_Bouvet</PT-Words-Man>
     <PT-Word-Cand>Ilha Bouvet, Ilha bouvet, ilha Bouvet, Ilha Bouvet</PT-Word-Cand>
     <EN-Gloss>an island belonging to Norway in the South Atlantic near the Antarctic Circle</EN-Gloss>
     <EN-Words>Bouvet Island</EN-Words>
@@ -5871,7 +5871,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n8718391</WN-3.0-Synset>
-    <PT-Words-Man>Ilhas_Malvinas, Ilhas Falkland</PT-Words-Man>
+    <PT-Words-Man>Ilhas_Malvinas, Ilhas_Falkland</PT-Words-Man>
     <PT-Word-Cand>Ilhas Malvinas, Ilhas malvinas, ilhas Falkland, ilhas Malvinas, Ilhas Falkland ou Malvinas, Ilhas Malvinas</PT-Word-Cand>
     <EN-Gloss>a group of over 100 islands in the southern Atlantic off the coast of Argentina; a British Crown Colony</EN-Gloss>
     <EN-Words>Falkland Islands</EN-Words>

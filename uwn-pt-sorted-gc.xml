@@ -5476,7 +5476,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6007642</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>análise_numérica</PT-Words-Man>
     <PT-Word-Cand>Análise Numérica, Análise numérica, análise numérica, análise numérica</PT-Word-Cand>
     <EN-Gloss>(mathematics) the branch of mathematics that studies algorithms for approximating solutions to problems in the infinitesimal
     calculus</EN-Gloss>
@@ -5892,7 +5892,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6013126</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>álgebra_linear</PT-Words-Man>
     <PT-Word-Cand>Álgebra Linear, Álgebra linear, álgebra linear, álgebra linear</PT-Word-Cand>
     <EN-Gloss>the part of algebra that deals with the theory of linear equations and linear transformation</EN-Gloss>
     <EN-Words>linear algebra</EN-Words>
@@ -6089,7 +6089,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6016121</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>teoria_dos_conjuntos</PT-Words-Man>
     <PT-Word-Cand>Teoria dos Conjuntos, Teoria dos conjuntos, teoria dos conjuntos, teoria de conjuntos, teoria dos conjuntos</PT-Word-Cand>
     <EN-Gloss>the branch of pure mathematics that deals with the nature and relations of sets</EN-Gloss>
     <EN-Words>set theory</EN-Words>

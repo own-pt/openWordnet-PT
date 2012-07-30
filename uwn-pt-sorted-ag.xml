@@ -1197,7 +1197,7 @@
   <row>
     <BC>3100</BC>
     <WN-3.0-Synset>n6637824</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>banco_de_dados, base_de_dados</PT-Words-Man>
     <PT-Word-Cand>base de dados, Banco De Dados, Banco de Dados, banco de dados, bases de dados, banco de dados</PT-Word-Cand>
     <EN-Gloss>an organized body of related information</EN-Gloss>
     <EN-Words>database</EN-Words>
@@ -5336,7 +5336,7 @@
     <BC>3440</BC>
     <WN-3.0-Synset>n2472987</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>humanidade, Homem, Mundo, mundo, povo, mundo, homem, geração, espécie humana</PT-Word-Cand>
+    <PT-Word-Cand>humanidade, mundo, povo, homem, geração, espécie humana</PT-Word-Cand>
     <EN-Gloss>all of the living human inhabitants of the earth; "all the world loves a lover"; "she always used `humankind' because `mankind' seemed
     to slight the women"</EN-Gloss>
     <EN-Words>human beings, human race, humanity, humankind, humans, man, mankind, world</EN-Words>

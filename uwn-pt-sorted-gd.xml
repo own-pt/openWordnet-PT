@@ -1182,7 +1182,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n6036939</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>Binómio de Newton, Binómio de newton, Binômio de Newton, Binômio de newton, binómio de Newton</PT-Word-Cand>
+    <PT-Word-Cand>Binómio de Newton, Binômio de Newton</PT-Word-Cand>
     <EN-Gloss>a theorem giving the expansion of a binomial raised to a given power</EN-Gloss>
     <EN-Words>binomial theorem</EN-Words>
     <PT-Gloss />
@@ -2654,7 +2654,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6065423</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>medicina_veterinária, veterinária</PT-Words-Man> 
     <PT-Word-Cand>medicina veterinária, Medicina Veterinária, Medicina veterinária, medicina veterinária</PT-Word-Cand>
     <EN-Gloss>the branch of medicine that deals with the diagnosis and treatment of diseases and injuries of animals (especially domestic
     animals)</EN-Gloss>
@@ -3681,7 +3681,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6088995</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>química_orgânica</PT-Words-Man>
     <PT-Word-Cand>química orgânica, Química Orgânica, Química orgânica, química orgânica</PT-Word-Cand>
     <EN-Gloss>the chemistry of compounds containing carbon (originally defined as the chemistry of substances produced by living organisms but now
     extended to substances synthesized artificially)</EN-Gloss>
@@ -3694,7 +3694,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6089314</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>química_inorgânica</PT-Words-Man>
     <PT-Word-Cand>química inorgânica, Química Inorgânica, Química inorgânica, química inorgânica</PT-Word-Cand>
     <EN-Gloss>the chemistry of compounds that do not contain hydrocarbon radicals</EN-Gloss>
     <EN-Words>inorganic chemistry</EN-Words>
@@ -3707,7 +3707,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6089447</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>físico-química</PT-Words-Man>
     <PT-Word-Cand>química física, Físico-Química, Físico-química, físico-química, físico-química</PT-Word-Cand>
     <EN-Gloss>the branch of chemistry dealing with the physical properties of chemical substances</EN-Gloss>
     <EN-Words>physical chemistry</EN-Words>
@@ -3964,7 +3964,7 @@
     <BC>99999999</BC>
     <WN-3.0-Synset>n6097594</WN-3.0-Synset>
     <PT-Words-Man />
-    <PT-Word-Cand>mecânica celeste, Mecânica Celeste, Mecânica celeste, mecânica celeste</PT-Word-Cand>
+    <PT-Word-Cand>mecânica celeste</PT-Word-Cand>
     <EN-Gloss>the branch of astronomy concerned with the application of Newton's laws of motion to the motions of heavenly bodies</EN-Gloss>
     <EN-Words>celestial mechanics</EN-Words>
     <PT-Gloss />
@@ -5429,7 +5429,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6122445</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>geografia_física, fisiografia</PT-Words-Man>
     <PT-Word-Cand>Geografia Física, Geografia física, geografia física, geografia física</PT-Word-Cand>
     <EN-Gloss>the study of physical features of the earth's surface</EN-Gloss>
     <EN-Words>physical geography, physiography</EN-Words>
@@ -5466,7 +5466,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6122976</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>geografia_económica</PT-Words-Man>
     <PT-Word-Cand>geografia económica, Geografia Econômica, Geografia económica, Geografia econômica, geografia econômica</PT-Word-Cand>
     <EN-Gloss>the branch of geography concerned with the production and distribution of commodities</EN-Gloss>
     <EN-Words>economic geography</EN-Words>
@@ -5638,7 +5638,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6127209</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>engenharia_genética</PT-Words-Man>
     <PT-Word-Cand>Engenharia Genética, Engenharia genética, engenharia genética, engenharia genética, ADN recombinante (tecnologia)</PT-Word-Cand>
     <EN-Gloss>the technology of preparing recombinant DNA in vitro by cutting up DNA molecules and splicing together fragments from more than one
     organism</EN-Gloss>
@@ -5851,7 +5851,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6134510</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>tecnologia_da_informação, TI</PT-Words-Man>
     <PT-Word-Cand>Tecnologia da Informação, Tecnologia da informação, tecnologia da informação, tecnologia da informação, tecnologias da informação,
     tecnologias de informação</PT-Word-Cand>
     <EN-Gloss>the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit
@@ -5866,7 +5866,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n6134716</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>engenharia_mecânica</PT-Words-Man>
     <PT-Word-Cand>Engenharia Mecânica, Engenharia mecânica, engenharia mecânica, engenharia mecânica</PT-Word-Cand>
     <EN-Gloss>the branch of engineering that deals with the design and construction and operation of machinery</EN-Gloss>
     <EN-Words>mechanical engineering</EN-Words>
