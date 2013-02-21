@@ -15445,7 +15445,7 @@
 00975487-a	lemma	chique
 00975487-a	lemma	elegante
 00975171-a	lemma	chique
-00974519-a	lemma	{{t-|pt|démodé}}
+00974519-a	lemma	démodé
 00974519-a	lemma	ultrapassado
 00974159-a	lemma	démodé
 00974159-a	lemma	obsoleto
@@ -39242,7 +39242,6 @@
 03384352-n	lemma	empilhadeira
 03384352-n	lemma	empilhador
 03383948-n	lemma	garfo
-03383948-n	lemma	garfo
 03383821-n	lemma	frágua
 03383646-n	lemma	Forja
 03383646-n	lemma	forja
@@ -49542,7 +49541,6 @@
 06398090-n	lemma	preâmbulo
 06397903-n	lemma	prefácio
 06397645-n	lemma	teaser
-06397171-n	lemma	v{{t+|pt|exórdio|m}}
 06397171-n	lemma	exórdio
 06396330-n	lemma	episódio
 06396142-n	lemma	capítulo
@@ -52722,7 +52720,6 @@
 07057829-n	lemma	tango
 07057829-n	lemma	tango
 07057196-n	lemma	serialismo
-07056895-n	lemma	Samba
 07056895-n	lemma	samba
 07056504-n	lemma	polca
 07056504-n	lemma	Polca
@@ -53931,6 +53928,8 @@
 07428954-n	lemma	sismos
 07428954-n	lemma	"tremor de terra"
 07427951-n	lemma	anticlímax
+07427534-n	lemma	atenuação
+07427534-n	lemma	enfraquecimento
 07427224-n	lemma	reforço
 07427060-n	lemma	atrofia
 07426893-n	lemma	degeneração
@@ -54243,6 +54242,7 @@
 07510184-n	lemma	admiração
 07510184-n	lemma	espanto
 07510184-n	lemma	fascínio
+07510184-n	lemma	encatamento
 07509996-n	lemma	admiração
 07509996-n	lemma	surpresa
 07509996-n	lemma	espanto
@@ -54575,6 +54575,7 @@
 07581775-n	lemma	coquetel
 07581346-n	lemma	antepasto
 07581346-n	lemma	aperitivo
+07580053-n	lemma	acompanhamento
 07579076-n	lemma	pedaço
 07579076-n	lemma	porção
 07579076-n	lemma	fragmento
@@ -71330,6 +71331,7 @@
 00553208-v	lemma	"tornar eterno"
 00553208-v	lemma	eternizar
 00552815-v	lemma	putrefazer
+00005526-v	lemma	bufar
 00552006-v	lemma	concretizar
 00551210-v	lemma	mudar
 00549982-v	lemma	melhorar

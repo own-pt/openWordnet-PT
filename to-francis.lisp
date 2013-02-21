@@ -8,6 +8,9 @@
 (ql:quickload :cxml)
 (ql:quickload :cl-ppcre)
 (ql:quickload :csv-parser)
+(ql:quickload :uri-template)
+
+(uri-template:enable-uri-template-syntax)
 
 (defparameter *fields* '(("BC" . bc) 
 			 ("WN-3.0-Synset" . id)
@@ -20,6 +23,7 @@
 			 ("SPA-Words-Sug" . words-sp)))
 
 (defparameter *EXTRA* nil)
+(defparameter *OUTFILE* #P"wn-data-por.tab")
 
 (defclass synset ()
   ((id :initform nil)
@@ -77,7 +81,9 @@
 					      "lemma" 
 					      w)))
 	(if *EXTRA* 
-	    (append reg (list the-slot)))
+	    (progn 
+	      (nconc reg (list the-slot))
+	      (nconc reg (list #Uhttp://logics.emap.fgv.br/wn30pt/{w}))))
 	(csv-parser:write-csv-line stream reg)))))
 
 
@@ -94,7 +100,7 @@
 
 (setf csv-parser:*field-separator* #\Tab)
 
-(with-open-file (out #P"wn-data-por.tab" :direction :output :if-exists :supersede)
+(with-open-file (out *OUTFILE* :direction :output :if-exists :supersede)
   (write-line "# OpenWN-PT	por	https://github.com/arademaker/wordnet-br	CC by SA 3.0" out)
   (dolist (file (directory #P"/Users/arademaker/work/WordNet-BR/uwn-*.xml"))
     (let ((my (make-instance 'sax-handler)))
