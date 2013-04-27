@@ -435,7 +435,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2197595</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>160, cento e sessenta</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>being ten more than one hundred fifty</EN-Gloss>
     <EN-Words>160, clx, one hundred sixty</EN-Words>
@@ -483,7 +483,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2198069</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>180, cento e oitenta</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>being ten more than one hundred seventy</EN-Gloss>
     <EN-Words>180, clxxx, one hundred eighty</EN-Words>
@@ -507,10 +507,10 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2198187</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cento de noventa, 190</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>being ten more than one hundred eighty</EN-Gloss>
-    <EN-Words>190, one hundred ninety, xcl</EN-Words>
+    <EN-Words>190, one hundred ninety, XCL</EN-Words>
     <PT-Gloss />
     <PT-Gloss-Sug />
     <SPA-Words-Sug />
@@ -519,7 +519,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2198302</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>duzentos</PT-Words-Man>
     <PT-Word-Cand>duzentos</PT-Word-Cand>
     <EN-Gloss>being ten more than one hundred ninety</EN-Gloss>
     <EN-Words>200, cc, two hundred</EN-Words>
@@ -531,7 +531,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2198409</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>trezentos</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>being one hundred more than two hundred</EN-Gloss>
     <EN-Words>300, ccc, three hundred</EN-Words>
@@ -543,7 +543,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2198520</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>quatrocentos</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>being one hundred more than three hundred</EN-Gloss>
     <EN-Words>400, cd, four hundred</EN-Words>
@@ -555,7 +555,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2198631</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>500, quinhentos</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>denoting a quantity consisting of 500 items or units</EN-Gloss>
     <EN-Words>500, d, five hundred</EN-Words>
@@ -567,7 +567,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2198752</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>mil, 1000, um mil</PT-Words-Man>
     <PT-Word-Cand>mil</PT-Word-Cand>
     <EN-Gloss>denoting a quantity consisting of 1,000 items or units</EN-Gloss>
     <EN-Words>1000, k, m, one thousand, thousand</EN-Words>
@@ -579,7 +579,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2198891</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>dez mil</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>denoting a quantity consisting of 10,000 items or units</EN-Gloss>
     <EN-Words>ten thousand</EN-Words>
@@ -591,7 +591,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2199005</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>cem mil</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>(in Roman numerals, C written with a macron over it) denoting a quantity consisting of 100,000 items or units</EN-Gloss>
     <EN-Words>hundred thousand</EN-Words>
@@ -627,7 +627,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2199342</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>bilhão</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>denoting a quantity consisting of one thousand million items or units in the United States</EN-Gloss>
     <EN-Words>billion</EN-Words>
@@ -651,7 +651,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2199699</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>trilhão</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>one million million in the United States</EN-Gloss>
     <EN-Words>trillion</EN-Words>
@@ -832,7 +832,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2203123</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>oitavo</PT-Words-Man>
     <PT-Word-Cand>oitavo</PT-Word-Cand>
     <EN-Gloss>coming next after the seventh and just before the ninth in position</EN-Gloss>
     <EN-Words>8th, eighth</EN-Words>
@@ -844,7 +844,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2203249</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>nono</PT-Words-Man>
     <PT-Word-Cand>nono, nona</PT-Word-Cand>
     <EN-Gloss>coming next after the eighth and just before the tenth in position</EN-Gloss>
     <EN-Words>9th, ninth</EN-Words>
@@ -880,7 +880,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2203500</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>décimo primeiro</PT-Words-Man>
     <PT-Word-Cand>décimo primeiro</PT-Word-Cand>
     <EN-Gloss>coming next after the tenth and just before the twelfth in position</EN-Gloss>
     <EN-Words>11th, eleventh</EN-Words>
@@ -892,7 +892,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2203629</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>décimo segundo</PT-Words-Man>
     <PT-Word-Cand>décimo segundo</PT-Word-Cand>
     <EN-Gloss>coming next after the eleventh and just before the thirteenth in position</EN-Gloss>
     <EN-Words>12th, twelfth</EN-Words>
@@ -1481,7 +1481,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2208971</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>octagésimo</PT-Words-Man>
     <PT-Word-Cand>octogésima, octogésimo</PT-Word-Cand>
     <EN-Gloss>the ordinal number of eighty in counting order</EN-Gloss>
     <EN-Words>80th, eightieth</EN-Words>
@@ -1493,7 +1493,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2209080</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>octagésimo quinto</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the ordinal number of eighty-five in counting order</EN-Gloss>
     <EN-Words>85th, eighty-fifth</EN-Words>
@@ -1529,7 +1529,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2209423</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>centésimo, centesimal</PT-Words-Man>
     <PT-Word-Cand>centesimal, centésimo, centésima</PT-Word-Cand>
     <EN-Gloss>the ordinal number of one hundred in counting order</EN-Gloss>
     <EN-Words>100th, centesimal, hundredth</EN-Words>
@@ -1541,7 +1541,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2209551</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>centésimo primeiro</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the ordinal number of one hundred one in counting order</EN-Gloss>
     <EN-Words>101st, hundred-and-first</EN-Words>
@@ -1565,7 +1565,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2209678</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>centésimo quinto</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the ordinal number of one hundred five in counting order</EN-Gloss>
     <EN-Words>105th, hundred-and-fifth</EN-Words>
@@ -1649,7 +1649,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2210620</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>centésimo quadragésimo</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the ordinal number of one hundred forty in counting order</EN-Gloss>
     <EN-Words>140th, hundred-and-fortieth</EN-Words>
@@ -1661,7 +1661,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>a2210752</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>centésimo quadragésimo quinto</PT-Words-Man>
     <PT-Word-Cand />
     <EN-Gloss>the ordinal number of one hundred forty-five in counting order</EN-Gloss>
     <EN-Words>145th, hundred-and-forty-fifth</EN-Words>
