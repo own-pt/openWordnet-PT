@@ -3336,8 +3336,8 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n7663592</WN-3.0-Synset>
-    <PT-Words-Man />
-    <PT-Word-Cand>carne, Carne bovina, carne bovina, carne de vaca, carnedeboi</PT-Word-Cand>
+    <PT-Words-Man>carne, bife, carne bovina, carne de vaca</PT-Words-Man>
+    <PT-Word-Cand>carne, carne bovina, carne de vaca, carne de boi</PT-Word-Cand>
     <EN-Gloss>meat from an adult domestic bovine</EN-Gloss>
     <EN-Words>beef, boeuf</EN-Words>
     <PT-Gloss />
@@ -3348,7 +3348,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>n7663796</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>rosbife</PT-Words-Man>
     <PT-Word-Cand>Rosbife</PT-Word-Cand>
     <EN-Gloss>cut of beef suitable for roasting</EN-Gloss>
     <EN-Words>beef roast, roast beef</EN-Words>
