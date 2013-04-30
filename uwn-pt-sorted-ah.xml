@@ -1966,7 +1966,7 @@
   <row>
     <BC>3663</BC>
     <WN-3.0-Synset>n8491826</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>divisão administrativa, distrito administrativo, divisão territorial</PT-Words-Man>
     <PT-Word-Cand>Divisão Administrativa, Divisão administrativa, Entidade subnacional, divisões administrativas</PT-Word-Cand>
     <EN-Gloss>a district defined for administrative purposes</EN-Gloss>
     <EN-Words>administrative district, administrative division, territorial division</EN-Words>
@@ -2505,7 +2505,7 @@
   <row>
     <BC>3707</BC>
     <WN-3.0-Synset>n8574314</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>região geográfica, área geográfica, região</PT-Words-Man>
     <PT-Word-Cand>região</PT-Word-Cand>
     <EN-Gloss>a demarcated area of the Earth</EN-Gloss>
     <EN-Words>geographic area, geographic region, geographical area, geographical region</EN-Words>
@@ -3079,11 +3079,11 @@
   <row>
     <BC>3754</BC>
     <WN-3.0-Synset>n8654360</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>província, estado</PT-Words-Man>
     <PT-Word-Cand>Províncias da República Popular da China, país, províncias</PT-Word-Cand>
     <EN-Gloss>the territory occupied by one of the constituent administrative districts of a nation; "his state is in the deep south"</EN-Gloss>
     <EN-Words>province, state</EN-Words>
-    <PT-Gloss />
+    <PT-Gloss>Território ocupado por uma das divisões administrativas constituintes de uma nação, qualquer parte de um país, abstraindo a capital; "o estado dele fica bem ao sul"</PT-Gloss>
     <PT-Gloss-Sug />
     <SPA-Words-Sug>Provincia de China, Provincia de china, país, condado, estado, provincias, comunidad autónoma, Comunidad Autónoma</SPA-Words-Sug>
     <Comments />
