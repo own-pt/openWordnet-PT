@@ -403,7 +403,7 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>v2119241</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>ignorar, desconsiderar, negligenciar</PT-Words-Man>
     <PT-Word-Cand>ignorar, não tomar conhecimento</PT-Word-Cand>
     <EN-Gloss>fail to notice</EN-Gloss>
     <EN-Words>ignore</EN-Words>
@@ -5729,10 +5729,9 @@
   <row>
     <BC>99999999</BC>
     <WN-3.0-Synset>v2214190</WN-3.0-Synset>
-    <PT-Words-Man />
+    <PT-Words-Man>recusar, negar, denegar, rejeitar, proibir</PT-Words-Man>
     <PT-Word-Cand>dizer não</PT-Word-Cand>
-    <EN-Gloss>refuse to grant, as of a petition or request; "The dean denied the students' request for more physics courses"; "the prisoners were
-    denied the right to exercise for more than 2 hours a day"</EN-Gloss>
+    <EN-Gloss>refuse to grant, as of a petition or request; "The dean denied the students' request for more physics courses"; "the prisoners were denied the right to exercise for more than 2 hours a day"</EN-Gloss>
     <EN-Words>deny</EN-Words>
     <PT-Gloss />
     <PT-Gloss-Sug />
