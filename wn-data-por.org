@@ -1,0 +1,57 @@
+#+Title: Testing wn-data-por.tab file
+#+Author: Alexandre Rademaker
+#+PROPERTY: session *rorg*
+
+* Loading old file
+
+The old file seems to have duplicated synset-word pair.
+
+#+BEGIN_SRC R
+  data <- read.table("~/Downloads/por/wn-data-por.tab", comment.char = "#", sep="\t", stringsAsFactors = FALSE)
+  dup <- duplicated(data[,c(1,3)])
+  head(data[dup,])
+#+END_SRC
+
+#+RESULTS:
+| 03800933-n | lemma | instrumento musical |
+| 03295773-n | lemma | escada rolante      |
+| 02944459-n | lemma | camuflagem          |
+| 02930766-n | lemma | táxi                |
+| 02898711-n | lemma | ponte               |
+| 02872752-n | lemma | bota                |
+
+One case of duplication:
+
+#+BEGIN_SRC R
+subset(data, V1 == "03800933-n")
+#+END_SRC
+
+#+RESULTS:
+| 03800933-n | lemma | instrumento musical   |
+| 03800933-n | lemma | ferramenta            |
+| 03800933-n | lemma | Instrumento Musical   |
+| 03800933-n | lemma | Instrumentos musicais |
+| 03800933-n | lemma | instrumento musical   |
+| 03800933-n | lemma | instrumento           |
+
+* Loading new file
+
+#+BEGIN_SRC R
+  data <- read.table("wn-data-por.tab", comment.char = "#", sep="\t", stringsAsFactors = FALSE)
+  dup <- duplicated(data[,c(1,3)])
+  unique(dup)
+#+END_SRC
+
+#+RESULTS:
+: FALSE
+
+#+BEGIN_SRC R
+subset(data, V1 == "03800933-n")
+#+END_SRC
+
+#+RESULTS:
+| 03800933-n | lemma | instrumento musical   |
+| 03800933-n | lemma | Instrumentos musicais |
+| 03800933-n | lemma | Instrumento Musical   |
+| 03800933-n | lemma | ferramenta            |
+
