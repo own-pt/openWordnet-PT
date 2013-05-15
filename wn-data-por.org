@@ -55,3 +55,12 @@ subset(data, V1 == "03800933-n")
 | 03800933-n | lemma | Instrumento Musical   |
 | 03800933-n | lemma | ferramenta            |
 
+* How many synsets
+
+#+BEGIN_SRC R :results output
+nrow(data[!duplicated(data$V1),])
+#+END_SRC
+
+#+RESULTS:
+: [1] 24377
+

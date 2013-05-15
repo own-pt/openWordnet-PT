@@ -1,7 +1,14 @@
 
+The OpenWN-PT is distributed in the wordnet-br.rdf file and licensed
+under:
+
 http://creativecommons.org/licenses/by/3.0/deed.en_US
 
 This work is licensed under the Creative Commons Attribution 3.0
 Unported License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by/3.0/.
 
+The OpenWN-PT is constructed to be used with the Princeton WordNet 3.0
+distributed here in the RDF format in the file wordnet-en.rdf. The
+Princeton WordNet 3.0 is distributed under the license
+http://wordnet.princeton.edu/wordnet/license/.
