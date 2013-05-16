@@ -4,23 +4,25 @@
 
 * Open Multilingual Wordnet
 
-#+BEGIN_SRC R 
-  old <- read.table("~/Downloads/por/wn-data-por.tab", comment.char = "#", sep="\t", stringsAsFactors = FALSE)
-  dup <- duplicated(old$V1)
-  nrow(old[!dup,])
+#+BEGIN_SRC R :results output
+  data.o <- read.table("~/Downloads/por/wn-data-por.tab", quote= "", comment.char = "#", sep="\t", stringsAsFactors = FALSE)
+  nrow(data.o)
+  nrow(data.o[!duplicated(data.o$V1),])
 #+END_SRC
 
 #+RESULTS:
-: 26187
+: [1] 72253
+: [1] 41810
 
-#+BEGIN_SRC R
-  data <- read.table("wn-data-por.tab", comment.char = "#", sep="\t", stringsAsFactors = FALSE)
-  dup <- duplicated(data$V1)
-  nrow(data[!dup,])
+#+BEGIN_SRC R :results output
+  data.n <- read.table("wn-data-por.tab", comment.char = "#", quote="", sep="\t", stringsAsFactors = FALSE)
+  nrow(data.n)
+  nrow(data[!duplicated(data.n$V1),])
 #+END_SRC
 
 #+RESULTS:
-: 24377
+: [1] 68383
+: [1] 41885
 
 * FreeLing
 
@@ -34,17 +36,13 @@
 : [1] 34101
 
 #+BEGIN_SRC R
-  ss.df <- data.frame(V1 = ss)
-  old <- old[!dup,]
-  tmp <- merge(ss.df, old, all.x = TRUE)
-  head(tmp)
+  ss.df <- data.frame(V1 = ss, stringsAsFactors = FALSE)
+  new <- data.n[!duplicated(data.n$V1),]
+  tmp <- merge(ss.df, new, all.x = TRUE)
+  head(tmp[is.na(tmp$V2),])
 #+END_SRC
 
 #+RESULTS:
-| # por      | nil   | nil      |
-| 00001740-a | lemma | capaz    |
-| 00001740-n | lemma | entidade |
-| 00001740-v | nil   | nil      |
-| 00002098-a | nil   | nil      |
-| 00002137-n | nil   | nil      |
+| # por      | nil | nil |
+| 00491910-v | nil | nil |
 
