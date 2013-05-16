@@ -46,3 +46,123 @@
 | # por      | nil | nil |
 | 00491910-v | nil | nil |
 
+* Wikidictionary by Francis
+
+#+BEGIN_SRC R :results output
+  wiki <- read.table("~/Downloads/por/wn-wikt-por.tab", quote= "", comment.char = "#", sep="\t", stringsAsFactors = FALSE)
+  str(wiki)
+#+END_SRC
+
+#+RESULTS:
+: 'data.frame':	16178 obs. of  3 variables:
+:  $ V1: chr  "00004171-a" "00004413-a" "00005205-a" "00006032-a" ...
+:  $ V2: chr  "por:lemma" "por:lemma" "por:lemma" "por:lemma" ...
+:  $ V3: chr  "moribundo" "abreviado" "absoluto" "relativo" ...
+
+#+BEGIN_SRC R :results value
+  cmp <- merge(data.n, wiki, by = c("V1","V3"), all.y = TRUE)
+  head(cmp[is.na(cmp$V2.x),], 100)
+#+END_SRC
+
+#+RESULTS:
+| 00001740-v | espirar             | nil | por:lemma |
+| 00004171-a | moribundo           | nil | por:lemma |
+| 00004413-a | abreviado           | nil | por:lemma |
+| 00004475-n | criatura            | nil | por:lemma |
+| 00004475-n | ser                 | nil | por:lemma |
+| 00004722-r | apenas              | nil | por:lemma |
+| 00004722-r | simplesmente        | nil | por:lemma |
+| 00004722-r | só                  | nil | por:lemma |
+| 00004722-r | somente             | nil | por:lemma |
+| 00006259-r | notavelmente        | nil | por:lemma |
+| 00007012-v | assoprar            | nil | por:lemma |
+| 00007012-v | soprar              | nil | por:lemma |
+| 00007015-r | cerca de            | nil | por:lemma |
+| 00007015-r | mais ou menos       | nil | por:lemma |
+| 00008007-r | cem por cento       | nil | por:lemma |
+| 00008299-v | piscar o olho       | nil | por:lemma |
+| 00008600-r | apenas              | nil | por:lemma |
+| 00009966-r | faça favor          | nil | por:lemma |
+| 00009966-r | por favor           | nil | por:lemma |
+| 00009978-a | guloso              | nil | por:lemma |
+| 00010466-r | completamente       | nil | por:lemma |
+| 00011011-r | apenas              | nil | por:lemma |
+| 00011011-r | somente             | nil | por:lemma |
+| 00011757-a | abstrato            | nil | por:lemma |
+| 00012779-r | bem                 | nil | por:lemma |
+| 00013429-r | bem                 | nil | por:lemma |
+| 00015303-v | tirar uma soneca    | nil | por:lemma |
+| 00015388-n | besta               | nil | por:lemma |
+| 00016573-v | cabecear            | nil | por:lemma |
+| 00017222-n | vegetal             | nil | por:lemma |
+| 00017241-r | pior                | nil | por:lemma |
+| 00017639-r | ainda               | nil | por:lemma |
+| 00017782-a | aceitável           | nil | por:lemma |
+| 00018302-r | bastante            | nil | por:lemma |
+| 00018302-r | bem                 | nil | por:lemma |
+| 00020103-a | inacessível         | nil | por:lemma |
+| 00020103-a | isolado             | nil | por:lemma |
+| 00020671-v | mesmerizar          | nil | por:lemma |
+| 00021766-a | justo               | nil | por:lemma |
+| 00022401-r | a muito tempo atrás | nil | por:lemma |
+| 00023773-n | motivo              | nil | por:lemma |
+| 00023854-a | equivocado          | nil | por:lemma |
+| 00023854-a | errado              | nil | por:lemma |
+| 00024996-a | novo                | nil | por:lemma |
+| 00025470-a | ácido               | nil | por:lemma |
+| 00026192-n | emoção              | nil | por:lemma |
+| 00026192-n | impressão           | nil | por:lemma |
+| 00027167-n | localização         | nil | por:lemma |
+| 00027384-r | ainda assim         | nil | por:lemma |
+| 00027384-r | de qualquer jeito   | nil | por:lemma |
+| 00027795-r | ainda               | nil | por:lemma |
+| 00027918-r | ainda               | nil | por:lemma |
+| 00030010-v | casquinar           | nil | por:lemma |
+| 00031304-r | ainda               | nil | por:lemma |
+| 00031663-v | gracejar            | nil | por:lemma |
+| 00031899-r | muito               | nil | por:lemma |
+| 00032733-a | ativo               | nil | por:lemma |
+| 00032733-a | serelepe            | nil | por:lemma |
+| 00032981-v | fazer cara feia     | nil | por:lemma |
+| 00032981-v | franzir o cenho     | nil | por:lemma |
+| 00033663-r | pouco               | nil | por:lemma |
+| 00033922-r | cedo                | nil | por:lemma |
+| 00033922-r | logo                | nil | por:lemma |
+| 00034115-v | bater palmas        | nil | por:lemma |
+| 00034213-n | fenómeno            | nil | por:lemma |
+| 00036291-r | meio                | nil | por:lemma |
+| 00036935-r | definitivamente     | nil | por:lemma |
+| 00037298-v | barbear             | nil | por:lemma |
+| 00037298-v | raspar              | nil | por:lemma |
+| 00037470-r | de fato             | nil | por:lemma |
+| 00037470-r | realmente           | nil | por:lemma |
+| 00038013-r | verdadeiramente     | nil | por:lemma |
+| 00038199-v | duchar              | nil | por:lemma |
+| 00038625-r | claro               | nil | por:lemma |
+| 00039740-n | contato visual      | nil | por:lemma |
+| 00040719-r | da cartola          | nil | por:lemma |
+| 00041206-v | enfatizar           | nil | por:lemma |
+| 00041206-v | realçar             | nil | por:lemma |
+| 00042254-r | afortunadamente     | nil | por:lemma |
+| 00042254-r | por sorte           | nil | por:lemma |
+| 00043003-r | assim               | nil | por:lemma |
+| 00043521-r | daqui               | nil | por:lemma |
+| 00043765-a | efetivo             | nil | por:lemma |
+| 00043765-a | real                | nil | por:lemma |
+| 00047392-r | demais              | nil | por:lemma |
+| 00047786-a | viciante            | nil | por:lemma |
+| 00048374-n | vinda               | nil | por:lemma |
+| 00048858-a | adicional           | nil | por:lemma |
+| 00049530-n | intrusão            | nil | por:lemma |
+| 00050037-n | matrícula           | nil | por:lemma |
+| 00050297-r | alegremente         | nil | por:lemma |
+| 00050297-r | felizmente          | nil | por:lemma |
+| 00050484-n | aparição            | nil | por:lemma |
+| 00050652-v | pôr                 | nil | por:lemma |
+| 00050652-v | trazer              | nil | por:lemma |
+| 00052152-r | exatamente          | nil | por:lemma |
+| 00052500-n | aterrissagem        | nil | por:lemma |
+| 00052500-n | pouso               | nil | por:lemma |
+| 00053341-v | emprenhar           | nil | por:lemma |
+| 00053405-n | saída à francesa    | nil | por:lemma |
+
