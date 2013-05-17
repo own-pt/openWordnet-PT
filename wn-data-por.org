@@ -46,6 +46,10 @@
 | # por      | nil | nil |
 | 00491910-v | nil | nil |
 
+#+BEGIN_SRC sh :results output
+cat wn-data-por.tab | sort | awk -f senses.awk > senses-new.src
+#+END_SRC
+
 * Wikidictionary by Francis
 
 #+BEGIN_SRC R :results output
