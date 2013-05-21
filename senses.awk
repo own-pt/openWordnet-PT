@@ -1,6 +1,6 @@
   BEGIN { 
     FS="\t";
-    OFS="\t";
+    OFS=" ";
     s=""; 
     l="";
 } 
@@ -18,12 +18,12 @@
 	      s = s " " $3;
 	  }
       else {
-	  print l, $2, s; 
+	  print l, s; 
 	  s = $3;
       }
       l=$1;
 }
 
   END {
-      print l, "lemma", s;
+      print l, s;
   }
