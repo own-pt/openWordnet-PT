@@ -22,20 +22,29 @@
 ## Contributors
 
 - Gerard de Melo
-- Francis Bond 
+- Francis Bond
 
+## Related projects
+
+- http://www.casta-net.jp/~kuribayashi/multi/
+
+See openMLWN directory for information and the OpenWordnet-PT version
+in the format used in this site.
+
+- http://nlp.lsi.upc.edu/freeling/
+
+See freeling directory for information and the OpenWordnet-PT version
+in the format used by FreeLing.
 
 ## How to cite?
 
 Vide http://arademaker.github.io/bibliography/coling2012.html
-
 
 ## How to contribute?
 
 Please use the GitHub issue tracker
 (https://github.com/arademaker/wordnet-br/issues) or clone this repo
 and make a pull request. 
-
 
 ## How the project started?
 
