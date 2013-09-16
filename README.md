@@ -1,5 +1,5 @@
 
-# Open-WordNet-PT
+# openWordnet-PT
 
 ## About the RDF conversion
 
@@ -97,7 +97,7 @@ awk -f senses.awk wn-data-por.tab > senses30.src
 
 ## License
 
-<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">OpenWN-PT</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://arademaker.github.com" property="cc:attributionName" rel="cc:attributionURL">Alexandre Rademaker</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/arademaker/wordnet-br" rel="dct:source">http://github.com/arademaker/wordnet-br</a>.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">OpenWN-PT</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://arademaker.github.com" property="cc:attributionName" rel="cc:attributionURL">Alexandre Rademaker</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/arademaker/wordnet-br" rel="dct:source">http://github.com/arademaker/openWordnet-PT</a>.</p>
 
 Also look in the file LICENSE. Note that the wordnet-en.rdf is based
 on Princeton WordNet 3.0 being only its conversion for RDF format. The
