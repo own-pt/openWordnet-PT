@@ -26,15 +26,14 @@
 
 ## Related projects
 
-- http://www.casta-net.jp/~kuribayashi/multi/
-
-See openMLWN directory for information and the OpenWordnet-PT version
-in the format used in this site.
-
-- http://nlp.lsi.upc.edu/freeling/
-
-See freeling directory for information and the OpenWordnet-PT version
-in the format used by FreeLing.
+- http://www.casta-net.jp/~kuribayashi/multi/ See openMLWN directory
+  for information and the OpenWordnet-PT version in the format used in
+  this site.
+- http://nlp.lsi.upc.edu/freeling/ See freeling directory for
+  information and the OpenWordnet-PT version in the format used by
+  FreeLing.
+- http://ontopt.dei.uc.pt Another WordNet based ontology in
+  Portuguese. It has incorporated OpenWordnet-PT.
 
 ## How to cite?
 
