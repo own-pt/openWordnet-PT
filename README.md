@@ -16,12 +16,13 @@
 
 ## Team
 
-- Alexandre Rademaker
-- Valeria de Paiva
+- [Alexandre Rademaker](http://arademaker.github.io)
+- [Valeria de Paiva](http://www.valeriadepaiva.org)
+- [Livy Real](http://livyreal.com)
+- [Gerard de Melo](http://demelo.org)
 
 ## Contributors
 
-- Gerard de Melo
 - Francis Bond
 
 ## Related projects
