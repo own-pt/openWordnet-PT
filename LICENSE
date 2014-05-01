@@ -1,14 +1,14 @@
 
 
-The OpenWN-PT is distributed in the openWordnet-PT.rdf file and licensed
-under:
+The OpenWN-PT is distributed in the openWordnet-PT.ntriples.gz file
+and licensed under:
 
 This work is licensed under the Creative Commons Attribution 4.0
 International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by/4.0/.
 
 The OpenWN-PT is constructed to be used with the Princeton WordNet 3.0
-distributed here in the RDF format in the file wordnet-en.rdf. The
-Princeton WordNet 3.0 is distributed under the license
-http://wordnet.princeton.edu/wordnet/license/.
+distributed here in the RDF format in the file
+wordnet-en.ntriples.gz. The Princeton WordNet 3.0 is distributed under
+the license http://wordnet.princeton.edu/wordnet/license/.
 

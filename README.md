@@ -9,9 +9,10 @@
   
 - Lisp code used to create the RDF files will be made available soon.
 
-- The wordnet-br.rdf is not a complete wordnet. All relations are in
-  the wordnet-en.rdf (the original Princeton WordNet 3.0).
-
+- Since we re-use the Princeton WordNet (PWN) synset identifiers we do
+  not need to repeat all the relationships already listed in
+  wordnet-en.ntriples. In the openWordnet-PT.ntriples we list simply
+  the new relations that we have added for Portuguese.
 
 ## Team
 
