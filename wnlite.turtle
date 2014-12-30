@@ -1,0 +1,314 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix wn30: <http://arademaker.github.com/wn30/schema/> .
+
+owl:Thing
+    a owl:Class .
+
+wn30:AdjectiveSatelliteSynset
+    a rdfs:Class, owl:Class ;
+    rdfs:subClassOf wn30:Synset .
+
+wn30:AdjectiveSynset
+    a rdfs:Class, owl:Class ;
+    rdfs:comment "A synset including adjective word senses."@en-us ;
+    rdfs:subClassOf wn30:Synset .
+
+wn30:AdverbSynset
+    a rdfs:Class, owl:Class ;
+    rdfs:comment "A synset including adverb word senses."@en-us ;
+    rdfs:subClassOf wn30:Synset .
+
+wn30:NounSynset
+    a rdfs:Class, owl:Class ;
+    rdfs:comment "A synset including noun word senses."@en-us ;
+    rdfs:subClassOf wn30:Synset . 
+
+wn30:Synset
+    a rdfs:Class, owl:Class ;
+    owl:disjointWith wn30:Word, wn30:WordSense .
+
+wn30:VerbSynset
+    a rdfs:Class, owl:Class ;
+    rdfs:comment "A synset including verb word senses."@en-us ;
+    rdfs:subClassOf wn30:Synset  .
+
+wn30:Word
+    a rdfs:Class, owl:Class ;
+    rdfs:subClassOf [
+        a owl:Restriction ;
+        owl:onProperty wn30:sense ;
+        owl:someValuesFrom wn30:WordSense
+    ] ;
+    owl:disjointWith wn30:WordSense .
+
+wn30:WordSense
+    a rdfs:Class, owl:Class ;
+    rdfs:subClassOf [
+        a owl:Restriction ;
+        owl:onProperty wn30:word ;
+        owl:someValuesFrom wn30:Word
+    ], [
+        a owl:Restriction ;
+        owl:allValuesFrom wn30:Word ;
+        owl:onProperty wn30:word
+    ] .
+
+wn30:adverbPertainsTo
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "It specifies an adverb word sense that pertains to the adjective second word sense."@en-us ;
+    rdfs:domain wn30:AdverbWordSense ;
+    rdfs:range wn30:AdjectiveWordSense .
+
+wn30:antonymOf
+    a rdf:Property, owl:SymmetricProperty ;
+    rdfs:comment "It specifies antonymous word senses. This is a lexical relation that holds for all syntactic categories. For each antonymous pair, both relations are listed."@en-us ;
+    rdfs:domain wn30:WordSense ;
+    rdfs:range wn30:WordSense .
+
+wn30:attribute
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "It defines the attribute relation between noun and adjective synset pairs in which the adjective is a value of the noun."@en-us ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:AdjectiveSynset ;
+    owl:inverseOf wn30:attributeOf .
+
+wn30:attributeOf
+    a owl:ObjectProperty ;
+    rdfs:domain wn30:AdjectiveSynset ;
+    rdfs:range wn30:NounSynset ;
+    owl:inverseOf wn30:attribute .
+
+wn30:causedBy
+    a owl:ObjectProperty ;
+    rdfs:comment "It specifies that the second synset is a cause of the first synset. This relation only holds for verbs."@en-us ;
+    rdfs:domain wn30:VerbSynset ;
+    rdfs:range wn30:VerbSynset .
+
+wn30:causes
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "inverse of causedBy"@en-us ;
+    owl:inverseOf wn30:causedBy .
+
+wn30:classifiedBy
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "It specifies that the first synset has been classified as a member of the class (either as topic or 'category', as region, or as usage) represented by the second (noun) synset."@en-us ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range wn30:NounSynset ;
+    owl:inverseOf wn30:classifies .
+
+wn30:classifiedByRegion
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:classifiedBy .
+
+wn30:classifiedByTopic
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:classifiedBy .
+
+wn30:classifiedByUsage
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:classifiedBy .
+
+wn30:classifies
+    a owl:ObjectProperty ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:Synset ;
+    owl:inverseOf wn30:classifiedBy .
+
+wn30:containsWordSense
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "****A relation added here to link synsets and word senses explicitly (in the WordNet db, it is implicit in the sense tag record)****"@en-us ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range wn30:WordSense ;
+    owl:inverseOf wn30:inSynset .
+
+wn30:derivationallyRelated
+    a rdf:Property, owl:SymmetricProperty ;
+    rdfs:comment """It specifies that there exists a symmetric lexical morphosemantic relation between the first and second synset terms representing derivational morphology.
+***In the WordNet database this relation extends over word senses within synsets***"""@en-us ;
+    rdfs:domain wn30:WordSense ;
+    rdfs:range wn30:WordSense .
+
+wn30:entailedBy
+    a owl:TransitiveProperty ;
+    rdfs:domain wn30:VerbSynset ;
+    rdfs:range wn30:VerbSynset ;
+    owl:inverseOf wn30:entails .
+
+wn30:entails
+    a rdf:Property, owl:TransitiveProperty ;
+    rdfs:comment """A verb X entails Y if X cannot be done unless Y is, or has been, done.
+It specifies that the second synset is an entailment of first synset. This relation only holds for verbs."""@en-us ;
+    rdfs:domain wn30:VerbSynset ;
+    rdfs:range wn30:VerbSynset ;
+    owl:inverseOf wn30:entailedBy .
+
+wn30:frame
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "It specifies a generic sentence frame for one or all words in a synset. The operator is defined only for verbs."@en-us ;
+    rdfs:domain wn30:VerbWordSense ;
+    rdfs:range rdfs:Literal .
+
+wn30:gloss
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "It specifies the gloss for a synset."@en-us ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range rdfs:Literal ;
+    rdfs:subPropertyOf rdfs:comment .
+
+wn30:holonymOf
+    a owl:ObjectProperty ;
+    rdfs:comment "It specifies that the second synset is a meronym of the first synset. This relation only holds for nouns."@en-us ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:NounSynset ;
+    owl:inverseOf wn30:meronymOf .
+
+wn30:hypernymOf
+    a owl:TransitiveProperty ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range wn30:Synset ;
+    owl:inverseOf wn30:hyponymOf .
+
+wn30:hyponymOf
+    a rdf:Property, owl:TransitiveProperty ;
+    rdfs:comment "It specifies that the second synset is a hypernym of the first synset."@en-us ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range wn30:Synset ;
+    owl:inverseOf wn30:hypernymOf .
+
+wn30:inSynset
+    a owl:ObjectProperty ;
+    rdfs:comment "A relation added here to link word senses and synsets explicitly (in WordNet, it is implicit in the sense tag record)"@en-us ;
+    rdfs:domain wn30:WordSense ;
+    rdfs:range wn30:Synset ;
+    owl:inverseOf wn30:containsWordSense .
+
+wn30:lexicalForm
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "A datatype relation between Word and its lexical form."@en-us ;
+    rdfs:domain wn30:Word ;
+    rdfs:range rdfs:Literal ;
+    rdfs:subPropertyOf rdfs:label .
+
+wn30:memberHolonymOf
+    a owl:ObjectProperty ;
+    rdfs:comment "It specifies that the second synset is a member meronym of the first synset. This relation only holds for nouns."@en-us ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:holonymOf ;
+    owl:inverseOf wn30:memberMeronymOf .
+
+wn30:memberMeronymOf
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:meronymOf ;
+    owl:inverseOf wn30:memberHolonymOf .
+
+wn30:meronymOf
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "noun/noun, e.g. nose/face"@en-us ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:NounSynset ;
+    owl:inverseOf wn30:holonymOf .
+
+wn30:partHolonymOf
+    a owl:ObjectProperty ;
+    rdfs:comment "It specifies that the second synset is a part meronym of the first synset. This relation only holds for nouns."@en-us ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:holonymOf ;
+    owl:inverseOf wn30:partMeronymOf .
+
+wn30:partMeronymOf
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:meronymOf ;
+    owl:inverseOf wn30:partHolonymOf .
+
+wn30:participle
+    a owl:ObjectProperty ;
+    rdfs:domain wn30:VerbWordSense ;
+    rdfs:range wn30:AdjectiveWordSense ;
+    owl:inverseOf wn30:participleOf .
+
+wn30:participleOf
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "It specifies that the adjective first word is a participle of the verb second word."@en-us ;
+    rdfs:domain wn30:AdjectiveWordSense ;
+    rdfs:range wn30:VerbWordSense ;
+    owl:inverseOf wn30:participle .
+
+wn30:sameVerbGroupAs
+    a rdf:Property, owl:SymmetricProperty ;
+    rdfs:comment "It specifies verb synsets that are similar in meaning and should be grouped together when displayed in response to a grouped synset search."@en-us ;
+    rdfs:domain wn30:VerbSynset ;
+    rdfs:range wn30:VerbSynset .
+
+wn30:seeAlso
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "It specifies that additional information about the first word can be obtained by seeing the second word. This operator is only defined for verbs and adjectives. There is no symmetric relation (ie. it cannot be inferred that the additional information about the second word can be obtained from the first word)."@en-us ;
+    rdfs:domain [
+        a owl:Class ;
+        owl:unionOf (wn30:AdjectiveWordSense wn30:VerbWordSense)
+    ] ;
+    rdfs:range [
+        a owl:Class ;
+        owl:unionOf (wn30:VerbWordSense wn30:AdjectiveWordSense)
+    ] .
+
+
+wn30:similarTo
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "It specifies that the second synset is similar in meaning to the first synset. This means that the second synset is a satellite of the first synset, which is the cluster head. This relation only holds for adjective synsets contained in adjective clusters."@en-us ;
+    rdfs:domain wn30:AdjectiveSynset ;
+    rdfs:range wn30:AdjectiveSynset .
+
+wn30:substanceHolonymOf
+    a owl:ObjectProperty ;
+    rdfs:comment "It specifies that the second synset is a substance meronym of the first synset. This relation only holds for nouns."@en-us ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:holonymOf ;
+    owl:inverseOf wn30:substanceMeronymOf .
+
+wn30:substanceMeronymOf
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:domain wn30:NounSynset ;
+    rdfs:range wn30:NounSynset ;
+    rdfs:subPropertyOf wn30:meronymOf ;
+    owl:inverseOf wn30:substanceHolonymOf .
+
+wn30:synsetId
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "A datatype relation between synsets and their integer identifiers."@en-us ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range xsd:nonNegativeInteger .
+
+wn30:tagCount
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "A datatype relation between word senses and their tags within synsets."@en-us ;
+    rdfs:domain wn30:WordSense ;
+    rdfs:range xsd:nonNegativeInteger .
+
+wn30:sense
+    a owl:ObjectProperty ;
+    rdfs:domain wn30:Word ;
+    rdfs:range wn30:WordSense ;
+    owl:inverseOf wn30:word .
+
+wn30:word
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:domain wn30:WordSense ;
+    rdfs:range wn30:Word ;
+    owl:inverseOf wn30:sense .
+
