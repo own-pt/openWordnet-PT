@@ -23,7 +23,7 @@
 
 ## Contributors
 
-- Francis Bond
+- [Francis Bond](http://www3.ntu.edu.sg/home/fcbond/)
 
 ## Related projects
 
@@ -35,7 +35,7 @@
   information and the OpenWordnet-PT version in the format used by
   FreeLing.
 
-- http://ontopt.dei.uc.pt Another WordNet based ontology in
+- http://ontopt.dei.uc.pt Another WordNet-like ontology in
   Portuguese. It has incorporated OpenWordnet-PT.
 
 ## How to cite?
