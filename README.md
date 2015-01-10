@@ -1,5 +1,8 @@
 # openWordnet-PT
 
+See the browsing and searching interface
+[here](http://logics.emap.fgv.br/wn/).
+
 ## About the RDF conversion
 
 - Based on http://www.w3.org/TR/wordnet-rdf/ and
