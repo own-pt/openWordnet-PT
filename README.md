@@ -19,11 +19,14 @@
 - [Alexandre Rademaker](http://arademaker.github.io)
 - [Valeria de Paiva](http://www.valeriadepaiva.org)
 - [Livy Real](http://livyreal.com)
-- [Gerard de Melo](http://demelo.org)
+- [Claudia Freitas](http://goo.gl/018pZs)
 
 ## Contributors
 
 - [Francis Bond](http://www3.ntu.edu.sg/home/fcbond/)
+- Fabricio Chalub
+- [Gerard de Melo](http://demelo.org)
+
 
 ## Related projects
 
