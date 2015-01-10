@@ -26,6 +26,7 @@
 - [Francis Bond](http://www3.ntu.edu.sg/home/fcbond/)
 - Fabricio Chalub
 - [Gerard de Melo](http://demelo.org)
+- [Hugo Gonçalo Oliveira](https://eden.dei.uc.pt/~hroliv/)
 
 
 ## Related projects
