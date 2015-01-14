@@ -1,0 +1,13 @@
+
+* Jan 11, 2015
+
+- Added 2 instances of skos:ConceptScheme (Wordnet 3.0 Princeton and
+  openWordnet-PT). Connected all synsets for one of those
+  ConceptSchemes.
+
+- I moved the information of BaseConcept from the instances in
+  openWordnet-PT to WN.Pr.
+
+- I removed 444 wrong tuples with instances of WordSense connected to
+  WN.Pr ConceptScheme (above) using skos:inScheme.
+
