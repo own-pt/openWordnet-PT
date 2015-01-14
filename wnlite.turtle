@@ -2,7 +2,22 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
 @prefix wn30: <http://arademaker.github.com/wn30/schema/> .
+@prefix wn30pt: <http://arademaker.github.com/wn30-br/instances/> .
+@prefix wn30en: <http://arademaker.github.com/wn30/instances/> .
+
+
+<http://logics.emap.fgv.br/wn/> rdf:type skos:ConceptScheme ;
+  dc:title "Brazilian Portuguese Wordnet" .
+  
+<http://wordnet.princeton.edu/> rdf:type skos:ConceptScheme ;
+  dc:title "Princeton Wordnet 3.0" .
+
+
 
 owl:Thing
     a owl:Class .
