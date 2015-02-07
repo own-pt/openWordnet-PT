@@ -43,7 +43,10 @@ See the browsing and searching interface
   FreeLing.
 
 - http://ontopt.dei.uc.pt Another WordNet-like ontology in
-  Portuguese. It has incorporated OpenWordnet-PT.
+Portuguese. It has incorporated OpenWordnet-PT.
+
+- http://github.com/fcbr/cl-wnbrowser/ a browser and search interface
+  for our wordnet powered by Common Lisp and Apache Solr.
 
 ## How to cite?
 
