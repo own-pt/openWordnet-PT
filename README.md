@@ -8,7 +8,7 @@
   available for your preferable programming language.
 
 - You can query the data using our
-  [SPARQL Endpoint](http://logics.emap.fgv.br:10035/repositories/wn30).
+  [SPARQL Endpoint](http://wnpt.brlcloud.com:10035/repositories/wn30).
 
 ## About the RDF 
 
@@ -18,30 +18,30 @@
   the database files. More properties and classes are included.
   
 - Lisp code used to create the RDF files is
-  [available](https://github.com/arademaker/wordnet2rdf).
+  [available](https://github.com/own-pt/wordnet2rdf).
 
 - Since we re-use the Princeton WordNet (PWN) synset identifiers we do
   not need to repeat all the relationships already listed in
-  wordnet-en.ntriples. In the openWordnet-PT.ntriples we list simply
-  the new relations that we have added for Portuguese.
+  wordnet-en.nt.gz. In the own-pt.nt.gz we list simply the new
+  relations that we have added for Portuguese.
 
 ## Team
 
 - [Alexandre Rademaker](http://arademaker.github.io)
+- [Fabricio Chalub](http://github.com/fcbr/)
 - [Valeria de Paiva](http://www.valeriadepaiva.org)
 - [Livy Real](http://livyreal.com)
-- [Claudia Freitas](http://goo.gl/018pZs)
 
 ## Contributors
 
+- [Claudia Freitas](http://goo.gl/018pZs)
 - [Francis Bond](http://www3.ntu.edu.sg/home/fcbond/)
-- [Fabricio Chalub](http://github.com/fcbr/)
 - [Gerard de Melo](http://demelo.org)
 - [Hugo Gonçalo Oliveira](https://eden.dei.uc.pt/~hroliv/)
 
 ## Related projects
 
-- http://github.com/fcbr/cl-wnbrowser/ a browser and search interface
+- http://github.com/own-pt/cl-wnbrowser/ a browser and search interface
   for our wordnet powered by Common Lisp and Apache Solr.
 
 - http://compling.hss.ntu.edu.sg/omw/ a browser and search interface
