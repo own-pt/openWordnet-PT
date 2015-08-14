@@ -2,7 +2,7 @@
 # How to use it?
 
 - You can browse or search the data in our
-  [web interface](http://logics.emap.fgv.br/wn/).
+  [web interface](http://wnpt.brlcloud.com/wn/).
 
 - You can download the RDF files and load it with any RDF library
   available for your preferable programming language.
