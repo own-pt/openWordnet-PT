@@ -139,13 +139,7 @@ wn30:NounWordSense
 
 wn30:Synset
     a rdfs:Class, owl:Class ;
-    rdfs:comment """A synonym set; a set of words that are interchangeable in some context.
-
-******************************
-Word and WordSenses are distinguished in this datamodel for two reasons:
-1) WordNet uses the distinction in the database, and several relations are defined for WordSenses rather than for Synsets.
-2) For the sake of ontological clarity, here it is assumed that Synsets include word senses, in order to partition the logical space of the lexicon (words as forms, which belong to different natural language lexica, words as meanings, which also can be peculiar to different natural languages, but usually exist in several of them, and synsets, which cluster word senses by abstracting out their distributional context.
-******************************"""@en-us ;
+    rdfs:comment "A synonym set; a set of words that are interchangeable in some context. Word and WordSenses are distinguished in this datamodel for two reasons: 1) WordNet uses the distinction in the database, and several relations are defined for WordSenses rather than for Synsets; 2) For the sake of ontological clarity, here it is assumed that Synsets include word senses, in order to partition the logical space of the lexicon (words as forms, which belong to different natural language lexica, words as meanings, which also can be peculiar to different natural languages, but usually exist in several of them, and synsets, which cluster word senses by abstracting out their distributional context."@en-us ;
     rdfs:subClassOf owl:Thing, [
         a owl:Restriction ;
         owl:onProperty wn30:containsWordSense ;
@@ -185,8 +179,7 @@ wn30:VerbWordSense
 
 wn30:Word
     a rdfs:Class, owl:Class ;
-    rdfs:comment """Any word or composed term (collocation) deputed to have a sense in WordNet.
-****For the sake of ontological clarity, here it is assumed that synsets include word senses, in order to partition the logical space of the lexicon (words as forms, which belong to different natural language lexica, words as meanings, which also can be peculiar to different natural languages, but usually exist in several of them, and synsets, which cluster word senses by abstracting out their distributional context.****"""@en-us ;
+    rdfs:comment "Any word or composed term (collocation) deputed to have a sense in WordNet. For the sake of ontological clarity, here it is assumed that synsets include word senses, in order to partition the logical space of the lexicon (words as forms, which belong to different natural language lexica, words as meanings, which also can be peculiar to different natural languages, but usually exist in several of them, and synsets, which cluster word senses by abstracting out their distributional context."@en-us ;
     rdfs:subClassOf [
         a owl:Restriction ;
         owl:onProperty wn30:sense ;
@@ -398,15 +391,14 @@ wn30:classifiedByUsage
 
 wn30:containsWordSense
     a rdf:Property, owl:ObjectProperty ;
-    rdfs:comment "****A relation added here to link synsets and word senses explicitly (in the WordNet db, it is implicit in the sense tag record)****"@en-us ;
+    rdfs:comment "A relation added here to link synsets and word senses explicitly (in the WordNet db, it is implicit in the sense tag record)"@en-us ;
     rdfs:domain wn30:Synset ;
     rdfs:range wn30:WordSense ;
     owl:inverseOf wn30:inSynset .
 
 wn30:derivationallyRelated
     a rdf:Property, owl:SymmetricProperty ;
-    rdfs:comment """It specifies that there exists a symmetric lexical morphosemantic relation between the first and second synset terms representing derivational morphology.
-***In the WordNet database this relation extends over word senses within synsets***"""@en-us ;
+    rdfs:comment "It specifies that there exists a symmetric lexical morphosemantic relation between the first and second synset terms representing derivational morphology. In the WordNet database this relation extends over word senses within synsets"@en-us ;
     rdfs:domain wn30:WordSense ;
     rdfs:range wn30:WordSense .
 
@@ -632,7 +624,18 @@ wn30:word
     owl:inverseOf wn30:sense .
 
 nomlex:Nomlex
-    a rdfs:Class, owl:Class .
+    a rdfs:Class, owl:Class ;
+    rdfs:subClassOf [
+        a owl:Restriction ;
+	owl:onProperty wn30:verb ;
+        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+        owl:onClass wn30:Word  
+    ], [
+        a owl:Restriction ;
+	owl:onProperty wn30:noun;
+	owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+	owl:onClass wn30:Word 
+    ] .
 
 nomlex:verb
     a rdf:Property, owl:ObjectProperty ;
