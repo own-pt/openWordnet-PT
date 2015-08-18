@@ -209,12 +209,16 @@ Word and WordSenses are distinguished in this datamodel for two reasons:
         owl:onProperty wn30:inSynset
     ], [
         a owl:Restriction ;
-        owl:onProperty wn30:word ;
+	        owl:onProperty wn30:word ;
         owl:someValuesFrom wn30:Word
     ], [
         a owl:Restriction ;
         owl:allValuesFrom wn30:Word ;
         owl:onProperty wn30:word
+    ], [
+        a owl:Restriction ;
+        owl:cardinality "1"^^xsd:nonNegativeInteger ;
+        owl:onProperty wn30:word 
     ] .
 
 wn30:adverbPertainsTo
