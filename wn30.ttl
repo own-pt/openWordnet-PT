@@ -196,29 +196,17 @@ wn30:Word
 
 wn30:WordSense
     a rdfs:Class, owl:Class ;
-    rdfs:comment """A meaning of a word in WordNet. Each sense of a word is in a different synset. Each word sense is contained in exactly one synset.
-
-******************************
-Word and WordSenses are distinguished in this datamodel for two reasons:
-1) WordNet uses the distinction in the database, and several relations are defined for WordSenses rather than for Synsets.
-2) For the sake of ontological clarity, here it is assumed that synsets include word senses, in order to partition the logical space of the lexicon (words as forms, which belong to different natural language lexica, words as meanings, which also can be peculiar to different natural languages, but usually exist in several of them, and synsets, which cluster word senses by abstracting out their distributional context.
-******************************"""@en-us ;
+    rdfs:comment "A meaning of a word in WordNet. Each sense of a word is in a different synset. Each word sense is contained in exactly one synset. Word and WordSenses are distinguished in this datamodel for two reasons: 1) WordNet uses the distinction in the database, and several relations are defined for WordSenses rather than for Synsets. 2) For the sake of ontological clarity, here it is assumed that synsets include word senses, in order to partition the logical space of the lexicon (words as forms, which belong to different natural language lexica, words as meanings, which also can be peculiar to different natural languages, but usually exist in several of them, and synsets, which cluster word senses by abstracting out their distributional context."@en-us ;
     rdfs:subClassOf [
         a owl:Restriction ;
-        owl:cardinality "1"^^xsd:nonNegativeInteger ;
-        owl:onProperty wn30:inSynset
+	owl:onProperty wn30:inSynset ;
+        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+        owl:onClass wn30:Synset 
     ], [
         a owl:Restriction ;
-	        owl:onProperty wn30:word ;
-        owl:someValuesFrom wn30:Word
-    ], [
-        a owl:Restriction ;
-        owl:allValuesFrom wn30:Word ;
-        owl:onProperty wn30:word
-    ], [
-        a owl:Restriction ;
-        owl:cardinality "1"^^xsd:nonNegativeInteger ;
-        owl:onProperty wn30:word 
+	owl:onProperty wn30:word;
+	owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+	owl:onClass wn30:Word 
     ] .
 
 wn30:adverbPertainsTo
