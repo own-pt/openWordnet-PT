@@ -184,6 +184,11 @@ wn30:Word
         a owl:Restriction ;
         owl:onProperty wn30:sense ;
         owl:someValuesFrom wn30:WordSense
+    ], [
+        a owl:Restriction ;
+	owl:onProperty wn30:lexicalForm ;
+        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+        owl:onDataRange rdfs:Literal
     ] ;
     owl:disjointWith wn30:WordSense .
 
@@ -241,8 +246,6 @@ wn30:causes
 
 wn30:classifies
     a owl:ObjectProperty ;
-#   rdfs:domain wn30:NounSynset ;
-#   rdfs:range wn30:Synset ;
     owl:inverseOf wn30:classifiedBy ;
     rdfs:domain [
         a owl:Class ;
@@ -259,8 +262,6 @@ wn30:classifies
 
 wn30:classifiesByRegion
     a rdf:Property, owl:ObjectProperty ;
-#   rdfs:domain wn30:NounSynset ;
-#   rdfs:range wn30:Synset ;
     rdfs:subPropertyOf wn30:classifies ;    
     owl:inverseOf wn30:classifiedByRegion ;
     rdfs:domain [
@@ -278,8 +279,6 @@ wn30:classifiesByRegion
 
 wn30:classifiesByTopic
     a rdf:Property, owl:ObjectProperty ;
-#   rdfs:domain wn30:NounSynset ;
-#   rdfs:range wn30:Synset ;
     rdfs:subPropertyOf wn30:classifies ;
     owl:inverseOf wn30:classifiedByTopic ;
     rdfs:domain [
@@ -298,8 +297,6 @@ wn30:classifiesByTopic
 
 wn30:classifiesByUsage
     a rdf:Property, owl:ObjectProperty ;
-#   rdfs:domain wn30:NounSynset ;
-#   rdfs:range wn30:Synset ;
     rdfs:subPropertyOf wn30:classifies ;    
     owl:inverseOf wn30:classifiedByUsage ;
     rdfs:domain [
@@ -319,8 +316,6 @@ wn30:classifiesByUsage
 wn30:classifiedBy
     a rdf:Property, owl:ObjectProperty ;
     rdfs:comment "It specifies that the first synset has been classified as a member of the class (either as topic or 'category', as region, or as usage) represented by the second (noun) synset."@en-us ;
-#   rdfs:domain wn30:Synset ;
-#   rdfs:range wn30:NounSynset ;
     owl:inverseOf wn30:classifies ;
     rdfs:range [
         a owl:Class ;
@@ -337,8 +332,6 @@ wn30:classifiedBy
 
 wn30:classifiedByRegion
     a rdf:Property, owl:ObjectProperty ;
-#   rdfs:domain wn30:Synset ;
-#   rdfs:range wn30:NounSynset ;
     rdfs:subPropertyOf wn30:classifiedBy ;
     rdfs:range [
         a owl:Class ;
@@ -355,8 +348,6 @@ wn30:classifiedByRegion
 
 wn30:classifiedByTopic
     a rdf:Property, owl:ObjectProperty ;
-#   rdfs:domain wn30:Synset ;
-#   rdfs:range wn30:NounSynset ;
     rdfs:subPropertyOf wn30:classifiedBy ;
     rdfs:range [
         a owl:Class ;
@@ -373,8 +364,6 @@ wn30:classifiedByTopic
 
 wn30:classifiedByUsage
     a rdf:Property, owl:ObjectProperty ;
-#   rdfs:domain wn30:Synset ;
-#   rdfs:range wn30:NounSynset ;
     rdfs:subPropertyOf wn30:classifiedBy ;
     rdfs:range [
         a owl:Class ;
@@ -428,7 +417,6 @@ wn30:frame
         )
     ] .
 
-
 wn30:gloss
     a rdf:Property, owl:DatatypeProperty ;
     rdfs:comment "It specifies the gloss for a synset."@en-us ;
@@ -476,11 +464,10 @@ wn30:inSynset
     owl:inverseOf wn30:containsWordSense .
 
 wn30:lexicalForm
-    a rdf:Property, owl:DatatypeProperty ;
+    a rdf:Property, owl:DatatypeProperty;
     rdfs:comment "A datatype relation between Word and its lexical form."@en-us ;
     rdfs:domain wn30:Word ;
-    rdfs:range rdfs:Literal ;
-    rdfs:subPropertyOf rdfs:label .
+    rdfs:range rdfs:Literal .
 
 wn30:memberHolonymOf
     a owl:ObjectProperty ;
@@ -498,22 +485,13 @@ wn30:memberMeronymOf
     owl:inverseOf wn30:memberHolonymOf .
 
 wn30:adjectivePertainsTo
-	a rdf:Property ,
-	  owl:ObjectProperty ;
-	rdfs:comment "It specifies an adjective word sense that pertains to either the noun or adjective second word sense."@en ;
-	rdfs:domain wn30:AdjectiveWordSense ;
-	rdfs:range [ a owl:Class ;
-		     owl:unionOf ( wn30:NounWordSense
-				   wn30:AdjectiveWordSense
-				 )
-		   ] .
-
-#wn30:adjectivePertainsTo
-#    a rdf:Property, owl:ObjectProperty ;
-#    rdfs:domain wn30:WordSense ;
-#    rdfs:range wn30:WordSense ;
-#    rdfs:subPropertyOf wn30:meronymOf ;
-#    owl:inverseOf wn30:memberHolonymOf .
+    a rdf:Property , owl:ObjectProperty ;
+    rdfs:comment "It specifies an adjective word sense that pertains to either the noun or adjective second word sense."@en ;
+    rdfs:domain wn30:AdjectiveWordSense ;
+    rdfs:range [ a owl:Class ;
+    		 owl:unionOf ( wn30:NounWordSense
+		 	       wn30:AdjectiveWordSense
+			     ) ] .
 
 wn30:meronymOf
     a rdf:Property, owl:ObjectProperty ;
@@ -625,14 +603,14 @@ wn30:word
 
 nomlex:Nomlex
     a rdfs:Class, owl:Class ;
-    rdfs:subClassOf [
+    rdfs:subClassOf owl:Thing, [
         a owl:Restriction ;
-	owl:onProperty wn30:verb ;
+	owl:onProperty nomlex:verb ;
         owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
         owl:onClass wn30:Word  
     ], [
         a owl:Restriction ;
-	owl:onProperty wn30:noun;
+	owl:onProperty nomlex:noun;
 	owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
 	owl:onClass wn30:Word 
     ] .
@@ -646,3 +624,5 @@ nomlex:noun
     a rdf:Property, owl:ObjectProperty ;
     rdfs:domain nomlex:Nomlex ;
     rdfs:range wn30:Word .
+
+
