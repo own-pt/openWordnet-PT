@@ -62,8 +62,9 @@ Vide http://arademaker.github.io/bibliography/coling2012.html
 ## How to contribute?
 
 Please use the GitHub issue tracker
-(https://github.com/arademaker/wordnet-br/issues) or clone this repo
-and make a pull request. 
+(https://github.com/arademaker/wordnet-br/issues) or use the
+[web interface](http://wnpt.brlcloud.com/wn/) for make suggestions in
+the data.
 
 ## How the project started?
 
