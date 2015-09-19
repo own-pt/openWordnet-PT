@@ -431,12 +431,6 @@ wn30:holonymOf
     rdfs:range wn30:NounSynset ;
     owl:inverseOf wn30:meronymOf .
 
-wn30:hypernymOf
-    a owl:TransitiveProperty ;
-    rdfs:domain wn30:Synset ;
-    rdfs:range wn30:Synset ;
-    owl:inverseOf wn30:hyponymOf .
-
 wn30:hasInstance
     a rdf:Property, owl:ObjectProperty ;
     rdfs:domain wn30:Synset ;
@@ -449,9 +443,16 @@ wn30:instanceOf
     rdfs:range wn30:Synset ;
     owl:inverseOf wn30:hasInstance .
 
+wn30:hypernymOf
+    a rdf:Property, owl:TransitiveProperty ;
+    a owl:AntisymmetricProperty, owl:IrreflexiveProperty ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range wn30:Synset ;
+    owl:inverseOf wn30:hyponymOf .
+
 wn30:hyponymOf
     a rdf:Property, owl:TransitiveProperty ;
-    rdfs:comment "It specifies that the second synset is a hypernym of the first synset."@en-us ;
+    a owl:AntisymmetricProperty, owl:IrreflexiveProperty ;
     rdfs:domain wn30:Synset ;
     rdfs:range wn30:Synset ;
     owl:inverseOf wn30:hypernymOf .
