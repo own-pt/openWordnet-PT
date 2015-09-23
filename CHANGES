@@ -20,3 +20,7 @@
 
 - New wn30.turtle with definitions of classes and properties.
 
+* Sep 19, 2015
+
+- Properties wn30:hypernymOf and wn30:hyponymOf were declared
+  owl:IrreflexiveProperty and owl:AntisymmetricProperty.
