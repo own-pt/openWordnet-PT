@@ -1,9 +1,9 @@
 
 # Converting to Open Multilingual Wordnet
 
-The site http://www.casta-net.jp/~kuribayashi/multi/ by Francis Bond
-has its own input format. Here are the script to generate the
-wn-data-por.tab that can be submitted to Open Multilingual Wordnet.
+The site http://compling.hss.ntu.edu.sg/omw/ by Francis Bond has its
+own input format. Here are the script to generate the wn-data-por.tab
+that can be submitted to Open Multilingual Wordnet.
 
 1. Execute and export as csv file the result of the SPARQL 1.1 query:
 
