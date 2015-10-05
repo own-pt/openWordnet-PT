@@ -1,0 +1,56 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wn30: <https://w3id.org/own-pt/wn30/schema/> .
+@prefix nomlex: <https://w3id.org/own-pt/nomlex/schema/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+nomlex:morphosemanticLink
+    rdfs:domain wn30:WordSense ;
+    rdfs:range wn30:WordSense ;
+    a rdf:Property, owl:ObjectProperty .
+
+nomlex:agent
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:bodyPart
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:byMeansOf
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:destination
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:event
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:instrument
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:location
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:material
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:property
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:relation
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:result
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:state
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:undergoer
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:uses
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:vehicle
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
