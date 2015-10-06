@@ -626,4 +626,52 @@ nomlex:noun
     rdfs:domain nomlex:Nomlex ;
     rdfs:range wn30:Word .
 
+nomlex:morphosemanticLink
+    rdfs:domain wn30:WordSense ;
+    rdfs:range wn30:WordSense ;
+    a rdf:Property, owl:ObjectProperty .
 
+nomlex:agent
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:bodyPart
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:byMeansOf
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:destination
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:event
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:instrument
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:location
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:material
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:property
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:relation
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:result
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:state
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:undergoer
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:uses
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
+
+nomlex:vehicle
+    rdfs:subPropertyOf nomlex:morphosemanticLink .
