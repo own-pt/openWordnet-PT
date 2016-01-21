@@ -24,3 +24,15 @@
 
 - Properties wn30:hypernymOf and wn30:hyponymOf were declared
   owl:IrreflexiveProperty and owl:AntisymmetricProperty.
+
+* Oct 2, 2015
+
+- Fixed the gloss of 03150897-a with 'having a mound formed over it'
+
+
+* Oct 5, 2015
+
+- We made the hypernym of 02423762-v be 00612841-v. Given Francis Bond
+  answer for the loop problem in the origina data (02423762-v ->
+  02422663-v -> 02423762-v).
+
