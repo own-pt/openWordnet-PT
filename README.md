@@ -63,7 +63,7 @@ Vide http://arademaker.github.io/bibliography/coling2012.html
 
 Please use the GitHub issue tracker
 (https://github.com/arademaker/wordnet-br/issues) or use the
-[web interface](http://wnpt.brlcloud.com/wn/) for make suggestions in
+[web interface](http://wnpt.brlcloud.com/wn/) to make suggestions about
 the data.
 
 ## How the project started?
