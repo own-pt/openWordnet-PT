@@ -213,6 +213,9 @@ wn30:adverbPertainsTo
     rdfs:domain wn30:AdverbWordSense ;
     rdfs:range wn30:AdjectiveWordSense .
 
+
+# Fellbaum: antonymy, unlike synonymy, is not a gradable relation, so
+# far as I know.
 wn30:antonymOf
     a rdf:Property, owl:SymmetricProperty ;
     rdfs:comment "It specifies antonymous word senses. This is a lexical relation that holds for all syntactic categories. For each antonymous pair, both relations are listed."@en-us ;
@@ -424,12 +427,21 @@ wn30:gloss
     rdfs:range rdfs:Literal ;
     rdfs:subPropertyOf rdfs:comment .
 
+#  Did I already mention that we must be careful to maintain
+#  UNIdirectionality with holonyms/meronyms?  E.g., a car necessarily
+#  has wheels, but a wheel isn't necessarily a part of a car. So this
+#  is a unidirectional relation.
+# There are other cases, of course, where the relationship is (under
+# reasonable assumptions) reversible, such as "face-nose."  And then
+# there are what I call (for lack of a better term) "optional body
+# parts" such as pates, tumors and fetuses. I never knew what to do
+# with those, and they can be further subcategorized (sigh).
+
 wn30:holonymOf
     a owl:ObjectProperty ;
     rdfs:comment "It specifies that the second synset is a meronym of the first synset. This relation only holds for nouns."@en-us ;
     rdfs:domain wn30:NounSynset ;
-    rdfs:range wn30:NounSynset ;
-    owl:inverseOf wn30:meronymOf .
+    rdfs:range wn30:NounSynset .
 
 wn30:hasInstance
     a rdf:Property, owl:ObjectProperty ;
