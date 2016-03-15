@@ -427,6 +427,13 @@ wn30:gloss
     rdfs:range rdfs:Literal ;
     rdfs:subPropertyOf rdfs:comment .
 
+wn30:example
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "It specifies the example for a synset."@en-us ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range rdfs:Literal ;
+    rdfs:subPropertyOf rdfs:comment .
+
 #  Did I already mention that we must be careful to maintain
 #  UNIdirectionality with holonyms/meronyms?  E.g., a car necessarily
 #  has wheels, but a wheel isn't necessarily a part of a car. So this
