@@ -415,9 +415,7 @@ wn30:frame
     rdfs:range rdfs:Literal ;
     rdfs:domain [
         a owl:Class ;
-        owl:unionOf (wn30:VerbWordSense
-            wn30:VerbSynset
-        )
+        owl:unionOf (wn30:VerbWordSense wn30:VerbSynset)
     ] .
 
 wn30:gloss
@@ -427,10 +425,19 @@ wn30:gloss
     rdfs:range rdfs:Literal ;
     rdfs:subPropertyOf rdfs:comment .
 
+wn30:lexicographerFile
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "It specifies the synset's lexicography file."@en-us ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range rdfs:Literal .
+
 wn30:example
     a rdf:Property, owl:DatatypeProperty ;
     rdfs:comment "It specifies the example for a synset."@en-us ;
-    rdfs:domain wn30:Synset ;
+    rdfs:domain [
+        a owl:Class ;
+        owl:unionOf (wn30:Synset wn30:WordSense)
+    ] ;
     rdfs:range rdfs:Literal ;
     rdfs:subPropertyOf rdfs:comment .
 
