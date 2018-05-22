@@ -40,6 +40,8 @@
 - [Francis Bond](http://www3.ntu.edu.sg/home/fcbond/)
 - [Gerard de Melo](http://gerard.demelo.org/)
 - [Hugo Gonçalo Oliveira](https://eden.dei.uc.pt/~hroliv/)
+- [Alberto Simoes] (http://ambs.perl-hackers.net/en/me.html)
+
 
 ## Related projects
 
