@@ -1,5 +1,5 @@
 
-# OpenWordnet-PT: An Open Brazilian Wordnet
+# OpenWordnet-PT: An Open Access Wordnet for Portuguese
 
 ## How to use it?
 
