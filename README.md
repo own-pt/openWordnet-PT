@@ -30,17 +30,17 @@
 ## Team
 
 - [Alexandre Rademaker](http://arademaker.github.io)
-- [Fabricio Chalub](http://github.com/fcbr/)
 - [Valeria de Paiva](http://www.valeriadepaiva.org)
 - [Livy Real](http://livyreal.com)
 
 ## Contributors
 
+- [Alberto Simoes](http://ambs.perl-hackers.net/en/me.html)
 - [Claudia Freitas](http://www.letras.puc-rio.br/br/docente/3/claudia-freitas)
+- [Fabricio Chalub](http://github.com/fcbr/)
 - [Francis Bond](http://www3.ntu.edu.sg/home/fcbond/)
 - [Gerard de Melo](http://gerard.demelo.org/)
 - [Hugo Gonçalo Oliveira](https://eden.dei.uc.pt/~hroliv/)
-- [Alberto Simoes](http://ambs.perl-hackers.net/en/me.html)
 
 
 ## Related projects
