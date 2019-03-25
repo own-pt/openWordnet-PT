@@ -5,7 +5,7 @@ The site http://compling.hss.ntu.edu.sg/omw/ by Francis Bond has its
 own input format. Here are the script to generate the wn-data-por.tab
 that can be submitted to Open Multilingual Wordnet.
 
-1. Execute and export as csv file the result of the [SPARQL 1.1 query](http://wnpt.brlcloud.com:10035/#/repositories/wn30/query/d/select%20?s%20?w%20%7B%0A%20%20graph%20source:own-pt.nt%20%7B%0A%20%20%20%20%20%20?ss%20wn30:containsWordSense/wn30:word/wn30:lexicalForm%20?w%20;%0A%20%20%20%20%20%20%20%20%20%20wn30:synsetId%20?id%20.%0A%20%20%7D%0A%20%20BIND%20(str(?ss)%20as%20?s)%0A%7D%0Aorder%20by%20?s):
+1. Execute and export as csv file the result of the [SPARQL 1.1 query](http://wnpt.sl.res.ibm.com:10035/#/repositories/wn30/query/d/select%20?s%20?w%20{%0A%20%20graph%20source:own-pt.nt%20{%0A%20%20%20%20%20%20?ss%20wn30:containsWordSense/wn30:word/wn30:lexicalForm%20?w%20;%0A%20%20%20%20%20%20%20%20%20%20wn30:synsetId%20?id%20.%0A%20%20}%0A%20%20BIND%20(str(?ss)%20as%20?s)%0A}%0Aorder%20by%20?s):
 
 ```
 select ?s ?w {

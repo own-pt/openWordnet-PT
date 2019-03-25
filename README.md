@@ -1,16 +1,16 @@
 
-# OpenWordnet-PT: An Open Brazilian Wordnet
+# OpenWordnet-PT: An Open Access Wordnet for Portuguese
 
 ## How to use it?
 
 - You can browse or search the data in our
-  [web interface](http://wnpt.brlcloud.com/wn/).
+  [web interface](http://openwordnet-pt.org).
 
 - You can download the RDF files and load it with any RDF library
   available for your preferable programming language.
 
 - You can query the data using our
-  [SPARQL Endpoint](http://wnpt.brlcloud.com:10035/repositories/wn30).
+  [SPARQL Endpoint](http://wnpt.sl.res.ibm.com:10035/#/repositories/wn30/).
 
 ## About the RDF 
 
