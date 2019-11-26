@@ -1,0 +1,29 @@
+# -*- mode: org -*-
+
+* Mapping between PWN 3.0 PWN 3.1 and CILI 
+
+Obtained from
+https://github.com/globalwordnet/ili/commit/957b1d1adebf4fdca4cfce60e5b72a86fa3f2bdf
+
+Joined using:
+
+#+BEGIN_SRC sh
+sort -k 1b,1 ili-map-pwn30.tab > ili-map-pwn30-sorted.tab
+sort -k 1b,1 ili-map-pwn31.tab  > ili-map-pwn31-sorted.tab
+join -o auto -t'   ' -a1 -a2 --check-order ili-map-pwn30-sorted.tab ili-map-pwn31-sorted.tab > ili-pwn30-pwn31-map.tsv
+#+END_SRC
+
+The file has three tab-separated columns: the first is the synset's
+Collaborative Interlingual Index (CILI/ILI), the second is the synset
+ID from PWN 3.0, and the third is the synset ID from PWN 3.1. Note
+that synsets present in PWN3.0 but not in PWN3.1 are in the mapping
+file, but those present in PWN3.1 but not in PWN3.0 are missing
+(because they appear to have no CILI.)
+
+See
+https://github.com/globalwordnet/ili/blob/b553727092a1d079b07d8175ee00a0d42d940795/changes-in-wn31.csv
+for a summary of the changes from PWN3.0 to PWN3.1.
+
+Thanks to John McCrae and Francis Bond for the data, which is licensed
+as per
+https://github.com/globalwordnet/ili/blob/b553727092a1d079b07d8175ee00a0d42d940795/LICENSE.
