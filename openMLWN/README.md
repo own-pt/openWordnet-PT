@@ -26,3 +26,8 @@ awk -f convert.awk query.csv > wn-data-por.tab
 
 3. Remove the second line of the file created in the previous step.
 
+# Data from OMW (Francis)
+
+The wn-wikt-por.tab and the wn-multi-ext.pdf article explaining how OMW used Wikidictionary to expand WNs (plus evaluation).
+
+

@@ -47,9 +47,11 @@ wn30:AdjectiveSatelliteWordSense
         owl:onProperty wn30:inSynset
     ] .
 
+
 wn30:AdjectiveSynset
     a rdfs:Class, owl:Class ;
     rdfs:comment "A synset including adjective word senses."@en-us ;
+    wn30:suffixCode "a" ;
     rdfs:subClassOf wn30:Synset, [
         a owl:Restriction ;
         owl:allValuesFrom wn30:AdjectiveWordSense ;
@@ -77,8 +79,10 @@ wn30:AdjectiveWordSense
         owl:onProperty wn30:inSynset
     ] .
 
+
 wn30:AdverbSynset
     a rdfs:Class, owl:Class ;
+    wn30:suffixCode "r" ;
     rdfs:comment "A synset including adverb word senses."@en-us ;
     rdfs:subClassOf wn30:Synset, [
         a owl:Restriction ;
@@ -107,8 +111,10 @@ wn30:AdverbWordSense
         owl:onProperty wn30:inSynset
     ] .
 
+
 wn30:NounSynset
     a rdfs:Class, owl:Class ;
+    wn30:suffixCode "n" ;
     rdfs:comment "A synset including noun word senses."@en-us ;
     rdfs:subClassOf wn30:Synset, [
         a owl:Restriction ;
@@ -150,6 +156,7 @@ wn30:Synset
 wn30:VerbSynset
     a rdfs:Class, owl:Class ;
     rdfs:comment "A synset including verb word senses."@en-us ;
+    wn30:suffixCode "v" ;
     rdfs:subClassOf wn30:Synset, [
         a owl:Restriction ;
         owl:allValuesFrom wn30:VerbWordSense ;
@@ -408,6 +415,12 @@ It specifies that the second synset is an entailment of first synset. This relat
     rdfs:range wn30:VerbSynset ;
     owl:inverseOf wn30:entailedBy .
 
+wn30:wordNumber
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "This is the number of the WordSense that is contained in the synset." ;
+    rdfs:domain wn30:WordSense ;
+    rdfs:range rdfs:Literal .
+
 wn30:frame
     a rdf:Property, owl:DatatypeProperty ;
     rdfs:comment "It specifies a generic sentence frame for one or all words in a synset. The operator is defined only for verbs."@en-us ;
@@ -436,20 +449,18 @@ wn30:example
     rdfs:comment "It specifies the example for a synset."@en-us ;
     rdfs:domain [
         a owl:Class ;
-        owl:unionOf (wn30:Synset wn30:WordSense)
-    ] ;
-    rdfs:range rdfs:Literal ;
-    rdfs:subPropertyOf rdfs:comment .
+        owl:unionOf (wn30:Synset wn30:WordSense)] ;
+    rdfs:range rdfs:Literal .
 
 #  Did I already mention that we must be careful to maintain
 #  UNIdirectionality with holonyms/meronyms?  E.g., a car necessarily
 #  has wheels, but a wheel isn't necessarily a part of a car. So this
-#  is a unidirectional relation.
-# There are other cases, of course, where the relationship is (under
-# reasonable assumptions) reversible, such as "face-nose."  And then
-# there are what I call (for lack of a better term) "optional body
-# parts" such as pates, tumors and fetuses. I never knew what to do
-# with those, and they can be further subcategorized (sigh).
+#  is a unidirectional relation.  There are other cases, of course,
+#  where the relationship is (under reasonable assumptions)
+#  reversible, such as "face-nose."  And then there are what I call
+#  (for lack of a better term) "optional body parts" such as pates,
+#  tumors and fetuses. I never knew what to do with those, and they
+#  can be further subcategorized (sigh).
 
 wn30:holonymOf
     a owl:ObjectProperty ;
@@ -658,6 +669,9 @@ nomlex:morphosemanticLink
     a rdf:Property, owl:ObjectProperty .
 
 nomlex:agent
+    rdfs:comment "employer/employ" ;
+    rdfs:domain wn30:NounWordSense ;
+    rdfs:range  wn30:VerbWordSense ;
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
 nomlex:bodyPart
@@ -691,13 +705,20 @@ nomlex:result
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
 nomlex:state
+    rdfs:comment "this relates a VERB and a NOUN such that the NOUN is the state of the VERB (ex: transcend/transcendence)."@en-us ;
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
 nomlex:undergoer
+    rdfs:comment "The noun denotes the Undergoer of the event: the wave (beaker) breaks, the chicken (broiler) broils, a loaner is an item that has is loaned, etc."
+    rdfs:domain wn30:VerbWordSense ;
+    rdfs:range wn30:NounWordSense ;
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
 nomlex:uses
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
 nomlex:vehicle
+    rdfs:comment "The event denoted by the verb takes place in the vehicle that the noun refers to."
+    rdfs:domain wn30:VerbWordSense ;
+    rdfs:range wn30:NounWordSense ;
     rdfs:subPropertyOf nomlex:morphosemanticLink .
