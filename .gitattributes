@@ -1,0 +1,2 @@
+own-en-morpho.nt filter=lfs diff=lfs merge=lfs -text
+own-pt-morpho.nt filter=lfs diff=lfs merge=lfs -text
