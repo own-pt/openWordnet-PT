@@ -709,7 +709,7 @@ nomlex:state
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
 nomlex:undergoer
-    rdfs:comment "The noun denotes the Undergoer of the event: the wave (beaker) breaks, the chicken (broiler) broils, a loaner is an item that has is loaned, etc."
+    rdfs:comment "The noun denotes the Undergoer of the event: the wave (beaker) breaks, the chicken (broiler) broils, a loaner is an item that has is loaned, etc." ;
     rdfs:domain wn30:VerbWordSense ;
     rdfs:range wn30:NounWordSense ;
     rdfs:subPropertyOf nomlex:morphosemanticLink .
@@ -718,7 +718,7 @@ nomlex:uses
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
 nomlex:vehicle
-    rdfs:comment "The event denoted by the verb takes place in the vehicle that the noun refers to."
+    rdfs:comment "The event denoted by the verb takes place in the vehicle that the noun refers to." ;
     rdfs:domain wn30:VerbWordSense ;
     rdfs:range wn30:NounWordSense ;
     rdfs:subPropertyOf nomlex:morphosemanticLink .

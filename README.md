@@ -31,7 +31,7 @@
 
 - [Alexandre Rademaker](http://arademaker.github.io)
 - [Valeria de Paiva](http://www.valeriadepaiva.org)
-- [Livy Real](http://livyreal.com)
+- Fredson Aguiar
 
 ## Contributors
 
@@ -41,6 +41,7 @@
 - [Francis Bond](http://www3.ntu.edu.sg/home/fcbond/)
 - [Gerard de Melo](http://gerard.demelo.org/)
 - [Hugo Gonçalo Oliveira](https://eden.dei.uc.pt/~hroliv/)
+- [Livy Real](http://livyreal.com)
 
 
 ## Related projects
