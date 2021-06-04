@@ -17,6 +17,14 @@ xsd:positiveInteger
 owl:Thing
     a owl:Class .
 
+wn30:BaseConcept
+    a rdfs:Class, owl:Class ;
+    rdfs:comment "The notion of Base Concepts was introduced in the EuroWordNet project to reach maximum overlap and compatibility across wordnets in different languages. Each wordnet being a language specific structure and lexicalization pattern. The Base Concepts are supposed to be the concepts that play the most important role in the various wordnets of different languages."@en-us .
+
+wn30:CoreConcept
+    a rdfs:Class, owl:Class ;
+    rdfs:comment "A semi-automatically compiled list of 5000 'core' word senses in WordNet (approximately the 5000 most frequently used word senses, followed by some manual filtering and adjustment, from PWN Standoff files)."@en-us .
+    
 wn30:AdjectiveSatelliteSynset
     a rdfs:Class, owl:Class ;
     rdfs:comment "A Synset in an adjective cluster representing a concept that is similar in meaning to the concept represented by its head synset ."@en-us ;
@@ -639,7 +647,7 @@ wn30:word
     rdfs:range wn30:Word ;
     owl:inverseOf wn30:sense .
 
-nomlex:Nomlex
+nomlex:Nominalization
     a rdfs:Class, owl:Class ;
     rdfs:subClassOf owl:Thing, [
         a owl:Restriction ;
@@ -651,7 +659,19 @@ nomlex:Nomlex
 	owl:onProperty nomlex:noun;
 	owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
 	owl:onClass wn30:Word 
-    ] .
+        ] .
+
+nomlex:Lexicalized
+    a rdfs:class, owl:Class ;
+    rdfs:subClassOf nomlex:Nominalization .
+
+nomlex:Deverbal
+    a rdfs:class, owl:Class ;
+    rdfs:subClassOf nomlex:Nominalization .
+
+nomlex:Agentive
+    a rdfs:class, owl:Class ;
+    rdfs:subClassOf nomlex:Nominalization .
 
 nomlex:verb
     a rdf:Property, owl:ObjectProperty ;
