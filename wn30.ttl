@@ -661,6 +661,14 @@ nomlex:Nominalization
 	owl:onClass wn30:Word 
         ] .
 
+nomex:ResultNominalization
+    a rdfs:class, owl:Class ;
+    rdfs:subClassOf nomlex:Nominalization .
+
+nomex:EventNominalization
+    a rdfs:class, owl:Class ;
+    rdfs:subClassOf nomlex:Nominalization .
+    
 nomlex:Lexicalized
     a rdfs:class, owl:Class ;
     rdfs:subClassOf nomlex:Nominalization .
@@ -670,6 +678,10 @@ nomlex:Deverbal
     rdfs:subClassOf nomlex:Nominalization .
 
 nomlex:Agentive
+    a rdfs:class, owl:Class ;
+    rdfs:subClassOf nomlex:Nominalization .
+
+nomlex:Animate
     a rdfs:class, owl:Class ;
     rdfs:subClassOf nomlex:Nominalization .
 
