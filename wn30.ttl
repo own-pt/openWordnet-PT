@@ -5,13 +5,7 @@
 @prefix nomlex: <https://w3id.org/own-pt/nomlex/schema/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-xsd:integer
-    a rdfs:Datatype .
-
 xsd:nonNegativeInteger
-    a rdfs:Datatype .
-
-xsd:positiveInteger
     a rdfs:Datatype .
 
 owl:Thing
@@ -633,7 +627,7 @@ wn30:synsetId
     a rdf:Property, owl:DatatypeProperty ;
     rdfs:comment "A datatype relation between synsets and their integer identifiers."@en-us ;
     rdfs:domain wn30:Synset ;
-    rdfs:range <http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+    rdfs:range rdfs:literal .
 
 wn30:tagCount
     a rdf:Property, owl:DatatypeProperty ;
