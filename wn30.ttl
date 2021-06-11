@@ -1,3 +1,4 @@
+
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -597,7 +598,7 @@ wn30:seeAlso
     ] .
 
 wn30:sense
-    a owl:ObjectProperty ;
+    a owl:ObjectProperty, owl:FunctionalObjectProperty ;
     rdfs:domain wn30:Word ;
     rdfs:range wn30:WordSense ;
     owl:inverseOf wn30:word .
@@ -636,7 +637,7 @@ wn30:tagCount
     rdfs:range <http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 
 wn30:word
-    a rdf:Property, owl:ObjectProperty ;
+    a rdf:Property, owl:ObjectProperty, owl:FunctionalObjectProperty ;
     rdfs:domain wn30:WordSense ;
     rdfs:range wn30:Word ;
     owl:inverseOf wn30:sense .
