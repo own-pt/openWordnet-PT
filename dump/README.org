@@ -1,0 +1,9 @@
+
+This directory contains the dumps from the Elastic Search backend of
+the openwordnet-pt.org website.
+
+These files are https://jsonlines.org/ used to produce the TTL
+(turtle) files of OWN-PT and OWN-EN.
+
+Code at https://github.com/own-pt/py-ownpt.
+
