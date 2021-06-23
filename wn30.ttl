@@ -725,9 +725,6 @@ nomlex:material
 nomlex:property
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
-nomlex:relation
-    rdfs:subPropertyOf nomlex:morphosemanticLink .
-
 nomlex:result
     rdfs:subPropertyOf nomlex:morphosemanticLink .
 
