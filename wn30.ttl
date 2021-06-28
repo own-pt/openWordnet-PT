@@ -424,6 +424,12 @@ wn30:wordNumber
     rdfs:domain wn30:WordSense ;
     rdfs:range rdfs:Literal .
 
+wn30:adjPosition
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "An adjective may be annotated with a syntactic marker indicating a limitation on the syntactic position the adjective may have in relation to noun that it modifies: (p) predicate position; (a) prenominal (attributive) position; (ip) immediately postnominal position." ;
+    rdfs:domain wn30:AdjectiveWordSense ;
+    rdfs:range rdfs:Literal .
+
 wn30:frame
     a rdf:Property, owl:DatatypeProperty ;
     rdfs:comment "It specifies a generic sentence frame for one or all words in a synset. The operator is defined only for verbs."@en-us ;
