@@ -630,9 +630,15 @@ wn30:substanceMeronymOf
     rdfs:subPropertyOf wn30:meronymOf ;
     owl:inverseOf wn30:substanceHolonymOf .
 
-wn30:synsetId
+wn30:synsetId 
     a rdf:Property, owl:DatatypeProperty ;
-    rdfs:comment "A datatype relation between synsets and their integer identifiers."@en-us ;
+    rdfs:comment "A datatype relation between synsets and its indentifier formed by the offset and pos."@en-us ;
+    rdfs:domain wn30:Synset ;
+    rdfs:range rdfs:literal .
+
+wn30:offset
+    a rdf:Property, owl:DatatypeProperty ;
+    rdfs:comment "The byte offset in the Princeton Database file represented as an 8 digit decimal integer."@en-us ;
     rdfs:domain wn30:Synset ;
     rdfs:range rdfs:literal .
 
