@@ -516,6 +516,12 @@ wn30:lexicalForm
     rdfs:domain wn30:Word ;
     rdfs:range rdfs:Literal .
 
+wn30:exceptionalForm
+    a rdf:Property, owl:DatatypeProperty;
+    rdfs:comment "A datatype relation between Word and its possible morphological exceptional form."@en-us ;
+    rdfs:domain wn30:Word ;
+    rdfs:range rdfs:Literal .
+
 wn30:memberHolonymOf
     a owl:ObjectProperty ;
     rdfs:comment "It specifies that the second synset is a member meronym of the first synset. This relation only holds for nouns."@en-us ;
