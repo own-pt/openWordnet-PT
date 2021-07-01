@@ -516,7 +516,7 @@ wn30:lemma
     rdfs:domain wn30:Word ;
     rdfs:range rdfs:Literal .
 
-wn30:exceptionalForm
+wn30:otherForm
     a rdf:Property, owl:DatatypeProperty;
     rdfs:comment "A datatype relation between Word and its possible morphological exceptional form."@en-us ;
     rdfs:domain wn30:Word ;
