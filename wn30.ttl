@@ -196,7 +196,7 @@ wn30:Word
         owl:someValuesFrom wn30:WordSense
     ], [
         a owl:Restriction ;
-	owl:onProperty wn30:lexicalForm ;
+	owl:onProperty wn30:lemma ;
         owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
         owl:onDataRange rdfs:Literal
     ] ;
@@ -510,7 +510,7 @@ wn30:inSynset
     rdfs:range wn30:Synset ;
     owl:inverseOf wn30:containsWordSense .
 
-wn30:lexicalForm
+wn30:lemma
     a rdf:Property, owl:DatatypeProperty;
     rdfs:comment "A datatype relation between Word and its lexical form."@en-us ;
     rdfs:domain wn30:Word ;
