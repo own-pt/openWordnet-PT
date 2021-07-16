@@ -1,10 +1,16 @@
 #+title: Statistics
 
+* Summary
+| Wordnet   | Lang   |   Words |   Senses |
+|-----------+--------+---------+----------|
+| OWN-PT    | pt     |   59209 |    83741 |
+| OWN-EN    | en     |  156584 |   206978 |
+
 * Base and Core Concepts
-| Synset Type   |   OWN-PT |   OWN-EN |
-|---------------+----------+----------|
-| CoreConcept   |     4959 |     4960 |
-| BaseComcept   |     4366 |     4683 |
+| Synset Type   | OWN-PT        | OWN-EN        |
+|---------------+---------------+---------------|
+| CoreConcept   | 4959 (99.98%) | 4960 (100.0%) |
+| BaseComcept   | 4366 (93.23%) | 4683 (100.0%) |
 
 * Instantiated Synsets
 | Synset Type              |   OWN-PT |   OWN-EN |
@@ -14,18 +20,16 @@
 | AdverbSynset             |     1966 |     3621 |
 | AdjectiveSynset          |     3342 |     7463 |
 | AdjectiveSatelliteSynset |     3584 |    10693 |
-| Synset                   |    52638 |   117659 |
+| Synset (total)           |    52638 |   117659 |
 
 * Multi Word Expressions
-| Synset Type              |   OWN-PT |   OWN-EN |
-|--------------------------+----------+----------|
-| NounSynset               |    14706 |    60344 |
-| VerbSynset               |      826 |     2829 |
-| AdverbSynset             |      598 |      714 |
-| AdjectiveSynset          |      199 |       65 |
-| AdjectiveSatelliteSynset |      373 |      434 |
-| Synset (distinct lemmas) |    16648 |    64243 |
-| Synset (distinct words)  |    16691 |    64383 |
+| Synset Type   |   OWN-PT |   OWN-EN |
+|---------------+----------+----------|
+| Noun          |    14706 |    60344 |
+| Verb          |      826 |     2829 |
+| Adverb        |      598 |      714 |
+| Adjective     |      561 |      496 |
+| Words (total) |    16691 |    64383 |
 
 * Polysemy (1 Word / + Words)
 | Synset Type              | OWN-PT        | OWN-EN        |
@@ -35,10 +39,4 @@
 | AdverbSynset             | 1219 / 747    | 2400 / 1221   |
 | AdjectiveSynset          | 2469 / 873    | 5690 / 1773   |
 | AdjectiveSatelliteSynset | 2274 / 1310   | 5663 / 5030   |
-| Synset                   | 32135 / 20503 | 63848 / 53811 |
-
-* Open Multilingual Wordnet
-| Wordnet   | Lang   |   Synsets |   Words |   Senses | Core          |
-|-----------+--------+-----------+---------+----------+---------------|
-| OWN-PT    | pt     |     52638 |   59209 |    83741 | 4959 (99.98%) |
-| OWN-EN    | en     |    117659 |  156584 |   206978 | 4960 (100.0%) |
+| Synset (total)           | 32135 / 20503 | 63848 / 53811 |
