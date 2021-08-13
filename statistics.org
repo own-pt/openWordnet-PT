@@ -3,40 +3,40 @@
 * Summary
 | Wordnet   | Lang   |   Words |   Senses |
 |-----------+--------+---------+----------|
-| OWN-PT    | pt     |   59209 |    83741 |
+| OWN-PT    | pt     |   59210 |    83753 |
 | OWN-EN    | en     |  156584 |   206978 |
 
 * Base and Core Concepts
 | Synset Type   | OWN-PT        | OWN-EN        |
 |---------------+---------------+---------------|
-| CoreConcept   | 4959 (99.98%) | 4960 (100.0%) |
-| BaseComcept   | 4366 (93.23%) | 4683 (100.0%) |
+| CoreConcept   | 4960 (100.0%) | 4960 (100.0%) |
+| BaseComcept   | 4368 (93.27%) | 4683 (100.0%) |
 
 * Instantiated Synsets
 | Synset Type              |   OWN-PT |   OWN-EN |
 |--------------------------+----------+----------|
-| NounSynset               |    35550 |    82115 |
-| VerbSynset               |     8196 |    13767 |
+| NounSynset               |    35559 |    82115 |
+| VerbSynset               |     8197 |    13767 |
 | AdverbSynset             |     1966 |     3621 |
-| AdjectiveSynset          |     3342 |     7463 |
-| AdjectiveSatelliteSynset |     3584 |    10693 |
-| Synset (total)           |    52638 |   117659 |
+| AdjectiveSynset          |     3343 |     7463 |
+| AdjectiveSatelliteSynset |     3587 |    10693 |
+| Synset (total)           |    52652 |   117659 |
 
 * Multi Word Expressions
 | Synset Type   |   OWN-PT |   OWN-EN |
 |---------------+----------+----------|
-| Noun          |    14706 |    60344 |
-| Verb          |      826 |     2829 |
+| Noun          |    14703 |    60344 |
+| Verb          |      827 |     2829 |
 | Adverb        |      598 |      714 |
-| Adjective     |      561 |      496 |
+| Adjective     |      563 |      496 |
 | Words (total) |    16691 |    64383 |
 
 * Polysemy (1 Word / + Words)
 | Synset Type              | OWN-PT        | OWN-EN        |
 |--------------------------+---------------+---------------|
-| NounSynset               | 21596 / 13954 | 42054 / 40061 |
-| VerbSynset               | 4577 / 3619   | 8041 / 5726   |
+| NounSynset               | 21611 / 13948 | 42054 / 40061 |
+| VerbSynset               | 4577 / 3620   | 8041 / 5726   |
 | AdverbSynset             | 1219 / 747    | 2400 / 1221   |
-| AdjectiveSynset          | 2469 / 873    | 5690 / 1773   |
-| AdjectiveSatelliteSynset | 2274 / 1310   | 5663 / 5030   |
-| Synset (total)           | 32135 / 20503 | 63848 / 53811 |
+| AdjectiveSynset          | 2470 / 873    | 5690 / 1773   |
+| AdjectiveSatelliteSynset | 2272 / 1315   | 5663 / 5030   |
+| Synset (total)           | 32149 / 20503 | 63848 / 53811 |
