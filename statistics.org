@@ -40,3 +40,48 @@
 | AdjectiveSynset          | 2470 / 873    | 5690 / 1773   |
 | AdjectiveSatelliteSynset | 2272 / 1315   | 5663 / 5030   |
 | Synset (total)           | 32149 / 20503 | 63848 / 53811 |
+
+* Relations (Senses / Synsets)
+| Relation                   | OWN-PT    | OWN-EN     |
+|----------------------------+-----------+------------|
+| wn30:antonymOf             | 517 / 0   | 7979 / 0   |
+| wn30:seeAlso               | 0 / 2692  | 580 / 2692 |
+| wn30:participleOf          | 0 / 0     | 73 / 0     |
+| wn30:adjectivePertainsTo   | 0 / 0     | 4801 / 0   |
+| wn30:adverbPertainsTo      | 0 / 0     | 3222 / 0   |
+| wn30:derivationallyRelated | 0 / 0     | 74708 / 0  |
+| wn30:classifiesByRegion    | 0 / 1345  | 15 / 1345  |
+| wn30:classifiedByRegion    | 0 / 1345  | 15 / 1345  |
+| wn30:classifiesByTopic     | 0 / 6643  | 11 / 6643  |
+| wn30:classifiedByTopic     | 0 / 6643  | 11 / 6643  |
+| wn30:classifiesByUsage     | 0 / 967   | 409 / 967  |
+| wn30:classifiedByUsage     | 0 / 967   | 409 / 967  |
+| wn30:hypernymOf            | 0 / 89089 | 0 / 89089  |
+| wn30:hyponymOf             | 0 / 89089 | 0 / 89089  |
+| wn30:hasInstance           | 0 / 8577  | 0 / 8577   |
+| wn30:instanceOf            | 0 / 8577  | 0 / 8577   |
+| wn30:entails               | 0 / 408   | 0 / 408    |
+| wn30:causes                | 0 / 220   | 0 / 220    |
+| wn30:similarTo             | 0 / 21386 | 0 / 21386  |
+| wn30:attribute             | 0 / 1278  | 0 / 1278   |
+| wn30:partHolonymOf         | 0 / 9097  | 0 / 9097   |
+| wn30:partMeronymOf         | 0 / 9097  | 0 / 9097   |
+| wn30:memberHolonymOf       | 0 / 12293 | 0 / 12293  |
+| wn30:memberMeronymOf       | 0 / 12293 | 0 / 12293  |
+| wn30:substanceHolonymOf    | 0 / 797   | 0 / 797    |
+| wn30:substanceMeronymOf    | 0 / 797   | 0 / 797    |
+| wn30:sameVerbGroupAs       | 0 / 1748  | 2 / 1748   |
+| nomlex:agent               | 259 / 0   | 2951 / 0   |
+| nomlex:bodyPart            | 2 / 0     | 43 / 0     |
+| nomlex:byMeansOf           | 181 / 0   | 1204 / 0   |
+| nomlex:destination         | 0 / 0     | 17 / 0     |
+| nomlex:event               | 1667 / 0  | 7782 / 0   |
+| nomlex:instrument          | 35 / 0    | 794 / 0    |
+| nomlex:location            | 22 / 0    | 266 / 0    |
+| nomlex:material            | 5 / 0     | 113 / 0    |
+| nomlex:property            | 47 / 0    | 314 / 0    |
+| nomlex:result              | 153 / 0   | 1356 / 0   |
+| nomlex:state               | 99 / 0    | 506 / 0    |
+| nomlex:undergoer           | 108 / 0   | 843 / 0    |
+| nomlex:uses                | 77 / 0    | 720 / 0    |
+| nomlex:vehicle             | 2 / 0     | 86 / 0     |
