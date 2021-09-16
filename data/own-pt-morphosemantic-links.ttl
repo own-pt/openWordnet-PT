@@ -4273,7 +4273,7 @@
 <https://w3id.org/own-pt/nomlex/instances/nomlex-coagir/coar-coação> a nomlex:Nominalization ;
     dc:provenance "AC/DC"@pt ;
     nomlex:noun <https://w3id.org/own-pt/wn30-pt/instances/word-coação-n> ;
-    nomlex:verb <https://w3id.org/own-pt/wn30-pt/instances/word-coagir/coar-v> .
+    nomlex:verb <https://w3id.org/own-pt/wn30-pt/instances/word-coagir-sol-coar-v> .
 
 <https://w3id.org/own-pt/nomlex/instances/nomlex-coagular-coagulação> a nomlex:Nominalization ;
     dc:provenance "AC/DC"@pt ;
@@ -12067,7 +12067,7 @@
     dc:provenance "framenet"@pt ;
     nomlex:noun <https://w3id.org/own-pt/wn30-pt/instances/word-forma-n> ;
     nomlex:plural "formas"@pt ;
-    nomlex:verb <https://w3id.org/own-pt/wn30-pt/instances/word-formar,-v> .
+    nomlex:verb <https://w3id.org/own-pt/wn30-pt/instances/word-formar-comma--v> .
 
 <https://w3id.org/own-pt/nomlex/instances/nomlex-formar-formador> a nomlex:Nominalization ;
     dc:provenance "AC/DC"@pt ;
