@@ -31,7 +31,7 @@
 
 - [Alexandre Rademaker](http://arademaker.github.io)
 - [Valeria de Paiva](http://www.valeriadepaiva.org)
-- Fredson Aguiar
+- [Fredson Aguiar](https://github.com/fredsonerd)
 
 ## Contributors
 
