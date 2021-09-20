@@ -1,4 +1,0 @@
-<https://w3id.org/own-pt/wn30/schema/AdverbSynset> <https://w3id.org/own-pt/wn30/schema/suffixCode> "r" .
-<https://w3id.org/own-pt/wn30/schema/NounSynset> <https://w3id.org/own-pt/wn30/schema/suffixCode> "n" .
-<https://w3id.org/own-pt/wn30/schema/AdjectiveSynset> <https://w3id.org/own-pt/wn30/schema/suffixCode> "a" .
-<https://w3id.org/own-pt/wn30/schema/VerbSynset> <https://w3id.org/own-pt/wn30/schema/suffixCode> "v" .

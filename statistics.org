@@ -1,0 +1,87 @@
+#+title: Statistics
+
+* Summary
+| Wordnet   | Lang   |   Words |   Senses |
+|-----------+--------+---------+----------|
+| OWN-PT    | pt     |   59211 |    83762 |
+| OWN-EN    | en     |  156584 |   206978 |
+
+* Base and Core Concepts
+| Synset Type   | OWN-PT        | OWN-EN        |
+|---------------+---------------+---------------|
+| CoreConcept   | 4960 (100.0%) | 4960 (100.0%) |
+| BaseComcept   | 4369 (93.29%) | 4683 (100.0%) |
+
+* Instantiated Synsets
+| Synset Type              |   OWN-PT |   OWN-EN |
+|--------------------------+----------+----------|
+| NounSynset               |    35572 |    82115 |
+| VerbSynset               |     8197 |    13767 |
+| AdverbSynset             |     1966 |     3621 |
+| AdjectiveSynset          |     3344 |     7463 |
+| AdjectiveSatelliteSynset |     3591 |    10693 |
+| Synset (total)           |    52670 |   117659 |
+
+* Multi Word Expressions
+| Synset Type   |   OWN-PT |   OWN-EN |
+|---------------+----------+----------|
+| Noun          |    14704 |    60344 |
+| Verb          |      826 |     2829 |
+| Adverb        |      598 |      714 |
+| Adjective     |      563 |      496 |
+| Words (total) |    16691 |    64383 |
+
+* Polysemy (1 Word / + Words)
+| Synset Type              | OWN-PT        | OWN-EN        |
+|--------------------------+---------------+---------------|
+| NounSynset               | 21625 / 13947 | 42054 / 40061 |
+| VerbSynset               | 4576 / 3621   | 8041 / 5726   |
+| AdverbSynset             | 1219 / 747    | 2400 / 1221   |
+| AdjectiveSynset          | 2471 / 873    | 5690 / 1773   |
+| AdjectiveSatelliteSynset | 2276 / 1315   | 5663 / 5030   |
+| Synset (total)           | 32167 / 20503 | 63848 / 53811 |
+
+* Relations (Senses / Synsets)
+| Relation                   | OWN-PT    | OWN-EN     |
+|----------------------------+-----------+------------|
+| owns:antonymOf             | 517 / 0   | 7979 / 0   |
+| owns:seeAlso               | 0 / 2692  | 580 / 2692 |
+| owns:participleOf          | 0 / 0     | 73 / 0     |
+| owns:adjectivePertainsTo   | 0 / 0     | 4801 / 0   |
+| owns:adverbPertainsTo      | 0 / 0     | 3222 / 0   |
+| owns:derivationallyRelated | 0 / 0     | 74708 / 0  |
+| owns:classifiesByRegion    | 0 / 1345  | 15 / 1345  |
+| owns:classifiedByRegion    | 0 / 1345  | 15 / 1345  |
+| owns:classifiesByTopic     | 0 / 6643  | 11 / 6643  |
+| owns:classifiedByTopic     | 0 / 6643  | 11 / 6643  |
+| owns:classifiesByUsage     | 0 / 967   | 409 / 967  |
+| owns:classifiedByUsage     | 0 / 967   | 409 / 967  |
+| owns:hypernymOf            | 0 / 89089 | 0 / 89089  |
+| owns:hyponymOf             | 0 / 89089 | 0 / 89089  |
+| owns:hasInstance           | 0 / 8577  | 0 / 8577   |
+| owns:instanceOf            | 0 / 8577  | 0 / 8577   |
+| owns:entails               | 0 / 408   | 0 / 408    |
+| owns:causes                | 0 / 220   | 0 / 220    |
+| owns:similarTo             | 0 / 21386 | 0 / 21386  |
+| owns:attribute             | 0 / 1278  | 0 / 1278   |
+| owns:partHolonymOf         | 0 / 9097  | 0 / 9097   |
+| owns:partMeronymOf         | 0 / 9097  | 0 / 9097   |
+| owns:memberHolonymOf       | 0 / 12293 | 0 / 12293  |
+| owns:memberMeronymOf       | 0 / 12293 | 0 / 12293  |
+| owns:substanceHolonymOf    | 0 / 797   | 0 / 797    |
+| owns:substanceMeronymOf    | 0 / 797   | 0 / 797    |
+| owns:sameVerbGroupAs       | 0 / 1748  | 2 / 1748   |
+| owns:agent                 | 259 / 0   | 2951 / 0   |
+| owns:bodyPart              | 2 / 0     | 43 / 0     |
+| owns:byMeansOf             | 181 / 0   | 1204 / 0   |
+| owns:destination           | 0 / 0     | 17 / 0     |
+| owns:event                 | 1667 / 0  | 7782 / 0   |
+| owns:instrument            | 35 / 0    | 794 / 0    |
+| owns:location              | 22 / 0    | 266 / 0    |
+| owns:material              | 5 / 0     | 113 / 0    |
+| owns:property              | 47 / 0    | 314 / 0    |
+| owns:result                | 153 / 0   | 1356 / 0   |
+| owns:state                 | 99 / 0    | 506 / 0    |
+| owns:undergoer             | 108 / 0   | 843 / 0    |
+| owns:uses                  | 77 / 0    | 720 / 0    |
+| owns:vehicle               | 2 / 0     | 86 / 0     |
