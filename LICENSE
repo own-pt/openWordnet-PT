@@ -1,14 +1,13 @@
 
 
-The OpenWN-PT is distributed in the data/own-pt-*.ttl files
-and licensed under:
+The OWN-PT (Open Wordnet for Portuguese) is licensed under:
 
 This work is licensed under the Creative Commons Attribution 4.0
 International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by/4.0/.
 
-The OpenWN-PT is constructed to be used with the Princeton WordNet 3.0
-distributed here in the RDF format in the files data/own-en-*.ttl. The
-Princeton WordNet 3.0 is distributed under the license
+The OpenWN-PT is constructed based on the Princeton WordNet 3.0
+distributed here in the RDF format named as OWN-EN (Open Wordnet for
+English). The Princeton WordNet 3.0 is distributed under the license
 http://wordnet.princeton.edu/wordnet/license/.
 
