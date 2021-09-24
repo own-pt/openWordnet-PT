@@ -22,7 +22,7 @@
 - [Valeria de Paiva](http://www.valeriadepaiva.org)
 - [Fredson Aguiar](https://github.com/fredsonerd)
 
-## Contributors
+### Contributors
 
 - [Alberto Simoes](http://ambs.perl-hackers.net/en/me.html)
 - [Claudia Freitas](http://www.letras.puc-rio.br/br/docente/3/claudia-freitas)
@@ -59,6 +59,22 @@ Please use the GitHub
 [issues]([https://github.com/own-pt/openWordnet-PT/issues) or use the
 [web interface](http://wnpt.brlcloud.com/wn/) to make suggestions
 about the data.
+
+
+## Releases
+
+Starting from 1.0.0, we are planning to make periodical releases. The
+criteria for new releases will be:
+
+- MAJOR :: systematic changes in a large set of synsets. changes in the format of the files. changes in the 
+  schema of the XML/RDF used to distributed the data.
+
+- MINOR :: occasional changes to a limited number of synsets given a periodical revision, addition
+  or removal of a few synsets. mainly related to changes in words of
+  synsets.
+
+- PATCH :: correction of typos or coding errors etc.
+
 
 ## History of the Project
 
