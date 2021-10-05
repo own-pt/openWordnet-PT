@@ -1,18 +1,21 @@
 #+title: Statistics
 
 * Summary
+  
 | Wordnet   | Lang   |   Words |   Senses |
 |-----------+--------+---------+----------|
 | OWN-PT    | pt     |   59211 |    83762 |
 | OWN-EN    | en     |  156584 |   206978 |
 
 * Base and Core Concepts
+
 | Synset Type   | OWN-PT        | OWN-EN        |
 |---------------+---------------+---------------|
 | CoreConcept   | 4960 (100.0%) | 4960 (100.0%) |
 | BaseComcept   | 4369 (93.29%) | 4683 (100.0%) |
 
 * Instantiated Synsets
+
 | Synset Type              |   OWN-PT |   OWN-EN |
 |--------------------------+----------+----------|
 | NounSynset               |    35572 |    82115 |
@@ -23,6 +26,7 @@
 | Synset (total)           |    52670 |   117659 |
 
 * Multi Word Expressions
+
 | Synset Type   |   OWN-PT |   OWN-EN |
 |---------------+----------+----------|
 | Noun          |    14704 |    60344 |
@@ -32,6 +36,7 @@
 | Words (total) |    16691 |    64383 |
 
 * Polysemy (1 Word / + Words)
+
 | Synset Type              | OWN-PT        | OWN-EN        |
 |--------------------------+---------------+---------------|
 | NounSynset               | 21625 / 13947 | 42054 / 40061 |
@@ -42,6 +47,7 @@
 | Synset (total)           | 32167 / 20503 | 63848 / 53811 |
 
 * Relations (Senses / Synsets)
+
 | Relation                   | OWN-PT    | OWN-EN     |
 |----------------------------+-----------+------------|
 | owns:antonymOf             | 517 / 0   | 7979 / 0   |

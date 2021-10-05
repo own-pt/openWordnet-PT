@@ -15,5 +15,17 @@ wget https://globalwordnet.github.io/schemas/WN-LMF-1.1.dtd
 xmllint --noout --dtdvalid WN-LMF-1.1.dtd own-pt-lmf-10.xml
 xmllint --noout --dtdvalid WN-LMF-1.1.dtd own-en-lmf-10.xml
 
-# remove files
-rm own-pt.nt log-update log-format ili-map.ttl* WN-LMF-1.1.dtd*
+cp own-pt-lmf-10.xml release/own-pt/own-pt-lmf.xml
+cp own-pt-lmf-10.xml release/own/own-pt/own-pt-lmf.xml
+cp own-en-lmf-10.xml release/own-en/own-en-lmf.xml
+cp own-en-lmf-10.xml release/own/own-en/own-en-lmf.xml
+
+cd release
+tar cvfz own.tar.gz --exclude='.DS_Store' own/
+tar cvfz own-en.tar.gz --exclude='.DS_Store' own-en/
+tar cvfz own-pt.tar.gz --exclude='.DS_Store' own-pt/
+
+echo "Edit the release/index.toml file!"
+
+rm own-pt.nt log-update log-format ili-map.ttl* WN-LMF-1.1.dtd* own-pt-lmf-10.xml own-en-lmf-10.xml
+
