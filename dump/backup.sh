@@ -19,4 +19,6 @@ done
 
 compact suggestion
 compact audit
+compact wn
+mv votes-new.json votes.jsonl
 
