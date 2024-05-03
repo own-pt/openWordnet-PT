@@ -7,3 +7,5 @@ These files are https://jsonlines.org/ used to produce the TTL
 
 Code at https://github.com/own-pt/py-ownpt.
 
+
+NODE_TLS_REJECT_UNAUTHORIZED=0 elasticdump --input=https://ibm_cloud_69491102_55ad_4a21_837b_6fc113a1b690:674c8686be447ca4561111f534e6b9e775b08348da9f4ffb4c5b141d384c95f8@5325493c-3489-4c1d-a81e-5db7cbaef410.8117147f814b4b2ea643610826cd2046.databases.appdomain.cloud:31366/votes --output=vote-new.json --type=data
