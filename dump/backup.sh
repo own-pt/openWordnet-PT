@@ -7,6 +7,7 @@ compact () {
     for f in $1-a?; do
 	mv $f $f.jsonl
     done
+    rm $1-new.json
 }
 
 ES_URL=5325493c-3489-4c1d-a81e-5db7cbaef410.8117147f814b4b2ea643610826cd2046.databases.appdomain.cloud:31366
