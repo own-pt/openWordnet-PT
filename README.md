@@ -38,8 +38,8 @@
 - http://github.com/own-pt/cl-wnbrowser/ a browser and search interface
   for our wordnet powered by Common Lisp and Apache Solr.
 
-- http://compling.hss.ntu.edu.sg/omw/ a browser and search interface
-  for all open wordnets. Our OpenWordnet-PT is the Portuguese Wordnet
+- [Open Multilingual Wordnet](https://omwn.org/) a compilation of
+   all open wordnets. Our OpenWordnet-PT is the Portuguese Wordnet
   available on this site.
 
 - http://nlp.lsi.upc.edu/freeling/ See the freeling directory for
